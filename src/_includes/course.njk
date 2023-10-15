@@ -1,0 +1,22 @@
+---
+layout: base
+---
+{{content | safe}}
+
+{% if showModulesList %}
+<h2>Moduler</h2>
+<ol>
+{%- for module in collections.module %}
+<li><a href="{{module.url | url}}">{{module.data.metaTitle}}</a></li>
+{%- endfor %}
+</ol>
+{% endif %}
+
+{% if moduleNo > 0 %}
+<h2>Lektioner</h2>
+<ol>
+{%- for lesson in collections.lesson %}
+<li><a href="{{lesson.url | url}}">{{lesson.data.metaTitle}}</a></li>
+{%- endfor %}
+</ol>
+{% endif %}

@@ -1,0 +1,75 @@
+---
+layout: base
+metaTitle: Lektion
+---
+<a href="#">Tilbage</a>
+
+<h1>{{onPageTitle}}</h1>
+
+<ul>
+    <li><a href="#student">Til kursisten</a>
+    <li><a href="#teacher">Til læreren</a>
+</ul>
+
+<div id="student">
+    {{content | safe}}
+
+    <div>
+        <h3>Brug det du har lært</h3>
+        <ul>
+        {% for homework in collections.homework %}
+            {% if homework.data.partOfLesson == lessonNo %}
+            <li>
+                <input type="checkbox" id="homework-{{lessonNo}}-{{loop.index}}">
+                {{homework.data.onPageTitle}}
+                {%if homework.data.linkText %}
+                    <a href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                {%endif%}
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+
+    <div>
+        <h3>Guldkorn</h3>
+        <ul>
+        {% for gem in collections.gems %}
+            {% if gem.data.partOfLesson == lessonNo %}
+                <li>
+                    {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}}</a>{%else%}
+                    <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+
+    <details>
+        <summary>Til selvstudie</summary>
+        {% for studynote in collections.studynotes %}
+            {% if studynote.data.partOfLesson == lessonNo %}
+                {{studynote.content | safe}}
+            {% endif %}
+        {% endfor %}
+    </details>
+
+    <fieldset>
+        <label for="completedDate">Lektion gennemført</label>
+        <input type="date" id="completedDate">
+        <input type="hidden" id="lesson" value="{{lessonNo}}">
+    </fieldset>
+</div>
+
+<div id="teacher">
+    {% for teachernote in collections.teachernotes %}
+        {% if teachernote.data.partOfLesson == lessonNo %}
+            {{teachernote.content | safe}}
+        {% endif %}
+    {% endfor %}
+</div>
+
+<div>
+    <a href="#">Forrige</a>
+    <a href="#">Næste</a>
+</div>
