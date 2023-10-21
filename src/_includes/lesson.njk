@@ -1,48 +1,57 @@
 ---
 layout: base
 metaTitle: Lektion
+hideMainMenu: true
 ---
 <a href="#">Tilbage</a>
 
 <h1>{{onPageTitle}}</h1>
 
-<ul>
-    <li><a href="#student">Til kursisten</a>
-    <li><a href="#teacher">Til læreren</a>
+<ul class="nav nav-underline">
+    <li class="nav-item"><a href="#student" class="nav-link active">Til kursisten</a>
+    <li class="nav-item"><a href="#teacher" class="nav-link">Til læreren</a>
 </ul>
 
 <div id="student">
+    <div class="">
     {{content | safe}}
-
-    <div>
-        <h3>Brug det du har lært</h3>
-        <ul>
-        {% for homework in collections.homework %}
-            {% if homework.data.partOfLesson == lessonNo %}
-            <li>
-                <input type="checkbox" id="homework-{{lessonNo}}-{{loop.index}}">
-                {{homework.data.onPageTitle}}
-                {%if homework.data.linkText %}
-                    <a href="{{homework.url | url}}">{{homework.data.linkText}}</a>
-                {%endif%}
-            </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
     </div>
 
-    <div>
-        <h3>Guldkorn</h3>
-        <ul>
-        {% for gem in collections.gems %}
-            {% if gem.data.partOfLesson == lessonNo %}
+    <div class="callout">
+        <h3 class="callout-title">Brug det du har lært</h3>
+        <div class="callout-body">
+            <ul class="list-checkbox">
+            {% for homework in collections.homework %}
+                {% if homework.data.partOfLesson == lessonNo %}
                 <li>
-                    {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}}</a>{%else%}
-                    <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                    <input type="checkbox" id="homework-{{lessonNo}}-{{loop.index}}">
+                    <div class="list-item-body">
+                        {{homework.data.onPageTitle}}
+                        {%if homework.data.linkText %}
+                            <a href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                        {%endif%}
+                    </div>
                 </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <div class="callout callout-warning">
+        <h3 class="callout-title">Guldkorn</h3>
+        <div class="callout-body">
+            <ul>
+            {% for gem in collections.gems %}
+                {% if gem.data.partOfLesson == lessonNo %}
+                    <li>
+                        {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}}</a>{%else%}
+                        <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                    </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
     </div>
 
     <details>
@@ -61,7 +70,7 @@ metaTitle: Lektion
     </fieldset>
 </div>
 
-<div id="teacher">
+<div id="teacher" hidden>
     {% for teachernote in collections.teachernotes %}
         {% if teachernote.data.partOfLesson == lessonNo %}
             {{teachernote.content | safe}}

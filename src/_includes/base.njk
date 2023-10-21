@@ -8,6 +8,11 @@
     <link href="{{'/assets/css/style.css' | url}}" rel="stylesheet">
 </head>
 <body>
+    {% if hideMainMenu != "true" %}
+    <nav class="navbar">
+        <a class="navbar-link" href="#">[menuitem]</a>
+    </nav>
+    {% endif %}
     <main>
     {{content | safe}}
     </main>
