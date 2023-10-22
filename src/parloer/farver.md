@@ -2,5 +2,6 @@
 layout: phraselist
 metaTitle: Farver
 getCollection: colors
-tags: ["phase", "basic"]
+dataSet: phrasesColors
+tags: ["basic"]
 ---

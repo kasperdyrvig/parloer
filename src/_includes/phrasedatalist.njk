@@ -1,39 +1,37 @@
 ---
 layout: base
-eleventyImport:
-    collections: ["phrase"]
 ---
 <h1>{{metaTitle}}</h1>
 
 <div class="phrase-list">
-{% for phrase in collections[getCollection] %}
+{% for phrase in phrasesColors.data %}
     <div class="phrase-item" id="{{getCollection}}-{{loop.index}}">
-        {% if phrase.data.image %}
-            {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.data.image}}{%endset%}
+        {% if phrase.image %}
+            {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.image}}{%endset%}
             <div class="phrase-image"><img src="{{imageUrl | url}}" loading="lazy"></div>
         {% endif %}
         <div class="phrase-body">
-            {% if phrase.data.danish %}
-                <p class="phrase-danish">{{phrase.data.danish}}</p>
+            {% if phrase.danish %}
+                <p class="phrase-danish">{{phrase.danish}}</p>
             {% endif %}
             {% if phrase.content %}
                 <small class="phrase-note">{{phrase.content | safe}}</small>
             {% endif %}
-            {% if phrase.data.greenlandic %}
-                <p class="phrase-greenlandic" lang="kl">{{phrase.data.greenlandic}}</p>
+            {% if phrase.greenlandic %}
+                <p class="phrase-greenlandic" lang="kl">{{phrase.greenlandic}}</p>
             {% endif %}
         </div>
         <div class="phrase-tools">
-            {% if phrase.data.audio %}
+            {% if phrase.audio %}
                 <button type="button" data-playing="false" class="play-button" title="Sig højt">Sig højt</button>
             {% endif %}
-            {% if phrase.data.greenlandic %}
+            {% if phrase.greenlandic %}
                 <button type="button" class="copy-button" title="Kopier tekst">Kopier</button>
             {% endif %}
             <button type="button" disabled class="favorite-button" title="Føj til eller fjern fra samling">Favorit</button>
         </div>
-        {% if phrase.data.audio %}
-            {% set audioUrl %}/assets/audio/{{getCollection}}/{{phrase.data.audio}}{%endset%}
+        {% if phrase.audio %}
+            {% set audioUrl %}/assets/audio/{{getCollection}}/{{phrase.audio}}{%endset%}
             <audio src="{{audioUrl | url}}" preload="metadata"></audio>
         {% endif %}
     </div>

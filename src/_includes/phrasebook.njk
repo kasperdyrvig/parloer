@@ -1,4 +1,41 @@
 ---
 layout: base
+eleventyImport:
+    collections: ["phrase"]
 ---
 {{content | safe}}
+
+<h2>Basale ord</h2>
+<ul>
+{% for group in collections.basic %}
+<li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
+{%endfor%}
+</ul>
+
+<h2>Forkyndelse</h2>
+<ul>
+{% for group in collections.preaching %}
+<li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
+{%endfor%}
+</ul>
+
+<h2>Undervisning</h2>
+<ul>
+{% for group in collections.teaching %}
+<li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
+{%endfor%}
+</ul>
+
+<h2>Bibelens lære</h2>
+<ul>
+{% for group in collections.bible %}
+<li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
+{%endfor%}
+</ul>
+
+<h2>Hjælp til udtale</h2>
+<ul>
+{% for group in collections.pronunciation %}
+<li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
+{%endfor%}
+</ul>

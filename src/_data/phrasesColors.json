@@ -1,0 +1,73 @@
+{
+    "data": [
+        {
+            "danish": "farver",
+            "greenlandic": "qalipaatit",
+            "audio": "colors_01.mp3",
+            "image": "colors.jpg"
+        },
+        {
+            "danish": "rød",
+            "greenlandic": "aappalaartoq",
+            "note": "Nordgrønlandsk: aappaluttoq",
+            "audio": "colors_02.mp3",
+            "image": "color-red.jpg"
+        },
+        {
+            "danish": "gul",
+            "greenlandic": "sungaartoq",
+            "note": "Nordgrønlandsk: kajortoq",
+            "audio": "colors_03.mp3",
+            "image": "color-yellow.jpg"
+        },
+        {
+            "danish": "grøn",
+            "greenlandic": "qorsuk",
+            "audio": "colors_04.mp3",
+            "image": "color-green.jpg"
+        },
+        {
+            "danish": "blå",
+            "greenlandic": "tungujortoq",
+            "audio": "colors_05.mp3",
+            "image": "color-blue.jpg"
+        },
+        {
+            "danish": "lilla",
+            "greenlandic": "tunguusaq",
+            "audio": "colors_06.mp3",
+            "image": "color-purple.jpg"
+        },
+        {
+            "danish": "pink",
+            "greenlandic": "aappilarujuttoq",
+            "audio": "colors_07.mp3",
+            "image": "color-pink.jpg"
+        },
+        {
+            "danish": "brun",
+            "greenlandic": "kajortoq",
+            "note": "Nordgrønlandsk: sukkulaajusaq",
+            "audio": "colors_08.mp3",
+            "image": "color-brown.jpg"
+        },
+        {
+            "danish": "sort",
+            "greenlandic": "qernertoq",
+            "audio": "colors_09.mp3",
+            "image": "color-black.jpg"
+        },
+        {
+            "danish": "grå",
+            "greenlandic": "qasertoq",
+            "audio": "colors_10.mp3",
+            "image": "color-gray.jpg"
+        },
+        {
+            "danish": "hvid",
+            "greenlandic": "qaqortoq",
+            "audio": "colors_11.mp3",
+            "image": "color-white.jpg"
+        }
+    ]
+}
