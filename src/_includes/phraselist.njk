@@ -1,0 +1,11 @@
+---
+layout: base
+eleventyImport:
+  collections: ["phrase"]
+---
+<h1>{{metaTitle}}</h1>
+
+{% for phrase in collections[getCollection] %}
+<p>{{phrase.data.danish}}</p>
+<p lang="kl">{{phrase.data.greenlandic}}</p>
+{% endfor %}

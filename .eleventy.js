@@ -12,11 +12,8 @@ module.exports = function (eleventyConfig) {
   }
   
   // Shortcodes
-  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
-
-  eleventyConfig.addShortcode("headers", function (title, subtitle) {
-    const id = uuidv4();
-    return `<h1 id="${id}">${title}</h1><p>${subtitle}</p>`;
+  eleventyConfig.addPairedShortcode("exerciseItem", function (exerciseContent) {
+    return `<div class="exercise-item">${exerciseContent}</div>`;
   });
 
   // Return your Object options (must be last in file)

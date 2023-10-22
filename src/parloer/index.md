@@ -1,4 +1,5 @@
 ---
-metaTitle: Grønlandsk parlør
+layout: phrasebook
+metaTitle: Parlør
 ---
 # Parlør
