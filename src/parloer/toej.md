@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Farver
-getCollection: colors
+metaTitle: Tøj
+getCollection: clothes
 tags: ["basic"]
 ---

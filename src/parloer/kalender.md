@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Farver
-getCollection: colors
+metaTitle: Kalender
+getCollection: calendar
 tags: ["basic"]
 ---

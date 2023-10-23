@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Farver
-getCollection: colors
+metaTitle: Mad og drikke
+getCollection: food
 tags: ["basic"]
 ---

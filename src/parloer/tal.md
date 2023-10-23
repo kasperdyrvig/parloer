@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Farver
-getCollection: colors
+metaTitle: Tal
+getCollection: numbers
 tags: ["basic"]
 ---

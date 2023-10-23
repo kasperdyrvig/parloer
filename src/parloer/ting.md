@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Farver
-getCollection: colors
+metaTitle: Ting
+getCollection: stuff
 tags: ["basic"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: phrasedatalist
-metaTitle: Navne
-getCollection: names
+metaTitle: Regler for udtale
+getCollection: rules
 tags: ["phase", "pronunciation"]
 ---

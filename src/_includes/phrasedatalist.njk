@@ -4,7 +4,7 @@ layout: base
 <h1>{{metaTitle}}</h1>
 
 <div class="phrase-list">
-{% for phrase in phrasesColors.data %}
+{% for phrase in phrases[getCollection] %}
     <div class="phrase-item" id="{{getCollection}}-{{loop.index}}">
         {% if phrase.image %}
             {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.image}}{%endset%}

@@ -1,0 +1,2620 @@
+{
+    "numbers": [
+        {
+            "greenlandic": "ataaseq",
+            "audio": "numbers_01.mp3",
+            "image": "number01.jpg"
+        },
+        {
+            "greenlandic": "marluk",
+            "audio": "numbers_02.mp3",
+            "image": "number02.jpg"
+        },
+        {
+            "greenlandic": "pingasut",
+            "audio": "numbers_03.mp3",
+            "image": "number03.jpg"
+        },
+        {
+            "greenlandic": "sisamat",
+            "audio": "numbers_04.mp3",
+            "image": "number04.jpg"
+        },
+        {
+            "greenlandic": "tallimat",
+            "audio": "numbers_05.mp3",
+            "image": "number05.jpg"
+        },
+        {
+            "greenlandic": "arfinillit",
+            "audio": "numbers_06.mp3",
+            "image": "number06.jpg"
+        },
+        {
+            "greenlandic": "arfineq-marluk",
+            "audio": "numbers_07.mp3",
+            "image": "number07.jpg"
+        },
+        {
+            "greenlandic": "arfineq-pingasut",
+            "audio": "numbers_08.mp3",
+            "image": "number08.jpg"
+        },
+        {
+            "greenlandic": "qulingiluat",
+            "audio": "numbers_09.mp3",
+            "image": "number09.jpg"
+        },
+        {
+            "greenlandic": "qulit",
+            "audio": "numbers_10.mp3",
+            "image": "number10.jpg"
+        },
+        {
+            "greenlandic": "aqqanillit",
+            "audio": "numbers_11.mp3",
+            "image": "number11.jpg"
+        },
+        {
+            "greenlandic": "aqqaneq-marluk",
+            "audio": "numbers_12.mp3",
+            "image": "number12.jpg"
+        }
+    ],
+    "family": [
+        {
+            "danish": "familie",
+            "greenlandic": "ilaqutariit",
+            "audio": "family_01.mp3",
+            "image": "familie_01.png"
+        },
+        {
+            "danish": "baby",
+            "greenlandic": "nuunu",
+            "audio": "family_02.mp3",
+            "image": "familie_02.png"
+        },
+        {
+            "danish": "mand",
+            "greenlandic": "angut",
+            "audio": "family_03.mp3",
+            "image": "familie_03.png"
+        },
+        {
+            "danish": "kvinde",
+            "greenlandic": "arnaq",
+            "audio": "family_04.mp3",
+            "image": "familie_04.png"
+        },
+        {
+            "danish": "dreng",
+            "greenlandic": "nukappiaraq",
+            "audio": "family_05.mp3",
+            "image": "familie_05.png"
+        },
+        {
+            "danish": "pige",
+            "greenlandic": "niviarsiaraq",
+            "audio": "family_06.mp3",
+            "image": "familie_06.png"
+        },
+        {
+            "danish": "far",
+            "greenlandic": "ataata",
+            "audio": "family_07.mp3",
+            "image": "familie_07.png"
+        },
+        {
+            "danish": "mor",
+            "greenlandic": "anaana",
+            "audio": "family_08.mp3",
+            "image": "familie_08.png"
+        },
+        {
+            "danish": "søn",
+            "greenlandic": "erneq",
+            "audio": "family_09.mp3",
+            "image": "familie_09.png"
+        },
+        {
+            "danish": "datter",
+            "greenlandic": "panik",
+            "audio": "family_10.mp3",
+            "image": "familie_10.png"
+        },
+        {
+            "danish": "bror/søster",
+            "greenlandic": "qatanngut",
+            "note": "begge køn",
+            "audio": "family_11.mp3",
+            "image": "familie_11.png"
+        },
+        {
+            "danish": "storesøster / storebror",
+            "greenlandic": "angaju",
+            "note": "til en yngre søskende af samme køn",
+            "audio": "family_12.mp3",
+            "image": "familie_12.png"
+        },
+        {
+            "danish": "lillesøster / lillebror",
+            "greenlandic": "nuka",
+            "note": "til en ældre søskende af samme køn",
+            "audio": "family_13.mp3",
+            "image": "familie_13.png"
+        },
+        {
+            "danish": "storesøster",
+            "greenlandic": "aleqa",
+            "note": "til en lillebror",
+            "audio": "family_14.mp3",
+            "image": "familie_14.png"
+        },
+        {
+            "danish": "lillesøster",
+            "greenlandic": "naja",
+            "note": "til en storebror",
+            "audio": "family_15.mp3",
+            "image": "familie_15.png"
+        },
+        {
+            "danish": "storebror",
+            "greenlandic": "ani",
+            "note": "til en lillesøster",
+            "audio": "family_16.mp3",
+            "image": "familie_16.png"
+        },
+        {
+            "danish": "lillebror",
+            "greenlandic": "aqqalu",
+            "note": "til en storesøster",
+            "audio": "family_17.mp3",
+            "image": "familie_17.png"
+        }
+    ],
+    "body": [
+        {
+            "danish": "krop",
+            "greenlandic": "timi",
+            "audio": "body_01.mp3",
+            "image": "krop_01.png"
+        },
+        {
+            "danish": "hoved",
+            "greenlandic": "niaqoq",
+            "audio": "body_02.mp3",
+            "image": "krop_02.png"
+        },
+        {
+            "danish": "ansigt",
+            "greenlandic": "kiinaq",
+            "audio": "body_03.mp3",
+            "image": "krop_03.png"
+        },
+        {
+            "danish": "pande",
+            "greenlandic": "qaaq",
+            "audio": "body_04.mp3",
+            "image": "krop_04.png"
+        },
+        {
+            "danish": "kind",
+            "greenlandic": "uluak",
+            "audio": "body_05.mp3",
+            "image": "krop_05.png"
+        },
+        {
+            "danish": "kæbe",
+            "greenlandic": "alleroq",
+            "audio": "body_06.mp3",
+            "image": "krop_06.png"
+        },
+        {
+            "danish": "hage",
+            "greenlandic": "talloq",
+            "audio": "body_07.mp3",
+            "image": "krop_07.png"
+        },
+        {
+            "danish": "øre",
+            "greenlandic": "siut",
+            "audio": "body_08.mp3",
+            "image": "krop_08.png"
+        },
+        {
+            "danish": "øje",
+            "greenlandic": "isi",
+            "audio": "body_09.mp3",
+            "image": "krop_09.png"
+        },
+        {
+            "danish": "næse",
+            "greenlandic": "qingaq",
+            "audio": "body_10.mp3",
+            "image": "krop_10.png"
+        },
+        {
+            "danish": "mund",
+            "greenlandic": "qaneq",
+            "audio": "body_11.mp3",
+            "image": "krop_11.png"
+        },
+        {
+            "danish": "læbe",
+            "greenlandic": "sigguk",
+            "audio": "body_12.mp3",
+            "image": "krop_12.png"
+        },
+        {
+            "danish": "tunge",
+            "greenlandic": "oqaq",
+            "audio": "body_13.mp3",
+            "image": "krop_13.png"
+        },
+        {
+            "danish": "tand",
+            "greenlandic": "kigut",
+            "audio": "body_14.mp3",
+            "image": "krop_14.png"
+        },
+        {
+            "danish": "horn",
+            "greenlandic": "nassuk",
+            "audio": "body_15.mp3",
+            "image": "krop_15.png"
+        },
+        {
+            "danish": "hals",
+            "greenlandic": "qungaseq",
+            "audio": "body_16.mp3",
+            "image": "krop_16.png"
+        },
+        {
+            "danish": "hår",
+            "greenlandic": "nujaq",
+            "audio": "body_17.mp3",
+            "image": "krop_17.png"
+        },
+        {
+            "danish": "skæg",
+            "greenlandic": "umik",
+            "audio": "body_18.mp3",
+            "image": "krop_18.png"
+        },
+        {
+            "danish": "pels",
+            "greenlandic": "ameq",
+            "audio": "body_19.mp3"
+        },
+        {
+            "danish": "fjer",
+            "greenlandic": "meqqoq",
+            "audio": "body_20.mp3",
+            "image": "krop_20.png"
+        },
+        {
+            "danish": "arm",
+            "greenlandic": "taleq",
+            "audio": "body_21.mp3",
+            "image": "krop_21.png"
+        },
+        {
+            "danish": "hånd",
+            "greenlandic": "assak",
+            "audio": "body_22.mp3",
+            "image": "krop_22.png"
+        },
+        {
+            "danish": "håndled",
+            "greenlandic": "paffik",
+            "audio": "body_23.mp3",
+            "image": "krop_23.png"
+        },
+        {
+            "danish": "finger",
+            "greenlandic": "inuaq",
+            "audio": "body_24.mp3",
+            "image": "krop_24.png"
+        },
+        {
+            "danish": "tommelfinger",
+            "greenlandic": "kulloq",
+            "audio": "body_25.mp3",
+            "image": "krop_25.png"
+        },
+        {
+            "danish": "pegefinger",
+            "greenlandic": "tikeq",
+            "audio": "body_26.mp3",
+            "image": "krop_26.png"
+        },
+        {
+            "danish": "langfinger",
+            "greenlandic": "qiterleq",
+            "audio": "body_27.mp3",
+            "image": "krop_27.png"
+        },
+        {
+            "danish": "ringfinger",
+            "greenlandic": "mikileraq",
+            "audio": "body_28.mp3",
+            "image": "krop_28.png"
+        },
+        {
+            "danish": "lillefinger",
+            "greenlandic": "eqeqqoq",
+            "audio": "body_29.mp3",
+            "image": "krop_29.png"
+        },
+        {
+            "danish": "fingernegl",
+            "greenlandic": "kukik",
+            "audio": "body_30.mp3"
+        },
+        {
+            "danish": "ben",
+            "greenlandic": "niu",
+            "audio": "body_31.mp3",
+            "image": "krop_31.png"
+        },
+        {
+            "danish": "lår",
+            "greenlandic": "uppat",
+            "audio": "body_32.mp3",
+            "image": "krop_32.png"
+        },
+        {
+            "danish": "knæ",
+            "greenlandic": "seeqqoq",
+            "audio": "body_33.mp3",
+            "image": "krop_33.png"
+        },
+        {
+            "danish": "fod",
+            "greenlandic": "isigak",
+            "audio": "body_34.mp3",
+            "image": "krop_34.png"
+        },
+        {
+            "danish": "hæl",
+            "greenlandic": "kimmik",
+            "audio": "body_35.mp3",
+            "image": "krop_35.png"
+        },
+        {
+            "danish": "fodspor",
+            "greenlandic": "tumeq",
+            "audio": "body_36.mp3"
+        },
+        {
+            "danish": "vinge",
+            "greenlandic": "suluk",
+            "audio": "body_37.mp3",
+            "image": "krop_37.png"
+        },
+        {
+            "danish": "hale",
+            "greenlandic": "pamioq",
+            "audio": "body_38.mp3",
+            "image": "krop_38.png"
+        },
+        {
+            "danish": "ryg",
+            "greenlandic": "qiteq",
+            "audio": "body_39.mp3",
+            "image": "krop_39.png"
+        },
+        {
+            "danish": "mave",
+            "greenlandic": "naat",
+            "audio": "body_40.mp3",
+            "image": "krop_40.png"
+        },
+        {
+            "danish": "bryst",
+            "greenlandic": "iviangeq",
+            "note": "kun om kvinder",
+            "audio": "body_41.mp3",
+            "image": "krop_41.png"
+        },
+        {
+            "danish": "brystkasse",
+            "greenlandic": "sakiak",
+            "audio": "body_42.mp3",
+            "image": "krop_42.png"
+        },
+        {
+            "danish": "skulder",
+            "greenlandic": "tui",
+            "audio": "body_43.mp3",
+            "image": "krop_43.png"
+        },
+        {
+            "danish": "knogle",
+            "greenlandic": "saaneq",
+            "audio": "body_44.mp3"
+        },
+        {
+            "danish": "skal",
+            "greenlandic": "qalipak",
+            "audio": "body_45.mp3"
+        },
+        {
+            "danish": "muskel",
+            "greenlandic": "nukik",
+            "audio": "body_46.mp3",
+            "image": "krop_46.png"
+        }
+    ],
+    "clothes": [
+        {
+            "danish": "tøj",
+            "greenlandic": "atisat",
+            "audio": "clothing_01.mp3",
+            "image": "tøj_01.png"
+        },
+        {
+            "danish": "jakke",
+            "greenlandic": "kavaajaq",
+            "audio": "clothing_02.mp3",
+            "image": "tøj_02.png"
+        },
+        {
+            "danish": "kåbe",
+            "greenlandic": "qallersaat",
+            "audio": "clothing_03.mp3"
+        },
+        {
+            "danish": "skjorte",
+            "greenlandic": "ilulleq",
+            "audio": "clothing_04.mp3",
+            "image": "tøj_04.png"
+        },
+        {
+            "danish": "bluse",
+            "greenlandic": "tujuuluaraq",
+            "audio": "clothing_05.mp3",
+            "image": "tøj_05.png"
+        },
+        {
+            "danish": "trøje",
+            "greenlandic": "tujuuluk",
+            "audio": "clothing_06.mp3",
+            "image": "tøj_06.png"
+        },
+        {
+            "danish": "bukser",
+            "greenlandic": "qarliit",
+            "audio": "clothing_07.mp3",
+            "image": "tøj_07.png"
+        },
+        {
+            "danish": "nederdel",
+            "greenlandic": "atequt",
+            "audio": "clothing_08.mp3",
+            "image": "tøj_08.png"
+        },
+        {
+            "danish": "pyjamas",
+            "greenlandic": "sinnguseq",
+            "audio": "clothing_09.mp3",
+            "image": "tøj_09.png"
+        },
+        {
+            "danish": "ble",
+            "greenlandic": "nangeq",
+            "audio": "clothing_10.mp3",
+            "image": "tøj_10.png"
+        },
+        {
+            "danish": "hue",
+            "greenlandic": "nasaq",
+            "audio": "clothing_11.mp3",
+            "image": "tøj_11.png"
+        },
+        {
+            "danish": "slips",
+            "greenlandic": "qilerniusaq",
+            "audio": "clothing_12.mp3",
+            "image": "tøj_12.png"
+        },
+        {
+            "danish": "halstørklæde",
+            "greenlandic": "qungasequt",
+            "audio": "clothing_13.mp3",
+            "image": "tøj_13.png"
+        },
+        {
+            "danish": "vante/handske",
+            "greenlandic": "aaqqat",
+            "audio": "clothing_14.mp3",
+            "image": "tøj_14.png"
+        },
+        {
+            "danish": "knap",
+            "greenlandic": "attaseq",
+            "audio": "clothing_15.mp3",
+            "image": "tøj_15.png"
+        },
+        {
+            "danish": "lynlås",
+            "greenlandic": "siittartoq",
+            "audio": "clothing_16.mp3",
+            "image": "tøj_16.png"
+        },
+        {
+            "danish": "lomme",
+            "greenlandic": "kaasarfik",
+            "audio": "clothing_17.mp3",
+            "image": "tøj_17.png"
+        },
+        {
+            "danish": "bælte",
+            "greenlandic": "qiterut",
+            "audio": "clothing_18.mp3",
+            "image": "tøj_18.png"
+        },
+        {
+            "danish": "sko",
+            "greenlandic": "skuut",
+            "audio": "clothing_19.mp3",
+            "image": "tøj_19.png"
+        },
+        {
+            "danish": "støvle",
+            "greenlandic": "kamik",
+            "audio": "clothing_20.mp3",
+            "image": "tøj_20.png"
+        },
+        {
+            "danish": "sok",
+            "greenlandic": "alerseq",
+            "audio": "clothing_21.mp3",
+            "image": "tøj_21.png"
+        },
+        {
+            "danish": "halskæde",
+            "greenlandic": "ujamik",
+            "audio": "clothing_22.mp3",
+            "image": "tøj_22.png"
+        },
+        {
+            "danish": "ørering",
+            "greenlandic": "iverut",
+            "audio": "clothing_23.mp3",
+            "image": "tøj_23.png"
+        },
+        {
+            "danish": "ur",
+            "greenlandic": "nalunaaqutaq",
+            "audio": "clothing_24.mp3",
+            "image": "tøj_24.png"
+        },
+        {
+            "danish": "ring",
+            "greenlandic": "assammiu",
+            "audio": "clothing_25.mp3",
+            "image": "tøj_25.png"
+        },
+        {
+            "danish": "rygsæk",
+            "greenlandic": "nammattagaq",
+            "audio": "clothing_26.mp3",
+            "image": "tøj_26.png"
+        },
+        {
+            "danish": "plastikpose",
+            "greenlandic": "puussiaq",
+            "audio": "clothing_27.mp3",
+            "image": "tøj_27.png"
+        },
+        {
+            "danish": "pung",
+            "greenlandic": "aningaasivik",
+            "audio": "clothing_28.mp3",
+            "image": "tøj_28.png"
+        },
+        {
+            "danish": "briller",
+            "greenlandic": "isarussat",
+            "audio": "clothing_29.mp3",
+            "image": "tøj_29.png"
+        },
+        {
+            "danish": "stav",
+            "greenlandic": "ajaappiaq",
+            "audio": "clothing_30.mp3",
+            "image": "tøj_30.png"
+        },
+        {
+            "danish": "hagesmæk",
+            "greenlandic": "manoqut",
+            "audio": "clothing_31.mp3",
+            "image": "tøj_31.png"
+        }
+    ],
+    "colors": [
+        {
+            "danish": "farver",
+            "greenlandic": "qalipaatit",
+            "audio": "colors_01.mp3",
+            "image": "colors.jpg"
+        },
+        {
+            "danish": "rød",
+            "greenlandic": "aappalaartoq",
+            "note": "Nordgrønlandsk: aappaluttoq",
+            "audio": "colors_02.mp3",
+            "image": "color-red.jpg"
+        },
+        {
+            "danish": "gul",
+            "greenlandic": "sungaartoq",
+            "note": "Nordgrønlandsk: kajortoq",
+            "audio": "colors_03.mp3",
+            "image": "color-yellow.jpg"
+        },
+        {
+            "danish": "grøn",
+            "greenlandic": "qorsuk",
+            "audio": "colors_04.mp3",
+            "image": "color-green.jpg"
+        },
+        {
+            "danish": "blå",
+            "greenlandic": "tungujortoq",
+            "audio": "colors_05.mp3",
+            "image": "color-blue.jpg"
+        },
+        {
+            "danish": "lilla",
+            "greenlandic": "tunguusaq",
+            "audio": "colors_06.mp3",
+            "image": "color-purple.jpg"
+        },
+        {
+            "danish": "pink",
+            "greenlandic": "aappilarujuttoq",
+            "audio": "colors_07.mp3",
+            "image": "color-pink.jpg"
+        },
+        {
+            "danish": "brun",
+            "greenlandic": "kajortoq",
+            "note": "Nordgrønlandsk: sukkulaajusaq",
+            "audio": "colors_08.mp3",
+            "image": "color-brown.jpg"
+        },
+        {
+            "danish": "sort",
+            "greenlandic": "qernertoq",
+            "audio": "colors_09.mp3",
+            "image": "color-black.jpg"
+        },
+        {
+            "danish": "grå",
+            "greenlandic": "qasertoq",
+            "audio": "colors_10.mp3",
+            "image": "color-gray.jpg"
+        },
+        {
+            "danish": "hvid",
+            "greenlandic": "qaqortoq",
+            "audio": "colors_11.mp3",
+            "image": "color-white.jpg"
+        }
+    ],
+    "home": [
+        {
+            "danish": "rum/værelse",
+            "greenlandic": "ini",
+            "audio": "home_01.mp3",
+            "image": "hjem_01.png"
+        },
+        {
+            "danish": "badeværelse",
+            "greenlandic": "uffarfik",
+            "audio": "home_02.mp3",
+            "image": "hjem_02.png"
+        },
+        {
+            "danish": "soveværelse",
+            "greenlandic": "sinittarfik",
+            "audio": "home_03.mp3",
+            "image": "hjem_03.png"
+        },
+        {
+            "danish": "køkken",
+            "greenlandic": "igaffik",
+            "audio": "home_04.mp3",
+            "image": "hjem_04.png"
+        },
+        {
+            "danish": "væg",
+            "greenlandic": "iigaq",
+            "audio": "home_05.mp3",
+            "image": "hjem_05.png"
+        },
+        {
+            "danish": "tag/loft",
+            "greenlandic": "qaliaq",
+            "audio": "home_06.mp3",
+            "image": "hjem_06.png"
+        },
+        {
+            "danish": "gulv",
+            "greenlandic": "nateq",
+            "audio": "home_07.mp3",
+            "image": "hjem_07.png"
+        },
+        {
+            "danish": "skorsten",
+            "greenlandic": "pujoorfik",
+            "audio": "home_08.mp3",
+            "image": "hjem_08.png"
+        },
+        {
+            "danish": "vindue",
+            "greenlandic": "igalaaq",
+            "audio": "home_09.mp3",
+            "image": "hjem_09.png"
+        },
+        {
+            "danish": "dør",
+            "greenlandic": "matu",
+            "audio": "home_10.mp3",
+            "image": "hjem_10.png"
+        },
+        {
+            "danish": "nøgle",
+            "greenlandic": "matuersaat",
+            "audio": "home_11.mp3",
+            "image": "hjem_11.png"
+        },
+        {
+            "danish": "nøglehul",
+            "greenlandic": "matuersaaserfik",
+            "audio": "home_12.mp3",
+            "image": "hjem_12.png"
+        },
+        {
+            "danish": "trapper",
+            "greenlandic": "majuartarfik",
+            "audio": "home_13.mp3",
+            "image": "hjem_13.png"
+        },
+        {
+            "danish": "møbler",
+            "greenlandic": "pequtit",
+            "audio": "home_14.mp3",
+            "image": "hjem_14.png"
+        },
+        {
+            "danish": "stol",
+            "greenlandic": "issiavik",
+            "audio": "home_15.mp3",
+            "image": "hjem_15.png"
+        },
+        {
+            "danish": "lænestol",
+            "greenlandic": "issiavissuaq",
+            "audio": "home_16.mp3",
+            "image": "hjem_16.png"
+        },
+        {
+            "danish": "bord",
+            "greenlandic": "nerrivik",
+            "audio": "home_17.mp3",
+            "image": "hjem_17.png"
+        },
+        {
+            "danish": "skrivebord",
+            "greenlandic": "allaffik",
+            "audio": "home_18.mp3",
+            "image": "hjem_18.png"
+        },
+        {
+            "danish": "kommode",
+            "greenlandic": "amusarialik",
+            "audio": "home_19.mp3",
+            "image": "hjem_19.png"
+        },
+        {
+            "danish": "skuffe",
+            "greenlandic": "amusariaq",
+            "audio": "home_20.mp3",
+            "image": "hjem_20.png"
+        },
+        {
+            "danish": "skab",
+            "greenlandic": "sikaavik",
+            "audio": "home_21.mp3",
+            "image": "hjem_21.png"
+        },
+        {
+            "danish": "tøjskab/garderobe",
+            "greenlandic": "atisaasivik",
+            "audio": "home_22.mp3",
+            "image": "hjem_22.png"
+        },
+        {
+            "danish": "hylde",
+            "greenlandic": "ilisivik",
+            "audio": "home_23.mp3",
+            "image": "hjem_23.png"
+        },
+        {
+            "danish": "seng",
+            "greenlandic": "siniffik",
+            "audio": "home_24.mp3",
+            "image": "hjem_24.png"
+        },
+        {
+            "danish": "badekar",
+            "greenlandic": "uffarfik",
+            "audio": "home_25.mp3",
+            "image": "hjem_25.png"
+        },
+        {
+            "danish": "håndvask",
+            "greenlandic": "errortortarfik",
+            "audio": "home_26.mp3",
+            "image": "hjem_26.png"
+        },
+        {
+            "danish": "vandhane",
+            "greenlandic": "kuuffik",
+            "audio": "home_27.mp3",
+            "image": "hjem_27.png"
+        },
+        {
+            "danish": "toilet",
+            "greenlandic": "anartarfik",
+            "audio": "home_28.mp3",
+            "image": "hjem_28.png"
+        },
+        {
+            "danish": "billede",
+            "greenlandic": "asseq",
+            "audio": "home_29.mp3",
+            "image": "hjem_29.png"
+        },
+        {
+            "danish": "billedramme",
+            "greenlandic": "sinissaq",
+            "audio": "home_30.mp3",
+            "image": "hjem_30.png"
+        },
+        {
+            "danish": "spejl",
+            "greenlandic": "tarrarsuut",
+            "audio": "home_31.mp3",
+            "image": "hjem_31.png"
+        },
+        {
+            "danish": "gulvtæppe",
+            "greenlandic": "natersuaq",
+            "audio": "home_32.mp3",
+            "image": "hjem_32.png"
+        },
+        {
+            "danish": "gardin",
+            "greenlandic": "saagoq",
+            "audio": "home_33.mp3",
+            "image": "hjem_33.png"
+        },
+        {
+            "danish": "dug",
+            "greenlandic": "nerriviup qalia",
+            "audio": "home_34.mp3",
+            "image": "hjem_34.png"
+        },
+        {
+            "danish": "sofapude",
+            "greenlandic": "akisaasaq",
+            "audio": "home_35.mp3",
+            "image": "hjem_35.png"
+        },
+        {
+            "danish": "pude",
+            "greenlandic": "akiseq",
+            "audio": "home_36.mp3",
+            "image": "hjem_36.png"
+        },
+        {
+            "danish": "dyne",
+            "greenlandic": "qipik",
+            "audio": "home_37.mp3",
+            "image": "hjem_37.png"
+        },
+        {
+            "danish": "lagen",
+            "greenlandic": "tungeq",
+            "audio": "home_38.mp3",
+            "image": "hjem_38.png"
+        }
+    ],
+    "stuff": [
+        {
+            "danish": "gaffel",
+            "greenlandic": "ajassaat",
+            "audio": "household_01.mp3",
+            "image": "food_fork_tableware.png"
+        },
+        {
+            "danish": "kniv",
+            "greenlandic": "savik",
+            "audio": "household_02.mp3",
+            "image": "food_knife_tableware.png"
+        },
+        {
+            "danish": "skål",
+            "greenlandic": "puugutarsuaq",
+            "audio": "household_03.mp3",
+            "image": "food_ramen_bowl_soup.png"
+        },
+        {
+            "danish": "tallerken",
+            "greenlandic": "puugutaq",
+            "audio": "household_04.mp3",
+            "image": "food_plate_tableware.png"
+        },
+        {
+            "danish": "glas",
+            "greenlandic": "imertarfik",
+            "audio": "household_05.mp3",
+            "image": "food_glass_tableware.png"
+        },
+        {
+            "danish": "krus",
+            "greenlandic": "tiitorfik",
+            "audio": "household_06.mp3",
+            "image": "food_cup_tableware.png"
+        },
+        {
+            "danish": "låg",
+            "greenlandic": "matu",
+            "audio": "household_07.mp3",
+            "image": "serving-lid.png"
+        },
+        {
+            "danish": "kande",
+            "greenlandic": "kanni",
+            "audio": "household_08.mp3",
+            "image": "water-jug.png"
+        },
+        {
+            "danish": "dåse",
+            "greenlandic": "qillertuusaq",
+            "audio": "household_09.mp3",
+            "image": "can.png"
+        },
+        {
+            "danish": "kedel",
+            "greenlandic": "uunnaavik",
+            "audio": "household_10.mp3",
+            "image": "kettle.png"
+        },
+        {
+            "danish": "stegepande",
+            "greenlandic": "siatsivik",
+            "audio": "household_11.mp3",
+            "image": "fried-spice.png"
+        },
+        {
+            "danish": "gryde",
+            "greenlandic": "igaq",
+            "audio": "household_12.mp3",
+            "image": "cooking-pot.png"
+        },
+        {
+            "danish": "kasse",
+            "greenlandic": "karsi",
+            "audio": "household_13.mp3",
+            "image": "box.png"
+        },
+        {
+            "danish": "kurv",
+            "greenlandic": "koori",
+            "audio": "household_14.mp3",
+            "image": "basket.png"
+        },
+        {
+            "danish": "skraldespand",
+            "greenlandic": "eqqaavik",
+            "audio": "household_15.mp3",
+            "image": "trash-bin.png"
+        },
+        {
+            "danish": "skrald",
+            "greenlandic": "eqqakkat",
+            "audio": "household_16.mp3",
+            "image": "garbage-recycle.png"
+        },
+        {
+            "danish": "ur",
+            "greenlandic": "nalunaaqutaq",
+            "audio": "household_17.mp3",
+            "image": "clock.png"
+        },
+        {
+            "danish": "kamera",
+            "greenlandic": "assiliivik",
+            "audio": "household_18.mp3",
+            "image": "camera.png"
+        },
+        {
+            "danish": "radiator",
+            "greenlandic": "kiassaat",
+            "audio": "household_19.mp3",
+            "image": "room-warmer.png"
+        },
+        {
+            "danish": "køleskab",
+            "greenlandic": "nillataartitsivik",
+            "audio": "household_20.mp3",
+            "image": "refrigerator.png"
+        },
+        {
+            "danish": "ovn",
+            "greenlandic": "kissarsuut",
+            "audio": "household_21.mp3",
+            "image": "stove.png"
+        },
+        {
+            "danish": "hårbørste",
+            "greenlandic": "illaagut",
+            "audio": "household_22.mp3",
+            "image": "hair-brush.png"
+        },
+        {
+            "danish": "sæbe",
+            "greenlandic": "qaqorsaat",
+            "audio": "household_23.mp3",
+            "image": "shampoo-bottle.png"
+        },
+        {
+            "danish": "håndklæde",
+            "greenlandic": "allarut",
+            "audio": "household_24.mp3",
+            "image": "towel.png"
+        },
+        {
+            "danish": "toiletpapir",
+            "greenlandic": "equutissaq",
+            "audio": "household_25.mp3",
+            "image": "tissue-roll.png"
+        },
+        {
+            "danish": "fejebakke",
+            "greenlandic": "sanikoorfik",
+            "audio": "household_26.mp3",
+            "image": "dustpan.png"
+        },
+        {
+            "danish": "moppe",
+            "greenlandic": "natermut asaat",
+            "audio": "household_27.mp3",
+            "image": "mop.png"
+        },
+        {
+            "danish": "klud",
+            "greenlandic": "asaat",
+            "audio": "household_28.mp3",
+            "image": "cleaning.png"
+        },
+        {
+            "danish": "bandage/forbinding",
+            "greenlandic": "nimeq",
+            "audio": "household_29.mp3",
+            "image": "face-with-head-bandage.png"
+        },
+        {
+            "danish": "plaster",
+            "greenlandic": "mattut",
+            "audio": "household_30.mp3",
+            "image": "bandage.png"
+        },
+        {
+            "danish": "termometer",
+            "greenlandic": "kiassiut",
+            "audio": "household_31.mp3",
+            "image": "thermometer.png"
+        },
+        {
+            "danish": "vaskemaskine",
+            "greenlandic": "errorsissut",
+            "audio": "household_32.mp3",
+            "image": "washing-machine.png"
+        },
+        {
+            "danish": "tørresnor",
+            "greenlandic": "manisivik",
+            "audio": "household_33.mp3",
+            "image": "dress-drying.png"
+        }
+    ],
+    "nature": [
+        {
+            "danish": "kat",
+            "greenlandic": "qitsuk",
+            "audio": "nature_01.mp3",
+            "image": "cat.png"
+        },
+        {
+            "danish": "hund",
+            "greenlandic": "qimmeq",
+            "audio": "nature_02.mp3",
+            "image": "dog.png"
+        },
+        {
+            "danish": "kamel",
+            "greenlandic": "qatigattooq",
+            "audio": "nature_03.mp3",
+            "image": "two.png"
+        },
+        {
+            "danish": "hest",
+            "greenlandic": "hiisti",
+            "audio": "nature_04.mp3",
+            "image": "horse.png"
+        },
+        {
+            "danish": "bjørn",
+            "greenlandic": "nanoq",
+            "audio": "nature_05.mp3",
+            "image": "polar-bear.jpg"
+        },
+        {
+            "danish": "elefant",
+            "greenlandic": "nagguaatsoq",
+            "audio": "nature_06.mp3",
+            "image": "elephant.png"
+        },
+        {
+            "danish": "løve",
+            "greenlandic": "løveq",
+            "audio": "nature_07.mp3",
+            "image": "lion.png"
+        },
+        {
+            "danish": "abe",
+            "greenlandic": "aapakaaq",
+            "audio": "nature_08.mp3",
+            "image": "monkey.png"
+        },
+        {
+            "danish": "mus",
+            "greenlandic": "teriaq",
+            "audio": "nature_09.mp3",
+            "image": "mouse.png"
+        },
+        {
+            "danish": "giraf",
+            "greenlandic": "qungasersooq",
+            "audio": "nature_10.mp3",
+            "image": "giraffe.png"
+        },
+        {
+            "danish": "flodhest",
+            "greenlandic": "imarmiutaq",
+            "audio": "nature_11.mp3",
+            "image": "hippopotamus.png"
+        },
+        {
+            "danish": "ko",
+            "greenlandic": "nersussuaq",
+            "audio": "nature_12.mp3",
+            "image": "cow.png"
+        },
+        {
+            "danish": "høne",
+            "greenlandic": "kukkukooq",
+            "audio": "nature_13.mp3",
+            "image": "chicken.png"
+        },
+        {
+            "danish": "kylling",
+            "greenlandic": "kukkukuuaraq",
+            "audio": "nature_14.mp3",
+            "image": "hatching.png"
+        },
+        {
+            "danish": "bi",
+            "greenlandic": "igutsak",
+            "audio": "nature_15.mp3",
+            "image": "bee.png"
+        },
+        {
+            "danish": "flue",
+            "greenlandic": "niviugak",
+            "audio": "nature_16.mp3",
+            "image": "tsetse-fly-icon.png"
+        },
+        {
+            "danish": "myg",
+            "greenlandic": "ippernaq",
+            "audio": "nature_17.mp3",
+            "image": "mosquito.png"
+        },
+        {
+            "danish": "orm/larve",
+            "greenlandic": "qullugiaq",
+            "audio": "nature_18.mp3",
+            "image": "bug.png"
+        },
+        {
+            "danish": "edderkop",
+            "greenlandic": "aasiak",
+            "audio": "nature_19.mp3",
+            "image": "spider.png"
+        },
+        {
+            "danish": "skilpadde",
+            "greenlandic": "saaniluk",
+            "audio": "nature_20.mp3",
+            "image": "turtle.png"
+        },
+        {
+            "danish": "gren",
+            "greenlandic": "avalequt",
+            "audio": "nature_21.mp3",
+            "image": "herb.png"
+        },
+        {
+            "danish": "busk",
+            "greenlandic": "orpigaq",
+            "audio": "nature_22.mp3",
+            "image": "bush.png"
+        },
+        {
+            "danish": "blomst",
+            "greenlandic": "naasoq",
+            "audio": "nature_23.mp3",
+            "image": "blossom.png"
+        },
+        {
+            "danish": "græs",
+            "greenlandic": "ivigaq",
+            "audio": "nature_24.mp3",
+            "image": "grass.png"
+        },
+        {
+            "danish": "blad",
+            "greenlandic": "pilutaq",
+            "audio": "nature_25.mp3",
+            "image": "leaf.png"
+        },
+        {
+            "danish": "stængel",
+            "greenlandic": "kanaartaq",
+            "audio": "nature_26.mp3",
+            "image": "flower.png"
+        },
+        {
+            "danish": "træ",
+            "greenlandic": "orpik",
+            "audio": "nature_27.mp3",
+            "image": "evergreen.png"
+        },
+        {
+            "danish": "træstamme",
+            "greenlandic": "orpiup kanaartaa",
+            "audio": "nature_28.mp3",
+            "image": "wood.png"
+        },
+        {
+            "danish": "sæl",
+            "greenlandic": "puisi",
+            "audio": "nature_29.mp3",
+            "image": "seal-icon.png"
+        },
+        {
+            "danish": "hval",
+            "greenlandic": "arfeq",
+            "audio": "nature_30.mp3",
+            "image": "whale.png"
+        },
+        {
+            "danish": "rensdyr",
+            "greenlandic": "tuttu",
+            "audio": "nature_31.mp3",
+            "image": "deer.png"
+        },
+        {
+            "danish": "moskusokse",
+            "greenlandic": "umimmak",
+            "audio": "nature_32.mp3",
+            "image": "moskusokse.jpg"
+        },
+        {
+            "danish": "ulv",
+            "greenlandic": "amaroq",
+            "audio": "nature_33.mp3",
+            "image": "wolf.jpg"
+        },
+        {
+            "danish": "ræv",
+            "greenlandic": "terianniaq",
+            "audio": "nature_34.mp3",
+            "image": "fox.jpg"
+        },
+        {
+            "danish": "hare",
+            "greenlandic": "ukaleq",
+            "audio": "nature_35.mp3",
+            "image": "rabbit.png"
+        },
+        {
+            "danish": "grønlandssæl",
+            "greenlandic": "aataaq",
+            "audio": "nature_36.mp3",
+            "image": "grønlandssæl.jpg"
+        },
+        {
+            "danish": "hvalros",
+            "greenlandic": "aaveq",
+            "audio": "nature_37.mp3",
+            "image": "walrus.png"
+        },
+        {
+            "danish": "lodde",
+            "greenlandic": "ammassak",
+            "audio": "nature_38.mp3",
+            "image": "lodde.jpg"
+        },
+        {
+            "danish": "lomvie",
+            "greenlandic": "appa",
+            "audio": "nature_39.mp3",
+            "image": "dreamstime_s_78585861.jpg"
+        },
+        {
+            "danish": "rype",
+            "greenlandic": "aqisseq",
+            "audio": "nature_40.mp3",
+            "image": "dreamstime_s_185090076.jpg"
+        },
+        {
+            "danish": "ørred",
+            "greenlandic": "eqaluk",
+            "audio": "nature_41.mp3",
+            "image": "freshwater-fish-trout-watercolor-oerred-by-frits-ahlefeldt.jpg"
+        },
+        {
+            "danish": "haj",
+            "greenlandic": "eqalussuaq",
+            "audio": "nature_42.mp3",
+            "image": "shark.png"
+        },
+        {
+            "danish": "ulk",
+            "greenlandic": "kanajoq",
+            "audio": "nature_43.mp3",
+            "image": "dreamstime_s_171925262.jpg"
+        },
+        {
+            "danish": "laks",
+            "greenlandic": "kapisilik",
+            "audio": "nature_44.mp3",
+            "image": "dw00056-watercolor-salmon-atlantic-laks-frits-ahlefeldt.jpg"
+        },
+        {
+            "danish": "edderfugl",
+            "greenlandic": "miteq",
+            "audio": "nature_45.mp3",
+            "image": "edderfugl.jpg"
+        },
+        {
+            "danish": "måge",
+            "greenlandic": "naaja",
+            "audio": "nature_46.mp3",
+            "image": "dreamstime_s_62236959.jpg"
+        },
+        {
+            "danish": "ringsæl/netside",
+            "greenlandic": "natseq",
+            "audio": "nature_47.mp3",
+            "image": "ringed-seal.jpg"
+        },
+        {
+            "danish": "klapmyds",
+            "greenlandic": "natsersuaq",
+            "audio": "nature_48.mp3",
+            "image": "dreamstime_s_215554009.jpg"
+        },
+        {
+            "danish": "havørn",
+            "greenlandic": "nattoralik",
+            "audio": "nature_49.mp3",
+            "image": "dreamstime_s_71190654.jpg"
+        },
+        {
+            "danish": "gås",
+            "greenlandic": "nerleq",
+            "audio": "nature_50.mp3",
+            "image": "goose.jpg"
+        },
+        {
+            "danish": "marsvin",
+            "greenlandic": "niisa",
+            "audio": "nature_51.mp3",
+            "image": "dreamstime_s_215642054.jpg"
+        },
+        {
+            "danish": "stenbider",
+            "greenlandic": "nipisa",
+            "audio": "nature_52.mp3",
+            "image": "dreamstime_s_126692822.jpg"
+        },
+        {
+            "danish": "sommerfugl",
+            "greenlandic": "pakkaluaq",
+            "audio": "nature_53.mp3",
+            "image": "butterfly.png"
+        },
+        {
+            "danish": "hellefisk",
+            "greenlandic": "qaleralik",
+            "audio": "nature_54.mp3",
+            "image": "dreamstime_s_133967956.jpg"
+        },
+        {
+            "danish": "havkat",
+            "greenlandic": "qeeraq",
+            "audio": "nature_55.mp3",
+            "image": "dreamstime_s_45854506.jpg"
+        },
+        {
+            "danish": "and",
+            "greenlandic": "qeerlutooq",
+            "audio": "nature_56.mp3",
+            "image": "duck.png"
+        },
+        {
+            "danish": "hvidhval",
+            "greenlandic": "qilalugaq qaqortaq",
+            "audio": "nature_57.mp3",
+            "image": "beluga.jpg"
+        },
+        {
+            "danish": "narhval",
+            "greenlandic": "qilalugaq qernertaq",
+            "audio": "nature_58.mp3",
+            "image": "narwhale.jpg"
+        },
+        {
+            "danish": "pukkelhval",
+            "greenlandic": "qipoqqaq",
+            "audio": "nature_59.mp3",
+            "image": "dreamstime_s_129978962.jpg"
+        },
+        {
+            "danish": "snespurv",
+            "greenlandic": "qupaloraarsuk",
+            "audio": "nature_60.mp3",
+            "image": "sparrow.png"
+        },
+        {
+            "danish": "torsk",
+            "greenlandic": "saarullik",
+            "audio": "nature_61.mp3",
+            "image": "torsk.jpg"
+        },
+        {
+            "danish": "rødfisk",
+            "greenlandic": "suluppaagaq",
+            "audio": "nature_62.mp3",
+            "image": "dreamstime_s_170474822.jpg"
+        },
+        {
+            "danish": "sildepisker",
+            "greenlandic": "tikaagullik",
+            "audio": "nature_63.mp3",
+            "image": "dreamstime_s_122132781.jpg"
+        },
+        {
+            "danish": "ravn",
+            "greenlandic": "tulugaq",
+            "audio": "nature_64.mp3",
+            "image": "crow.png"
+        },
+        {
+            "danish": "blåmusling",
+            "greenlandic": "uiloq",
+            "audio": "nature_65.mp3"
+        },
+        {
+            "danish": "ugle",
+            "greenlandic": "uppik",
+            "audio": "nature_66.mp3",
+            "image": "ugle.jpg"
+        },
+        {
+            "danish": "remmesæl",
+            "greenlandic": "ussuk",
+            "audio": "nature_67.mp3",
+            "image": "remmesæl.jpg"
+        }
+    ],
+    "food": [
+        {
+            "danish": "mad",
+            "greenlandic": "nerisassat",
+            "audio": "food_01.mp3",
+            "image": "food.png"
+        },
+        {
+            "danish": "kage",
+            "greenlandic": "kaagi",
+            "audio": "food_02.mp3",
+            "image": "cake.png"
+        },
+        {
+            "danish": "chokolade",
+            "greenlandic": "sukkulaaq",
+            "audio": "food_03.mp3",
+            "image": "chocolate.png"
+        },
+        {
+            "danish": "is",
+            "greenlandic": "siku",
+            "audio": "food_04.mp3",
+            "image": "ice-cream.png"
+        },
+        {
+            "danish": "brød",
+            "greenlandic": "iffiaq",
+            "audio": "food_05.mp3",
+            "image": "bread-1.png"
+        },
+        {
+            "danish": "franskbrød",
+            "greenlandic": "iffiaq-qaqortoq",
+            "audio": "food_10.mp3",
+            "image": "bread.png"
+        },
+        {
+            "danish": "smør",
+            "greenlandic": "punneq",
+            "audio": "food_06.mp3",
+            "image": "butter.png"
+        },
+        {
+            "danish": "ost",
+            "greenlandic": "immussuaq",
+            "audio": "food_07.mp3",
+            "image": "cheese.png"
+        },
+        {
+            "danish": "honning",
+            "greenlandic": "tungusunnitsuut",
+            "audio": "food_08.mp3",
+            "image": "honeypot.png"
+        },
+        {
+            "danish": "mælk",
+            "greenlandic": "immuk",
+            "audio": "food_09.mp3",
+            "image": "milk.png"
+        },
+        {
+            "danish": "æg",
+            "greenlandic": "mannik",
+            "audio": "food_11.mp3",
+            "image": "egg.png"
+        },
+        {
+            "danish": "kød",
+            "greenlandic": "neqi",
+            "audio": "food_12.mp3",
+            "image": "meat.png"
+        },
+        {
+            "danish": "grønlandsk mad",
+            "greenlandic": "kalaalimerngit",
+            "audio": "food_13.mp3",
+            "image": "fish.png"
+        }
+    ],
+    "plants": [
+        {
+            "danish": "frugter/bær",
+            "greenlandic": "paarnat",
+            "audio": "plants-and-fruits_01.mp3",
+            "image": "fruits.png"
+        },
+        {
+            "danish": "æble",
+            "greenlandic": "iipili",
+            "audio": "plants-and-fruits_02.mp3",
+            "image": "fruit01.jpg"
+        },
+        {
+            "danish": "banan",
+            "greenlandic": "banaani",
+            "audio": "plants-and-fruits_03.mp3",
+            "image": "fruit02.jpg"
+        },
+        {
+            "danish": "løg",
+            "greenlandic": "uanitsoq",
+            "audio": "plants-and-fruits_04.mp3",
+            "image": "fruit03.jpg"
+        },
+        {
+            "danish": "kartoffel",
+            "greenlandic": "naatsiiaq",
+            "audio": "plants-and-fruits_05.mp3",
+            "image": "fruit04.jpg"
+        },
+        {
+            "danish": "kvan",
+            "greenlandic": "kuanneq",
+            "audio": "plants-and-fruits_06.mp3"
+        },
+        {
+            "danish": "klokkeblomst",
+            "greenlandic": "tikiusaaq",
+            "audio": "plants-and-fruits_07.mp3"
+        },
+        {
+            "danish": "timian",
+            "greenlandic": "tupaarnaq",
+            "audio": "plants-and-fruits_08.mp3"
+        },
+        {
+            "danish": "fjeld-ene",
+            "greenlandic": "kakillarnaq",
+            "audio": "plants-and-fruits_09.mp3"
+        },
+        {
+            "danish": "gederams",
+            "greenlandic": "niviarsiaq",
+            "audio": "plants-and-fruits_10.mp3"
+        },
+        {
+            "danish": "svamp",
+            "greenlandic": "pupik",
+            "audio": "plants-and-fruits_11.mp3",
+            "image": "mushroom-1.png"
+        },
+        {
+            "danish": "gøgelilje",
+            "greenlandic": "asiarpak",
+            "audio": "plants-and-fruits_12.mp3"
+        },
+        {
+            "danish": "kæruld",
+            "greenlandic": "ukaliusaq",
+            "audio": "plants-and-fruits_13.mp3"
+        },
+        {
+            "danish": "blåbær",
+            "greenlandic": "kigutaarnat",
+            "audio": "plants-and-fruits_14.mp3"
+        },
+        {
+            "danish": "mælkebøtte",
+            "greenlandic": "inneruulaq",
+            "audio": "plants-and-fruits_15.mp3",
+            "image": "dandelion.png"
+        },
+        {
+            "danish": "grønlandspost",
+            "greenlandic": "qajaasaq",
+            "audio": "plants-and-fruits_16.mp3"
+        },
+        {
+            "danish": "sortebær",
+            "greenlandic": "paarnaqutit",
+            "audio": "plants-and-fruits_17.mp3"
+        },
+        {
+            "danish": "røn",
+            "greenlandic": "napaartoq",
+            "audio": "plants-and-fruits_18.mp3"
+        },
+        {
+            "danish": "tyttebær",
+            "greenlandic": "kimmernat",
+            "audio": "plants-and-fruits_19.mp3"
+        }
+    ],
+    "places": [
+        {
+            "danish": "byer",
+            "greenlandic": "illoqarfiit",
+            "audio": "places_01.mp3"
+        },
+        {
+            "greenlandic": "Qaanaaq",
+            "audio": "places_02.mp3"
+        },
+        {
+            "greenlandic": "Upernavik",
+            "audio": "places_03.mp3"
+        },
+        {
+            "greenlandic": "Uummannaq",
+            "audio": "places_04.mp3"
+        },
+        {
+            "greenlandic": "Ilulissat",
+            "audio": "places_05.mp3"
+        },
+        {
+            "greenlandic": "Qeqertarsuaq",
+            "audio": "places_06.mp3"
+        },
+        {
+            "greenlandic": "Qasigiannguit",
+            "audio": "places_07.mp3"
+        },
+        {
+            "greenlandic": "Aasiaat",
+            "audio": "places_08.mp3"
+        },
+        {
+            "greenlandic": "Sisimiut",
+            "audio": "places_09.mp3"
+        },
+        {
+            "greenlandic": "Kangerlussuaq",
+            "audio": "places_10.mp3"
+        },
+        {
+            "greenlandic": "Kangaatsiaq",
+            "audio": "places_11.mp3"
+        },
+        {
+            "greenlandic": "Maniitsoq",
+            "audio": "places_12.mp3"
+        },
+        {
+            "greenlandic": "Nuuk",
+            "audio": "places_13.mp3"
+        },
+        {
+            "greenlandic": "Paamiut",
+            "audio": "places_14.mp3"
+        },
+        {
+            "greenlandic": "Qaqortoq",
+            "audio": "places_15.mp3"
+        },
+        {
+            "greenlandic": "Narsaq",
+            "audio": "places_16.mp3"
+        },
+        {
+            "greenlandic": "Narsarsuaq",
+            "audio": "places_17.mp3"
+        },
+        {
+            "greenlandic": "Tasiilaq",
+            "audio": "places_18.mp3"
+        },
+        {
+            "greenlandic": "Ittoqqortoormiit",
+            "audio": "places_19.mp3"
+        },
+        {
+            "danish": "lande",
+            "greenlandic": "nunat",
+            "audio": "places_20.mp3"
+        },
+        {
+            "danish": "Grønland",
+            "greenlandic": "Kalaallit Nunaat",
+            "audio": "places_21.mp3"
+        },
+        {
+            "danish": "England",
+            "greenlandic": "Tuluit Nunaat",
+            "audio": "places_22.mp3"
+        },
+        {
+            "danish": "Færøerne",
+            "greenlandic": "Savalimmiut",
+            "audio": "places_23.mp3"
+        }
+    ],
+    "calendar": [
+        {
+            "danish": "uge",
+            "greenlandic": "sapaatip-akunnera",
+            "audio": "calendar_01.mp3",
+            "image": "week.png"
+        },
+        {
+            "danish": "mandag",
+            "greenlandic": "ataasinngorneq",
+            "audio": "calendar_02.mp3",
+            "image": "monday.png"
+        },
+        {
+            "danish": "tirsdag",
+            "greenlandic": "marlunngorneq",
+            "audio": "calendar_03.mp3",
+            "image": "tuesday.png"
+        },
+        {
+            "danish": "onsdag",
+            "greenlandic": "pingasunngorneq",
+            "audio": "calendar_04.mp3",
+            "image": "wednesday.png"
+        },
+        {
+            "danish": "torsdag",
+            "greenlandic": "sisamanngorneq",
+            "audio": "calendar_05.mp3",
+            "image": "thursday.png"
+        },
+        {
+            "danish": "fredag",
+            "greenlandic": "tallimanngorneq",
+            "audio": "calendar_06.mp3",
+            "image": "friday.png"
+        },
+        {
+            "danish": "lørdag",
+            "greenlandic": "arfininngorneq",
+            "audio": "calendar_07.mp3",
+            "image": "saturday.png"
+        },
+        {
+            "danish": "søndag",
+            "greenlandic": "sapaat",
+            "audio": "calendar_08.mp3",
+            "image": "sunday.png"
+        },
+        {
+            "danish": "måned",
+            "greenlandic": "qaammat",
+            "audio": "calendar_09.mp3",
+            "image": "month.png"
+        },
+        {
+            "danish": "januar",
+            "greenlandic": "januaari",
+            "audio": "calendar_10.mp3",
+            "image": "january.png"
+        },
+        {
+            "danish": "februar",
+            "greenlandic": "februaari",
+            "audio": "calendar_11.mp3",
+            "image": "february.png"
+        },
+        {
+            "danish": "marts",
+            "greenlandic": "marsi",
+            "audio": "calendar_12.mp3",
+            "image": "march.png"
+        },
+        {
+            "danish": "april",
+            "greenlandic": "apriili",
+            "audio": "calendar_13.mp3",
+            "image": "april.png"
+        },
+        {
+            "danish": "maj",
+            "greenlandic": "maaji",
+            "audio": "calendar_14.mp3",
+            "image": "maj.png"
+        },
+        {
+            "danish": "juni",
+            "greenlandic": "juuni",
+            "audio": "calendar_15.mp3",
+            "image": "june.png"
+        },
+        {
+            "danish": "juli",
+            "greenlandic": "juuli",
+            "audio": "calendar_16.mp3",
+            "image": "july.png"
+        },
+        {
+            "danish": "august",
+            "greenlandic": "aggusti",
+            "audio": "calendar_17.mp3",
+            "image": "august.png"
+        },
+        {
+            "danish": "september",
+            "greenlandic": "septembari",
+            "audio": "calendar_18.mp3",
+            "image": "september.png"
+        },
+        {
+            "danish": "oktober",
+            "greenlandic": "oktobari",
+            "audio": "calendar_19.mp3",
+            "image": "october.png"
+        },
+        {
+            "danish": "november",
+            "greenlandic": "novembari",
+            "audio": "calendar_21.mp3",
+            "image": "november.png"
+        },
+        {
+            "danish": "december",
+            "greenlandic": "decembari",
+            "audio": "calendar_20.mp3",
+            "image": "december.png"
+        }
+    ],
+    "rules": [
+        {
+            "danish": "A",
+            "greenlandic": "anaana",
+            "note": "Udtales som i navnet Ane - hvis der er to vokaler skal man trække på lyden",
+            "audio": "pronounciation_01.mp3"
+        },
+        {
+            "danish": "AR / AQ",
+            "greenlandic": "arnaq",
+            "note": "Udtales som i navnet Arne",
+            "audio": "pronounciation_02.mp3"
+        },
+        {
+            "danish": "ANNG",
+            "greenlandic": "Nukannguaq",
+            "note": "A'et udtales i denne stavelse næsten som et Æ",
+            "audio": "names_15.mp3"
+        },
+        {
+            "danish": "AT / AK / AP",
+            "greenlandic": "Ilulissat",
+            "note": "Når denne stavelse står tilsidst i et ord udtales A'et næsten som et Æ",
+            "audio": "pronounciation_03.mp3"
+        },
+        {
+            "danish": "E",
+            "greenlandic": "erneq",
+            "note": "Udtales næsten som et Æ - hvis der er to vokaler skal man trække på lyden",
+            "audio": "pronounciation_04.mp3"
+        },
+        {
+            "danish": "I",
+            "greenlandic": "isi",
+            "note": "Udtales som i navnet Ida - hvis der er to vokaler skal man trække på lyden",
+            "audio": "pronounciation_05.mp3"
+        },
+        {
+            "danish": "O",
+            "greenlandic": "sooq",
+            "note": "Udtales som i orkidé - hvis der er to vokaler skal man trække på lyden",
+            "audio": "pronounciation_06.mp3"
+        },
+        {
+            "danish": "U",
+            "greenlandic": "ulu",
+            "note": "Udtales som i navnet Ulla - hvis der er to vokaler skal man trække på lyden",
+            "audio": "pronounciation_07.mp3"
+        },
+        {
+            "danish": "FF / RF",
+            "greenlandic": "pisiffik",
+            "note": "Udtales som i girafføl",
+            "audio": "pronounciation_08.mp3"
+        },
+        {
+            "danish": "G",
+            "greenlandic": "iga",
+            "note": "Udtales blødt som i kage - men ikke som J",
+            "audio": "pronounciation_09.mp3"
+        },
+        {
+            "danish": "GG",
+            "greenlandic": "iggu",
+            "note": "Udtales som i det tyske ord ich",
+            "audio": "pronounciation_10.mp3"
+        },
+        {
+            "danish": "J",
+            "greenlandic": "naja",
+            "note": "Udtales som i navnet Jan",
+            "audio": "pronounciation_11.mp3"
+        },
+        {
+            "danish": "K",
+            "greenlandic": "kina",
+            "note": "Udtales som hårdt G - ligesom i navnet Gerda",
+            "audio": "pronounciation_12.mp3"
+        },
+        {
+            "danish": "KK",
+            "greenlandic": "pikkori",
+            "note": "Udtales som i byggryn",
+            "audio": "pronounciation_13.mp3"
+        },
+        {
+            "danish": "L",
+            "greenlandic": "sila",
+            "note": "Udtales som i navnet Lea",
+            "audio": "pronounciation_14.mp3"
+        },
+        {
+            "danish": "LL / RL",
+            "greenlandic": "alla",
+            "note": "Udtales som de to første bogstaver i plaster eller klister",
+            "audio": "pronounciation_15.mp3"
+        },
+        {
+            "danish": "M",
+            "greenlandic": "ima",
+            "note": "Udtales som i navnet Mia",
+            "audio": "pronounciation_16.mp3"
+        },
+        {
+            "danish": "MM / RM",
+            "greenlandic": "immuk",
+            "note": "Udtales som i kammusling",
+            "audio": "pronounciation_17.mp3"
+        },
+        {
+            "danish": "N",
+            "greenlandic": "ini",
+            "note": "Udtales som i navnet Mina",
+            "audio": "pronounciation_18.mp3"
+        },
+        {
+            "danish": "NN / RN",
+            "greenlandic": "takanna",
+            "note": "Udtales ligesom i fundne eller bundne",
+            "audio": "pronounciation_19.mp3"
+        },
+        {
+            "danish": "NG",
+            "greenlandic": "uanga",
+            "note": "Udtales som i mange",
+            "audio": "pronounciation_20.mp3"
+        },
+        {
+            "danish": "NNG / RNG",
+            "greenlandic": "qatanngut",
+            "note": "Udtales dobbelt",
+            "audio": "pronounciation_21.mp3"
+        },
+        {
+            "danish": "P",
+            "greenlandic": "nipi",
+            "note": "Udtales som B, ligesom i bil",
+            "audio": "pronounciation_22.mp3"
+        },
+        {
+            "danish": "PP / RP",
+            "greenlandic": "appa",
+            "note": "Udtales ligesom i dybblå",
+            "audio": "pronounciation_23.mp3"
+        },
+        {
+            "danish": "Q",
+            "greenlandic": "neqi",
+            "note": "Udtales næsten som GR, men lyden kommer mere nede fra struben. Lidt ligesom i grafik eller gris",
+            "audio": "pronounciation_24.mp3"
+        },
+        {
+            "danish": "QQ",
+            "greenlandic": "qaqqaq",
+            "note": "Udtales dobbelt",
+            "audio": "pronounciation_25.mp3"
+        },
+        {
+            "danish": "R",
+            "greenlandic": "amaroq",
+            "note": "Udtales som i navnet Erik",
+            "audio": "pronounciation_26.mp3"
+        },
+        {
+            "danish": "RR",
+            "greenlandic": "torrak",
+            "note": "Udtales som i det tyske ord ach",
+            "audio": "pronounciation_27.mp3"
+        },
+        {
+            "danish": "S",
+            "greenlandic": "puisi",
+            "note": "Udtales som i navnet Lisa",
+            "audio": "pronounciation_28.mp3"
+        },
+        {
+            "danish": "SS / RS",
+            "greenlandic": "tassa",
+            "note": "Udtales som i issyl eller kongressal",
+            "audio": "pronounciation_29.mp3"
+        },
+        {
+            "danish": "TA / TO / TU",
+            "greenlandic": "matu",
+            "note": "Udtales som hårdt D - ligesom i navnet Oda",
+            "audio": "pronounciation_30.mp3"
+        },
+        {
+            "danish": "TI / TE",
+            "greenlandic": "timi",
+            "note": "Udtales som i Tivoli eller navnet Tina",
+            "audio": "pronounciation_31.mp3"
+        },
+        {
+            "danish": "TT / RT",
+            "greenlandic": "tuttu",
+            "note": "Udtales som dobbelt D, som i natdyr",
+            "audio": "pronounciation_32.mp3"
+        },
+        {
+            "danish": "TS",
+            "greenlandic": "qitsuk",
+            "note": "Udtales som i nattøj eller pizza",
+            "audio": "pronounciation_33.mp3"
+        },
+        {
+            "danish": "V",
+            "greenlandic": "taava",
+            "note": "Udtales som i navnet Vera",
+            "audio": "pronounciation_34.mp3"
+        }
+    ],
+    "names": [
+        {
+            "danish": "Drenge- og pigenavne",
+            "greenlandic": "Nukappiaqqat niviarsiaqqallu aqqi",
+            "audio": "names_113.mp3"
+        },
+        {
+            "greenlandic": "Aka",
+            "audio": "names_01.mp3"
+        },
+        {
+            "greenlandic": "Akannguaq",
+            "audio": "names_02.mp3"
+        },
+        {
+            "greenlandic": "Angaju",
+            "audio": "names_03.mp3"
+        },
+        {
+            "greenlandic": "Angerla",
+            "audio": "names_04.mp3"
+        },
+        {
+            "greenlandic": "Inequ",
+            "audio": "names_05.mp3"
+        },
+        {
+            "greenlandic": "Ivinnguaq",
+            "audio": "names_06.mp3"
+        },
+        {
+            "greenlandic": "Kuka",
+            "audio": "names_07.mp3"
+        },
+        {
+            "greenlandic": "Kuluk",
+            "audio": "names_08.mp3"
+        },
+        {
+            "greenlandic": "Kulunngaq",
+            "audio": "names_09.mp3"
+        },
+        {
+            "greenlandic": "Maannguaq",
+            "audio": "names_10.mp3"
+        },
+        {
+            "greenlandic": "Miki",
+            "audio": "names_11.mp3"
+        },
+        {
+            "greenlandic": "Nuka",
+            "audio": "names_12.mp3"
+        },
+        {
+            "greenlandic": "Nukaarannguaq",
+            "audio": "names_13.mp3"
+        },
+        {
+            "greenlandic": "Nukaaraq",
+            "audio": "names_14.mp3"
+        },
+        {
+            "greenlandic": "Nukannguaq",
+            "audio": "names_15.mp3"
+        },
+        {
+            "greenlandic": "Nukartaa",
+            "audio": "names_16.mp3"
+        },
+        {
+            "greenlandic": "Pilu",
+            "audio": "names_17.mp3"
+        },
+        {
+            "greenlandic": "Qivioq",
+            "audio": "names_18.mp3"
+        },
+        {
+            "greenlandic": "Sikkersoq",
+            "audio": "names_19.mp3"
+        },
+        {
+            "greenlandic": "Sikki",
+            "audio": "names_20.mp3"
+        },
+        {
+            "greenlandic": "Ujarak",
+            "audio": "names_21.mp3"
+        },
+        {
+            "danish": "Pigenavne",
+            "greenlandic": "Niviarsiaqqat aqqi",
+            "audio": "names_22.mp3"
+        },
+        {
+            "greenlandic": "Aja",
+            "audio": "names_23.mp3"
+        },
+        {
+            "greenlandic": "Ajaaja",
+            "audio": "names_24.mp3"
+        },
+        {
+            "greenlandic": "Aleqa",
+            "audio": "names_25.mp3"
+        },
+        {
+            "greenlandic": "Arnaalunnguaq",
+            "audio": "names_26.mp3"
+        },
+        {
+            "greenlandic": "Arnarulunnguaq",
+            "audio": "names_27.mp3"
+        },
+        {
+            "greenlandic": "Arnaq",
+            "audio": "names_28.mp3"
+        },
+        {
+            "greenlandic": "Arnaaraq",
+            "audio": "names_29.mp3"
+        },
+        {
+            "greenlandic": "Arnannguaq",
+            "audio": "names_30.mp3"
+        },
+        {
+            "greenlandic": "Arnatsiaq",
+            "audio": "names_31.mp3"
+        },
+        {
+            "greenlandic": "Atsa",
+            "audio": "names_32.mp3"
+        },
+        {
+            "greenlandic": "Avaruna",
+            "audio": "names_33.mp3"
+        },
+        {
+            "greenlandic": "Aviaaja",
+            "audio": "names_34.mp3"
+        },
+        {
+            "greenlandic": "Aviaana",
+            "audio": "names_35.mp3"
+        },
+        {
+            "greenlandic": "Aviaq",
+            "audio": "names_36.mp3"
+        },
+        {
+            "greenlandic": "Ivalu",
+            "audio": "names_37.mp3"
+        },
+        {
+            "greenlandic": "Inaluk",
+            "audio": "names_38.mp3"
+        },
+        {
+            "greenlandic": "Kimmernaq",
+            "audio": "names_39.mp3"
+        },
+        {
+            "greenlandic": "Maliina",
+            "audio": "names_40.mp3"
+        },
+        {
+            "greenlandic": "Malu",
+            "audio": "names_41.mp3"
+        },
+        {
+            "greenlandic": "Miiannguaq",
+            "audio": "names_42.mp3"
+        },
+        {
+            "greenlandic": "Naasoq",
+            "audio": "names_43.mp3"
+        },
+        {
+            "greenlandic": "Naasunnguaq",
+            "audio": "names_44.mp3"
+        },
+        {
+            "greenlandic": "Naja",
+            "audio": "names_45.mp3"
+        },
+        {
+            "greenlandic": "Najaaraq",
+            "audio": "names_46.mp3"
+        },
+        {
+            "greenlandic": "Najannguaq",
+            "audio": "names_47.mp3"
+        },
+        {
+            "greenlandic": "Najattaannguaq",
+            "audio": "names_48.mp3"
+        },
+        {
+            "greenlandic": "Najattaaq",
+            "audio": "names_49.mp3"
+        },
+        {
+            "greenlandic": "Napaartoq",
+            "audio": "names_50.mp3"
+        },
+        {
+            "greenlandic": "Natuk",
+            "audio": "names_51.mp3"
+        },
+        {
+            "greenlandic": "Ninni",
+            "audio": "names_52.mp3"
+        },
+        {
+            "greenlandic": "Nivi",
+            "audio": "names_53.mp3"
+        },
+        {
+            "greenlandic": "Niviaaluk",
+            "audio": "names_54.mp3"
+        },
+        {
+            "greenlandic": "Niviaq",
+            "audio": "names_55.mp3"
+        },
+        {
+            "greenlandic": "Niviarsiaraq",
+            "audio": "names_56.mp3"
+        },
+        {
+            "greenlandic": "Nivikka",
+            "audio": "names_57.mp3"
+        },
+        {
+            "greenlandic": "Nukaaka",
+            "audio": "names_58.mp3"
+        },
+        {
+            "greenlandic": "Nunni",
+            "audio": "names_59.mp3"
+        },
+        {
+            "greenlandic": "Nunnu",
+            "audio": "names_60.mp3"
+        },
+        {
+            "greenlandic": "Nuunu",
+            "audio": "names_61.mp3"
+        },
+        {
+            "greenlandic": "Paarma",
+            "audio": "names_62.mp3"
+        },
+        {
+            "greenlandic": "Paarnannguaq",
+            "audio": "names_63.mp3"
+        },
+        {
+            "greenlandic": "Paarnaq",
+            "audio": "names_64.mp3"
+        },
+        {
+            "greenlandic": "Paneeraq",
+            "audio": "names_66.mp3"
+        },
+        {
+            "greenlandic": "Paninnguaq",
+            "audio": "names_66.mp3"
+        },
+        {
+            "greenlandic": "Parnuuna",
+            "audio": "names_67.mp3"
+        },
+        {
+            "greenlandic": "Pilunnguaq",
+            "audio": "names_68.mp3"
+        },
+        {
+            "greenlandic": "Pipaluk",
+            "audio": "names_69.mp3"
+        },
+        {
+            "greenlandic": "Qivi",
+            "audio": "names_70.mp3"
+        },
+        {
+            "greenlandic": "Qupaluk",
+            "audio": "names_71.mp3"
+        },
+        {
+            "greenlandic": "Qupanuk",
+            "audio": "names_72.mp3"
+        },
+        {
+            "greenlandic": "Sikkerninnguaq",
+            "audio": "names_73.mp3"
+        },
+        {
+            "greenlandic": "Simigaq",
+            "audio": "names_74.mp3"
+        },
+        {
+            "greenlandic": "Tukummeq",
+            "audio": "names_75.mp3"
+        },
+        {
+            "greenlandic": "Tupaarnaq",
+            "audio": "names_76.mp3"
+        },
+        {
+            "greenlandic": "Tuperna",
+            "audio": "names_77.mp3"
+        },
+        {
+            "greenlandic": "Uiloq",
+            "audio": "names_78.mp3"
+        },
+        {
+            "danish": "Drengenavne",
+            "greenlandic": "Nukappiaqqat aqqi",
+            "audio": "names_79.mp3"
+        },
+        {
+            "greenlandic": "Anguteeraq",
+            "audio": "names_80.mp3"
+        },
+        {
+            "greenlandic": "Angutimmarik",
+            "audio": "names_81.mp3"
+        },
+        {
+            "greenlandic": "Angutinnguaq",
+            "audio": "names_82.mp3"
+        },
+        {
+            "greenlandic": "Ani",
+            "audio": "names_83.mp3"
+        },
+        {
+            "greenlandic": "Aninnguaq",
+            "audio": "names_84.mp3"
+        },
+        {
+            "greenlandic": "Aputsiaq",
+            "audio": "names_85.mp3"
+        },
+        {
+            "greenlandic": "Aqissiaq",
+            "audio": "names_86.mp3"
+        },
+        {
+            "greenlandic": "Aqqaluk",
+            "audio": "names_87.mp3"
+        },
+        {
+            "greenlandic": "Aqqaluaq",
+            "audio": "names_88.mp3"
+        },
+        {
+            "greenlandic": "Aqqalunnguaq",
+            "audio": "names_89.mp3"
+        },
+        {
+            "greenlandic": "Ari",
+            "audio": "names_90.mp3"
+        },
+        {
+            "greenlandic": "Avataq",
+            "audio": "names_91.mp3"
+        },
+        {
+            "greenlandic": "Eqaluk",
+            "audio": "names_92.mp3"
+        },
+        {
+            "greenlandic": "Erneeraq",
+            "audio": "names_93.mp3"
+        },
+        {
+            "greenlandic": "Ilasiaq",
+            "audio": "names_94.mp3"
+        },
+        {
+            "greenlandic": "Inooraq",
+            "audio": "names_95.mp3"
+        },
+        {
+            "greenlandic": "Inuk",
+            "audio": "names_96.mp3"
+        },
+        {
+            "greenlandic": "Inumineq",
+            "audio": "names_97.mp3"
+        },
+        {
+            "greenlandic": "Inunnguaq",
+            "audio": "names_98.mp3"
+        },
+        {
+            "greenlandic": "Kaaleeraq",
+            "audio": "names_114.mp3"
+        },
+        {
+            "greenlandic": "Kunuk",
+            "audio": "names_100.mp3"
+        },
+        {
+            "greenlandic": "Kunuunnguaq",
+            "audio": "names_101.mp3"
+        },
+        {
+            "greenlandic": "Kuupik",
+            "audio": "names_102.mp3"
+        },
+        {
+            "greenlandic": "Manuaraq",
+            "audio": "names_103.mp3"
+        },
+        {
+            "greenlandic": "Malik",
+            "audio": "names_104.mp3"
+        },
+        {
+            "greenlandic": "Meeraq",
+            "audio": "names_105.mp3"
+        },
+        {
+            "greenlandic": "Miilu",
+            "audio": "names_106.mp3"
+        },
+        {
+            "greenlandic": "Mikisoq",
+            "audio": "names_107.mp3"
+        },
+        {
+            "greenlandic": "Nukappi",
+            "audio": "names_108.mp3"
+        },
+        {
+            "greenlandic": "Nukappiannguaq",
+            "audio": "names_109.mp3"
+        },
+        {
+            "greenlandic": "Suluk",
+            "audio": "names_110.mp3"
+        },
+        {
+            "greenlandic": "Ulloriaq",
+            "audio": "names_111.mp3"
+        },
+        {
+            "greenlandic": "Ulloriannguaq",
+            "audio": "names_112.mp3"
+        }
+    ]
+}
