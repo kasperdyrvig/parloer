@@ -1948,6 +1948,2692 @@
             "image": "december.png"
         }
     ],
+    "greeting": [
+        {
+            "danish": "hilsen",
+            "greenlandic": "ilassineq",
+            "audio": "greetings_01.mp3"
+        },
+        {
+            "danish": "Hej",
+            "greenlandic": "Aluu",
+            "audio": "greetings_02.mp3"
+        },
+        {
+            "danish": "Farvel",
+            "greenlandic": "Baarj",
+            "audio": "greetings_03.mp3"
+        },
+        {
+            "danish": "Vi ses.",
+            "greenlandic": "Takuss.",
+            "note": "Kort form af \"takussaagut\"",
+            "audio": "greetings_04.mp3"
+        },
+        {
+            "danish": "Vi ses i morgen.",
+            "greenlandic": "Aqagu takuss.",
+            "audio": "greetings_05.mp3"
+        },
+        {
+            "danish": "Vi ses på tirsdag.",
+            "greenlandic": "Marlunngorpat takuss.",
+            "audio": "greetings_06.mp3"
+        },
+        {
+            "danish": "Hvad hedder du?",
+            "greenlandic": "Qanoq ateqarpit?",
+            "audio": "greetings_07.mp3"
+        },
+        {
+            "danish": "Jeg hedder _.",
+            "greenlandic": "_-mik ateqarpunga.",
+            "audio": "greetings_08.mp3"
+        },
+        {
+            "danish": "Han/hun hedder _.",
+            "greenlandic": "_-mik ateqarpoq.",
+            "audio": "greetings_09.mp3"
+        },
+        {
+            "danish": "Det er min ven.",
+            "greenlandic": "Tassa ikinngutiga.",
+            "audio": "greetings_10.mp3"
+        },
+        {
+            "danish": "Det er min mand.",
+            "greenlandic": "Tassa uiga.",
+            "audio": "greetings_11.mp3"
+        },
+        {
+            "danish": "Det er min kone.",
+            "greenlandic": "Tassa nuliara.",
+            "audio": "greetings_12.mp3"
+        },
+        {
+            "danish": "Jeg er glad for at træffe dig.",
+            "greenlandic": "Naapillutit nuannerpoq.",
+            "audio": "greetings_13.mp3"
+        },
+        {
+            "danish": "I lige måde.",
+            "greenlandic": "Illillu.",
+            "audio": "greetings_14.mp3"
+        },
+        {
+            "danish": "Hvor er du fra?",
+            "greenlandic": "Sumiuuit?",
+            "audio": "greetings_15.mp3"
+        },
+        {
+            "danish": "Jeg er født i _.",
+            "greenlandic": "_-mi inunngorpunga.",
+            "audio": "greetings_16.mp3"
+        },
+        {
+            "danish": "Jeg voksede op i _.",
+            "greenlandic": "_-mi peroriartorpunga.",
+            "audio": "greetings_17.mp3"
+        },
+        {
+            "danish": "Hvor bor du?",
+            "greenlandic": "Sumi najugaqarpit?",
+            "audio": "greetings_18.mp3"
+        },
+        {
+            "danish": "Jeg bor i _.",
+            "greenlandic": "_-mi najugaqarpunga.",
+            "audio": "greetings_19.mp3"
+        },
+        {
+            "danish": "Hvor er _?",
+            "greenlandic": "_ sumiippa?",
+            "audio": "greetings_20.mp3"
+        },
+        {
+            "danish": "Kan du vise mig hvor det er på et kort?",
+            "greenlandic": "Sumiinnersoq nunap assingani takutissinnaaviuk?",
+            "audio": "greetings_21.mp3"
+        },
+        {
+            "danish": "Har du det godt?",
+            "greenlandic": "Ajunngilatit?",
+            "note": "En typisk hilsen man bruger til nogen man kender",
+            "audio": "greetings_22.mp3"
+        },
+        {
+            "danish": "Hvordan har du det?",
+            "greenlandic": "Qanorippit?",
+            "note": "En typisk hilsen man bruger til nogen man kender",
+            "audio": "greetings_23.mp3"
+        },
+        {
+            "danish": "Jeg har det godt.",
+            "greenlandic": "Ajunngilanga.",
+            "audio": "greetings_24.mp3"
+        },
+        {
+            "danish": "Du må have det godt.",
+            "greenlandic": "Ajunnginniarna.",
+            "audio": "greetings_25.mp3"
+        },
+        {
+            "danish": "Jeg føler med dig.",
+            "greenlandic": "Misiginneqatigaakkit.",
+            "audio": "greetings_26.mp3"
+        },
+        {
+            "danish": "Du må have god bedring.",
+            "greenlandic": "Peqqissilluarina.",
+            "audio": "greetings_27.mp3"
+        },
+        {
+            "danish": "Hils _.",
+            "greenlandic": "_ aluugooq.",
+            "audio": "greetings_28.mp3"
+        },
+        {
+            "danish": "Jeg kan komme igen en anden dag.",
+            "greenlandic": "Ullu alla uteqqissinnaavunga.",
+            "audio": "greetings_29.mp3"
+        }
+    ],
+    "language": [
+        {
+            "danish": "sprog",
+            "greenlandic": "oqaatsit",
+            "audio": "languages_01.mp3"
+        },
+        {
+            "danish": "grønlandsk",
+            "greenlandic": "kalaallisut",
+            "audio": "languages_02.mp3"
+        },
+        {
+            "danish": "dansk",
+            "greenlandic": "qallunaatut",
+            "audio": "languages_03.mp3"
+        },
+        {
+            "danish": "engelsk",
+            "greenlandic": "tuluttut",
+            "audio": "languages_04.mp3"
+        },
+        {
+            "danish": "Taler du grønlandsk?",
+            "greenlandic": "Kalaallisut oqaluttarpit?",
+            "audio": "languages_05.mp3"
+        },
+        {
+            "danish": "Taler du dansk?",
+            "greenlandic": "Qallunaatut oqaluttarpit?",
+            "audio": "languages_06.mp3"
+        },
+        {
+            "danish": "Jeg kan ikke tale grønlandsk.",
+            "greenlandic": "Kalaallisut oqalussinnaanngilanga.",
+            "audio": "languages_07.mp3"
+        },
+        {
+            "danish": "Jeg taler ikke så godt grønlandsk endnu.",
+            "greenlandic": "Kalaallisut suli iluamik oqalussinnaanngilanga.",
+            "audio": "languages_08.mp3"
+        },
+        {
+            "danish": "Jeg er ved at lære grønlandsk.",
+            "greenlandic": "Kalaallisut oqalunneq ilinniarpara.",
+            "audio": "languages_09.mp3"
+        },
+        {
+            "danish": "Jeg lærer grønlandsk så jeg kan tale med mennesker om Bibelen.",
+            "greenlandic": "Inuit Biibili pillugu oqaloqatigiumallugit kalaallisut oqalunneq ilinniarpara.",
+            "audio": "languages_10.mp3"
+        },
+        {
+            "danish": "Undskyld?/Hva?",
+            "greenlandic": "Qanoq?",
+            "note": "Når du ikke hørte hvad der blev sagt",
+            "audio": "languages_11.mp3"
+        },
+        {
+            "danish": "Jeg forstår ikke.",
+            "greenlandic": "Paasinngilara.",
+            "audio": "languages_12.mp3"
+        },
+        {
+            "danish": "Jeg forstår dig ikke.",
+            "greenlandic": "Paasinngilakkit.",
+            "audio": "languages_13.mp3"
+        },
+        {
+            "danish": "Kan du tale lidt langsommere?",
+            "greenlandic": "Arriinnerusumik oqalussinnaavit?",
+            "audio": "languages_14.mp3"
+        },
+        {
+            "danish": "Kan du sige det igen?",
+            "greenlandic": "Oqaqqilaarit.",
+            "audio": "languages_15.mp3"
+        },
+        {
+            "danish": "Hvad betyder \"_\"?",
+            "greenlandic": "\"_\" qanoq isumaqarpa?",
+            "audio": "languages_16.mp3"
+        },
+        {
+            "danish": "Hvordan siger man \"_\" på grønlandsk?",
+            "greenlandic": "\"_\" kalaallisut qanoq taasarpaat?",
+            "audio": "languages_17.mp3"
+        },
+        {
+            "danish": "Kunne du skrive det ned for mig?",
+            "greenlandic": "Allassinnaaviuk?",
+            "audio": "languages_18.mp3"
+        },
+        {
+            "danish": "Ret mig hvis jeg siger det forkert.",
+            "greenlandic": "Kukkuguma oqassaatit.",
+            "audio": "languages_19.mp3"
+        },
+        {
+            "danish": "Kan du forklare det på dansk?",
+            "greenlandic": "Qallunaatut nassuiarsinnaaviuk?",
+            "audio": "languages_20.mp3"
+        },
+        {
+            "danish": "Kan du forklare det på grønlandsk?",
+            "greenlandic": "Kalaallisut nassuiarsinnaaviuk?",
+            "audio": "languages_21.mp3"
+        }
+    ],
+    "postgreeting": [
+        {
+            "danish": "Efter hilsnen",
+            "greenlandic": "Ilassinerup kingorna",
+            "audio": "after-greeting_01.mp3"
+        },
+        {
+            "danish": "Jeg er glad for træffe dig.",
+            "greenlandic": "Naapillutit nuannerpoq.",
+            "audio": "after-greeting_02.mp3"
+        },
+        {
+            "danish": "Jeg er glad for at møde dig igen.",
+            "greenlandic": "Naappeqqillutit nuannerpoq.",
+            "audio": "after-greeting_03.mp3"
+        },
+        {
+            "danish": "Dejligt at se dig igen.",
+            "greenlandic": "Takoqqillutit nuannerpoq.",
+            "audio": "after-greeting_04.mp3"
+        },
+        {
+            "danish": "Dejligt at jeg kan tale med dig igen.",
+            "greenlandic": "Oqaloqatigeeqqissinnaagatta nuannerpoq.",
+            "audio": "after-greeting_05.mp3"
+        },
+        {
+            "danish": "Jeg besøger alle i området.",
+            "greenlandic": "Maani najugaqartut tamaasa naapiniarsarivakka.",
+            "audio": "after-greeting_06.mp3"
+        },
+        {
+            "danish": "Jeg taler med folk om Bibelen",
+            "greenlandic": "Biibili pillugu inuit oqaloqatigaakka.",
+            "audio": "after-greeting_07.mp3"
+        },
+        {
+            "danish": "Jeg tror på Jesus.",
+            "greenlandic": "Jiisusi upperaara.",
+            "audio": "after-greeting_08.mp3"
+        },
+        {
+            "danish": "Jeg er et af Jehovas Vidner.",
+            "greenlandic": "Jehovap Nalunaajaasuisa ilagaannga / Jehovamik Nalunaajaasuuvunga.",
+            "audio": "after-greeting_09.mp3"
+        },
+        {
+            "danish": "Må jeg tale med _?",
+            "greenlandic": "_ oqaloqatigisinnaavara?",
+            "audio": "after-greeting_10.mp3"
+        },
+        {
+            "danish": "Er _ hjemme?",
+            "greenlandic": "_ angerlarsimava?",
+            "audio": "after-greeting_11.mp3"
+        },
+        {
+            "danish": "Kan du hente _?",
+            "greenlandic": "_ aasinnaaviuk?",
+            "note": "Hvis personen bliver stående efter man har spurgt første gang",
+            "audio": "after-greeting_12.mp3"
+        },
+        {
+            "danish": "Må jeg tale med din mand?",
+            "greenlandic": "Uiit oqaloqatigisinnaavara?",
+            "audio": "after-greeting_13.mp3"
+        },
+        {
+            "danish": "Må jeg tale med din kone?",
+            "greenlandic": "Nuliat oqaloqatigisinnaavara?",
+            "audio": "after-greeting_14.mp3"
+        },
+        {
+            "danish": "Må jeg tale med din mor eller far?",
+            "greenlandic": "Anaanat ataatalluunniit oqaloqatigisinnaavara?",
+            "audio": "after-greeting_15.mp3"
+        },
+        {
+            "danish": "Er der nogle voksne hjemme?",
+            "greenlandic": "Inersimasoqarpa?",
+            "audio": "after-greeting_16.mp3"
+        },
+        {
+            "danish": "Kan jeg komme igen en anden dag?",
+            "greenlandic": "Ullu alla aggeqqissinnaavunga?",
+            "audio": "after-greeting_17.mp3"
+        },
+        {
+            "danish": "Undskyld jeg forstyrrede.",
+            "greenlandic": "Akornusersuigama utoqqatserpunga.",
+            "audio": "after-greeting_18.mp3"
+        },
+        {
+            "danish": "Jeg kan se at du har travlt lige nu.",
+            "greenlandic": "Takusinnaavara ulapittutit.",
+            "audio": "after-greeting_19.mp3"
+        },
+        {
+            "danish": "Jeg besøger kort mennesker for at tale om Bibelen",
+            "greenlandic": "Kasuttoqattaarpunga inuit sivikitsumik Biibili pillugu oqaloqatigiumallugit.",
+            "audio": "after-greeting_20.mp3"
+        },
+        {
+            "danish": "Jeg er på besøg fra _.",
+            "greenlandic": "_-mit tikeraarpunga.",
+            "audio": "after-greeting_21.mp3"
+        }
+    ],
+    "questionsanswers": [
+        {
+            "danish": "Hvad med dig?",
+            "greenlandic": "Illimmi?",
+            "audio": "common-questions_01.mp3"
+        },
+        {
+            "danish": "Hvad hedder din mand?",
+            "greenlandic": "Uiit qanoq ateqarpa?",
+            "audio": "common-questions_02.mp3"
+        },
+        {
+            "danish": "Min mand hedder _.",
+            "greenlandic": "Uiga _-mik ateqarpoq.",
+            "audio": "common-questions_03.mp3"
+        },
+        {
+            "danish": "Hvad hedder din kone?",
+            "greenlandic": "Nuliat qanoq ateqarpa?",
+            "audio": "common-questions_04.mp3"
+        },
+        {
+            "danish": "Min kone hedder _.",
+            "greenlandic": "Nuliara _-mik ateqarpoq.",
+            "audio": "common-questions_05.mp3"
+        },
+        {
+            "danish": "Hvornår kom du til Grønland?",
+            "greenlandic": "Qanga Kalaallit Nunaannut tikippit?",
+            "audio": "common-questions_06.mp3"
+        },
+        {
+            "danish": "Hvornår kom du hertil?",
+            "greenlandic": "Qanga maannga tikippit?",
+            "audio": "common-questions_07.mp3"
+        },
+        {
+            "danish": "Hvornår skal I rejse?",
+            "greenlandic": "Qaqugu aallassavisi?",
+            "audio": "common-questions_08.mp3"
+        },
+        {
+            "danish": "Hvor mange børn har du?",
+            "greenlandic": "Qassinik meeraqarpit?",
+            "audio": "common-questions_09.mp3"
+        },
+        {
+            "danish": "Jeg har _ børn.",
+            "greenlandic": "_-nik meeraqarpunga.",
+            "audio": "common-questions_10.mp3"
+        },
+        {
+            "danish": "Har I børn?",
+            "greenlandic": "Meeraqarpisi?",
+            "audio": "common-questions_11.mp3"
+        },
+        {
+            "danish": "Nej, vi har ikke børn.",
+            "greenlandic": "Naamik, meeraqanngilagut.",
+            "audio": "common-questions_12.mp3"
+        },
+        {
+            "danish": "Ja, vi har børn.",
+            "greenlandic": "Aap, meeraqarpugut.",
+            "audio": "common-questions_13.mp3"
+        },
+        {
+            "danish": "Hvad hedder dine børn?",
+            "greenlandic": "Meeqqatit qanoq ateqarpat?",
+            "audio": "common-questions_14.mp3"
+        },
+        {
+            "danish": "Hvor gamle er dine børn?",
+            "greenlandic": "Meeqqatit qassinik ukioqarpat?",
+            "audio": "common-questions_15.mp3"
+        },
+        {
+            "danish": "Drikker du kaffe?",
+            "greenlandic": "Kaffisortarpit?",
+            "audio": "common-questions_16.mp3"
+        },
+        {
+            "danish": "Ja, jeg drikker kaffe.",
+            "greenlandic": "Aap, kaffisortarpunga.",
+            "audio": "common-questions_17.mp3"
+        },
+        {
+            "danish": "Nej tak.",
+            "greenlandic": "Qujaannarpunga.",
+            "audio": "common-questions_18.mp3"
+        },
+        {
+            "danish": "Har I nogle bøger?",
+            "greenlandic": "Atuagaateqarpisi?",
+            "audio": "common-questions_19.mp3"
+        },
+        {
+            "danish": "Har I nogle blade?",
+            "greenlandic": "Atuagassiaateqarpisi?",
+            "audio": "common-questions_20.mp3"
+        },
+        {
+            "danish": "Hvornår blev du døbt?",
+            "greenlandic": "Qanga kuisippit?",
+            "audio": "common-questions_21.mp3"
+        },
+        {
+            "danish": "Jeg blev døbt i_.",
+            "greenlandic": "_-mi kuisippunga.",
+            "audio": "common-questions_22.mp3"
+        },
+        {
+            "danish": "Går du i kirke?",
+            "greenlandic": "Naalagiartarpit?",
+            "audio": "common-questions_23.mp3"
+        },
+        {
+            "danish": "Vi holder vores egne møder.",
+            "greenlandic": "Nammineq ataatsimiittarpugut.",
+            "audio": "common-questions_24.mp3"
+        },
+        {
+            "danish": "Vi holder møde to gange om ugen.",
+            "greenlandic": "Sapaatit-akunneri tamaasa marloriarluta ataatsimiittarpugut.",
+            "audio": "common-questions_25.mp3"
+        },
+        {
+            "danish": "Er I fra Pinsemissionen?",
+            "greenlandic": "Piinsisiortuuisi?",
+            "audio": "common-questions_26.mp3"
+        },
+        {
+            "danish": "Nej, vi er ikke fra Pinsemissionen.",
+            "greenlandic": "Naamik, piinsisiortuunngilagut.",
+            "audio": "common-questions_27.mp3"
+        },
+        {
+            "danish": "Ryger I?",
+            "greenlandic": "Pujortartarpisi?",
+            "audio": "common-questions_28.mp3"
+        },
+        {
+            "danish": "Nej, vi ryger ikke.",
+            "greenlandic": "Naamik, pujortarneq ajorpugut.",
+            "audio": "common-questions_29.mp3"
+        },
+        {
+            "danish": "Spiser I kød?",
+            "greenlandic": "Neqitortarpisi?",
+            "audio": "common-questions_30.mp3"
+        },
+        {
+            "danish": "Ja, hvis blodet er løbet fra.",
+            "greenlandic": "Aap, aaverneqarsimappat.",
+            "audio": "common-questions_31.mp3"
+        },
+        {
+            "danish": "Hvor arbejder du?",
+            "greenlandic": "Sumi sulisarpit?",
+            "audio": "common-questions_32.mp3"
+        },
+        {
+            "danish": "Jeg arbejder i _.",
+            "greenlandic": "_-mi sulisarpunga.",
+            "audio": "common-questions_33.mp3"
+        },
+        {
+            "danish": "Hvornår skal du føde?",
+            "greenlandic": "Qaqugu ernisussavit?",
+            "audio": "common-questions_34.mp3"
+        },
+        {
+            "danish": "Gør det ondt?",
+            "greenlandic": "Anniarpit?",
+            "audio": "common-questions_35.mp3"
+        },
+        {
+            "danish": "Hvad har du lavet?",
+            "greenlandic": "Sugavit?",
+            "note": "Bruges fx til en med en brækket arm e.l.",
+            "audio": "common-questions_36.mp3"
+        },
+        {
+            "danish": "Er _ flyttet?",
+            "greenlandic": "_ nuukkami?",
+            "audio": "common-questions_37.mp3"
+        },
+        {
+            "danish": "Hvortil?",
+            "greenlandic": "Sumut?",
+            "audio": "common-questions_38.mp3"
+        },
+        {
+            "danish": "Hvornår kommer _ tilbage?",
+            "greenlandic": "_ qaqugu uteqqissava?",
+            "audio": "common-questions_39.mp3"
+        },
+        {
+            "danish": "Hvornår får _ fri?",
+            "greenlandic": "_ qaqugu soraassava?",
+            "audio": "common-questions_40.mp3"
+        },
+        {
+            "danish": "Hvad interesserer dig?",
+            "greenlandic": "Sunik soqutigisaqarpit?",
+            "audio": "common-questions_41.mp3"
+        },
+        {
+            "danish": "Hvilken kan du bedst lide?",
+            "greenlandic": "Sorleq nuannarinerpaaviuk?",
+            "audio": "common-questions_42.mp3"
+        },
+        {
+            "danish": "Hvad laver du når du har fri?",
+            "greenlandic": "Soraaraangavit sulerisarpit?",
+            "audio": "common-questions_43.mp3"
+        },
+        {
+            "danish": "Har du familie her?",
+            "greenlandic": "Maani ilaqutaqarpit?",
+            "audio": "common-questions_44.mp3"
+        },
+        {
+            "danish": "Hvad studerer du til?",
+            "greenlandic": "Sutut ilinniarpit?",
+            "audio": "common-questions_45.mp3"
+        }
+    ],
+    "presenttopic": [
+        {
+            "danish": "Stille spørgsmål",
+            "greenlandic": "Aperineq",
+            "audio": "presentations_01.mp3"
+        },
+        {
+            "danish": "Tror du Gud lytter til alle bønner?",
+            "greenlandic": "Isumaqarpit Guutip qinnutit tamaasa tusartarai?",
+            "audio": "presentations_02.mp3"
+        },
+        {
+            "danish": "Tror du Gud godkender alle religioner?",
+            "greenlandic": "Isumaqarpit Guutip upperisarsiornerit tamaasa akuerigai?",
+            "audio": "presentations_03.mp3"
+        },
+        {
+            "danish": "Tror du at det var Guds mening at vi skulle have alle de problemer vi ser i dag?",
+            "greenlandic": "Isumaqarpit Guutip ajornartorsiuteqartarnerput piumasarigaa?",
+            "audio": "presentations_04.mp3"
+        },
+        {
+            "danish": "Tror du at dem vi har mistet i døden vil få livet igen?",
+            "greenlandic": "Ilimagaajuk inuit toqusimasut inooqqilersinnaasut?",
+            "audio": "presentations_05.mp3"
+        },
+        {
+            "danish": "Tror du at det er muligt for mennesker at have et tæt forhold til Gud?",
+            "greenlandic": "Isumaqarpit inuit Guutimut qanittumik attaveqarsinnaasut?",
+            "audio": "presentations_06.mp3"
+        },
+        {
+            "danish": "Tror du at det er muligt at være lykkelig selvom vi har problemer?",
+            "greenlandic": "Isumaqarpit ajornartorsiuteqaraluarluni pilluartoqarsinnaasoq?",
+            "audio": "presentations_07.mp3"
+        },
+        {
+            "danish": "Hvis du kunne ændre én ting i verden, hvad skulle det så være?",
+            "greenlandic": "Nunarsuarmi arlaannik allannguisinnaasuuguit, suna allanngussagaluarpiuk?",
+            "audio": "presentations_08.mp3"
+        },
+        {
+            "danish": "Hvis du kunne stille Gud et spørgmål, hvad ville det så være?",
+            "greenlandic": "Guuti aperisinnaagukku, qanoq aperissagaluarpiuk?",
+            "audio": "presentations_09.mp3"
+        },
+        {
+            "danish": "Har du tænkt over hvorfor Gud tillader ondskab og lidelser?",
+            "greenlandic": "Eqqarsaatiginikuuiuk sooq Guutip ajortut naalliuutillu akuerigai?",
+            "audio": "presentations_10.mp3"
+        },
+        {
+            "danish": "Har du tænk over hvorfor mennesker bliver set ned på, på grund af deres race, nationalitet eller sprog?",
+            "greenlandic": "Eqqarsaatiginikuuiuk sooq inuit ilaat ammip qalipaataa, sumiuussuseq oqaatsilluunniit pissutigalugit nikanarsarneqartartut?",
+            "audio": "presentations_11.mp3"
+        },
+        {
+            "danish": "Har du tænkt over hvorfor vi bliver gamle?",
+            "greenlandic": "Eqqarsaatiginikuuiuk sooq utoqqalisartugut?",
+            "audio": "presentations_12.mp3"
+        },
+        {
+            "danish": "Vidste du at Bibelens udtalelser om videnskab er nøjagtige?",
+            "greenlandic": "Nalunngiliuk Biibili ilisimatusarnikkut naapertuuttoq?",
+            "audio": "presentations_13.mp3"
+        },
+        {
+            "danish": "Vidste du at Bibelen siger at der snart kun vil være én regering som styrer hele jorden?",
+            "greenlandic": "Nalunngiliuk Biibilimi allassimasoq nunarsuaq siunissami naalagaaffimmit ataatsimit naalakkersorneqalissasoq?",
+            "audio": "presentations_14.mp3"
+        },
+        {
+            "danish": "Vidste du at Bibelen lover at kriminalitet snart bliver fjernet?",
+            "greenlandic": "Nalunngiliuk pinerluttuliortoqartarunnaarnissaa Biibilimi neriorsuutigineqartoq?",
+            "audio": "presentations_15.mp3"
+        },
+        {
+            "danish": "Har du lagt mærke til at mange kristne ikke følger Jesus' lære?",
+            "greenlandic": "Maluginiarnikuuiuk kristumiorpassuit Jiisusip peqqussutaatut iliorneq ajortut?",
+            "audio": "presentations_16.mp3"
+        },
+        {
+            "danish": "Kunne du tænke dig at kende svaret på det spørgsmål?",
+            "greenlandic": "Apeqqutip akissutaa paaserusuppiuk?",
+            "audio": "presentations_17.mp3"
+        },
+        {
+            "danish": "Vil du gerne vide hvad Bibelen siger om det?",
+            "greenlandic": "Tamanna pillugu Biibilimi qanoq allassimasoqartoq paaserusuppiuk?",
+            "audio": "presentations_18.mp3"
+        },
+        {
+            "danish": "Hvor tror du vi kan få gode og praktiske svar?",
+            "greenlandic": "Siunnersuutit atoriaannaasut sumi nanineqarsinnaasoraagit?",
+            "audio": "presentations_19.mp3"
+        },
+        {
+            "danish": "Hvor tror du forældre kan finde hjælpsomme råd?",
+            "greenlandic": "Siunnersuutit angajoqqaat atorsinnaasaat sumi nanineqarsinnaasoraagit?",
+            "audio": "presentations_20.mp3"
+        },
+        {
+            "danish": "Hvad tror du?",
+            "greenlandic": "Qanoq isumaqarpit?",
+            "audio": "presentations_21.mp3"
+        },
+        {
+            "danish": "Hvad synes du om det?",
+            "greenlandic": "Qanoq isumaqarfigaajuk?",
+            "audio": "presentations_22.mp3"
+        },
+        {
+            "danish": "Hvad tror du er årsagen?",
+            "greenlandic": "Pissutaa suusoraajuk?",
+            "audio": "presentations_23.mp3"
+        },
+        {
+            "danish": "Hvad tror du er løsningen på problemet?",
+            "greenlandic": "Ajornartorsiut qanoq aaqqineqarsinnaasoraajuk?",
+            "audio": "presentations_24.mp3"
+        },
+        {
+            "danish": "Hvad vil du svare på det?",
+            "greenlandic": "Qanoq akissagaluarpiuk?",
+            "audio": "presentations_25.mp3"
+        },
+        {
+            "danish": "Har du haft det sådan?",
+            "greenlandic": "Taamatut misigisaqarnikuuit?",
+            "audio": "presentations_26.mp3"
+        },
+        {
+            "danish": "Har du lagt mærke til det?",
+            "greenlandic": "Tamanna maluginiarnikuuiuk?",
+            "audio": "presentations_27.mp3"
+        },
+        {
+            "danish": "Har du oplevet det?",
+            "greenlandic": "Tamanna misiginikuuiuk?",
+            "audio": "presentations_28.mp3"
+        },
+        {
+            "danish": "Synes du det lyder godt?",
+            "greenlandic": "Nuannerpasippa?",
+            "audio": "presentations_29.mp3"
+        },
+        {
+            "danish": "Bekymrer det dig?",
+            "greenlandic": "Isumakuluutigaajuk?",
+            "audio": "presentations_30.mp3"
+        },
+        {
+            "danish": "Synes du det er vigtigt?",
+            "greenlandic": "Pingaaruteqarsoraajuk?",
+            "audio": "presentations_31.mp3"
+        },
+        {
+            "danish": "Er du enig?",
+            "greenlandic": "Isumaqataavit?",
+            "audio": "presentations_32.mp3"
+        },
+        {
+            "danish": "Jeg stiller alle det her spørgsmål: _",
+            "greenlandic": "Inuit ima aperisarpakka: _",
+            "audio": "indledning1.mp3"
+        },
+        {
+            "danish": "Jeg taler med mennesker om hvor man kan finde hjælp til at klare livets problemer.",
+            "greenlandic": "Ajornartorsiutinik qaangiinissamut suna iluaqutigisinnaaneripput pillugu inuit oqaloqatigaakka.",
+            "audio": "indledning2.mp3"
+        },
+        {
+            "danish": "De fleste ønsker en fredelig verden, men der er stadig krige.",
+            "greenlandic": "Inuit amerlanersaat eqqiseqatigiikkusupput, sorsuttoqartuarporli.",
+            "audio": "indledning3.mp3"
+        },
+        {
+            "danish": "De fleste ønsker sig et godt helbred og et langt liv.",
+            "greenlandic": "Inuit amerlanersaat peqqillutik sivisuumillu inuuneqarusupput.",
+            "audio": "indspilning4.mp3"
+        },
+        {
+            "danish": "De fleste forældre ønsker at deres børn får en god uddannelse.",
+            "greenlandic": "Angajoqqaat amerlanersaat qitornamik ilinniagaqarluarnissaat kissaatigaat",
+            "audio": "indspilning5.mp3"
+        },
+        {
+            "danish": "Vi vil alle gerne have et godt familieliv.",
+            "greenlandic": "Tamatta ilaqutariittut pilluarusuppugut",
+            "audio": "indspilning6.mp3"
+        },
+        {
+            "danish": "Vi er alle bekymrede over kriminaliteten og volden her.",
+            "greenlandic": "Tamatta tamaani pinerluttoqartarnera nakuusertoqartarneralu isumakuluutigaarput",
+            "audio": "indspilning7.mp3"
+        },
+        {
+            "danish": "Mange tror at vores liv er forudbestemt.",
+            "greenlandic": "Inuppassuit isumaqarput inuunerput siumut aalajangigaareersoq",
+            "audio": "indspilning8.mp3"
+        },
+        {
+            "danish": "Mange mennesker siger de kun tror på det de kan se.",
+            "greenlandic": "Inuppassuit oqartarput takusinnaasatik kisiisa upperalugit",
+            "audio": "indspilning9.mp3"
+        },
+        {
+            "danish": "Nogle siger at alle religioner er forskellige veje der fører til den samme Gud.",
+            "greenlandic": "Inuit ilaat oqartarput upperisarsiornerit assigiinngitsut tamarmik Guutimut aqqutaasut",
+            "audio": "indspilning10.mp3"
+        },
+        {
+            "danish": "Nogle føler at Gud er ansvarlig for alt hvad der sker.",
+            "greenlandic": "Inuit ilaasa Guuti pisunut tamanut pisuutittarpaat.",
+            "audio": "indspilning11.mp3"
+        },
+        {
+            "danish": "Mange mener at beretningen om Adam og Eva er fiktion. Andre tror at Adam og Eva var virkelige personer.",
+            "greenlandic": "Inuppassuit isumaqarput Adami Evalu pillugit allassimasut oqaluttualiaannaasut. Allalli piviusuusorivaat.",
+            "audio": "indspilning12.mp3"
+        },
+        {
+            "danish": "Mange tror på mirakler. Andre er skeptiske.",
+            "greenlandic": "Inuit ilaat tupinnartuliartoqarsinnaasoq upperaat, allalli upperiuminaatsippaat.",
+            "audio": "indspilning13.mp3"
+        }
+    ],
+    "pointtobible": [
+        {
+            "danish": "Henvise til Bibelen",
+            "greenlandic": "Biibilimut innersuussineq",
+            "audio": "using-the-bible_01.mp3"
+        },
+        {
+            "danish": "Bibelen forsikrer os om at problemerne snart vil blive fjernet.",
+            "greenlandic": "Biibilimi neriorsorneqarpugut ajornartorsiutigut qanittukkut peerneqassasut.",
+            "audio": "using-the-bible_02.mp3"
+        },
+        {
+            "danish": "I Guds ord bliver vi opfordret til at bede.",
+            "greenlandic": "Guutip oqaasiani qinusaqquneqarpugut.",
+            "audio": "using-the-bible_03.mp3"
+        },
+        {
+            "danish": "I Bibelen får man gode råd til hvordan man får et lykkeligt familieliv.",
+            "greenlandic": "Ilaqutariit pilluarnissaannut Biibilimi pitsaasunik siunnersuutissaqarpoq.",
+            "audio": "using-the-bible_04.mp3"
+        },
+        {
+            "danish": "Læg mærke til hvad Gud siger.",
+            "greenlandic": "Guutip oqaasii maluginiakkit.",
+            "audio": "using-the-bible_05.mp3"
+        },
+        {
+            "danish": "Læg mærke til hvad Jesus engang har sagt.",
+            "greenlandic": "Jiisusip oqaasii maluginiakkit.",
+            "audio": "using-the-bible_06.mp3"
+        },
+        {
+            "danish": "Læg mærke til hvad en profet har skrevet.",
+            "greenlandic": "Pruffiitip allatai maluginiakkit.",
+            "audio": "using-the-bible_07.mp3"
+        },
+        {
+            "danish": "Læg mærke til hvad profeten Daniel nedskrev.",
+            "greenlandic": "Pruffiiti Danieli qanoq allassimasoq maluginiaruk.",
+            "audio": "using-the-bible_08.mp3"
+        },
+        {
+            "danish": "Bemærk hvad verset siger.",
+            "greenlandic": "Versimi qanoq allassimasoq maluginiaruk.",
+            "audio": "using-the-bible_09.mp3"
+        },
+        {
+            "danish": "Bemærk hvad der står i paragraffen.",
+            "greenlandic": "Immikkoortumi qanoq allassimasoq maluginiaruk.",
+            "audio": "using-the-bible_10.mp3"
+        },
+        {
+            "danish": "Bemærk hvad der står i Bibelen.",
+            "greenlandic": "Biibilimi qanoq allassimasoq maluginiaruk.",
+            "audio": "using-the-bible_11.mp3"
+        },
+        {
+            "danish": "Lagde du mærke til hvad der stod i den sidste del af verset?",
+            "greenlandic": "Versip naggataa tungaani qanoq allassimasoq malugaajuk?",
+            "audio": "using-the-bible_12.mp3"
+        },
+        {
+            "danish": "Har du lyst til at se hvad der står i Bibelen om det problem?",
+            "greenlandic": "Ajornartorsiut tamanna pillugu Biibilimi qanoq allassimasoqartoq paaserusuppiuk?",
+            "audio": "using-the-bible_13.mp3"
+        },
+        {
+            "danish": "Må jeg vise dig Bibelens svar på det spørgsmål?",
+            "greenlandic": "Apeqqutip tamatuma akissutaa Biibilimi takutissinnaavara?",
+            "audio": "using-the-bible_14.mp3"
+        },
+        {
+            "danish": "Må jeg vise dig nogle gode råd fra Guds ord?",
+            "greenlandic": "Siunnersuutitsialaat Guutip oqaasianeersut ilinnut takutissinnaavakka?",
+            "audio": "using-the-bible_15.mp3"
+        },
+        {
+            "danish": "Tror du at vi nogensinde vil komme til at opleve de forhold der beskrives her?",
+            "greenlandic": "Pissutsit uani allaatigineqartut siunissami piviusunngussasoraagit?",
+            "audio": "using-the-bible_16.mp3"
+        },
+        {
+            "danish": "Hvad synes du om det her råd?",
+            "greenlandic": "Siunnersuut una qanoq igaajuk?",
+            "audio": "using-the-bible_17.mp3"
+        },
+        {
+            "danish": "Tror du at man vil få et bedre familieliv, hvis man følger det her råd fra Bibelen?",
+            "greenlandic": "Siunnersuut Biibilimeersoq una maleruarneratigut ilaqutariittut pillualertoqarsinnaasoraajuk?",
+            "audio": "using-the-bible_18.mp3"
+        },
+        {
+            "danish": "Vidste du at Bibelen indeholder profetier om den tid vi lever på?",
+            "greenlandic": "Nalunngiliuk nalerput pillugu Biibilimi siulittuuteqartoq?",
+            "audio": "using-the-bible_19.mp3"
+        },
+        {
+            "danish": "Tror du at det her nogensinde vil gå i opfyldelse?",
+            "greenlandic": "Uku eqquussinnaasoraagit?",
+            "audio": "using-the-bible_20.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne høre din mening om det her vers.",
+            "greenlandic": "Versi una pillugu isummat tusarusuppara.",
+            "audio": "using-the-bible_21.mp3"
+        },
+        {
+            "danish": "Vil du mene at Bibelens profetier bliver opfyldt i vores tid?",
+            "greenlandic": "Siulittuutit Biibilimeersut nalitsinni eqquussoraagit?",
+            "audio": "using-the-bible_22.mp3"
+        },
+        {
+            "danish": "Hvis du havde magten til at gennemføre de her ændringer, ville du så gøre det?",
+            "greenlandic": "Pissutsit imatut allanngortissinnaasuugukkit taamaaliussagaluarpit?",
+            "audio": "using-the-bible_23.mp3"
+        },
+        {
+            "danish": "Tror du at verden ville være et bedre sted, hvis alle fulgte det her råd?",
+            "greenlandic": "Siunnersuut una inuit tamarmik maleruartuugunikku nunarsuarmi pissutsit pitsaanerussagaluarpat?",
+            "audio": "using-the-bible_24.mp3"
+        },
+        {
+            "danish": "Hvordan tror du det ville gavne en familie, hvis de fulgte det her råd?",
+            "greenlandic": "Siunnersuut una ilaqutariit maleruarunikku qanoq iluaqutigisinnaavaat?",
+            "audio": "using-the-bible_25.mp3"
+        }
+    ],
+    "phonewitness": [
+        {
+            "danish": "Du kender mig ikke",
+            "greenlandic": "Nalugaluarparma.",
+            "audio": "phone_01.mp3"
+        },
+        {
+            "danish": "Du kender mig ikke",
+            "greenlandic": "Ilisarisimanngilarma.",
+            "audio": "phone_02.mp3"
+        },
+        {
+            "danish": "Jeg ringer fra _ [bynavn]",
+            "greenlandic": "_-minngaanniit sianerpunga.",
+            "audio": "phone_03.mp3"
+        },
+        {
+            "danish": "Jeg ringer ud fra telefonbogen",
+            "greenlandic": "Telefonbogi atorlugu sianeqattaarpunga.",
+            "audio": "phone_04.mp3"
+        },
+        {
+            "danish": "Jeg har fundet dit nummer i telefonbogen",
+            "greenlandic": "Normut telefonbogimi nanivara.",
+            "audio": "phone_05.mp3"
+        },
+        {
+            "danish": "Må jeg forstyrre kort?",
+            "greenlandic": "Sivikitsumik akornusilaarsinnaavakkit?",
+            "audio": "phone_06.mp3"
+        },
+        {
+            "danish": "Forstyrrer jeg?",
+            "greenlandic": "Akornusersuivunga?",
+            "audio": "phone_07.mp3"
+        },
+        {
+            "danish": "Forstyrrer jeg dig?",
+            "greenlandic": "Akornuserpakkit?",
+            "audio": "phone_08.mp3"
+        },
+        {
+            "danish": "Er det bedre hvis jeg ringer igen en anden dag?",
+            "greenlandic": "Ullu alla sianeqqikkuma ajunnginnerussava?",
+            "audio": "phone_09.mp3"
+        },
+        {
+            "danish": "Ville en samtale om Bibelen have din interesse en anden dag?",
+            "greenlandic": "Ullu alla Biibili pillugu oqaloqatigiinnissaq soqutiginartissagaluarpiuk?",
+            "audio": "phone_10.mp3"
+        },
+        {
+            "danish": "Hvornår passer det bedst?",
+            "greenlandic": "Qaqugukkut pitsaanerussava?",
+            "audio": "phone_11.mp3"
+        },
+        {
+            "danish": "Hvornår har du bedst tid?",
+            "greenlandic": "Qaqugukkut piffissaqarnerusarpit?",
+            "audio": "phone_12.mp3"
+        },
+        {
+            "danish": "Hvad tid skal jeg ringe?",
+            "greenlandic": "Qassinut sianissaanga?",
+            "audio": "phone_13.mp3"
+        },
+        {
+            "danish": "Min ven der taler grønlandsk kan ringe til dig.",
+            "greenlandic": "Ikinngutima kalaallisut oqaluttup sianerfigisinnaavaatit.",
+            "audio": "phone_14.mp3"
+        },
+        {
+            "danish": "Jeg ringer for at tale med dig om det her spørgsmål.",
+            "greenlandic": "Sianerfigaakkit apeqqut una eqqartorumallugu.",
+            "audio": "phone_15.mp3"
+        },
+        {
+            "danish": "Jeg ringer til folk for at tale med dem om Bibelen",
+            "greenlandic": "Biibili pillugu inuit oqaloqatigiumallugit sianeqattaarpunga.",
+            "audio": "phone_16.mp3"
+        },
+        {
+            "danish": "Jeg taler ikke så godt grønlandsk endnu, så min ven sidder ved siden af og hjælper mig",
+            "greenlandic": "Suli kalaallisut iluamik oqalussinnaannginnama ikinngutima saninniittup ikiorpaanga.",
+            "audio": "phone_17.mp3"
+        },
+        {
+            "danish": "Er det okay at jeg sætter dig på medhør?",
+            "greenlandic": "Ajunngila højttalerertikkukku?",
+            "audio": "phone_18.mp3"
+        },
+        {
+            "danish": "Mit nummer er _",
+            "greenlandic": "Normuga imaappoq _.",
+            "audio": "phone_19.mp3"
+        },
+        {
+            "danish": "Jeg kan sende blade til dig pr. post",
+            "greenlandic": "Atuagassiat allakkatigut nassiussinnaavakka.",
+            "audio": "phone_20.mp3"
+        },
+        {
+            "danish": "Hvad er din adresse?",
+            "greenlandic": "Najukkat suua? ",
+            "audio": "phone_34.mp3"
+        },
+        {
+            "danish": "Næste gang jeg ringer kan vi tale om det her spørgsmål _",
+            "greenlandic": "Tulliani sianeruma apeqqut una sammisinnaavarput: _",
+            "audio": "phone_21.mp3"
+        },
+        {
+            "danish": "Hvis det er okay, vil jeg gerne ringe igen en anden dag.",
+            "greenlandic": "Ajorinngikkukku ullu alla sianeqqissinnaavunga.",
+            "audio": "phone_22.mp3"
+        },
+        {
+            "danish": "Det var dejligt at tale med dig.",
+            "greenlandic": "Nuannerpoq oqaloqatigalutit.",
+            "audio": "phone_23.mp3"
+        },
+        {
+            "danish": "Må jeg sende et link til dig på SMS?",
+            "greenlandic": "SMS-ikkut linki nassiussinnaavara?",
+            "audio": "phone_24.mp3"
+        },
+        {
+            "danish": "Jeg kan sende et link til en video der handler om det på SMS.",
+            "greenlandic": "Tamanna pillugu isiginnaagassiamut linki SMS-ikkut nassiussinnaavara.",
+            "audio": "phone_25.mp3"
+        },
+        {
+            "danish": "Vi tales ved.",
+            "greenlandic": "Tusass. ",
+            "note": "Forkortelse af \"tusassaagut\". ",
+            "audio": "phone_26.mp3"
+        },
+        {
+            "danish": "Sidste gang jeg ringede til dig snakkede vi om _",
+            "greenlandic": "Kingullermi sianerfigigakkit una sammivarput _.",
+            "audio": "phone_27.mp3"
+        },
+        {
+            "danish": "Vi snakkede sammen om Bibelen i sidste uge",
+            "greenlandic": "Sapaatip-akunnerani kingullermi Biibili pillugu oqaloqatigiippugut.",
+            "audio": "phone_28.mp3"
+        },
+        {
+            "danish": "Jeg lovede at ringe igen og tale med dig om _",
+            "greenlandic": "Neriorsorpakkit sianerfigeqqinniarlutit una sammiumallugu: _",
+            "audio": "phone_29.mp3"
+        },
+        {
+            "danish": "Passer det fint nu?",
+            "greenlandic": "Massakkut ajunngila?",
+            "audio": "phone_30.mp3"
+        },
+        {
+            "danish": "Jeg kan læse verset højt for dig.",
+            "greenlandic": "Allassimaffimmik atuffassinnaavakkit.",
+            "audio": "phone_31.mp3"
+        },
+        {
+            "danish": "Har du tid til at læse sammen?",
+            "greenlandic": "Atuarnissatsinnut piffissaqalaarpit?",
+            "audio": "phone_32.mp3"
+        },
+        {
+            "danish": "Har du modtaget det blad jeg sendte?",
+            "greenlandic": "Atuagassiaq nassiunnikuusara tiguiuk?",
+            "audio": "phone_33.mp3"
+        },
+        {
+            "danish": "Hvis du har lyst til at lytte med til mødet, kan jeg ringe dig op",
+            "greenlandic": "Ataatsimiinnitsinnut tusarnaarusukkuit sianerfigisinnaavakkit",
+            "audio": "covid_9.mp3"
+        },
+        {
+            "danish": "Jeg kan sende link til vores møde",
+            "greenlandic": "Ataatsimiinnitsinnut linki nassiussinnaavara",
+            "audio": "covid_5.mp3"
+        }
+    ],
+    "invitation": [
+        {
+            "danish": "Jeg vil gerne invitere dig til vores møder",
+            "greenlandic": "Ataatsimiinnissatsinnut qaaqqorusuppakkit",
+            "audio": "invitation1.mp3"
+        },
+        {
+            "danish": "Du og din familie er velkomne",
+            "greenlandic": "Ilaquttatillu tikilluaqqusaavusi",
+            "audio": "invitation2.mp3"
+        },
+        {
+            "danish": "Alle er velkomne",
+            "greenlandic": "Kikkut tamarmik tikilluaqqusaapput",
+            "audio": "invitation3.mp3"
+        },
+        {
+            "danish": "Vi holder møde to gange om ugen",
+            "greenlandic": "Sapaatip-akunneranut marloriarluta ataatsimiittarpugut",
+            "audio": "invitation4.mp3"
+        },
+        {
+            "danish": "Vores rigssal ligger på _ [adressen]",
+            "greenlandic": "Ataatsimiittarfipput _-miippoq",
+            "audio": "invitation5.mp3"
+        },
+        {
+            "danish": "På søndag bliver der holdt et foredrag ud fra Bibelen",
+            "greenlandic": "Sapaatiuppat Biibili tunngavigalugu oqalugiartoqassaaq",
+            "audio": "invitation6.mp3"
+        },
+        {
+            "danish": "På lørdag bliver der holdt et foredrag ud fra Bibelen",
+            "greenlandic": "Arfininngorpat Biibili tunngavigalugu oqalugiartoqassaaq",
+            "audio": "invitation7.mp3"
+        },
+        {
+            "danish": "Foredragets tema er: _",
+            "greenlandic": "Oqalugiaatissaq ima qulequtaqarpoq: _",
+            "audio": "invitation8.mp3"
+        },
+        {
+            "danish": "Det vil blive holdt på grønlandsk",
+            "greenlandic": "Kalaallisut ingerlanneqassaaq",
+            "audio": "invitation9.mp3"
+        },
+        {
+            "danish": "Det vil blive tolket til grønlandsk",
+            "greenlandic": "Kalaallisut nutserneqassaaq",
+            "audio": "invitation10.mp3"
+        },
+        {
+            "danish": "Har du lyst til at være med?",
+            "greenlandic": "Ilaarusuppit?",
+            "audio": "invitation11.mp3"
+        },
+        {
+            "danish": "Hvis du har lyst til at komme med, kan jeg hente dig",
+            "greenlandic": "Ilaarusukkuit aasinnaassavakkit.",
+            "audio": "invitation12.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne invitere dig til et særligt arrangement",
+            "greenlandic": "Pisussamut pingaarutilimmut qaaqqorusuppakkit",
+            "audio": "invitation13.mp3"
+        },
+        {
+            "danish": "Millioner af mennesker verden over kommer til at deltage",
+            "greenlandic": "Nunarsuaq tamakkerlugu inuit millionillit peqataassapput",
+            "audio": "invitation14.mp3"
+        },
+        {
+            "danish": "Det kommer til at foregå _ [dato]",
+            "greenlandic": "_-anni pisussaavoq.",
+            "audio": "invitation15.mp3"
+        },
+        {
+            "danish": "Hvor og hvornår det kommer til at foregå her i byen står i invitationen.",
+            "greenlandic": "Maani illoqarfitsinni qaqugu sumilu pissasoq qaaqqusissummi allassimavoq.",
+            "audio": "invitation16.mp3"
+        },
+        {
+            "danish": "Vi holder en mindehøjtid for Jesus' død",
+            "greenlandic": "Jiisusip toqunera eqqaaniassavarput",
+            "audio": "invitation17.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne invitere dig til mindehøjtiden for Jesus' død",
+            "greenlandic": "Jiisusip toquneranik eqqaaniaanissamut qaaqqorusuppakkit",
+            "audio": "invitation18.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne invitere dig til et særligt foredrag",
+            "greenlandic": "Oqalugiaammut immikkut ittumut qaaqqorusuppakkit",
+            "audio": "invitation19.mp3"
+        },
+        {
+            "danish": "Det har temaet: _",
+            "greenlandic": "Ima qulequtaqarpoq: _",
+            "audio": "invitation20.mp3"
+        },
+        {
+            "danish": "Vi deler en invitation ud",
+            "greenlandic": "Qaaqqusissummik agguaavugut",
+            "audio": "invitation21.mp3"
+        },
+        {
+            "danish": "Her er dit eksemplar",
+            "greenlandic": "Aajuna illit pissat",
+            "audio": "invitation22.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne invitere dig til Jehovas Vidners stævne",
+            "greenlandic": "Jehovap Nalunaajaasuisa ataatsimeersuarnerannut qaaqqorusuppakkit",
+            "audio": "invitation23.mp3"
+        },
+        {
+            "danish": "Der vil blive afholdt et stævne d. [datoer] ",
+            "greenlandic": "_-anni ataatsimeersuartoqassaaq",
+            "audio": "invitation24.mp3"
+        },
+        {
+            "danish": "Temaet for stævnet er: _",
+            "greenlandic": "Ataatsimeersuarnerup qulequtaa imaappoq:",
+            "audio": "invitation25.mp3"
+        },
+        {
+            "danish": "Vi skal til stævne i Nuuk på HHE",
+            "greenlandic": "Nuummi HHE-mi ataatsimeersuassaagut",
+            "audio": "invitation26.mp3"
+        },
+        {
+            "danish": "Til stævnet vil der blive holdt foredrag og vist film baseret på Bibelen",
+            "greenlandic": "Ataatsimeersuarnermi Biibili tunngavigalugu oqalugiartoqarlunilu isiginnaagassiaqassaaq",
+            "audio": "invitation27.mp3"
+        }
+    ],
+    "biblebooks": [
+        {
+            "danish": "1. Mosebog",
+            "greenlandic": "Mosesimik allakkat siulliit",
+            "audio": "books_01.mp3"
+        },
+        {
+            "danish": "2. Mosebog",
+            "greenlandic": "Mosesimik allakkat aappaat",
+            "audio": "books_02.mp3"
+        },
+        {
+            "danish": "3. Mosebog",
+            "greenlandic": "Mosesimik allakkat pingajui",
+            "audio": "books_03.mp3"
+        },
+        {
+            "danish": "4. Mosebog",
+            "greenlandic": "Mosesimik allakkat sisamaat",
+            "audio": "books_04.mp3"
+        },
+        {
+            "danish": "5. Mosebog",
+            "greenlandic": "Mosesimik allakkat tallimaat",
+            "audio": "books_05.mp3"
+        },
+        {
+            "danish": "Josva",
+            "greenlandic": "Josva",
+            "audio": "books_06.mp3"
+        },
+        {
+            "danish": "Dommerne",
+            "greenlandic": "Eqqartuussisut",
+            "audio": "books_07.mp3"
+        },
+        {
+            "danish": "Ruth",
+            "greenlandic": "Ruthi",
+            "audio": "books_08.mp3"
+        },
+        {
+            "danish": "1. Samuel",
+            "greenlandic": "Samuelimik allakkat siulliit",
+            "audio": "books_09.mp3"
+        },
+        {
+            "danish": "2. Samuel",
+            "greenlandic": "Samuelimik allakkat aappaat",
+            "audio": "books_10.mp3"
+        },
+        {
+            "danish": "1. Kongebog",
+            "greenlandic": "Kunnginik allakkat siulliit",
+            "audio": "books_11.mp3"
+        },
+        {
+            "danish": "2. Kongebog",
+            "greenlandic": "Kunnginik allakkat aappaat",
+            "audio": "books_12.mp3"
+        },
+        {
+            "danish": "1. Krønikebog",
+            "greenlandic": "Nalunaarsuutit siulliit",
+            "audio": "books_13.mp3"
+        },
+        {
+            "danish": "2. Krønikebog",
+            "greenlandic": "Nalunaarsuutit aappaat",
+            "audio": "books_14.mp3"
+        },
+        {
+            "danish": "Ezra",
+            "greenlandic": "Ezra",
+            "audio": "books_15.mp3"
+        },
+        {
+            "danish": "Nehemias",
+            "greenlandic": "Nehemia",
+            "audio": "books_16.mp3"
+        },
+        {
+            "danish": "Ester",
+            "greenlandic": "Esteri",
+            "audio": "books_17.mp3"
+        },
+        {
+            "danish": "Job",
+            "greenlandic": "Jobi",
+            "audio": "books_18.mp3"
+        },
+        {
+            "danish": "Salmerne",
+            "greenlandic": "Tussiaatit",
+            "audio": "books_19.mp3"
+        },
+        {
+            "danish": "Ordsprogene",
+            "greenlandic": "Ussatit",
+            "audio": "books_20.mp3"
+        },
+        {
+            "danish": "Prædikeren",
+            "greenlandic": "Oqaluussisartup oqaasii",
+            "audio": "books_21.mp3"
+        },
+        {
+            "danish": "Højsangen",
+            "greenlandic": "Erinarsugassiat Pingaarnersaat",
+            "audio": "books_22.mp3"
+        },
+        {
+            "danish": "Esajas",
+            "greenlandic": "Esaja",
+            "audio": "books_23.mp3"
+        },
+        {
+            "danish": "Jeremias",
+            "greenlandic": "Jeremia",
+            "audio": "books_24.mp3"
+        },
+        {
+            "danish": "Klagesangene",
+            "greenlandic": "Upputit",
+            "audio": "books_25.mp3"
+        },
+        {
+            "danish": "Ezekiel",
+            "greenlandic": "Ezekieli",
+            "audio": "books_26.mp3"
+        },
+        {
+            "danish": "Daniel",
+            "greenlandic": "Danieli",
+            "audio": "books_27.mp3"
+        },
+        {
+            "danish": "Hoseas",
+            "greenlandic": "Hosea",
+            "audio": "books_28.mp3"
+        },
+        {
+            "danish": "Joel",
+            "greenlandic": "Joeli",
+            "audio": "books_29.mp3"
+        },
+        {
+            "danish": "Amos",
+            "greenlandic": "Amosi",
+            "audio": "books_30.mp3"
+        },
+        {
+            "danish": "Obadias",
+            "greenlandic": "Obadia",
+            "audio": "books_31.mp3"
+        },
+        {
+            "danish": "Jonas",
+            "greenlandic": "Jona",
+            "audio": "books_32.mp3"
+        },
+        {
+            "danish": "Mika",
+            "greenlandic": "Mika",
+            "audio": "books_33.mp3"
+        },
+        {
+            "danish": "Nahum",
+            "greenlandic": "Nahumi",
+            "audio": "books_34.mp3"
+        },
+        {
+            "danish": "Habakkuk",
+            "greenlandic": "Habakkuki",
+            "audio": "books_35.mp3"
+        },
+        {
+            "danish": "Sefanias",
+            "greenlandic": "Sefania",
+            "audio": "books_36.mp3"
+        },
+        {
+            "danish": "Haggaj",
+            "greenlandic": "Haggaji",
+            "audio": "books_37.mp3"
+        },
+        {
+            "danish": "Zakarias",
+            "greenlandic": "Zakaria",
+            "audio": "books_38.mp3"
+        },
+        {
+            "danish": "Malakias",
+            "greenlandic": "Malaki",
+            "audio": "books_39.mp3"
+        },
+        {
+            "danish": "Matthæus",
+            "greenlandic": "Matiusi",
+            "audio": "books_40.mp3"
+        },
+        {
+            "danish": "Markus",
+            "greenlandic": "Makkorsi",
+            "audio": "books_41.mp3"
+        },
+        {
+            "danish": "Lukas",
+            "greenlandic": "Lukkarsi",
+            "audio": "books_42.mp3"
+        },
+        {
+            "danish": "Johannes",
+            "greenlandic": "Johannesi",
+            "audio": "books_43.mp3"
+        },
+        {
+            "danish": "Apostlenes Gerninger",
+            "greenlandic": "Apustilit Suliaat",
+            "audio": "books_44.mp3"
+        },
+        {
+            "danish": "Romerne",
+            "greenlandic": "Romamiut",
+            "audio": "books_45.mp3"
+        },
+        {
+            "danish": "1. Korinther",
+            "greenlandic": "Korintimiunut allakkat siulliit",
+            "audio": "bibelbøger1.mp3"
+        },
+        {
+            "danish": "2. Korinther",
+            "greenlandic": "Korintimiunut allakkat aappaat",
+            "audio": "bibelbøger2.mp3"
+        },
+        {
+            "danish": "Galaterne",
+            "greenlandic": "Galaatiamiut",
+            "audio": "books_48.mp3"
+        },
+        {
+            "danish": "Efeserne",
+            "greenlandic": "Efesossimiut",
+            "audio": "books_49.mp3"
+        },
+        {
+            "danish": "Filipperne",
+            "greenlandic": "Filippimiut",
+            "audio": "books_50.mp3"
+        },
+        {
+            "danish": "Kolossenserne",
+            "greenlandic": "Kolossimiut",
+            "audio": "books_51.mp3"
+        },
+        {
+            "danish": "1. Thessaloniker",
+            "greenlandic": "Tessaluunikamiunut allakkat siulliit",
+            "audio": "books_52.mp3"
+        },
+        {
+            "danish": "2. Thessaloniker",
+            "greenlandic": "Tessaluunikamiunut allakkat aappaat",
+            "audio": "books_53.mp3"
+        },
+        {
+            "danish": "1. Timotheus",
+            "greenlandic": "Timuutiusimut allakkat siulliit",
+            "audio": "books_54.mp3"
+        },
+        {
+            "danish": "2. Timotheus",
+            "greenlandic": "Timuutiusimut allakkat aappaat",
+            "audio": "books_55.mp3"
+        },
+        {
+            "danish": "Titus",
+            "greenlandic": "Tittusi",
+            "audio": "books_56.mp3"
+        },
+        {
+            "danish": "Filemon",
+            "greenlandic": "Fiilimuut",
+            "audio": "books_57.mp3"
+        },
+        {
+            "danish": "Hebræerne",
+            "greenlandic": "Hebræerit",
+            "audio": "books_58.mp3"
+        },
+        {
+            "danish": "Jakob",
+            "greenlandic": "Jaaku",
+            "audio": "books_59.mp3"
+        },
+        {
+            "danish": "1. Peter",
+            "greenlandic": "Petrusimit allakkat siulliit",
+            "audio": "bibelbøger3.mp3"
+        },
+        {
+            "danish": "2. Peter",
+            "greenlandic": "Petrusimit allakkat aappaat",
+            "audio": "bibelbøger4.mp3"
+        },
+        {
+            "danish": "1. Johannes",
+            "greenlandic": "Johannesimit allakkat siulliit",
+            "audio": "bibelbøger5.mp3"
+        },
+        {
+            "danish": "2. Johannes",
+            "greenlandic": "Johannesimit allakkat aappaat",
+            "audio": "bibelbøger6.mp3"
+        },
+        {
+            "danish": "3. Johannes",
+            "greenlandic": "Johannesimit allakkat pingajui",
+            "audio": "bibelbøger7.mp3"
+        },
+        {
+            "danish": "Judas",
+            "greenlandic": "Juudarsi",
+            "audio": "books_65.mp3"
+        },
+        {
+            "danish": "Åbenbaringen",
+            "greenlandic": "Saqqummersitat",
+            "audio": "books_66.mp3"
+        }
+    ],
+    "meetingforfieldservice": [
+        {
+            "danish": "samling",
+            "greenlandic": "katersuunneq",
+            "audio": "meetings-for-field-service_01.mp3"
+        },
+        {
+            "danish": "Hvad kan vi lære af verset med tanke på forkyndelsen?",
+            "greenlandic": "Oqaluussinermut tunngatillugu allassimaffik qanoq ilinniarfigisinnaavarput?",
+            "audio": "samling1.mp3"
+        },
+        {
+            "danish": "forkyndermakker",
+            "greenlandic": "oqaluusseqatigisaq",
+            "audio": "meetings-for-field-service_02.mp3"
+        },
+        {
+            "danish": "Hvem mangler en forkyndermakker?",
+            "greenlandic": "Kina oqaluusseqatissaqanngila?",
+            "audio": "meetings-for-field-service_03.mp3"
+        },
+        {
+            "danish": "Bror _, kan du samarbejde med bror _?",
+            "greenlandic": "Qatanngut _, illit qatanngut _ oqaluusseqatigerusuppiuk?",
+            "audio": "meetings-for-field-service_04.mp3"
+        },
+        {
+            "danish": "distrikt",
+            "greenlandic": "oqaluussiffigisartagaq",
+            "audio": "meetings-for-field-service_05.mp3"
+        },
+        {
+            "danish": "Hvem mangler distrikt?",
+            "greenlandic": "Kina oqaluussifigisartakkanik amigaateqarpa?",
+            "audio": "meetings-for-field-service_06.mp3"
+        },
+        {
+            "danish": "Nogen spørgsmål?",
+            "greenlandic": "Apeqqutissaqarpisi?",
+            "audio": "meetings-for-field-service_07.mp3"
+        },
+        {
+            "danish": "Lad os tage af sted!",
+            "greenlandic": "Ingerlasa!",
+            "audio": "meetings-for-field-service_08.mp3"
+        }
+    ],
+    "songprayer": [
+        {
+            "danish": "Sange og bøn",
+            "greenlandic": "Erinarsuutit qinunerlu",
+            "audio": "songs_01.mp3"
+        },
+        {
+            "danish": "sang",
+            "greenlandic": "erinarsuut",
+            "audio": "songs_02.mp3"
+        },
+        {
+            "danish": "en sang til pris for Jehova",
+            "greenlandic": "Jehovamik unnersiutiginninnermik erinarsuut",
+            "audio": "songs_03.mp3"
+        },
+        {
+            "danish": "Titlen på sangen er _",
+            "greenlandic": "Erinarsuut ima qulequtaqarpoq: _",
+            "audio": "songs_04.mp3"
+        },
+        {
+            "danish": "Sangen er baseret på Åbenbaringen kapitel 4, vers 11.",
+            "greenlandic": "Erinarsuutip Saqqummersitat kapitali 4 versi 11 tunngavigaa.",
+            "audio": "songs_06.mp3"
+        },
+        {
+            "danish": "Sangen passer til _",
+            "greenlandic": "Erinarsuut uunga tulluarpoq: _",
+            "audio": "songs_07.mp3"
+        },
+        {
+            "danish": "Sangen passer til foredragets tema.",
+            "greenlandic": "Erinarsuut oqalugiaatip saammisaanut tulluarpoq.",
+            "audio": "songs_08.mp3"
+        },
+        {
+            "danish": "Sagen passer til emnet i dagens studieartikel.",
+            "greenlandic": "Erinarsuut atuaqqissaagassatsinnut tulluarpoq.",
+            "audio": "songs_09.mp3"
+        },
+        {
+            "danish": "Vi vil begynde med en sang.",
+            "greenlandic": "Erinarsuummik aallarniissaagut.",
+            "audio": "songs_10.mp3"
+        },
+        {
+            "danish": "Vi vil begynde med en sang og derefter en bøn.",
+            "greenlandic": "Erinarsuummmik aallarniissaagut, kingornalu qinussaagut.",
+            "audio": "songs_11.mp3"
+        },
+        {
+            "danish": "Vi vil slutte med en sang og en bøn.",
+            "greenlandic": "Erinarsoriarluta qinunermik naggasiissaagut.",
+            "audio": "songs_12.mp3"
+        },
+        {
+            "danish": "Vi vil afslutte med en sang.",
+            "greenlandic": "Erinarsuummik naggasiissaagut.",
+            "audio": "songs_13.mp3"
+        },
+        {
+            "danish": "sang nummer _",
+            "greenlandic": "Erinarsuut normu _",
+            "audio": "songs_14.mp3"
+        },
+        {
+            "danish": "Lad os finde sang nummer _.",
+            "greenlandic": "Erinarsuut _ qupperiartigu.",
+            "audio": "songs_15.mp3"
+        },
+        {
+            "danish": "at synge",
+            "greenlandic": "erinarsorneq",
+            "audio": "songs_16.mp3"
+        },
+        {
+            "danish": "Nu skal vi synge en sang.",
+            "greenlandic": "Massakkut erinarsussaagut.",
+            "audio": "songs_17.mp3"
+        },
+        {
+            "danish": "Vi skal synge sang nummer _.",
+            "greenlandic": "Erinarsuut _ erinarsussavarput.",
+            "audio": "songs_18.mp3"
+        },
+        {
+            "danish": "Lad os rejse os og synge sang nummer _.",
+            "greenlandic": "Nikueriarluta erinarsuut _ erinarsortigu.",
+            "audio": "songs_19.mp3"
+        },
+        {
+            "danish": "Mens vi synger så læg mærke til ordene i sangen.",
+            "greenlandic": "Erinarsornitsinni erinarsuutip imaa maluginiaruk.",
+            "audio": "songs_20.mp3"
+        },
+        {
+            "danish": "rejse sig",
+            "greenlandic": "nikuippoq",
+            "audio": "songs_21.mp3"
+        },
+        {
+            "danish": "Dem der har mulighed for det må gerne rejse sig.",
+            "greenlandic": "Pisinnaasut tamarmik nikuissinnaapput.",
+            "audio": "songs_22.mp3"
+        },
+        {
+            "danish": "bøn",
+            "greenlandic": "qinuneq",
+            "audio": "songs_23.mp3"
+        },
+        {
+            "danish": "Bror _, vil du bede bønnen?",
+            "greenlandic": "Qatanngut _, qinorusuppit?",
+            "audio": "songs_25.mp3"
+        },
+        {
+            "danish": "Lad os bede en bøn sammen.",
+            "greenlandic": "Qinoqatigiitta.",
+            "audio": "songs_26.mp3"
+        },
+        {
+            "danish": "at bede til Jehova",
+            "greenlandic": "Jehovamut qinuneq",
+            "audio": "songs_27.mp3"
+        },
+        {
+            "danish": "Efter sangen vil vi bede til Jehova.",
+            "greenlandic": "Erinarsoreerutta Jehovamut qinussaagut.",
+            "audio": "songs_28.mp3"
+        }
+    ],
+    "meetings": [
+        {
+            "danish": "Brødre og søstre!",
+            "greenlandic": "Qatanngutit!",
+            "note": "For at få opmærksomhed når mødet skal starte.",
+            "audio": "meetings1.mp3"
+        },
+        {
+            "danish": "Bror _ / Søster _",
+            "greenlandic": "Qatanngut _",
+            "note": "For at vælge hvem der skal give en kommentar.",
+            "audio": "meetings2.mp3"
+        },
+        {
+            "danish": "Velkommen!",
+            "greenlandic": "Tikilluaritsi!",
+            "note": "Til flere personer.",
+            "audio": "meetings3.mp3"
+        },
+        {
+            "danish": "Velkommen alle sammen til mødet.",
+            "greenlandic": "Tamassi ataatsimiinnissatsinnut tikilluaritsi.",
+            "audio": "meetings4.mp3"
+        },
+        {
+            "danish": "Velkommen brødre og søstre.",
+            "greenlandic": "Qatanngutit, tikilluaritsi.",
+            "audio": "meetings5.mp3"
+        },
+        {
+            "danish": "Velkommen til mødet.",
+            "greenlandic": "Ataatsimiinnermut tikilluaritsi.",
+            "audio": "meetings6.mp3"
+        },
+        {
+            "danish": "Mødet vil begynde om to minutter.",
+            "greenlandic": "Minutsit marluk qaangiuppata ataatsimiinneq aallartissaaq.",
+            "audio": "meetings7.mp3"
+        },
+        {
+            "danish": "Værsgod at sidde ned.",
+            "greenlandic": "Takanna ingeriarlusi.",
+            "audio": "meetings8.mp3"
+        },
+        {
+            "danish": "Det er tid til at begynde.",
+            "greenlandic": "Aallartilerpugut.",
+            "audio": "meetings13.mp3"
+        },
+        {
+            "danish": "Lad os begynde.",
+            "greenlandic": "Aallartitta.",
+            "audio": "meetings14.mp3"
+        },
+        {
+            "danish": "Tak.",
+            "greenlandic": "Qujanaq.",
+            "audio": "meetings9.mp3"
+        },
+        {
+            "danish": "Tak for at du læste verset.",
+            "greenlandic": "Qujanaq allassimaffik atuarakku.",
+            "audio": "meetings10.mp3"
+        },
+        {
+            "danish": "Mange tak for præsentationen.",
+            "greenlandic": "Takutitsinissinnut qujanaq.",
+            "audio": "meetings11.mp3"
+        },
+        {
+            "danish": "Mange tak for jeres kommentarer.",
+            "greenlandic": "Akissutissinnut qujanaq.",
+            "audio": "meetings12.mp3"
+        },
+        {
+            "danish": "Lad os fortsætte.",
+            "greenlandic": "Ingerlaqqeriarta",
+            "audio": "meetings15.mp3"
+        },
+        {
+            "danish": "Vi er desværre ved at løbe tør for tid.",
+            "greenlandic": "Ajoraluartumik piffissaq naalerpoq.",
+            "audio": "meetings16.mp3"
+        },
+        {
+            "danish": "Tiden løber så vi vil gå videre.",
+            "greenlandic": "Piffissaq naalermat ingerlaqqittariaqarpugut.",
+            "audio": "meetings17.mp3"
+        },
+        {
+            "danish": "Det er alt hvad vi når.",
+            "greenlandic": "Tamaanga killippugut.",
+            "audio": "meetings18.mp3"
+        },
+        {
+            "danish": "Jeg har et punkt på mødet i næste uge.",
+            "greenlandic": "Sapaatip-akunnerata tulliani ataatsimiinnermi pisassaqarpunga.",
+            "audio": "meetings19.mp3"
+        },
+        {
+            "danish": "Det næste punkt vil bror/søster _ behandle.",
+            "greenlandic": "Qatanngut _ tulliulluni qaqissaaq.",
+            "audio": "meetings20.mp3"
+        },
+        {
+            "danish": "foredrag",
+            "greenlandic": "oqalugiaat",
+            "audio": "meetings21.mp3"
+        },
+        {
+            "danish": "offentligt foredrag",
+            "greenlandic": "tamanut oqalugiaat",
+            "audio": "meetings22.mp3"
+        },
+        {
+            "danish": "Bror _ fra _ menighed vil holde foredraget.",
+            "greenlandic": "Qatanngut [navn] [by]-meersoq oqalugiassaaq.",
+            "audio": "meetings26.mp3"
+        },
+        {
+            "danish": "Foredragets tema er ...",
+            "greenlandic": "Oqalugiaat ima qulequtaqarpoq: ...",
+            "audio": "meetings24.mp3"
+        },
+        {
+            "danish": "Bror/søster _ vil oversætte dagens foredrag.",
+            "greenlandic": "Qatanngutip _-p oqalugiaat nutsissavaa.",
+            "audio": "meetings27.mp3"
+        },
+        {
+            "danish": "Foredraget vil blive tolket.",
+            "greenlandic": "Oqalugiaat nutserneqassaaq.",
+            "audio": "meetings28.mp3"
+        },
+        {
+            "danish": "Tak for et godt foredrag, bror _.",
+            "greenlandic": "Qujanaq oqalugiaatinnut, qatanngut _.",
+            "audio": "meetings25.mp3"
+        },
+        {
+            "danish": "Vi nød at lytte til dit foredrag.",
+            "greenlandic": "Oqalugiaatit tusarnaarlugu nuannerpoq.",
+            "audio": "meetings23.mp3"
+        }
+    ],
+    "encouragement": [
+        {
+            "danish": "Godt klaret!",
+            "greenlandic": "Pikkori! ",
+            "audio": "opmuntring1.mp3"
+        },
+        {
+            "danish": "Du er meget dygtig!",
+            "greenlandic": "Pikkoreqaatit!",
+            "audio": "opmuntring2.mp3"
+        },
+        {
+            "danish": "Rigtigt!",
+            "greenlandic": "Ilumut! ",
+            "audio": "opmuntring3.mp3"
+        },
+        {
+            "danish": "Meget godt!",
+            "greenlandic": "Ajunngilluinnarpoq! ",
+            "audio": "opmuntring4.mp3"
+        },
+        {
+            "danish": "Meget fint!",
+            "greenlandic": "Torrak! ",
+            "audio": "opmuntring5.mp3"
+        },
+        {
+            "danish": "Tak!",
+            "greenlandic": "Qujanaq! ",
+            "audio": "opmuntring6.mp3"
+        },
+        {
+            "danish": "God pointe!",
+            "greenlandic": "Soqutiginaqaaq! ",
+            "audio": "opmuntring7.mp3"
+        },
+        {
+            "danish": "Tak for en god oplæsning.",
+            "greenlandic": "Atuffassilluarninnut qujanaq",
+            "audio": "opmuntring8.mp3"
+        },
+        {
+            "danish": "Din oplæsning var meget levende.",
+            "greenlandic": "Uummaarissumik atuffassivutit.",
+            "audio": "opmuntring9.mp3"
+        },
+        {
+            "danish": "Det var dejligt at lytte til din oplæsning.",
+            "greenlandic": "Nuannerpoq atuffassinerit tusarnaarlugu. ",
+            "audio": "opmuntring10.mp3"
+        },
+        {
+            "danish": "Dit foredrag var godt forberedt.",
+            "greenlandic": "Malunnarpoq oqalugiaatinnut piareersarluarsimasutit. ",
+            "audio": "opmuntring11.mp3"
+        },
+        {
+            "danish": "Vi var glade for at lytte til dit foredrag.",
+            "greenlandic": "Nuannerpoq oqalugiaatit tusarnaarlugu. ",
+            "audio": "opmuntring12.mp3"
+        },
+        {
+            "danish": "Du holdt dit foredrag med varme og følelse.",
+            "greenlandic": "Misiginneqataarpalullutit kissalaarpalullutillu oqalugiarputit.",
+            "audio": "opmuntring13.mp3"
+        },
+        {
+            "danish": "Tak for din oversættelse af foredraget",
+            "greenlandic": "Oqalugiaat nutserakku qujanaq.",
+            "audio": "opmuntring14.mp3"
+        },
+        {
+            "danish": "Du oversatte foredraget rigtigt godt.",
+            "greenlandic": "Oqalugiaat nutserluarpat.",
+            "audio": "opmuntring15.mp3"
+        },
+        {
+            "danish": "Din demonstration var meget brugbar.",
+            "greenlandic": "Takutitsinerit atoriaannaavoq.",
+            "audio": "opmuntring16.mp3"
+        },
+        {
+            "danish": "Jeg kunne godt lide din demonstration.",
+            "greenlandic": "Takutitsinerit nuannerpoq. ",
+            "audio": "opmuntring17.mp3"
+        },
+        {
+            "danish": "Det var en interessant kommentar.",
+            "greenlandic": "Akissutit soqutiginarpoq. ",
+            "audio": "opmuntring18.mp3"
+        },
+        {
+            "danish": "Tak for en god kommentar.",
+            "greenlandic": "Qujanaq akissutinnut",
+            "audio": "opmuntring19.mp3"
+        },
+        {
+            "danish": "Dit svar var meget praktisk.",
+            "greenlandic": "Akissutit atoriaannaavoq.",
+            "audio": "opmuntring20.mp3"
+        },
+        {
+            "danish": "Dit svar opmuntrede mig.",
+            "greenlandic": "Akissutit qiimmaallaatigaara. ",
+            "audio": "opmuntring21.mp3"
+        },
+        {
+            "danish": "Du havde et meget interessant interview.",
+            "greenlandic": "Apersorneqarnerit soqutiginaqaaq.",
+            "audio": "opmuntring22.mp3"
+        },
+        {
+            "danish": "Dit interview opmuntrede menigheden.",
+            "greenlandic": "Apersorneqarnerit ilagiinnut qiimmaallannaqaaq. ",
+            "audio": "opmuntring23.mp3"
+        },
+        {
+            "danish": "Din oplevelse var meget rørende.",
+            "greenlandic": "Misigisimasat killitsinnaqaaq.",
+            "audio": "opmuntring24.mp3"
+        },
+        {
+            "danish": "Din illustration var nem at forstå.",
+            "greenlandic": "Assersuusiat paasiuminarpoq.",
+            "audio": "opmuntring25.mp3"
+        },
+        {
+            "danish": "Jeg kunne godt lide din illustration.",
+            "greenlandic": "Assersuusiat torragivara.",
+            "audio": "opmuntring26.mp3"
+        },
+        {
+            "danish": "Tak for en god opgave.",
+            "greenlandic": "Qaqilluarninnut qujanaq.",
+            "audio": "opmuntring27.mp3"
+        },
+        {
+            "danish": "Du virkede slet ikke nervøs.",
+            "greenlandic": "Annilaangarpasinngilatit.",
+            "audio": "opmuntring28.mp3"
+        },
+        {
+            "danish": "Du virkede meget rolig.",
+            "greenlandic": "Eqqissisimarpasipputit.",
+            "audio": "opmuntring29.mp3"
+        },
+        {
+            "danish": "Du talte meget entutiastisk.",
+            "greenlandic": "Pikkusullutit oqalupputit.",
+            "audio": "opmuntring30.mp3"
+        },
+        {
+            "danish": "Du havde gode gestus.",
+            "greenlandic": "Ussersorluarputit.",
+            "audio": "opmuntring31.mp3"
+        },
+        {
+            "danish": "Jeg føler med dig.",
+            "greenlandic": "Misiginneqataavunga.",
+            "audio": "opmuntring32.mp3"
+        }
+    ],
+    "aboutthebible": [
+        {
+            "danish": "Bibelen",
+            "greenlandic": "Biibili",
+            "audio": "bibelen1.mp3"
+        },
+        {
+            "danish": "Bibelen er Guds ord.",
+            "greenlandic": "Biibili Guutip oqaaseraa.",
+            "audio": "bibelen2.mp3"
+        },
+        {
+            "danish": "I Bibelen står der at ...",
+            "greenlandic": "Biibilimi allassimavoq ...",
+            "audio": "bibelen3.mp3"
+        },
+        {
+            "danish": "I Bibelen står der: \"...\"",
+            "greenlandic": "Biibilimi ima allassimavoq: \"...\"",
+            "audio": "bibelen4.mp3"
+        },
+        {
+            "danish": "Bibelen er oversat til over 2.300 sprog.",
+            "greenlandic": "Biibili oqaatsinut 2.300-nit amerlanerusunut nutserneqarsimavoq.",
+            "audio": "bibelen6.mp3"
+        },
+        {
+            "danish": "De Hellige Skrifter",
+            "greenlandic": "Allakkat Illernartut ",
+            "audio": "bibelen7.mp3"
+        },
+        {
+            "danish": "Bibelen lærer at ...",
+            "greenlandic": "Biibilimi ... ilinniartitsissutigineqarpoq.",
+            "audio": "bibelen8.mp3"
+        },
+        {
+            "danish": "I Bibelen er det forudsagt at ...",
+            "greenlandic": "Biibilimi ... siulittuutigineqarpoq",
+            "audio": "bibelen9.mp3"
+        },
+        {
+            "danish": "I Bibelen bliver vi opfordret til at ...",
+            "greenlandic": "Biibilimi ...-mut kajumissaarneqarpugut",
+            "audio": "bibelen10.mp3"
+        },
+        {
+            "danish": "Guds ord",
+            "greenlandic": "Guutip oqaasia",
+            "audio": "bibelen11.mp3"
+        },
+        {
+            "danish": "I Bibelen bliver vi lovet at ...",
+            "greenlandic": "Biibilimi ... neriorsorneqarpugut.",
+            "audio": "bibelen12.mp3"
+        },
+        {
+            "danish": "Bibelskribenterne skrev Guds tanker ned.",
+            "greenlandic": "Biibilimik allattut Guutip eqqarsaatai allappaat.",
+            "audio": "bibelen13.mp3"
+        },
+        {
+            "danish": "Der er udkommet en ny bibeloversættelse på grønlandsk.",
+            "greenlandic": "Biibilimik nutsigaq nutaaq kalaallisut saqqummernikuuvoq.",
+            "audio": "bibelen14.mp3"
+        },
+        {
+            "danish": "Ny Verden-oversættelsen",
+            "greenlandic": "Nunarsuup nutaanngornissaanik nutsigaq",
+            "audio": "bibelen15.mp3"
+        },
+        {
+            "danish": "Den nye oversættelse er nem at forstå.",
+            "greenlandic": "Nutsigaq nutaaq paasiuminarpoq.",
+            "audio": "bibelen18.mp3"
+        },
+        {
+            "danish": "Der bliver ikke brugt gamle ord i den nye oversættelse.",
+            "greenlandic": "Nutsikkami nutaami oqaatsit ittangasut atorneqanngillat.",
+            "audio": "bibelen17.mp3"
+        }
+    ],
+    "aboutgod": [
+        {
+            "danish": "Gud",
+            "greenlandic": "Guuti",
+            "audio": "gud1.mp3"
+        },
+        {
+            "danish": "Intet menneske har nogensinde set Gud.",
+            "greenlandic": "Inuup kialuunniit Guuti takusimanngisaannarpaa.",
+            "audio": "gud2.mp3"
+        },
+        {
+            "danish": "Gud er en person.",
+            "greenlandic": "Guuti kinaassusiliuvoq.",
+            "audio": "gud3.mp3"
+        },
+        {
+            "danish": "Gud er en ånd.",
+            "greenlandic": "Guuti anersaajuvoq.",
+            "audio": "gud4.mp3"
+        },
+        {
+            "danish": "Gud interesserer sig for os.",
+            "greenlandic": "Guutip soqutigaatigut.",
+            "audio": "gud5.mp3"
+        },
+        {
+            "danish": "Gud har givet os livet.",
+            "greenlandic": "Guutip inuuneqalersippaatigut.",
+            "audio": "gud6.mp3"
+        },
+        {
+            "danish": "Gud har skabt alle ting.",
+            "greenlandic": "Guutip suut tamaasa pinngortippai.",
+            "audio": "gud7.mp3"
+        },
+        {
+            "danish": "Gud vil altid leve.",
+            "greenlandic": "Guuti uumajuaannassaaq.",
+            "audio": "gud8.mp3"
+        },
+        {
+            "danish": "himmel",
+            "greenlandic": "qilak",
+            "audio": "gud9.mp3"
+        },
+        {
+            "danish": "Gud er i himlen.",
+            "greenlandic": "Guuti qilammiippoq.",
+            "audio": "gud10.mp3"
+        },
+        {
+            "danish": "Guds fire vigtigste egenskaber er kærlig, retfærdighed, magt og visdom.",
+            "greenlandic": "Guutip pissusii pingaarnerit sisamat tassaapput asanninneq, naapertuilluarneq, pissaaneq ilisimassuserlu.",
+            "audio": "gud11.mp3"
+        },
+        {
+            "danish": "Vi kan læse om Guds egenskaber i Bibelen.",
+            "greenlandic": "Guutip pissusii pillugit Biibilimi atuarsinnaavugut.",
+            "audio": "gud12.mp3"
+        },
+        {
+            "danish": "Vi kan lære om Gud ved at undersøge Bibelen.",
+            "greenlandic": "Biibilip misissorneratigut Guuti pillugu ilinniarsinnaavugut.",
+            "audio": "gud13.mp3"
+        },
+        {
+            "danish": "Gud er hellig.",
+            "greenlandic": "Guuti illernartuuvoq.",
+            "audio": "gud14.mp3"
+        },
+        {
+            "danish": "Guds folk ophøjer ham.",
+            "greenlandic": "Guuti innuttaminit ataqqinarsisinneqarpoq.",
+            "audio": "gud15.mp3"
+        },
+        {
+            "danish": "Nogle mennesker siger at der ikke findes en Gud.",
+            "greenlandic": "Inuit ilaasa Guuteqannginnerarpaat.",
+            "audio": "gud16.mp3"
+        },
+        {
+            "danish": "Der er mange beviser på at der findes en Gud.",
+            "greenlandic": "Guuteqarneranik uppernarsaaterpassuaqarpoq.",
+            "audio": "gud17.mp3"
+        },
+        {
+            "danish": "Skaber",
+            "greenlandic": "Pinngortitsisoq",
+            "audio": "gud18.mp3"
+        },
+        {
+            "danish": "Gud er Skaberen.",
+            "greenlandic": "Guuti Pinngortitsisuuvoq.",
+            "audio": "gud19.mp3"
+        },
+        {
+            "danish": "Gud har skabt himlen og jorden.",
+            "greenlandic": "Guutip qilak nunarsuarlu pinngortippai.",
+            "audio": "gud20.mp3"
+        },
+        {
+            "danish": "Gud er vores Skaber.",
+            "greenlandic": "Guutip pinngortippaatigut",
+            "audio": "gud21.mp3"
+        },
+        {
+            "danish": "Vi bør tilbede vores Skaber.",
+            "greenlandic": "Pinngortitsisorput guutisiorfigisariaqarparput.",
+            "audio": "gud22.mp3"
+        },
+        {
+            "danish": "skaberværk / natur",
+            "greenlandic": "pinngortitarsuaq",
+            "audio": "gud23.mp3"
+        },
+        {
+            "danish": "Vi kan lære om Gud ved at se på skaberværket.",
+            "greenlandic": "Pinngortitarsuup qimerloorneratigut Guuti pillugu ilinniarsinnaavugut.",
+            "audio": "gud24.mp3"
+        }
+    ],
+    "godsname": [
+        {
+            "danish": "Guds navn",
+            "greenlandic": "Guutip aqqa",
+            "audio": "gudsnavn1.mp3"
+        },
+        {
+            "danish": "Guds navn er Jehova.",
+            "greenlandic": "Guutip aqqa tassaavoq Jehova.",
+            "audio": "gudsnavn2.mp3"
+        },
+        {
+            "danish": "Gud hedder Jehova.",
+            "greenlandic": "Guuti Jehovamik ateqarpoq.",
+            "audio": "gudsnavn3.mp3"
+        },
+        {
+            "danish": "Navnet Jehova betyder 'Han får til at blive'.",
+            "greenlandic": "Ateq Jehova isumaqarpoq 'sunngorsinnaasorluunniit' aamma 'sunngortitsisinnaasorluunniit'.",
+            "audio": "gudsnavn4.mp3"
+        },
+        {
+            "danish": "Gud har kun ét navn.",
+            "greenlandic": "Guuti ataasiinnarmik ateqarpoq.",
+            "audio": "gudsnavn5.mp3"
+        },
+        {
+            "danish": "Jesus brugte Guds navn.",
+            "greenlandic": "Guutip aqqa Jiisusip atortarsimavaa.",
+            "audio": "gudsnavn6.mp3"
+        },
+        {
+            "danish": "Nogle mennesker udtaler Guds navn som \"Jahve\"",
+            "greenlandic": "Inuit ilaat Guutip aqqa ima taasarpaat: \"Jahve\"",
+            "audio": "gudsnavn7.mp3"
+        },
+        {
+            "danish": "Vi bør bruge Guds navn.",
+            "greenlandic": "Guutip aqqa atortassavarput.",
+            "audio": "gudsnavn8.mp3"
+        },
+        {
+            "danish": "Guds navn står over 7.000 gange i Bibelen.",
+            "greenlandic": "Guutip aqqa Biibilimi 7.000-t sinnerlugit allassimavoq.",
+            "audio": "gudsnavn9.mp3"
+        },
+        {
+            "danish": "Gud har mange titler.",
+            "greenlandic": "Guuti taaguuterpassuaqarpoq.",
+            "audio": "gudsnavn10.mp3"
+        },
+        {
+            "danish": "\"Gud\" eller \"Herren\" er ikke navne.",
+            "greenlandic": "\"Guuti\" aamma \"Naalagaq\" atiunngillat.",
+            "audio": "gudsnavn11.mp3"
+        },
+        {
+            "danish": "Guds navn kan udtales som enten Jahve eller Jehova.",
+            "greenlandic": "Guutip aqqa Jahvemik imaluunniit Jehovamik taaneqarsinnaavoq.",
+            "audio": "gudsnavn12.mp3"
+        },
+        {
+            "danish": "Vi bruger \"Jehova\" fordi det er den mest udbredte udtale.",
+            "greenlandic": "\"Jehova\" atorneqarnerpaajummat atortarparput.",
+            "audio": "gudsnavn13.mp3"
+        }
+    ],
+    "holyspirit": [
+        {
+            "danish": "den hellige ånd",
+            "greenlandic": "anersaaq illernartoq",
+            "audio": "helligånd1.mp3"
+        },
+        {
+            "danish": "Den hellige ånd er ikke en person.",
+            "greenlandic": "Anersaaq illernartoq kinaassusiliunngilaq.",
+            "audio": "helligånd2.mp3"
+        },
+        {
+            "danish": "Den hellige ånd er Guds aktive kraft.",
+            "greenlandic": "Anersaaq illernartoq tassaavoq Guutip nukinga sulisoq.",
+            "audio": "helligånd3.mp3"
+        },
+        {
+            "danish": "Vi kan få kraft fra den hellige ånd når vi føler os svage.",
+            "greenlandic": "Sangiitsutut misigigaangatta anersaamit illernartumit nukissaqalersinnaavugut.",
+            "audio": "helligånd4.mp3"
+        },
+        {
+            "danish": "Den hellige ånd kan hjælpe os til at gøre det der er rigtigt.",
+            "greenlandic": "Guutip anersaavata illernartup eqqortuliornissatsinnut ikiorsinnaavaatigut.",
+            "audio": "helligånd5.mp3"
+        },
+        {
+            "danish": "Vi kan få trøst fra den hellige ånd når vi har problemer.",
+            "greenlandic": "Ajornartorsiornitsinni anersaamit illernartumit tuppallersarneqarsinnaavugut.",
+            "audio": "helligånd6.mp3"
+        },
+        {
+            "danish": "Vi kan komme til at forstå det der står i Bibelen ved hjælp af den hellige ånd.",
+            "greenlandic": "Guutip anersaava illernartoq iluaqutigalugu Biibilimi allassimasut paasisinnaavagut.",
+            "audio": "helligånd7.mp3"
+        },
+        {
+            "danish": "Den hellige ånd kan gøre os modige i forkyndelsen.",
+            "greenlandic": "Anersaaq illernartoq iluaqutigalugu oqaluussinermi sapiissuseqalersinnaavugut.",
+            "audio": "helligånd8.mp3"
+        },
+        {
+            "danish": "Gud leder sin organisation gennem den hellige ånd.",
+            "greenlandic": "Guutip anersaaq illernartoq aqqutigalugu peqatigiissortani siulersorpai.",
+            "audio": "helligånd9.mp3"
+        },
+        {
+            "danish": "Den hellige ånd kan minde os om vers fra Bibelen.",
+            "greenlandic": "Anersaap illernartup allassimaffinnik eqqaasissinnaavaatigut.",
+            "audio": "helligånd10.mp3"
+        }
+    ],
+    "aboutjesus": [
+        {
+            "danish": "Jesus Kristus",
+            "greenlandic": "Jiisusi Kristusi",
+            "audio": "jesus1.mp3"
+        },
+        {
+            "danish": "Jesus er Guds søn.",
+            "greenlandic": "Guutip Jiisusi erneraa.",
+            "audio": "jesus2.mp3"
+        },
+        {
+            "danish": "Jesus bliver kaldt Guds søn fordi han blev skabt af Jehova.",
+            "greenlandic": "Jiisusi Jehovamit pinngortinneqarami Guutip erneratut taaneqartarpoq.",
+            "audio": "jesus3.mp3"
+        },
+        {
+            "danish": "Jesus Kristus var et fuldkomment menneske.",
+            "greenlandic": "Jiisusi Kristusi naammalluinnartuuvoq.",
+            "audio": "jesus4.mp3"
+        },
+        {
+            "danish": "Jesus bliver kaldt Guds enestefødte søn.",
+            "greenlandic": "Jiisusi Guutip ernituanik taaneqartarpoq.",
+            "audio": "jesus5.mp3"
+        },
+        {
+            "danish": "Jesus er den eneste der er skabt direkte af Gud.",
+            "greenlandic": "Jiisusi kisiar­taal­luni Guutimit toq­qaan­nar­tumik pin­ngor­tin­neqar­poq.",
+            "audio": "jesus6.mp3"
+        },
+        {
+            "danish": "Før Jesus kom til jorden var han i himlen.",
+            "greenlandic": "Jiisusi nunarsuarmukanngikkallarami qilammiippoq.",
+            "audio": "jesus7.mp3"
+        },
+        {
+            "danish": "Jesus kom til jorden hovedsageligt for at udføre 3 ting.",
+            "greenlandic": "Jiisusi pingaarutillit pingasut naammassiumallugit nunarsuarmukarpoq.",
+            "audio": "jesus8.mp3"
+        },
+        {
+            "danish": "Jesus kom til jorden for at undervise i sandheden om Gud.",
+            "greenlandic": "Guuti pillugu ilumoortoq ilinniartitsissutigiumallugu Jiisusi nunarsuarmukarpoq.",
+            "audio": "jesus9.mp3"
+        },
+        {
+            "danish": "Jesus kom til jorden for at være et eksempel for os.",
+            "greenlandic": "Jiisusi maligassikkumalluta nunarsuarmukarpoq.",
+            "audio": "jesus10.mp3"
+        },
+        {
+            "danish": "Jesus kom til jorden for at give sit liv som en løsesum.",
+            "greenlandic": "Jiisusi inuunini utertitsissutitut tunniukkumallugu nunarsuarmukarpoq.",
+            "audio": "jesus11.mp3"
+        },
+        {
+            "danish": "Jesus blev født i Betlehem.",
+            "greenlandic": "Jiisusi Betlehemmimi inunngorpoq.",
+            "audio": "jesus12.mp3"
+        },
+        {
+            "danish": "Gud udvalgte Josef og Maria til at blive Jesus forældre.",
+            "greenlandic": "Guutip Juuserfi Mariialu Jiisusimut angajoqqaajusussatut toqqarpai.",
+            "audio": "jesus13.mp3"
+        },
+        {
+            "danish": "Jesus udførte mirakler.",
+            "greenlandic": "Jiisusi tupinnartuliortarpoq.",
+            "audio": "jesus14.mp3"
+        },
+        {
+            "danish": "Jehova gjorde Jesus i stand til at udføre mirakler.",
+            "greenlandic": "Jehovap Jiisusi tupinnartuliorsinnaatippaa.",
+            "audio": "jesus15.mp3"
+        },
+        {
+            "danish": "Jesus kom til himlen efter han døde.",
+            "greenlandic": "Jiisusi toqoreerami qilaliarpoq.",
+            "audio": "jesus16.mp3"
+        },
+        {
+            "danish": "Jesus blev ikke født i december.",
+            "greenlandic": "Jiisusi decembarimi inunngunngilaq.",
+            "audio": "jesus17.mp3"
+        },
+        {
+            "danish": "Da Jesus blev født var nogle hyrder der sov ude om natten.",
+            "greenlandic": "Jiisusip inunngornerata nalaani savanik paarsisut silami sinipput.",
+            "audio": "jesus18.mp3"
+        },
+        {
+            "danish": "I Israel i december var det koldt, med regn og sne.",
+            "greenlandic": "Israalimi decembarimi qiianarlunilu siallertarpoq apilluniluunniit.",
+            "audio": "jesus19.mp3"
+        },
+        {
+            "danish": "Jesus er ikke lig Gud.",
+            "greenlandic": "Jiisusi Guutilu naligiinngillat.",
+            "audio": "jesus21.mp3"
+        },
+        {
+            "danish": "Jesus er en gud, men han er ikke den Almægtige Gud.",
+            "greenlandic": "Jiisusi guutitut ikkaluarluni Guutiunngilaq Killeqanngitsumik Pissaanilik.",
+            "audio": "jesus22.mp3"
+        },
+        {
+            "danish": "I Bibelen bliver Satan og ufuldkomne mennesker kaldt for 'guder'.",
+            "greenlandic": "Inuit naammalluinnanngitsut aamma Saatani Biibilimi 'guutinik' taaneqartarput.",
+            "audio": "jesus23.mp3"
+        },
+        {
+            "danish": "Jesus havde en begyndelse, men Gud har altid eksisteret.",
+            "greenlandic": "Jiisusi aallartiffeqarpoq, Guutili piujuaannarsimavoq.",
+            "audio": "jesus24.mp3"
+        },
+        {
+            "danish": "Jesus underordner sig Gud.",
+            "greenlandic": "Jiisusi Guutimut naalattarpoq.",
+            "audio": "jesus25.mp3"
+        },
+        {
+            "danish": "Gud er større end Jesus.",
+            "greenlandic": "Guuti Jiisusimit anneruvoq.",
+            "audio": "jesus26.mp3"
+        },
+        {
+            "danish": "Ordet \"treenighed\" forekommer ikke i Bibelen.",
+            "greenlandic": "Oqaatsit \"ataasiullunilu pingasuussuseq\" Biibilimi allassimanngillat.",
+            "audio": "jesus27.mp3"
+        },
+        {
+            "danish": "De første kristne troede ikke på at Jesus var Gud.",
+            "greenlandic": "Kristumiut siulliit upperinngilaat Jiisusi Guutiusoq.",
+            "audio": "jesus28.mp3"
+        },
+        {
+            "danish": "Jesus døde på en torturpæl.",
+            "greenlandic": "Jiisusi qisummi naalliutsitsiviliami toquvoq.",
+            "audio": "jesus29.mp3"
+        },
+        {
+            "danish": "Det græske ord \"stauros\" betyder ikke kors.",
+            "greenlandic": "Oqaaseq grækerisooq \"stauros\" sanningasulimmik isumaqanngilaq.",
+            "audio": "jesus30.mp3"
+        },
+        {
+            "danish": "Det græske ord \"stauros\" betyder pæl eller træ.",
+            "greenlandic": "Oqaaseq grækerisooq \"stauros\" qisummik imaluunniit orpimmik isumaqarpoq.",
+            "audio": "jesus31.mp3"
+        },
+        {
+            "danish": "Det er en form for afgudsdyrkelse at bøje sig for et kors.",
+            "greenlandic": "Sanningasulimmik pallorfiginninneq guutipilussiorneruvoq.",
+            "audio": "jesus32.mp3"
+        }
+    ],
+    "governments": [
+        {
+            "danish": "regering",
+            "greenlandic": "naalakkersuisut",
+            "audio": "gudsrige1.mp3"
+        },
+        {
+            "danish": "Menneskelige regeringer kan ikke løse verdens problemer.",
+            "greenlandic": "Naalakkersuisut inunnit pilersinneqartut nunarsuarmi ajornartorsiutit aaqqissinnaanngilaat.",
+            "audio": "gudsrige2.mp3"
+        },
+        {
+            "danish": "Menneskelige regeringer er ufuldkomne.",
+            "greenlandic": "Nunarsuarmi naalakkersuisut naammalluinnanngitsuupput.",
+            "audio": "gudsrige3.mp3"
+        },
+        {
+            "danish": "Jehova oprettede en regering i himlen i 1914.",
+            "greenlandic": "1914-imi Jehova qilammi naalakkersuisunik pilersitsivoq.",
+            "audio": "gudsrige4.mp3"
+        },
+        {
+            "danish": "Guds rige",
+            "greenlandic": "Guutip naalagaaffia",
+            "note": "Dette udtryk bliver brugt i den autoriserede grønlandske Bibel.",
+            "audio": "gudsrige5.mp3"
+        },
+        {
+            "danish": "Guds rige (kongerige)",
+            "greenlandic": "Guutip kunngeqarfia",
+            "note": "Dette udtryk bliver brugt i Ny Verden-oversættelsen på grønlandsk",
+            "audio": "gudsrige6.mp3"
+        },
+        {
+            "danish": "Guds rige er en regering.",
+            "greenlandic": "Guutip kunngeqarfiani naalakkersuisoqarpoq.",
+            "note": "Man kan indsætte 'naalagaaffia' i stedet for 'kunngeqarfia' i alle eksempler.",
+            "audio": "gudsrige7.mp3"
+        },
+        {
+            "danish": "Guds rige vil erstatte alle andre regeringer.",
+            "greenlandic": "Guutip kunngeqarfiata naalakkersuisut allat tamaasa taarsissavai.",
+            "audio": "gudsrige8.mp3"
+        },
+        {
+            "danish": "Guds rige begynde at herske i 1914.",
+            "greenlandic": "Guutip kunngeqarfia 1914-imi naalakkersuilerpoq.",
+            "audio": "gudsrige9.mp3"
+        },
+        {
+            "danish": "Guds rige vil herske over mennesker i tusind år.",
+            "greenlandic": "Ukiuni tuusintini inuit Guutip kunngeqarfianit naalakkersorneqassapput.",
+            "audio": "gudsrige10.mp3"
+        },
+        {
+            "danish": "Jesus regerer fra himlen.",
+            "greenlandic": "Jiisusi qilammi naalakkersuivoq.",
+            "audio": "gudsrige11.mp3"
+        },
+        {
+            "danish": "Jesus har 144.000 medregenter.",
+            "greenlandic": "Jiisusi 144.000-nik naalakkersuisoqateqarpoq.",
+            "audio": "gudsrige12.mp3"
+        },
+        {
+            "danish": "Jesus skal herske over jorden.",
+            "greenlandic": "Jiisusi nunarsuarmut naalakkersuissaaq.",
+            "audio": "gudsrige13.mp3"
+        },
+        {
+            "danish": "Jesus Kristus er konge i Guds rige.",
+            "greenlandic": "Jiisusi Kristusi Guutip kunngeqarfiani kunngiuvoq.",
+            "audio": "gudsrige14.mp3"
+        },
+        {
+            "danish": "Jehova udvalgte Jesus til at være konge.",
+            "greenlandic": "Jehovap Jiisusi kunngitut toqqarpaa.",
+            "audio": "gudsrige15.mp3"
+        },
+        {
+            "danish": "Under Kristus' tusindårige styre vil mennesker opleve mangee velsignelser.",
+            "greenlandic": "Kristusip ukiuni tuusintini naalakkersuinerani inuit pilluaqqusaangaassapput.",
+            "audio": "gudsrige16.mp3"
+        },
+        {
+            "danish": "Under Kristus' styre vil jorden blive til et paradis.",
+            "greenlandic": "Kristusip naalakkersuinerani nunarsuaq paratiisinngortinneqassaaq.",
+            "audio": "gudsrige17.mp3"
+        },
+        {
+            "danish": "Under Kristus' styre vil mennesker blive fuldkomne.",
+            "greenlandic": "Kristusip naalakkersuinerani inuit naammalluinnartunngussapput.",
+            "audio": "gudsrige18.mp3"
+        },
+        {
+            "danish": "Under Kristus' styre vil millioner af mennesker blive oprejst fra døden.",
+            "greenlandic": "Kristusip naalakkersuinerani inuit millionilippassuit toqusunit makitinneqassapput.",
+            "audio": "gudsrige19.mp3"
+        },
+        {
+            "danish": "Guds suverænitet",
+            "greenlandic": "Guutip kisimi oqartussaasuunera",
+            "audio": "gudsrige20.mp3"
+        },
+        {
+            "danish": "Vi må acceptere Guds suværenitet.",
+            "greenlandic": "Guutip kisimi oqartussaasuunera akuerisariaqarparput.",
+            "audio": "gudsrige21.mp3"
+        },
+        {
+            "danish": "Adam og Eva accepterede ikke Guds suværenitet.",
+            "greenlandic": "Adamip Evallu Guutip kisimi oqartussaasuunera akuerinngilaat.",
+            "audio": "gudsrige22.mp3"
+        },
+        {
+            "danish": "Jehova vil hellige sit navn ved hjælp af sit rige.",
+            "greenlandic": "Kunngeqarfini atorlugu Jehovap atini illernarsisissavaa.",
+            "audio": "gudsrige23.mp3"
+        }
+    ],
     "rules": [
         {
             "danish": "A",

@@ -11,7 +11,10 @@
 <body>
     {% if hideMainMenu != "true" %}
     <nav class="navbar">
-        <a class="navbar-link" href="#">[menuitem]</a>
+        <a class="navbar-link" href="{{'/' | url}}"><span class="navbar-link-icon">⌂</span><span class="navbar-link-text">Hjem</span></a>
+        <a class="navbar-link" href="{{'/parloer' | url}}"><span class="navbar-link-icon">📓</span><span class="navbar-link-text">Parlør</span></a>
+        <a class="navbar-link" href="{{'/kursus' | url}}"><span class="navbar-link-icon">🎓</span><span class="navbar-link-text">Kursus</span></a>
+        <a class="navbar-link" href="{{'/mere' | url}}"><span class="navbar-link-icon">…</span><span class="navbar-link-text">Mere</span></a>
     </nav>
     {% endif %}
     <main>

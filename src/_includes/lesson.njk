@@ -63,11 +63,13 @@ hideMainMenu: true
         {% endfor %}
     </details>
 
-    <fieldset>
-        <label for="completedDate">Lektion gennemført</label>
-        <input type="date" id="completedDate">
-        <input type="hidden" id="lesson" value="{{lessonNo}}">
-    </fieldset>
+    <form>
+        <div class="form-group">
+            <label class="form-label" for="completedDate">Lektion gennemført</label>
+            <input class="form-control" type="date" id="completedDate">
+            <input type="hidden" id="lesson" value="{{lessonNo}}">
+        </div>
+    </form>
 </div>
 
 <div id="teacher" hidden>
@@ -77,6 +79,8 @@ hideMainMenu: true
         {% endif %}
     {% endfor %}
 </div>
+
+<hr>
 
 <div>
     <a href="#">Forrige</a>

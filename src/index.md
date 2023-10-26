@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: base
 metaTitle: Hjemmeside
 tags: mainmenu
 ---
