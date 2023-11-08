@@ -3,32 +3,30 @@ layout: base
 metaTitle: Lektion
 hideMainMenu: true
 ---
-<a href="#">Tilbage</a>
+<a href="../" class="btn btn-light">Tilbage</a>
 
-<h1>{{onPageTitle}}</h1>
+<h1 class="my-4">{{onPageTitle}}</h1>
 
-<ul class="nav nav-underline">
-    <li class="nav-item"><a href="#student" class="nav-link active">Til kursisten</a>
-    <li class="nav-item"><a href="#teacher" class="nav-link">Til læreren</a>
+<ul class="nav nav-underline border-bottom mb-4" role="tablist">
+    <li class="nav-item" role="presentation"><button class="nav-link active">Til kursisten</button></li>
+    <li class="nav-item" role="presentation"><button class="nav-link">Til læreren</button></li>
 </ul>
 
-<div id="student">
-    <div class="">
-    {{content | safe}}
-    </div>
+<div class="tab-content">
+    <div class="tab-pane fade show active" role="tabpanel" tabindex="0" id="student-tab-pane">
+        <div class="mb-4">{{content | safe}}</div>
 
-    <div class="callout">
-        <h3 class="callout-title">Brug det du har lært</h3>
-        <div class="callout-body">
-            <ul class="list-checkbox">
+        <div class="card mb-4">
+            <h5 class="card-header">Brug det du har lært</h5>
+            <ul class="list-group list-group-flush">
             {% for homework in collections.homework %}
                 {% if homework.data.partOfLesson == lessonNo %}
-                <li>
-                    <input type="checkbox" id="homework-{{lessonNo}}-{{loop.index}}">
-                    <div class="list-item-body">
-                        {{homework.data.onPageTitle}}
+                <li class="list-group-item d-flex">
+                    <input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}">
+                    <div class="d-inline-block">
+                        <label for="homework-{{lessonNo}}-{{loop.index}}">{{homework.data.onPageTitle}}</label>
                         {%if homework.data.linkText %}
-                            <a href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                            <p class="mb-0 mt-2"><a class="btn btn-outline-primary" href="{{homework.url | url}}">{{homework.data.linkText}}</a></p>
                         {%endif%}
                     </div>
                 </li>
@@ -36,53 +34,49 @@ hideMainMenu: true
             {% endfor %}
             </ul>
         </div>
-    </div>
 
-    <div class="callout callout-warning">
-        <h3 class="callout-title">Guldkorn</h3>
-        <div class="callout-body">
-            <ul>
+        <div class="card mb-4" style="background-color: var(--bs-warning-bg-subtle);">
+            <h5 class="card-header">Guldkorn</h5>
+            <div class="list-group list-group-flush">
             {% for gem in collections.gems %}
                 {% if gem.data.partOfLesson == lessonNo %}
-                    <li>
-                        {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}}</a>{%else%}
-                        <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
-                    </li>
+                    {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" class="list-group-item list-group-item-action" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>{%else%}
+                        <a href="{{gem.url | url}}" class="list-group-item list-group-item-action">{{gem.data.onPageTitle}}</a>{%endif%}
                 {% endif %}
             {% endfor %}
-            </ul>
+            </div>
         </div>
+
+        <details class="card mb-4">
+            <summary class="card-header">Til selvstudie</summary>
+            <div class="card-body">
+            {% for studynote in collections.studynotes %}
+                {% if studynote.data.partOfLesson == lessonNo %}
+                    {{studynote.content | safe}}
+                {% endif %}
+            {% endfor %}
+            </div>
+        </details>
+
+        <form>
+            <div class="form-group">
+                <label class="form-label" for="completedDate">Lektion gennemført</label>
+                <input class="form-control" type="date" id="completedDate">
+                <input type="hidden" id="lesson" value="{{lessonNo}}">
+            </div>
+        </form>
     </div>
 
-    <details>
-        <summary>Til selvstudie</summary>
-        {% for studynote in collections.studynotes %}
-            {% if studynote.data.partOfLesson == lessonNo %}
-                {{studynote.content | safe}}
+    <div class="tab-pane fade" role="tabpanel" tabindex="0" id="teacher-tab-pane">
+        {% for teachernote in collections.teachernotes %}
+            {% if teachernote.data.partOfLesson == lessonNo %}
+                {{teachernote.content | safe}}
             {% endif %}
         {% endfor %}
-    </details>
-
-    <form>
-        <div class="form-group">
-            <label class="form-label" for="completedDate">Lektion gennemført</label>
-            <input class="form-control" type="date" id="completedDate">
-            <input type="hidden" id="lesson" value="{{lessonNo}}">
-        </div>
-    </form>
+    </div>
 </div>
 
-<div id="teacher" hidden>
-    {% for teachernote in collections.teachernotes %}
-        {% if teachernote.data.partOfLesson == lessonNo %}
-            {{teachernote.content | safe}}
-        {% endif %}
-    {% endfor %}
-</div>
-
-<hr>
-
-<div>
-    <a href="#">Forrige</a>
-    <a href="#">Næste</a>
+<div class="d-flex justify-content-between border-top border-bottom my-4 py-4">
+    <a href="#" class="btn btn-primary">Forrige</a>
+    <a href="#" class="btn btn-primary">Næste</a>
 </div>

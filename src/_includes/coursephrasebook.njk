@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<a href="../" class="btn btn-light mb-4">Tilbage</a>
+
+{{content | safe}}
+
+<div class="list-group mt-4">
+{% for group in collections[modulePhrases] %}
+<a class="list-group-item" class="list-grid-link" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+{%endfor%}
+</div>

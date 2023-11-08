@@ -9,7 +9,7 @@ class exerciseSingleInput extends HTMLElement {
         const id = uuidv4();
 
         const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group textinput");
+        wrapper.setAttribute("class", "form-group mb-3 textinput");
 
         const label = document.createElement("label");
         label.setAttribute("for", id);
@@ -56,7 +56,7 @@ class exerciseNumberInput extends HTMLElement {
         const id = uuidv4();
 
         const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group textinput");
+        wrapper.setAttribute("class", "form-group mb-3 textinput");
 
         const label = document.createElement("label");
         label.setAttribute("for", id);
@@ -103,7 +103,7 @@ class exerciseTextareaInput extends HTMLElement {
         const id = uuidv4();
 
         const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group textinput");
+        wrapper.setAttribute("class", "form-group mb-3 textinput");
 
         const label = document.createElement("label");
         label.setAttribute("for", id);
@@ -136,7 +136,7 @@ class exerciseMultiChoice extends HTMLElement {
         const id = uuidv4();
         const optionsType = (this.dataset.type.length > 0) ? this.dataset.type.toLowerCase() : "radio";
 
-        const wrapper = el("fieldset", "form-group " + optionsType);
+        const wrapper = el("fieldset", "form-group mb-3 " + optionsType);
         let y = 0;
 
         const legend = document.createElement("legend");
@@ -209,7 +209,7 @@ class exerciseMultiInput extends HTMLElement {
         for (let index = 0; index < labels.length; index++) {
             const element = labels[index];
             const id = uuidv4();
-            const inputWrapper = el("div", "form-group textinput");
+            const inputWrapper = el("div", "form-group mb-3 textinput");
 
             if (this.dataset.radios == "true") {
                 const radio = document.createElement("input");

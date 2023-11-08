@@ -5,20 +5,26 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{metaTitle}} | Grønlandsk parlør</title>
-    <link href="{{'/assets/css/style.css' | url}}" rel="stylesheet">
+    <link href="{{'/assets/css/bootstrap.min.css' | url}}" rel="stylesheet">
     <script src={{'/assets/js/customelements.js' | url}}></script>
 </head>
-<body>
+<body class="pb-5">
     {% if hideMainMenu != "true" %}
-    <nav class="navbar">
-        <a class="navbar-link" href="{{'/' | url}}"><span class="navbar-link-icon">⌂</span><span class="navbar-link-text">Hjem</span></a>
-        <a class="navbar-link" href="{{'/parloer' | url}}"><span class="navbar-link-icon">📓</span><span class="navbar-link-text">Parlør</span></a>
-        <a class="navbar-link" href="{{'/kursus' | url}}"><span class="navbar-link-icon">🎓</span><span class="navbar-link-text">Kursus</span></a>
-        <a class="navbar-link" href="{{'/mere' | url}}"><span class="navbar-link-icon">…</span><span class="navbar-link-text">Mere</span></a>
+    <nav class="navbar bg-body-tertiary position-fixed bottom-0 start-0 end-0 z-1">
+        <div class="container-fluid">
+            <ul class="navbar-nav w-100 flex-row justify-content-around">
+                <li class="nav-item"><a class="nav-link" href="{{'/' | url}}">Hjem</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{'/parloer' | url}}">Parlør</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{'/kursus' | url}}">Kursus</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{'/mere' | url}}">Mere</a></li>
+            </ul>
+        </div>
     </nav>
     {% endif %}
-    <main>
-    {{content | safe}}
+    <main style="max-width: 50rem;">
+        <div class="container-fluid mt-3 mb-5">
+            {{content | safe}}
+        </div>
     </main>
     <script src={{'/assets/js/features.js' | url}}></script>
 </body>

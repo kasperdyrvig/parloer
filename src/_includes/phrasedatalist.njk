@@ -1,39 +1,43 @@
 ---
 layout: base
 ---
-<h1>{{metaTitle}}</h1>
+<a href="../" class="btn btn-light">Tilbage</a>
 
-<div class="phrase-list">
+<h1 class="my-4">{{metaTitle}}</h1>
+
+<div class="list-group phrase-list">
 {% for phrase in phrases[getCollection] %}
-    <div class="phrase-item" id="{{getCollection}}-{{loop.index}}">
+    <div class="list-group-item d-flex phrase-item" id="{{getCollection}}-{{loop.index}}">
         {% if phrase.image %}
             {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.image}}{%endset%}
-            <div class="phrase-image"><img src="{{imageUrl | url}}" loading="lazy"></div>
+            <div class="phrase-image flex-shrink-0 me-3"><img src="{{imageUrl | url}}" loading="lazy"></div>
         {% endif %}
-        <div class="phrase-body">
-            {% if phrase.danish %}
-                <p class="phrase-danish">{{phrase.danish}}</p>
-            {% endif %}
-            {% if phrase.content %}
-                <small class="phrase-note">{{phrase.content | safe}}</small>
-            {% endif %}
-            {% if phrase.greenlandic %}
-                <p class="phrase-greenlandic" lang="kl">{{phrase.greenlandic}}</p>
-            {% endif %}
-        </div>
-        <div class="phrase-tools">
+        <div class="flex-grow">
+            <div class="phrase-body">
+                {% if phrase.danish %}
+                    <p class="m-0 text-secondary-emphasis phrase-danish">{{phrase.danish}}</p>
+                {% endif %}
+                {% if phrase.content %}
+                    <small class="m-0 phrase-note">{{phrase.content | safe}}</small>
+                {% endif %}
+                {% if phrase.greenlandic %}
+                    <p class=" m-0 text-primary-emphasis phrase-greenlandic" lang="kl">{{phrase.greenlandic}}</p>
+                {% endif %}
+            </div>
+            <div class="phrase-tools mt-2">
+                {% if phrase.audio %}
+                    <button type="button" data-playing="false" class="play-button btn" title="Sig højt">Sig højt</button>
+                {% endif %}
+                {% if phrase.greenlandic %}
+                    <button type="button" class="copy-button btn" title="Kopier tekst">Kopier</button>
+                {% endif %}
+                <button type="button" disabled class="favorite-button btn" title="Føj til eller fjern fra samling">Favorit</button>
+            </div>
             {% if phrase.audio %}
-                <button type="button" data-playing="false" class="play-button" title="Sig højt">Sig højt</button>
+                {% set audioUrl %}/assets/audio/{{getCollection}}/{{phrase.audio}}{%endset%}
+                <audio src="{{audioUrl | url}}" preload="metadata"></audio>
             {% endif %}
-            {% if phrase.greenlandic %}
-                <button type="button" class="copy-button" title="Kopier tekst">Kopier</button>
-            {% endif %}
-            <button type="button" disabled class="favorite-button" title="Føj til eller fjern fra samling">Favorit</button>
         </div>
-        {% if phrase.audio %}
-            {% set audioUrl %}/assets/audio/{{getCollection}}/{{phrase.audio}}{%endset%}
-            <audio src="{{audioUrl | url}}" preload="metadata"></audio>
-        {% endif %}
     </div>
 {% endfor %}
 </div>

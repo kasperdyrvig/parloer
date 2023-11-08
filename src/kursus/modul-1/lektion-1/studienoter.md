@@ -20,11 +20,9 @@ I: Udtales som i navnet Ida
 
 U: Udtales som i navnet Ulla
 
-Lær mere:
+**Lær mere:**
 - [Udtaleregler](/parloer/regler)
 - Video: [Vokaler]()
 - _Grønlandsk grammatik_ af Stig Bjørnum, s. 16-17 (Udtale af vokaler)
 - _Kalaallisut ilikkarit - Lær grønlandsk 1_ af Bente Marie Meilvang, s. 5-6 § 0.1; 0.4.1 (Vokaler)
 - GraphoGame Kalaallisut ([Andriod](https://play.google.com/store/apps/details?id=com.graphogame.gg_greenland)) ([iOS](https://apps.apple.com/dk/app/graphogame-kalaallisut/id1599740443)) aqqut 1 & 7
-
-Mundtlig lektie: Reproducér sprog. Hvis du lærer et nyt ord, gentag det højt.
