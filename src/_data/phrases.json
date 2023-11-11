@@ -65,385 +65,432 @@
         {
             "danish": "familie",
             "greenlandic": "ilaqutariit",
-            "audio": "family_01.mp3",
-            "image": "familie_01.png"
+            "audio": "ilaqutariit.mp3",
+            "image": "ilaqutariit.png",
+            "emoji": "👨‍👩‍👧‍👦"
         },
         {
             "danish": "baby",
             "greenlandic": "nuunu",
-            "audio": "family_02.mp3",
-            "image": "familie_02.png"
+            "audio": "nuunu.mp3",
+            "image": "nuunu.png",
+            "emoji": "👶"
         },
         {
             "danish": "mand",
             "greenlandic": "angut",
-            "audio": "family_03.mp3",
-            "image": "familie_03.png"
+            "audio": "angut.mp3",
+            "image": "angut.png",
+            "emoji": "🧍‍♂️"
         },
         {
             "danish": "kvinde",
             "greenlandic": "arnaq",
-            "audio": "family_04.mp3",
-            "image": "familie_04.png"
+            "audio": "arnaq.mp3",
+            "image": "arnaq.png",
+            "emoji": "🧍‍♀️"
         },
         {
             "danish": "dreng",
             "greenlandic": "nukappiaraq",
-            "audio": "family_05.mp3",
-            "image": "familie_05.png"
+            "audio": "nukappiaraq.mp3",
+            "image": "nukappiaraq.png",
+            "emoji": "👦"
         },
         {
             "danish": "pige",
             "greenlandic": "niviarsiaraq",
-            "audio": "family_06.mp3",
-            "image": "familie_06.png"
+            "audio": "niviarsiaraq.mp3",
+            "image": "niviarsiaraq.png",
+            "emoji": "👧"
         },
         {
             "danish": "far",
             "greenlandic": "ataata",
-            "audio": "family_07.mp3",
-            "image": "familie_07.png"
+            "audio": "ataata.mp3",
+            "image": "ataata.png"
         },
         {
             "danish": "mor",
             "greenlandic": "anaana",
-            "audio": "family_08.mp3",
-            "image": "familie_08.png"
+            "audio": "anaana.mp3",
+            "image": "anaana.png"
         },
         {
             "danish": "søn",
             "greenlandic": "erneq",
-            "audio": "family_09.mp3",
-            "image": "familie_09.png"
+            "audio": "erneq.mp3",
+            "image": "erneq.png"
         },
         {
             "danish": "datter",
             "greenlandic": "panik",
-            "audio": "family_10.mp3",
-            "image": "familie_10.png"
+            "audio": "panik.mp3",
+            "image": "panik.png"
         },
         {
             "danish": "bror/søster",
             "greenlandic": "qatanngut",
             "note": "begge køn",
-            "audio": "family_11.mp3",
-            "image": "familie_11.png"
+            "audio": "qatanngut.mp3",
+            "image": "qatanngut.png"
         },
         {
             "danish": "storesøster / storebror",
             "greenlandic": "angaju",
             "note": "til en yngre søskende af samme køn",
-            "audio": "family_12.mp3",
-            "image": "familie_12.png"
+            "audio": "angaju.mp3",
+            "image": "angaju.png"
         },
         {
             "danish": "lillesøster / lillebror",
             "greenlandic": "nuka",
             "note": "til en ældre søskende af samme køn",
-            "audio": "family_13.mp3",
-            "image": "familie_13.png"
+            "audio": "nuka.mp3",
+            "image": "nuka.png"
         },
         {
             "danish": "storesøster",
             "greenlandic": "aleqa",
             "note": "til en lillebror",
-            "audio": "family_14.mp3",
-            "image": "familie_14.png"
+            "audio": "aleqa.mp3",
+            "image": "aleqa.png"
         },
         {
             "danish": "lillesøster",
             "greenlandic": "naja",
             "note": "til en storebror",
-            "audio": "family_15.mp3",
-            "image": "familie_15.png"
+            "audio": "naja.mp3",
+            "image": "naja.png"
         },
         {
             "danish": "storebror",
             "greenlandic": "ani",
             "note": "til en lillesøster",
-            "audio": "family_16.mp3",
-            "image": "familie_16.png"
+            "audio": "ani.mp3",
+            "image": "ani.png"
         },
         {
             "danish": "lillebror",
             "greenlandic": "aqqalu",
             "note": "til en storesøster",
-            "audio": "family_17.mp3",
-            "image": "familie_17.png"
+            "audio": "aqqalu.mp3",
+            "image": "aqqalu.png"
+        },
+        {
+            "danish": "bedstefar",
+            "greenlandic": "aataa",
+            "audio": "aataa.mp3",
+            "image": "aataa.png",
+            "emoji": "👴"
+        },
+        {
+            "danish": "bedstemor",
+            "greenlandic": "aanaa",
+            "audio": "aanaa.mp3",
+            "image": "aanaa.png",
+            "emoji": "👵"
         }
     ],
     "body": [
         {
             "danish": "krop",
             "greenlandic": "timi",
-            "audio": "body_01.mp3",
-            "image": "krop_01.png"
+            "audio": "timi.mp3",
+            "image": "timi.png",
+            "emoji": "🧍"
         },
         {
             "danish": "hoved",
             "greenlandic": "niaqoq",
-            "audio": "body_02.mp3",
-            "image": "krop_02.png"
+            "audio": "niaqoq.mp3",
+            "image": "niaqoq.png",
+            "emoji": "🦰"
         },
         {
             "danish": "ansigt",
             "greenlandic": "kiinaq",
-            "audio": "body_03.mp3",
-            "image": "krop_03.png"
+            "audio": "kiinaq.mp3",
+            "image": "kiinaq.png",
+            "emoji": "🧑‍🦰"
         },
         {
             "danish": "pande",
             "greenlandic": "qaaq",
-            "audio": "body_04.mp3",
-            "image": "krop_04.png"
+            "audio": "qaaq.mp3",
+            "image": "qaaq.png"
         },
         {
             "danish": "kind",
             "greenlandic": "uluak",
-            "audio": "body_05.mp3",
-            "image": "krop_05.png"
+            "audio": "uluak.mp3",
+            "image": "uluak.png"
         },
         {
             "danish": "kæbe",
             "greenlandic": "alleroq",
-            "audio": "body_06.mp3",
-            "image": "krop_06.png"
+            "audio": "alleroq.mp3",
+            "image": "alleroq.png"
         },
         {
             "danish": "hage",
             "greenlandic": "talloq",
-            "audio": "body_07.mp3",
-            "image": "krop_07.png"
+            "audio": "talloq.mp3",
+            "image": "talloq.png"
         },
         {
             "danish": "øre",
             "greenlandic": "siut",
-            "audio": "body_08.mp3",
-            "image": "krop_08.png"
+            "audio": "siut.mp3",
+            "image": "siut.png",
+            "emoji": "👂"
         },
         {
             "danish": "øje",
             "greenlandic": "isi",
-            "audio": "body_09.mp3",
-            "image": "krop_09.png"
+            "audio": "isi.mp3",
+            "image": "isi.png",
+            "emoji": "👀"
         },
         {
             "danish": "næse",
             "greenlandic": "qingaq",
-            "audio": "body_10.mp3",
-            "image": "krop_10.png"
+            "audio": "qingaq.mp3",
+            "image": "qingaq.png",
+            "emoji": "👃"
         },
         {
             "danish": "mund",
             "greenlandic": "qaneq",
-            "audio": "body_11.mp3",
-            "image": "krop_11.png"
+            "audio": "qaneq.mp3",
+            "image": "qaneq.png"
         },
         {
             "danish": "læbe",
             "greenlandic": "sigguk",
-            "audio": "body_12.mp3",
-            "image": "krop_12.png"
+            "audio": "sigguk.mp3",
+            "image": "sigguk.png",
+            "emoji": "👄"
         },
         {
             "danish": "tunge",
             "greenlandic": "oqaq",
-            "audio": "body_13.mp3",
-            "image": "krop_13.png"
+            "audio": "oqaq.mp3",
+            "image": "oqaq.png",
+            "emoji": "👅"
         },
         {
             "danish": "tand",
             "greenlandic": "kigut",
-            "audio": "body_14.mp3",
-            "image": "krop_14.png"
+            "audio": "kigut.mp3",
+            "image": "kigut.png",
+            "emoji": "🦷"
         },
         {
             "danish": "horn",
             "greenlandic": "nassuk",
-            "audio": "body_15.mp3",
-            "image": "krop_15.png"
+            "audio": "nassuk.mp3",
+            "image": "nassuk.png",
+            "emoji": "🦄"
         },
         {
             "danish": "hals",
             "greenlandic": "qungaseq",
-            "audio": "body_16.mp3",
-            "image": "krop_16.png"
+            "audio": "qungaseq.mp3",
+            "image": "qungaseq.png"
         },
         {
             "danish": "hår",
             "greenlandic": "nujaq",
-            "audio": "body_17.mp3",
-            "image": "krop_17.png"
+            "audio": "nujaq.mp3",
+            "image": "nujaq.png"
         },
         {
             "danish": "skæg",
             "greenlandic": "umik",
-            "audio": "body_18.mp3",
-            "image": "krop_18.png"
+            "audio": "umik.mp3",
+            "image": "umik.png",
+            "emoji": "🧔‍♂️"
         },
         {
             "danish": "pels",
             "greenlandic": "ameq",
-            "audio": "body_19.mp3"
+            "audio": "ameq.mp3"
         },
         {
             "danish": "fjer",
             "greenlandic": "meqqoq",
-            "audio": "body_20.mp3",
-            "image": "krop_20.png"
+            "audio": "meqqoq.mp3",
+            "image": "meqqoq.png",
+            "emoji": "🪶"
         },
         {
             "danish": "arm",
             "greenlandic": "taleq",
-            "audio": "body_21.mp3",
-            "image": "krop_21.png"
+            "audio": "taleq.mp3",
+            "image": "taleq.png",
+            "emoji": "🤳"
         },
         {
             "danish": "hånd",
             "greenlandic": "assak",
-            "audio": "body_22.mp3",
-            "image": "krop_22.png"
+            "audio": "assak.mp3",
+            "image": "assak.png",
+            "emoji": "✋"
         },
         {
             "danish": "håndled",
             "greenlandic": "paffik",
-            "audio": "body_23.mp3",
-            "image": "krop_23.png"
+            "audio": "paffik.mp3",
+            "image": "paffik.png"
         },
         {
             "danish": "finger",
             "greenlandic": "inuaq",
-            "audio": "body_24.mp3",
-            "image": "krop_24.png"
+            "audio": "inuaq.mp3",
+            "image": "inuaq.png",
+            "emoji": "🤞"
         },
         {
             "danish": "tommelfinger",
             "greenlandic": "kulloq",
-            "audio": "body_25.mp3",
-            "image": "krop_25.png"
+            "audio": "kulloq.mp3",
+            "image": "kulloq.png",
+            "emoji": "👍"
         },
         {
             "danish": "pegefinger",
             "greenlandic": "tikeq",
-            "audio": "body_26.mp3",
-            "image": "krop_26.png"
+            "audio": "tikeq.mp3",
+            "image": "tikeq.png",
+            "emoji": "☝️"
         },
         {
             "danish": "langfinger",
             "greenlandic": "qiterleq",
-            "audio": "body_27.mp3",
-            "image": "krop_27.png"
+            "audio": "qiterleq.mp3",
+            "image": "qiterleq.png",
+            "emoji": "🖕"
         },
         {
             "danish": "ringfinger",
             "greenlandic": "mikileraq",
-            "audio": "body_28.mp3",
-            "image": "krop_28.png"
+            "audio": "mikileraq.mp3",
+            "image": "mikileraq.png"
         },
         {
             "danish": "lillefinger",
             "greenlandic": "eqeqqoq",
-            "audio": "body_29.mp3",
-            "image": "krop_29.png"
+            "audio": "eqeqqoq.mp3",
+            "image": "eqeqqoq.png"
         },
         {
             "danish": "fingernegl",
             "greenlandic": "kukik",
-            "audio": "body_30.mp3"
+            "audio": "kukik.mp3",
+            "emoji": "💅"
         },
         {
             "danish": "ben",
             "greenlandic": "niu",
-            "audio": "body_31.mp3",
-            "image": "krop_31.png"
+            "audio": "niu.mp3",
+            "image": "niu.png",
+            "emoji": "🦵"
         },
         {
             "danish": "lår",
             "greenlandic": "uppat",
-            "audio": "body_32.mp3",
-            "image": "krop_32.png"
+            "audio": "uppat.mp3",
+            "image": "uppat.png"
         },
         {
             "danish": "knæ",
             "greenlandic": "seeqqoq",
-            "audio": "body_33.mp3",
-            "image": "krop_33.png"
+            "audio": "seeqqoq.mp3",
+            "image": "seeqqoq.png"
         },
         {
             "danish": "fod",
             "greenlandic": "isigak",
-            "audio": "body_34.mp3",
-            "image": "krop_34.png"
+            "audio": "isigak.mp3",
+            "image": "isigak.png",
+            "emoji": "🦶"
         },
         {
             "danish": "hæl",
             "greenlandic": "kimmik",
-            "audio": "body_35.mp3",
-            "image": "krop_35.png"
+            "audio": "kimmik.mp3",
+            "image": "kimmik.png"
         },
         {
             "danish": "fodspor",
             "greenlandic": "tumeq",
-            "audio": "body_36.mp3"
+            "audio": "tumeq.mp3",
+            "emoji": "👣"
         },
         {
             "danish": "vinge",
             "greenlandic": "suluk",
-            "audio": "body_37.mp3",
-            "image": "krop_37.png"
+            "audio": "suluk.mp3",
+            "image": "suluk.png",
+            "emoji": "🪽"
         },
         {
             "danish": "hale",
             "greenlandic": "pamioq",
-            "audio": "body_38.mp3",
-            "image": "krop_38.png"
+            "audio": "pamioq.mp3",
+            "image": "pamioq.png"
         },
         {
             "danish": "ryg",
             "greenlandic": "qiteq",
-            "audio": "body_39.mp3",
-            "image": "krop_39.png"
+            "audio": "qiteq.mp3",
+            "image": "qiteq.png"
         },
         {
             "danish": "mave",
             "greenlandic": "naat",
-            "audio": "body_40.mp3",
-            "image": "krop_40.png"
+            "audio": "naat.mp3",
+            "image": "naat.png",
+            "emoji": "🤰"
         },
         {
             "danish": "bryst",
             "greenlandic": "iviangeq",
             "note": "kun om kvinder",
-            "audio": "body_41.mp3",
-            "image": "krop_41.png"
+            "audio": "iviangeq.mp3",
+            "image": "iviangeq.png"
         },
         {
             "danish": "brystkasse",
             "greenlandic": "sakiak",
-            "audio": "body_42.mp3",
-            "image": "krop_42.png"
+            "audio": "sakiak.mp3",
+            "image": "sakiak.png"
         },
         {
             "danish": "skulder",
             "greenlandic": "tui",
-            "audio": "body_43.mp3",
-            "image": "krop_43.png"
+            "audio": "tui.mp3",
+            "image": "tui.png"
         },
         {
             "danish": "knogle",
             "greenlandic": "saaneq",
-            "audio": "body_44.mp3"
+            "audio": "saaneq.mp3",
+            "emoji": "🦴"
         },
         {
             "danish": "skal",
             "greenlandic": "qalipak",
-            "audio": "body_45.mp3"
+            "audio": "qalipak.mp3",
+            "emoji": "🐚"
         },
         {
             "danish": "muskel",
             "greenlandic": "nukik",
-            "audio": "body_46.mp3",
-            "image": "krop_46.png"
+            "audio": "nukik.mp3",
+            "image": "nukik.png",
+            "emoji": "💪"
         }
     ],
     "clothes": [
@@ -457,7 +504,7 @@
             "danish": "jakke",
             "greenlandic": "kavaajaq",
             "audio": "clothing_02.mp3",
-            "image": "tøj_02.png"
+            "emoji": "🧥"
         },
         {
             "danish": "kåbe",
@@ -474,7 +521,7 @@
             "danish": "bluse",
             "greenlandic": "tujuuluaraq",
             "audio": "clothing_05.mp3",
-            "image": "tøj_05.png"
+            "emoji": "👚"
         },
         {
             "danish": "trøje",
@@ -486,7 +533,7 @@
             "danish": "bukser",
             "greenlandic": "qarliit",
             "audio": "clothing_07.mp3",
-            "image": "tøj_07.png"
+            "emoji": "👖"
         },
         {
             "danish": "nederdel",
@@ -522,13 +569,13 @@
             "danish": "halstørklæde",
             "greenlandic": "qungasequt",
             "audio": "clothing_13.mp3",
-            "image": "tøj_13.png"
+            "emoji": "🧣"
         },
         {
             "danish": "vante/handske",
             "greenlandic": "aaqqat",
             "audio": "clothing_14.mp3",
-            "image": "tøj_14.png"
+            "emoji": "🧤"
         },
         {
             "danish": "knap",
@@ -540,7 +587,7 @@
             "danish": "lynlås",
             "greenlandic": "siittartoq",
             "audio": "clothing_16.mp3",
-            "image": "tøj_16.png"
+            "emoji": "🤐"
         },
         {
             "danish": "lomme",
@@ -558,19 +605,19 @@
             "danish": "sko",
             "greenlandic": "skuut",
             "audio": "clothing_19.mp3",
-            "image": "tøj_19.png"
+            "emoji": "👞"
         },
         {
             "danish": "støvle",
             "greenlandic": "kamik",
             "audio": "clothing_20.mp3",
-            "image": "tøj_20.png"
+            "emoji": "👢"
         },
         {
             "danish": "sok",
             "greenlandic": "alerseq",
             "audio": "clothing_21.mp3",
-            "image": "tøj_21.png"
+            "emoji": "🧦"
         },
         {
             "danish": "halskæde",
@@ -588,40 +635,40 @@
             "danish": "ur",
             "greenlandic": "nalunaaqutaq",
             "audio": "clothing_24.mp3",
-            "image": "tøj_24.png"
+            "emoji": "⌚"
         },
         {
             "danish": "ring",
             "greenlandic": "assammiu",
             "audio": "clothing_25.mp3",
-            "image": "tøj_25.png"
+            "emoji": "💍"
         },
         {
             "danish": "rygsæk",
             "greenlandic": "nammattagaq",
             "audio": "clothing_26.mp3",
-            "image": "tøj_26.png"
+            "emoji": "🎒"
         },
         {
             "danish": "plastikpose",
             "greenlandic": "puussiaq",
             "audio": "clothing_27.mp3",
-            "image": "tøj_27.png"
+            "emoji": "🛍️"
         },
         {
             "danish": "pung",
             "greenlandic": "aningaasivik",
             "audio": "clothing_28.mp3",
-            "image": "tøj_28.png"
+            "emoji": "👛"
         },
         {
             "danish": "briller",
             "greenlandic": "isarussat",
             "audio": "clothing_29.mp3",
-            "image": "tøj_29.png"
+            "emoji": "👓"
         },
         {
-            "danish": "stav",
+            "danish": "stok",
             "greenlandic": "ajaappiaq",
             "audio": "clothing_30.mp3",
             "image": "tøj_30.png"
@@ -3220,332 +3267,332 @@
         {
             "danish": "1. Mosebog",
             "greenlandic": "Mosesimik allakkat siulliit",
-            "audio": "books_01.mp3"
+            "audio": "Mo1.mp3"
         },
         {
             "danish": "2. Mosebog",
             "greenlandic": "Mosesimik allakkat aappaat",
-            "audio": "books_02.mp3"
+            "audio": "Mo2.mp3"
         },
         {
             "danish": "3. Mosebog",
             "greenlandic": "Mosesimik allakkat pingajui",
-            "audio": "books_03.mp3"
+            "audio": "Mo3.mp3"
         },
         {
             "danish": "4. Mosebog",
             "greenlandic": "Mosesimik allakkat sisamaat",
-            "audio": "books_04.mp3"
+            "audio": "Mo4.mp3"
         },
         {
             "danish": "5. Mosebog",
             "greenlandic": "Mosesimik allakkat tallimaat",
-            "audio": "books_05.mp3"
+            "audio": "Mo5.mp3"
         },
         {
             "danish": "Josva",
             "greenlandic": "Josva",
-            "audio": "books_06.mp3"
+            "audio": "Jos.mp3"
         },
         {
             "danish": "Dommerne",
             "greenlandic": "Eqqartuussisut",
-            "audio": "books_07.mp3"
+            "audio": "Eq.mp3"
         },
         {
             "danish": "Ruth",
             "greenlandic": "Ruthi",
-            "audio": "books_08.mp3"
+            "audio": "Rt.mp3"
         },
         {
             "danish": "1. Samuel",
             "greenlandic": "Samuelimik allakkat siulliit",
-            "audio": "books_09.mp3"
+            "audio": "Sa1.mp3"
         },
         {
             "danish": "2. Samuel",
             "greenlandic": "Samuelimik allakkat aappaat",
-            "audio": "books_10.mp3"
+            "audio": "Sa2.mp3"
         },
         {
             "danish": "1. Kongebog",
             "greenlandic": "Kunnginik allakkat siulliit",
-            "audio": "books_11.mp3"
+            "audio": "Kg1.mp3"
         },
         {
             "danish": "2. Kongebog",
             "greenlandic": "Kunnginik allakkat aappaat",
-            "audio": "books_12.mp3"
+            "audio": "Kg2.mp3"
         },
         {
             "danish": "1. Krønikebog",
             "greenlandic": "Nalunaarsuutit siulliit",
-            "audio": "books_13.mp3"
+            "audio": "Na1.mp3"
         },
         {
             "danish": "2. Krønikebog",
             "greenlandic": "Nalunaarsuutit aappaat",
-            "audio": "books_14.mp3"
+            "audio": "Na2.mp3"
         },
         {
             "danish": "Ezra",
             "greenlandic": "Ezra",
-            "audio": "books_15.mp3"
+            "audio": "Ezr.mp3"
         },
         {
             "danish": "Nehemias",
             "greenlandic": "Nehemia",
-            "audio": "books_16.mp3"
+            "audio": "Neh.mp3"
         },
         {
             "danish": "Ester",
             "greenlandic": "Esteri",
-            "audio": "books_17.mp3"
+            "audio": "Est.mp3"
         },
         {
             "danish": "Job",
             "greenlandic": "Jobi",
-            "audio": "books_18.mp3"
+            "audio": "Jb.mp3"
         },
         {
             "danish": "Salmerne",
             "greenlandic": "Tussiaatit",
-            "audio": "books_19.mp3"
+            "audio": "Ts.mp3"
         },
         {
             "danish": "Ordsprogene",
             "greenlandic": "Ussatit",
-            "audio": "books_20.mp3"
+            "audio": "Us.mp3"
         },
         {
             "danish": "Prædikeren",
             "greenlandic": "Oqaluussisartup oqaasii",
-            "audio": "books_21.mp3"
+            "audio": "Oq.mp3"
         },
         {
             "danish": "Højsangen",
             "greenlandic": "Erinarsugassiat Pingaarnersaat",
-            "audio": "books_22.mp3"
+            "audio": "Er.mp3"
         },
         {
             "danish": "Esajas",
             "greenlandic": "Esaja",
-            "audio": "books_23.mp3"
+            "audio": "Es.mp3"
         },
         {
             "danish": "Jeremias",
             "greenlandic": "Jeremia",
-            "audio": "books_24.mp3"
+            "audio": "Jr.mp3"
         },
         {
             "danish": "Klagesangene",
             "greenlandic": "Upputit",
-            "audio": "books_25.mp3"
+            "audio": "Up.mp3"
         },
         {
             "danish": "Ezekiel",
             "greenlandic": "Ezekieli",
-            "audio": "books_26.mp3"
+            "audio": "Eze.mp3"
         },
         {
             "danish": "Daniel",
             "greenlandic": "Danieli",
-            "audio": "books_27.mp3"
+            "audio": "Da.mp3"
         },
         {
             "danish": "Hoseas",
             "greenlandic": "Hosea",
-            "audio": "books_28.mp3"
+            "audio": "Hos.mp3"
         },
         {
             "danish": "Joel",
             "greenlandic": "Joeli",
-            "audio": "books_29.mp3"
+            "audio": "Jl.mp3"
         },
         {
             "danish": "Amos",
             "greenlandic": "Amosi",
-            "audio": "books_30.mp3"
+            "audio": "Am.mp3"
         },
         {
             "danish": "Obadias",
             "greenlandic": "Obadia",
-            "audio": "books_31.mp3"
+            "audio": "Ob.mp3"
         },
         {
             "danish": "Jonas",
             "greenlandic": "Jona",
-            "audio": "books_32.mp3"
+            "audio": "Jn.mp3"
         },
         {
             "danish": "Mika",
             "greenlandic": "Mika",
-            "audio": "books_33.mp3"
+            "audio": "Mika.mp3"
         },
         {
             "danish": "Nahum",
             "greenlandic": "Nahumi",
-            "audio": "books_34.mp3"
+            "audio": "Nah.mp3"
         },
         {
             "danish": "Habakkuk",
             "greenlandic": "Habakkuki",
-            "audio": "books_35.mp3"
+            "audio": "Hb.mp3"
         },
         {
             "danish": "Sefanias",
             "greenlandic": "Sefania",
-            "audio": "books_36.mp3"
+            "audio": "Sf.mp3"
         },
         {
             "danish": "Haggaj",
             "greenlandic": "Haggaji",
-            "audio": "books_37.mp3"
+            "audio": "Hg.mp3"
         },
         {
             "danish": "Zakarias",
             "greenlandic": "Zakaria",
-            "audio": "books_38.mp3"
+            "audio": "Zak.mp3"
         },
         {
             "danish": "Malakias",
             "greenlandic": "Malaki",
-            "audio": "books_39.mp3"
+            "audio": "Ml.mp3"
         },
         {
             "danish": "Matthæus",
             "greenlandic": "Matiusi",
-            "audio": "books_40.mp3"
+            "audio": "Mt.mp3"
         },
         {
             "danish": "Markus",
             "greenlandic": "Makkorsi",
-            "audio": "books_41.mp3"
+            "audio": "Mak.mp3"
         },
         {
             "danish": "Lukas",
             "greenlandic": "Lukkarsi",
-            "audio": "books_42.mp3"
+            "audio": "Luk.mp3"
         },
         {
             "danish": "Johannes",
             "greenlandic": "Johannesi",
-            "audio": "books_43.mp3"
+            "audio": "Joh.mp3"
         },
         {
             "danish": "Apostlenes Gerninger",
             "greenlandic": "Apustilit Suliaat",
-            "audio": "books_44.mp3"
+            "audio": "ApS.mp3"
         },
         {
             "danish": "Romerne",
             "greenlandic": "Romamiut",
-            "audio": "books_45.mp3"
+            "audio": "Rom.mp3"
         },
         {
             "danish": "1. Korinther",
             "greenlandic": "Korintimiunut allakkat siulliit",
-            "audio": "bibelbøger1.mp3"
+            "audio": "Ko1.mp3"
         },
         {
             "danish": "2. Korinther",
             "greenlandic": "Korintimiunut allakkat aappaat",
-            "audio": "bibelbøger2.mp3"
+            "audio": "Ko2.mp3"
         },
         {
             "danish": "Galaterne",
             "greenlandic": "Galaatiamiut",
-            "audio": "books_48.mp3"
+            "audio": "Gal.mp3"
         },
         {
             "danish": "Efeserne",
             "greenlandic": "Efesossimiut",
-            "audio": "books_49.mp3"
+            "audio": "Ef.mp3"
         },
         {
             "danish": "Filipperne",
             "greenlandic": "Filippimiut",
-            "audio": "books_50.mp3"
+            "audio": "Flp.mp3"
         },
         {
             "danish": "Kolossenserne",
             "greenlandic": "Kolossimiut",
-            "audio": "books_51.mp3"
+            "audio": "Kol.mp3"
         },
         {
             "danish": "1. Thessaloniker",
             "greenlandic": "Tessaluunikamiunut allakkat siulliit",
-            "audio": "books_52.mp3"
+            "audio": "Te1.mp3"
         },
         {
             "danish": "2. Thessaloniker",
             "greenlandic": "Tessaluunikamiunut allakkat aappaat",
-            "audio": "books_53.mp3"
+            "audio": "Te2.mp3"
         },
         {
             "danish": "1. Timotheus",
             "greenlandic": "Timuutiusimut allakkat siulliit",
-            "audio": "books_54.mp3"
+            "audio": "Ti1.mp3"
         },
         {
             "danish": "2. Timotheus",
             "greenlandic": "Timuutiusimut allakkat aappaat",
-            "audio": "books_55.mp3"
+            "audio": "Ti2.mp3"
         },
         {
             "danish": "Titus",
             "greenlandic": "Tittusi",
-            "audio": "books_56.mp3"
+            "audio": "Tit.mp3"
         },
         {
             "danish": "Filemon",
             "greenlandic": "Fiilimuut",
-            "audio": "books_57.mp3"
+            "audio": "Flm.mp3"
         },
         {
             "danish": "Hebræerne",
             "greenlandic": "Hebræerit",
-            "audio": "books_58.mp3"
+            "audio": "Heb.mp3"
         },
         {
             "danish": "Jakob",
             "greenlandic": "Jaaku",
-            "audio": "books_59.mp3"
+            "audio": "Ja.mp3"
         },
         {
             "danish": "1. Peter",
             "greenlandic": "Petrusimit allakkat siulliit",
-            "audio": "bibelbøger3.mp3"
+            "audio": "Pe1.mp3"
         },
         {
             "danish": "2. Peter",
             "greenlandic": "Petrusimit allakkat aappaat",
-            "audio": "bibelbøger4.mp3"
+            "audio": "Pe2.mp3"
         },
         {
             "danish": "1. Johannes",
             "greenlandic": "Johannesimit allakkat siulliit",
-            "audio": "bibelbøger5.mp3"
+            "audio": "Jo1.mp3"
         },
         {
             "danish": "2. Johannes",
             "greenlandic": "Johannesimit allakkat aappaat",
-            "audio": "bibelbøger6.mp3"
+            "audio": "Jo2.mp3"
         },
         {
             "danish": "3. Johannes",
             "greenlandic": "Johannesimit allakkat pingajui",
-            "audio": "bibelbøger7.mp3"
+            "audio": "Jo3.mp3"
         },
         {
             "danish": "Judas",
             "greenlandic": "Juudarsi",
-            "audio": "books_65.mp3"
+            "audio": "Jd.mp3"
         },
         {
             "danish": "Åbenbaringen",
             "greenlandic": "Saqqummersitat",
-            "audio": "books_66.mp3"
+            "audio": "Sq.mp3"
         }
     ],
     "meetingforfieldservice": [
