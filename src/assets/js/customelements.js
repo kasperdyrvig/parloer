@@ -32,10 +32,7 @@ class exerciseSingleInput extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = document.createElement("label");
-            response.setAttribute("for", id);
-            response.hidden = true;
-            response.classList.add("response-label");
+            const response = el("div", "valid-feedback");
             wrapper.appendChild(response);
         }
         
@@ -80,10 +77,7 @@ class exerciseNumberInput extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = document.createElement("label");
-            response.setAttribute("for", id);
-            response.classList.add("response-label");
-            response.hidden = true;
+            const response = el("div", "valid-feedback");
             wrapper.appendChild(response);
         }
 
@@ -133,38 +127,42 @@ class exerciseMultiChoice extends HTMLElement {
     }
 
     connectedCallback() {
-        const id = uuidv4();
+        const groupName = uuidv4();
         const optionsType = (this.dataset.type.length > 0) ? this.dataset.type.toLowerCase() : "radio";
-
+        
         const wrapper = el("fieldset", "form-group mb-3 " + optionsType);
         let y = 0;
-
+        
         const legend = document.createElement("legend");
         legend.textContent = this.dataset.label;
         wrapper.appendChild(legend);
-
+        
         const optionsWrapper = el("div", "multiple-choice-container");
         wrapper.appendChild(optionsWrapper);
-
+        
         for (let index = 0; index < this.dataset.options.split(",").length; index++) {
+            const id = uuidv4();
             const element = this.dataset.options.split(",")[index];
             y++;
-            const optionWrapper = document.createElement("label");
             
-            const input = document.createElement("input");
+            const inputdiv = el("div", "form-check");
+            
+            const input = el("input", "form-check-input");
             input.type = optionsType;
             if (optionsType == "radio") {
                 input.required = true;
             }
             input.value = y;
-            input.setAttribute("name", id);
-            optionWrapper.appendChild(input);
+            input.setAttribute("name", groupName);
+            input.setAttribute("id", id);
+            inputdiv.appendChild(input)
             
-            const label = document.createElement("span");
+            const label = el("label", "form-check-label");
+            label.setAttribute("for", id);
             label.textContent = element.trim();
-            optionWrapper.appendChild(label);
+            inputdiv.appendChild(label);
             
-            optionsWrapper.appendChild(optionWrapper);
+            optionsWrapper.appendChild(inputdiv);
         }
 
         if (this.dataset.validation != null) {
@@ -173,10 +171,7 @@ class exerciseMultiChoice extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = document.createElement("label");
-            response.setAttribute("for", id);
-            response.classList.add("response-label");
-            response.hidden = true;
+            const response = el("div", "valid-feedback");
             wrapper.appendChild(response);
         }
 
@@ -237,10 +232,7 @@ class exerciseMultiInput extends HTMLElement {
                 valid.value = validations[index].trim().toLowerCase();
                 inputWrapper.appendChild(valid);
                 
-                const response = document.createElement("label");
-                response.setAttribute("for", id);
-                response.classList.add("response-label");
-                response.hidden = true;
+                const response = el("div", "valid-feedback");
                 inputWrapper.appendChild(response);
             }
 
@@ -291,6 +283,21 @@ class exerciseMatchPairs extends HTMLElement {
 }
 
 customElements.define("match-pairs", exerciseMatchPairs);
+
+class customAudioPlayer extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    connectedCallback() {
+        const wrapper = el("div", "audio");
+        
+        const playButton = el("button", "play-button");
+        playButton.setAttribute("title", "Sig højt");
+    }
+}
+
+customElements.define("audio-player", customAudioPlayer);
 
 function el (type, classes) {
     const newEl = document.createElement(type);

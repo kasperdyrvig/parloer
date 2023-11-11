@@ -8,7 +8,9 @@ layout: base
 <div class="list-group phrase-list">
 {% for phrase in phrases[getCollection] %}
     <div class="list-group-item d-flex phrase-item" id="{{getCollection}}-{{loop.index}}">
-        {% if phrase.image %}
+        {% if phrase.emoji %}
+            <div class="phrase-emoji flex-shrink-0 me-3 fs-1">{{phrase.emoji}}</div>
+        {% elif phrase.image %}
             {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.image}}{%endset%}
             <div class="phrase-image flex-shrink-0 me-3"><img src="{{imageUrl | url}}" loading="lazy"></div>
         {% endif %}
