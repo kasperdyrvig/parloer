@@ -9,10 +9,10 @@ layout: base
 {% for phrase in phrases[getCollection] %}
     <div class="list-group-item d-flex phrase-item" id="{{getCollection}}-{{loop.index}}">
         {% if phrase.emoji %}
-            <div class="phrase-emoji flex-shrink-0 me-3 fs-1">{{phrase.emoji}}</div>
+            <div class="phrase-emoji flex-shrink-0 me-3 text-center" style="width: 5rem; font-size: 3rem;">{{phrase.emoji}}</div>
         {% elif phrase.image %}
             {% set imageUrl %}/assets/images/{{getCollection}}/{{phrase.image}}{%endset%}
-            <div class="phrase-image flex-shrink-0 me-3"><img src="{{imageUrl | url}}" loading="lazy"></div>
+            <div class="phrase-image flex-shrink-0 me-3 text-center" style="width: 5rem;"><img src="{{imageUrl | url}}" loading="lazy" style="max-width: 5rem; max-height: 5rem;"></div>
         {% endif %}
         <div class="flex-grow">
             <div class="phrase-body">
