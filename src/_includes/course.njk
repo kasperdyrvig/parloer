@@ -1,24 +1,24 @@
 ---
-layout: base
+layout: standard
 ---
 {{content | safe}}
 
 {% if showModulesList %}
-<h2 class="mt-4 mb-2">Moduler</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Moduler</h2>
+<div class="list-group nav-list-group">
 {%- for module in collections.module %}
-<a class="list-group-item list-group-item-action" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
+<a class="list-group-item" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
 {%- endfor %}
 </div>
 {% endif %}
 
 {% if moduleNo > 0 %}
-<h2 class="mt-4 mb-2">Lektioner</h2>
-<div class="list-group mb-4">
+<h2 class="mt-lg mb-sm">Lektioner</h2>
+<div class="list-group nav-list-group">
 {%- for lesson in collections[getLessonsOf] %}
-<a class="list-group-item list-group-item-action" href="{{lesson.url | url}}">{{lesson.data.metaTitle}}</a>
+<a class="list-group-item" href="{{lesson.url | url}}">{{lesson.data.metaTitle}}</a>
 {%- endfor %}
 </div>
 
-<a class="btn btn-outline-primary" href="parloer">Støttesætninger</a>
+<p><a class="btn btn-small btn-white btn-inline" href="parloer">Støttesætninger</a></p>
 {% endif %}

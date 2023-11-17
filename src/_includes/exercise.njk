@@ -1,6 +1,66 @@
 ---
-layout: base
+layout: standard-nomenu
 metaTitle: Øvelse
 hideMainMenu: true
 ---
-{{content | safe}}
+<section class="gamepanel gamestart" id="start">
+    <div class="gamepanel-body">
+        <h2 class="mt-lg">{{onPageTitle}}</h2>
+        <p class="mt-0">{{onPageDescription}}</p>
+    </div>
+    <div class="gamepanel-footer">
+        <button class="btn btn-block btn-uppercase btn-blue" type="button" onclick="startExercise()">Start</button>
+    </div>
+</section>
+
+<section class="gamepanel gamearea hidden" id="exercise">
+    <div class="gamepanel-body">
+        <progress class="gamepanel-meter" id="gameprogress" title="Fremgang" max="1"></progress>
+        {{content | safe}}
+    </div>
+            
+    <!--Next button here-->
+    <div class="gamepanel-footer">
+        <button type="submit" class="btn btn-block btn-uppercase btn-blue">Tjek svaret</button>
+    </div>
+
+    <!--Validation response here-->
+    <div class="response fail" id="wrong">
+        <p class="response-title">😕 Forkert!</p>
+        <p class="response-text"></p>
+        <div class="response-footer">
+            <button type="button" class="btn btn-block btn-uppercase btn-red" onclick="nextExerciseItem()">Næste</button>
+        </div>
+    </div>
+    
+    <div class="response almost" id="almost">
+        <p class="response-title">Dit svar er registreret</p>
+        <p class="response-text"></p>
+        <div class="response-footer">
+            <button type="button" class="btn btn-block btn-uppercase btn-yellow" onclick="nextExerciseItem()">Næste</button>
+        </div>
+    </div>
+
+    <div class="response success" id="right">
+        <p class="response-title">😀 Rigtigt!</p>
+        <p class="response-text"></p>
+        <div class="response-footer">
+            <button type="button" class="btn btn-block btn-uppercase btn-green" onclick="nextExerciseItem()">Næste</button>
+        </div>
+    </div>
+</section>
+    
+<section class="gamepanel gameend hidden" id="finish">
+    <div class="gamepanel-body">
+        <h2 class="gameend-commendation">Godt klaret!</h2>
+        <p class="gameend-score">Du fik X ud af Y points</p>
+    </div>
+    <div class="gamepanel-footer">
+        <a href="../" class="btn btn-block btn-blue btn-uppercase mb-md">Færdig</a>
+        <a href="#" id="shareResult" class="btn btn-block btn-gray">Send resultat til læreren</a>
+    </div>
+</section>
+
+<output id="resultContainer" hidden></output>
+
+<script src={{'/assets/js/exercises.js' | url}}></script>

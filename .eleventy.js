@@ -13,7 +13,8 @@ module.exports = function (eleventyConfig) {
   
   // Shortcodes
   eleventyConfig.addPairedShortcode("exerciseItem", function (exerciseContent) {
-    return `<div class="exercise-item">${exerciseContent}</div>`;
+    const id = uuidv4();
+    return `<div class="exercise-item" id="`+ id +`"><form id="`+ id +`f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
   });
 
   // Return your Object options (must be last in file)

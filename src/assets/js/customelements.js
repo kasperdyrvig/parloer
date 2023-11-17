@@ -97,7 +97,7 @@ class exerciseTextareaInput extends HTMLElement {
         const id = uuidv4();
 
         const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group mb-3 textinput");
+        wrapper.setAttribute("class", "form-group textinput");
 
         const label = document.createElement("label");
         label.setAttribute("for", id);
@@ -106,7 +106,7 @@ class exerciseTextareaInput extends HTMLElement {
         wrapper.appendChild(label);
         
         const input = document.createElement("textarea");
-        input.classList.add("form-control");
+        input.classList.add("form-input");
         input.id = id;
         input.required = true;
         input.setAttribute("rows", 5);
@@ -292,8 +292,17 @@ class customAudioPlayer extends HTMLElement {
     connectedCallback() {
         const wrapper = el("div", "audio");
         
-        const playButton = el("button", "play-button");
+        const playButton = el("button", "play-button btn btn-outline-primary");
+        playButton.setAttribute("data-playing", false);
         playButton.setAttribute("title", "Sig højt");
+
+        const audioEl = document.createElement("audio");
+        audioEl.setAttribute("src", "/audio/" + this.dataset.file);
+
+        wrapper.appendChild(audioEl);
+        wrapper.appendChild(playButton);
+        this.appendChild(wrapper);
+        this.style.display = "contents";
     }
 }
 

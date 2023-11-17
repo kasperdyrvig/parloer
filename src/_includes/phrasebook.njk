@@ -1,39 +1,39 @@
 ---
-layout: base
+layout: standard
 ---
 {{content | safe}}
 
-<h2 class="mt-4 mb-2">Basale ord</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Basale ord</h2>
+<div class="collection-list">
 {% for group in collections.basic %}
-<a class="list-group-item list-group-item-action" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+<a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-4 mb-2">Forkyndelse</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Forkyndelse</h2>
+<div class="collection-list">
 {% for group in collections.preaching %}
-<a class="list-group-item list-group-item-action" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+<a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-4 mb-2">Undervisning</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Undervisning</h2>
+<div class="collection-list">
 {% for group in collections.teaching %}
-<a class="list-group-item list-group-item-action" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+<a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-4 mb-2">Bibelens lære</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Bibelens lære</h2>
+<div class="collection-list">
 {% for group in collections.bible %}
-<a class="list-group-item list-group-item-action" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+<a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-4 mb-2">Hjælp til udtale</h2>
-<div class="list-group">
+<h2 class="mt-lg mb-sm">Hjælp til udtale</h2>
+<div class="collection-list">
 {% for group in collections.pronunciation %}
-<a class="list-group-item list-group-item-action" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
+<a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>

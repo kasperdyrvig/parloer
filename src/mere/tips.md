@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: textpage
 metaTitle: Tips til at lære grønlandsk
 ---
 # Tips til at lære grønlandsk

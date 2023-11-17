@@ -5,27 +5,13 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{metaTitle}} | Grønlandsk parlør</title>
-    <link href="{{'/assets/css/bootstrap.min.css' | url}}" rel="stylesheet">
+    {# <link href="{{'/assets/css/bootstrap.min.css' | url}}" rel="stylesheet"> #}
+    <link href="{{'/assets/css/style.css' | url}}" rel="stylesheet">
     <script src={{'/assets/js/customelements.js' | url}}></script>
 </head>
 <body class="pb-5">
-    {% if hideMainMenu != "true" %}
-    <nav class="navbar bg-body-tertiary position-fixed bottom-0 start-0 end-0 z-1">
-        <div class="container-fluid">
-            <ul class="navbar-nav w-100 flex-row justify-content-around">
-                <li class="nav-item"><a class="nav-link" href="{{'/' | url}}">Hjem</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{'/parloer' | url}}">Parlør</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{'/kursus' | url}}">Kursus</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{'/mere' | url}}">Mere</a></li>
-            </ul>
-        </div>
-    </nav>
-    {% endif %}
-    <main style="max-width: 50rem;">
-        <div class="container-fluid mt-3 mb-5">
-            {{content | safe}}
-        </div>
-    </main>
+    {{content | safe}}
+    <div id="snackbar"></div>
     <script src={{'/assets/js/features.js' | url}}></script>
 </body>
 </html>

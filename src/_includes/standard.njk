@@ -1,0 +1,14 @@
+---
+layout: base
+---
+<nav id="app-menu">
+    <a class="navigation-item" href="{{'/' | url}}">Hjem</a></li>
+    <a class="navigation-item" href="{{'/parloer' | url}}">Parlør</a>
+    <a class="navigation-item" href="{{'/kursus' | url}}">Kursus</a>
+    <a class="navigation-item" href="{{'/mere' | url}}">Mere</a>
+</nav>
+<main>
+    <section>
+        {{content | safe}}
+    </section>
+</main>
