@@ -37,3 +37,21 @@ document.querySelectorAll("button.copy-button").forEach(copyButton => {
         }
     });
 });
+
+//Listen for tabs
+document.querySelectorAll("button[data-toggle=tab]").forEach(tabButton => {
+    tabButton.addEventListener("click", event => {
+        const previousPane = document.querySelector(".tab-content .tab-pane.active");
+        previousPane.classList.remove("active");
+        
+        const previousTab = tabButton.parentElement.parentElement.querySelector(".active");
+        previousTab.ariaSelected = "false";
+        previousTab.classList.remove("active");
+        
+        tabButton.ariaSelected = "true";
+        tabButton.classList.add("active");
+
+        const targetPane = document.getElementById(tabButton.dataset.target);
+        targetPane.classList.add("active");
+    });
+});

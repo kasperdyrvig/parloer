@@ -5,40 +5,38 @@ eleventyImport:
 ---
 <p><a href="../" class="btn btn-small btn-white btn-inline">Tilbage</a></p>
 
-<h1 class="my-4">{{metaTitle}}</h1>
+<h1 class="mt-lg mb-sm">{{metaTitle}}</h1>
 
-<div class="list-group phrase-list">
+<div class="phrase-list">
 {% for phrase in collections[getCollection] %}
-    <div class="list-group-item d-flex phrase-item" id="{{getCollection}}-{{loop.index}}">
+    <div class="phrase-item" id="{{getCollection}}-{{loop.index}}">
         {% if phrase.data.image %}
             {% set imageUrl %}/assets/images/{{mediaFolder}}/{{phrase.data.image}}{%endset%}
-            <div class="phrase-image flex-shrink-0 me-3"><img src="{{imageUrl | url}}" loading="lazy"></div>
+            <div class="phrase-image"><img src="{{imageUrl | url}}" loading="lazy"></div>
         {% endif %}
-        <div class="flex-grow">
-            <div class="phrase-body">
-                {% if phrase.data.danish %}
-                    <p class="m-0 text-secondary-emphasis phrase-danish">{{phrase.data.danish}}</p>
-                {% endif %}
-                {% if phrase.content %}
-                    <small class="m-0 phrase-note">{{phrase.data.content | safe}}</small>
-                {% endif %}
-                {% if phrase.data.greenlandic %}
-                    <p class=" m-0 text-primary-emphasis phrase-greenlandic" lang="kl">{{phrase.data.greenlandic}}</p>
-                {% endif %}
-            </div>
-            <div class="phrase-tools mt-2">
-                {% if phrase.data.audio %}
-                    <button type="button" data-playing="false" class="play-button btn" title="Sig højt">Sig højt</button>
-                {% endif %}
-                {% if phrase.data.greenlandic %}
-                    <button type="button" class="copy-button btn" title="Kopier tekst">Kopier</button>
-                {% endif %}
-            </div>
-            {% if phrase.data.audio %}
-                {% set audioUrl %}/assets/audio/{{mediaFolder}}/{{phrase.data.audio}}{%endset%}
-                <audio src="{{audioUrl | url}}" preload="metadata"></audio>
+        <div class="phrase-body">
+            {% if phrase.data.danish %}
+                <p class="m-0 text-secondary-emphasis phrase-danish">{{phrase.data.danish}}</p>
+            {% endif %}
+            {% if phrase.content %}
+                <small class="m-0 phrase-note">{{phrase.data.content | safe}}</small>
+            {% endif %}
+            {% if phrase.data.greenlandic %}
+                <p class=" m-0 text-primary-emphasis phrase-greenlandic" lang="kl">{{phrase.data.greenlandic}}</p>
             {% endif %}
         </div>
+        <div class="phrase-tools mt-2">
+            {% if phrase.data.audio %}
+                <button type="button" data-playing="false" class="play-button btn" title="Sig højt">Sig højt</button>
+            {% endif %}
+            {% if phrase.data.greenlandic %}
+                <button type="button" class="copy-button btn" title="Kopier tekst">Kopier</button>
+            {% endif %}
+        </div>
+        {% if phrase.data.audio %}
+            {% set audioUrl %}/assets/audio/{{mediaFolder}}/{{phrase.data.audio}}{%endset%}
+            <audio src="{{audioUrl | url}}" preload="metadata"></audio>
+        {% endif %}
     </div>
 {% endfor %}
 </div>

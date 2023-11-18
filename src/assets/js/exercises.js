@@ -71,9 +71,10 @@ function nextExerciseItem() {
         itemIndex++;
         output.value += itemIndex + ": "; //This is to seperate the responses in the mail
         
-        //Update meter element
+        //Update progress element
         const progressEl = document.getElementById("gameprogress");
         progressEl.value = itemIndex.toString();
+        progressEl.max = exerciseItems.length;
     } else {
         //Display the score
         const finalScore = document.querySelector(".gameend-score");
@@ -268,10 +269,18 @@ function checkAnswers() {
             }
             output.value += "\n";
         } else if(formGroup.classList.contains("textinput")) {
+            let selectedRadioValue = "";
+            if(formGroup.querySelector("input[type=radio]") != null) {
+                const radio = formGroup.querySelector("input[type=radio]");
+                if(radio.checked) {
+                    selectedRadioValue = formGroup.querySelector("input[type=radio]").value.toLowerCase();
+                    selectedRadioValue += ", ";
+                }
+            }
             const userInput = stripString(formGroup.querySelector(".form-input").value);
             const errorMsg = formGroup.querySelector(".response-label");
             let passed = false;
-            output.value += userInput;
+            output.value += selectedRadioValue + userInput;
             if(formGroup.querySelector("input[type='hidden']")) {
                 numberOfInputs++;
                 //The input should be validated
@@ -344,4 +353,12 @@ function showResponse(type) {
     } else {
         responseEl.querySelector(".response-text").innerText = "";
     }
+}
+
+function selectSiblingInput(element) {
+    const parent = element.parentElement;
+    const radio = parent.querySelector("input[type=radio]");
+    radio.checked = true;
+    const input = parent.querySelector("input[type=text]");
+    input.focus = true;
 }

@@ -7,12 +7,12 @@ metaTitle: Lektion
 <h1 class="my-4">{{onPageTitle}}</h1>
 
 <ul class="nav nav-underline border-bottom mb-4" role="tablist">
-    <li class="nav-item" role="presentation"><button class="nav-link active">Til kursisten</button></li>
-    <li class="nav-item" role="presentation"><button class="nav-link">Til læreren</button></li>
+    <li class="nav-item" role="presentation"><button class="nav-link active" id="student-tab" data-toggle="tab" data-target="student" aria-selected="true">Til kursisten</button></li>
+    <li class="nav-item" role="presentation"><button class="nav-link" id="teacher-tab" data-toggle="tab" data-target="teacher" aria-selected="false">Til læreren</button></li>
 </ul>
 
 <div class="tab-content">
-    <div class="tab-pane fade show active" role="tabpanel" tabindex="0" id="student-tab-pane">
+    <div class="tab-pane active" role="tabpanel" tabindex="0" id="student" aria-labelledby="student-tab">
         <div class="mb-lg">{{content | safe}}</div>
 
         <div class="mb-lg">
@@ -21,7 +21,7 @@ metaTitle: Lektion
             {% for homework in collections.homework %}
                 {% if homework.data.partOfLesson == lessonNo %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}"></div>
+                    <div><input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}" checked disabled></div>
                     <div class="d-inline-block">
                         <label for="homework-{{lessonNo}}-{{loop.index}}">{{homework.data.previewText}}</label>
                         {%if homework.data.linkText %}
@@ -43,7 +43,7 @@ metaTitle: Lektion
                         <a href="{{gem.url | url}}" class="list-group-item">{{gem.data.onPageTitle}}</a>{%endif%}
                 {% endif %}
             {% endfor %}
-            </div>
+            </ul>
         </div>
 
         <details class="mb-lg">
@@ -55,16 +55,16 @@ metaTitle: Lektion
             {% endfor %}
         </details>
 
-        <form>
+        {# <form>
             <div class="form-group">
                 <label class="form-label" for="completedDate">Lektion gennemført</label>
-                <input class="form-control" type="date" id="completedDate">
+                <input class="form-input" type="date" id="completedDate" onFocus="this.showPicker()">
                 <input type="hidden" id="lesson" value="{{lessonNo}}">
             </div>
-        </form>
+        </form> #}
     </div>
 
-    <div class="tab-pane fade" role="tabpanel" tabindex="0" id="teacher-tab-pane">
+    <div class="tab-pane" role="tabpanel" tabindex="0" id="teacher" aria-labelledby="teacher-tab">
         {% for teachernote in collections.teachernotes %}
             {% if teachernote.data.partOfLesson == lessonNo %}
                 {{teachernote.content | safe}}

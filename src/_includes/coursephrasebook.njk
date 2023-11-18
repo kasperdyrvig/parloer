@@ -5,7 +5,7 @@ layout: standard
 
 {{content | safe}}
 
-<div class="list-group mt-4">
+<div class="list-group nav-list-group mt-lg">
 {% for group in collections[modulePhrases] %}
 <a class="list-group-item" class="list-grid-link" href="{{group.url | url}}">{{group.data.metaTitle}}</a>
 {%endfor%}

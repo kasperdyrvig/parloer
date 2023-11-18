@@ -4,22 +4,17 @@ class exerciseSingleInput extends HTMLElement {
     }
 
     connectedCallback() {
-        // const shadow = this.attachShadow({mode: "open"});
-
         const id = uuidv4();
 
-        const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group mb-3 textinput");
+        const wrapper = el("div", "form-group textinput");
 
-        const label = document.createElement("label");
+        const label = el("label", "form-label");
         label.setAttribute("for", id);
-        label.classList.add("form-label");
         label.textContent = this.dataset.label;
         wrapper.appendChild(label);
         
-        const input = document.createElement("input");
+        const input = el("input", "form-input");
         input.type = "text";
-        input.classList.add("form-control");
         input.id = id;
         input.required = true;
         input.setAttribute("autocomplete", "off");
@@ -32,7 +27,7 @@ class exerciseSingleInput extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = el("div", "valid-feedback");
+            const response = el("div", "response-label");
             wrapper.appendChild(response);
         }
         
@@ -52,18 +47,15 @@ class exerciseNumberInput extends HTMLElement {
     connectedCallback() {
         const id = uuidv4();
 
-        const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group mb-3 textinput");
+        const wrapper = el("div", "form-group textinput");
 
-        const label = document.createElement("label");
+        const label = el("label", "form-label");
         label.setAttribute("for", id);
-        label.classList.add("form-label");
         label.textContent = this.dataset.label;
         wrapper.appendChild(label);
         
-        const input = document.createElement("input");
+        const input = el("input", "form-input");
         input.type = "number";
-        input.classList.add("form-control");
         input.id = id;
         input.required = true;
         input.value = 0;
@@ -77,7 +69,7 @@ class exerciseNumberInput extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = el("div", "valid-feedback");
+            const response = el("div", "response-label");
             wrapper.appendChild(response);
         }
 
@@ -96,17 +88,14 @@ class exerciseTextareaInput extends HTMLElement {
     connectedCallback() {
         const id = uuidv4();
 
-        const wrapper = document.createElement("div");
-        wrapper.setAttribute("class", "form-group textinput");
+        const wrapper = el("div", "form-group textinput");
 
-        const label = document.createElement("label");
+        const label = el("label", "form-label");
         label.setAttribute("for", id);
-        label.classList.add("form-label");
         label.textContent = this.dataset.label;
         wrapper.appendChild(label);
         
-        const input = document.createElement("textarea");
-        input.classList.add("form-input");
+        const input = el("textarea", "form-input");
         input.id = id;
         input.required = true;
         input.setAttribute("rows", 5);
@@ -130,7 +119,7 @@ class exerciseMultiChoice extends HTMLElement {
         const groupName = uuidv4();
         const optionsType = (this.dataset.type.length > 0) ? this.dataset.type.toLowerCase() : "radio";
         
-        const wrapper = el("fieldset", "form-group mb-3 " + optionsType);
+        const wrapper = el("fieldset", "form-group " + optionsType);
         let y = 0;
         
         const legend = document.createElement("legend");
@@ -171,7 +160,7 @@ class exerciseMultiChoice extends HTMLElement {
             valid.value = this.dataset.validation.toLowerCase();
             wrapper.appendChild(valid);
 
-            const response = el("div", "valid-feedback");
+            const response = el("div", "response-label");
             wrapper.appendChild(response);
         }
 
@@ -189,11 +178,13 @@ class exerciseMultiInput extends HTMLElement {
 
     connectedCallback() {
         const wrapper = el("fieldset", "multiinput");
-
-        const legend = document.createElement("legend");
-        legend.textContent = this.dataset.label;
-        wrapper.appendChild(legend);
         const radiosid = uuidv4();
+
+        if(this.dataset.label != null && this.dataset.label.length > 0) {
+            const legend = document.createElement("legend");
+            legend.textContent = this.dataset.label;
+            wrapper.appendChild(legend);
+        }
 
         const labels = this.dataset.labels.split(",");
         let validations = null;
@@ -204,12 +195,14 @@ class exerciseMultiInput extends HTMLElement {
         for (let index = 0; index < labels.length; index++) {
             const element = labels[index];
             const id = uuidv4();
-            const inputWrapper = el("div", "form-group mb-3 textinput");
+            const inputWrapper = el("div", "form-group textinput");
 
             if (this.dataset.radios == "true") {
                 const radio = document.createElement("input");
                 radio.type = "radio";
                 radio.setAttribute("name", radiosid);
+                radio.setAttribute("onChange", "selectSiblingInput(this)");
+                radio.setAttribute("value", element.trim());
                 inputWrapper.appendChild(radio);
             }
             
@@ -218,12 +211,16 @@ class exerciseMultiInput extends HTMLElement {
             label.textContent = element.trim();
             inputWrapper.appendChild(label);
 
-            const input = el("input", "form-control");
+            const input = el("input", "form-input");
             input.id = id;
             input.type = "text";
-            input.required = true;
             input.setAttribute("autocomplete", "off");
             input.setAttribute("spellcheck", "off");
+            if (this.dataset.radios != "true") {
+                input.required = true;
+            } else {
+                input.setAttribute("onfocus", "selectSiblingInput(this)");
+            }
             inputWrapper.appendChild(input);
             
             if (validations != null && validations[index] != null) {
@@ -232,7 +229,7 @@ class exerciseMultiInput extends HTMLElement {
                 valid.value = validations[index].trim().toLowerCase();
                 inputWrapper.appendChild(valid);
                 
-                const response = el("div", "valid-feedback");
+                const response = el("div", "response-label");
                 inputWrapper.appendChild(response);
             }
 
@@ -284,6 +281,23 @@ class exerciseMatchPairs extends HTMLElement {
 
 customElements.define("match-pairs", exerciseMatchPairs);
 
+class exerciseFeedbackMessage extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    connectedCallback() {
+        const input = el("input", "feedback");
+        input.type = "hidden";
+        input.value = this.dataset.content;
+
+        this.appendChild(input);
+        this.style.display = "contents";
+    }
+}
+
+customElements.define("feedback-message", exerciseFeedbackMessage);
+
 class customAudioPlayer extends HTMLElement {
     constructor() {
         super();
@@ -292,12 +306,13 @@ class customAudioPlayer extends HTMLElement {
     connectedCallback() {
         const wrapper = el("div", "audio");
         
-        const playButton = el("button", "play-button btn btn-outline-primary");
+        const playButton = el("button", "play-button btn btn-white btn-circle");
         playButton.setAttribute("data-playing", false);
         playButton.setAttribute("title", "Sig højt");
+        playButton.setAttribute("type", "button");
 
         const audioEl = document.createElement("audio");
-        audioEl.setAttribute("src", "/audio/" + this.dataset.file);
+        audioEl.setAttribute("src", "/assets/audio/" + this.dataset.file);
 
         wrapper.appendChild(audioEl);
         wrapper.appendChild(playButton);

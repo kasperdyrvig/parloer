@@ -9,21 +9,9 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-<image-viewer data-file="nature/niisa.jpg"></image-viewer>
-<audio-player data-file="nature/niisa.mp3"></audio-player>
+
+![Tegning af et marsvin]({{'/assets/images/body/alleroq.png' | url}})
+<audio-player data-file="numbers/Numbers_01.mp3"></audio-player>
 <multi-choice data-label="Qanoq allattarpaat?" data-type="radio" data-options="nisa, niisa" data-validation="2"></multi-choice>
-<feedback-message>Niisa betyder marsvin (hvalen)</feedback-message>
-{% endexerciseItem %}
-
-{% exerciseItem %}
-(Billede)
-(Lyd)
-<multi-choice data-label="Qanoq allattarpaat?" data-type="radio" data-options="assak, assik" data-validation="1"></multi-choice>
-Assak betyder hånd
-{% endexerciseItem %}
-
-{% exerciseItem %}
-(Lyd)
-<multi-choice data-label="Qanoq allattarpaat?" data-type="radio" data-options="qajaasaq, qaajaasaq" data-validation="1"></multi-choice>
-Qajaasaq betyder grønlandspost
+<feedback-message data-content="Niisa betyder marsvin (hvalen)"></feedback-message>
 {% endexerciseItem %}

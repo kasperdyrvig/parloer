@@ -10,5 +10,5 @@ onPageDescription: Vi skal øve os i at bruge transitive udsagnsord, så prøv a
 
 {% exerciseItem %}
 <textarea-input data-label="Skriv en historie, hvor du bruger mindst 5 transitive udsagnsord"></textarea-input>
-<feedback-message>Godt klaret! Jeg glæder mig til at læse din historie.</feedback-message>
+<feedback-message data-content="Godt klaret! Jeg glæder mig til at læse din historie."></feedback-message>
 {% endexerciseItem %}
