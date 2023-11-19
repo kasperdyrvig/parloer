@@ -1,0 +1,81 @@
+---
+layout: base
+metaTitle: Diktat
+---
+<main class="dictation-container">
+    <section class="gamepanel gamestart">
+        <div class="gamepanel-body">
+            <h2>@Model.Value("activityName")</h2>
+            <p>@Model.Value("activityIntroduction")</p>
+        </div>
+        <footer class="gamepanel-footer">
+            <button type="button" onclick="startDictationGame()"
+                class="btn btn-block btn-uppercase btn-blue">Start</button>
+        </footer>
+    </section>
+
+    <section class="gamepanel gamearea hidden">
+        <div class="gamepanel-body">
+            <meter class="gamepanel-meter" title="Fremgang" id="gameprogress" min="0" max="@selection.Count()"></meter>
+
+            @foreach(var card in selection)
+            {
+            <div id="@card.Id" class="dictation-card">
+                @if(card.HasValue("phraseAudio"))
+                {
+                var audioFile = card.Value<MediaWithCrops>("phraseAudio");
+                    <audio src="@audioFile.MediaItem.Url"></audio>
+                    <button type="button" data-playing="false" class="btn btn-white btn-circle play-button"
+                        title="Sig højt" onclick="playDictation()">
+                        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                            fill="currentColor" class="bi bi-volume-up" viewBox="0 0 16 16">
+                            <path
+                                d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z" />
+                            <path
+                                d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z" />
+                            <path
+                                d="M10.025 8a4.486 4.486 0 0 1-1.318 3.182L8 10.475A3.489 3.489 0 0 0 9.025 8c0-.966-.392-1.841-1.025-2.475l.707-.707A4.486 4.486 0 0 1 10.025 8zM7 4a.5.5 0 0 0-.812-.39L3.825 5.5H1.5A.5.5 0 0 0 1 6v4a.5.5 0 0 0 .5.5h2.325l2.363 1.89A.5.5 0 0 0 7 12V4zM4.312 6.39 6 5.04v5.92L4.312 9.61A.5.5 0 0 0 4 9.5H2v-3h2a.5.5 0 0 0 .312-.11z" />
+                        </svg>
+                    </button>
+                    }
+                    @if(card.HasValue("phraseGreenlandic"))
+                    {
+                    <input type="hidden" value="@card.Value(" phraseGreenlandic")">
+                    }
+                    <textarea class="form-input dictation-input" titel="Skriv her" placeholder="Skriv her"
+                        autocomplete="off" spellcheck="off"></textarea>
+            </div>
+            }
+        </div>
+        <footer class="gamepanel-footer">
+            <button class="btn btn-uppercase btn-block btn-blue" onclick="checkDicationAnswer()">Tjek svaret</button>
+        </footer>
+        <div class="response fail" id="wrong">
+            <h3 class="response-title">😕 Forkert</h3>
+            <p class="response-text">Det rigtige svar er: <strong class=""></strong></p>
+            <div class="response-footer"><button type="button" class="btn btn-block btn-uppercase btn-red"
+                    onclick="nextDictationCard()">Fortsæt</button></div>
+        </div>
+        <div class="response success" id="right">
+            <h3 class="response-title">😀 Rigtigt</h3>
+            <div class="response-footer"><button type="button" class="btn btn-block btn-uppercase btn-green"
+                    onclick="nextDictationCard()">Fortsæt</button></div>
+        </div>
+    </section>
+
+    <section class="gamepanel gameend hidden">
+        <div class="gamepanel-body">
+            <h2 class="gameend-commendation"></h2>
+            <p class="gameend-score">Du fik X ud af @selection.Count() rigtige</p>
+            <table id="resultlist" class="table" border="1">
+                <tr>
+                    <th>Facitliste</th>
+                    <th>Du skrev</th>
+                </tr>
+            </table>
+        </div>
+        <footer class="gamepanel-footer">
+            <a href="#" class="btn btn-uppercase btn-block btn-gray">Prøv igen</a>
+        </footer>
+    </section>
+</main>

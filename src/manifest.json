@@ -1,0 +1,30 @@
+{
+    "short_name": "Parlør-app",
+    "name": "Grønlandsk parlør",
+    "background_color": "#E5EAF5",
+    "display": "standalone",
+    "description": "En grønlandsk parlør-app",
+    "icons": [
+      {
+        "src": "/assets/graphics/gp512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/assets/graphics/gp300.png",
+        "type": "image/png",
+        "sizes": "300x300"
+      },
+      {
+        "src": "/assets/graphics/gp192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/graphics/gp144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }
+    ],
+    "start_url": "."
+  }

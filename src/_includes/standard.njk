@@ -2,10 +2,10 @@
 layout: base
 ---
 <nav id="app-menu">
-    <a class="navigation-item" href="{{'/' | url}}">Hjem</a></li>
-    <a class="navigation-item" href="{{'/parloer' | url}}">Parlør</a>
-    <a class="navigation-item" href="{{'/kursus' | url}}">Kursus</a>
-    <a class="navigation-item" href="{{'/mere' | url}}">Mere</a>
+    <a class="navigation-item" href="{{'/' | url}}" {% if page.url == '/' %}aria-currentpage="true"{% endif %}><span class="navigation-item-icon">🏠</span><span class="navigation-item-label">Hjem</span></a></li>
+    <a class="navigation-item" href="{{'/parloer' | url}}" {% if '/parloer' in page.url %}aria-currentpage="true"{% endif %}><span class="navigation-item-icon">💬</span><span class="navigation-item-label">Parlør</span></a>
+    <a class="navigation-item" href="{{'/kursus' | url}}" {% if '/kursus' in page.url %}aria-currentpage="true"{% endif %}><span class="navigation-item-icon">🎓</span><span class="navigation-item-label">Kursus</span></a>
+    <a class="navigation-item" href="{{'/mere' | url}}" {% if page.url == '/mere/' %}aria-currentpage="true"{% endif %}><span class="navigation-item-icon">📁</span><span class="navigation-item-label">Mere</span></a>
 </nav>
 <main>
     <section>
