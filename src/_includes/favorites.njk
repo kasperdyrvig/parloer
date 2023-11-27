@@ -1,0 +1,79 @@
+---
+layout: standard
+---
+<h1 class="mt-lg mb-sm">{{metaTitle}}</h1>
+
+<div class="phrase-list" id="favorites-list">
+    
+</div>
+
+<div class="mt-lg"><button onclick="clearFavorites()" id="clear" class="btn btn-small btn-white btn-inline">Ryd alle</button></div>
+
+<template id="phraseFavorite-item">
+    <div class="phrase-item" id="">
+        <div class="phrase-emoji"></div>
+        <div class="phrase-image"><img src="" loading="lazy"></div>
+        <div class="phrase-body">
+            <p class="m-0 text-secondary-emphasis phrase-danish"></p>
+            <small class="m-0 phrase-note"></small>
+            <p class=" m-0 text-primary-emphasis phrase-greenlandic" lang="kl"></p>
+        </div>
+        <div class="phrase-tools mt-sm">
+            <button type="button" data-playing="false" class="play-button button-ghost" title="Sig højt">Sig højt</button>
+            <button type="button" class="copy-button button-ghost" title="Kopier tekst">Kopier</button>
+            <button type="button" disabled class="favorite-button button-ghost" title="Fjern fra samling">Fjern</button>
+        </div>
+        <audio src="" preload="metadata"></audio>
+    </div>
+</template>
+
+<script>
+    const fl = document.getElementById("favorites-list");
+    if(localStorage.getItem("favorites") != null) {
+        favoriteArray = JSON.parse(localStorage.getItem("favorites"));
+        const template = document.getElementById("phraseFavorite-item");
+        for (let index = 0; index < favoriteArray.length; index++) {
+            const clone = template.content.cloneNode(true);
+            clone.querySelector(".phrase-item").id = favoriteArray[index].id;
+            if(favoriteArray[index].danish != null) {
+                clone.querySelector(".phrase-danish").textContent = favoriteArray[index].danish;
+            } else {
+                clone.querySelector(".phrase-danish").remove();
+            }
+            if(favoriteArray[index].greenlandic != null) {
+                clone.querySelector(".phrase-greenlandic").textContent = favoriteArray[index].greenlandic;
+            } else {
+                clone.querySelector(".phrase-greenlandic").remove();
+                clone.querySelector(".copy-button").remove();
+            }
+            if(favoriteArray[index].note != null) {
+                clone.querySelector(".phrase-note").textContent = favoriteArray[index].note;
+            } else {
+                clone.querySelector(".phrase-note").remove();
+            }
+            if(favoriteArray[index].emoji != null) {
+                clone.querySelector(".phrase-emoji").textContent = favoriteArray[index].emoji;
+                clone.querySelector(".phrase-image").remove();
+            } else {
+                clone.querySelector(".phrase-emoji").remove();
+            }
+            if(favoriteArray[index].image != null) {
+                clone.querySelector(".phrase-image > img").src = favoriteArray[index].image;
+            } else {
+                if(clone.querySelector(".phrase-image") != null) {
+                    clone.querySelector(".phrase-image").remove();
+                }
+            }
+            if(favoriteArray[index].audio != null) {
+                clone.querySelector("audio").src = favoriteArray[index].audio;
+            } else {
+                clone.querySelector("audio").remove();
+                clone.querySelector(".play-button").remove();
+            }
+            fl.appendChild(clone);
+        }
+    } else {
+        fl.textContent = "Tryk på stjernen ved et ord eller udtryk i parløren, for at tilføje det til din favorit-samling."
+        document.getElementById("clear").remove();
+    }
+</script>

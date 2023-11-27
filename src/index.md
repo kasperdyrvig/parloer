@@ -1,7 +1,4 @@
 ---
-layout: standard
+layout: frontpage
 metaTitle: Hjemmeside
-tags: mainmenu
 ---
-
-Hejsa

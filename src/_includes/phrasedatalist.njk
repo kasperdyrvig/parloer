@@ -32,7 +32,7 @@ layout: standard
             {% if phrase.greenlandic %}
                 <button type="button" class="copy-button button-ghost" title="Kopier tekst">Kopier</button>
             {% endif %}
-            <button type="button" disabled class="favorite-button button-ghost" title="Føj til eller fjern fra samling">Favorit</button>
+            <button type="button" class="favorite-button button-ghost" title="Føj til eller fjern fra samling">Favorit</button>
         </div>
         {% if phrase.audio %}
             {% set audioUrl %}/assets/audio/{{getCollection}}/{{phrase.audio}}{%endset%}

@@ -1,4 +1,4 @@
 ---
-layout: textpage
+layout: favorites
 metaTitle: Mine favoritter
 ---
