@@ -87,7 +87,7 @@ document.querySelectorAll("button.favorite-button").forEach(favoriteButton => {
         if(window.localStorage){
             //Get existing favorites (or create a new set)
             let favoriteArray = [];
-            let alreadyAdded = false;
+            let alreadyAdded = -1;
             if(localStorage.getItem("favorites") == null) {
                 localStorage.setItem("favorites", JSON.stringify(favoriteArray));
             }
@@ -96,13 +96,13 @@ document.querySelectorAll("button.favorite-button").forEach(favoriteButton => {
             //Check if the selected item already exists in the favorites
             for (let index = 0; index < favoriteArray.length; index++) {
                 if(favoriteArray[index].id == phraseId) {
-                    alreadyAdded = true;
+                    alreadyAdded = index;
                     break;
                 }
             }
-            
+
             //Add the new item
-            if(!alreadyAdded) {
+            if(alreadyAdded == -1) {
                 const newItem = {
                     id: phraseId, 
                     greenlandic: phraseGreenlandic, 
@@ -113,8 +113,15 @@ document.querySelectorAll("button.favorite-button").forEach(favoriteButton => {
                     emoji: phraseEmoji
                 };
                 favoriteArray.push(newItem);
-                localStorage.setItem("favorites", JSON.stringify(favoriteArray));
+                phraseItem.classList.add("is-favorite");
+            } else {
+                //Or, remove the existing item
+                favoriteArray.splice(alreadyAdded, 1);
+                phraseItem.classList.remove("is-favorite");
             }
+
+            //Save favorites
+            localStorage.setItem("favorites", JSON.stringify(favoriteArray));
         }
     });
 });
