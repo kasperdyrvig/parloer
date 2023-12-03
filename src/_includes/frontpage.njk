@@ -2,33 +2,40 @@
 layout: standard
 ---
 
-<h1>Parlør</h1>
+<h1 class="mb-sm">Parlør</h1>
 
-<ul>
-    {% for group in collections.phrasegroup%}
-        <li><a href="{{group.url | url}}">{{group.data.metaTitle}}</a></li>
-    {% endfor %}
-</ul>
+<nav class="home-games mb-lg">
+    <a href="{{'/parloer/#basic' | url}}" class="game">Basale ord</a>
+    <a href="{{'/parloer/#preaching' | url}}" class="game">Forkyndelse</a>
+    <a href="{{'/parloer/#teaching' | url}}" class="game">Undervisning</a>
+    <a href="{{'/parloer/#bible' | url}}" class="game">Bibelens lære</a>
+    <a href="{{'/parloer/#pronunciation' | url}}" class="game">Hjælp til udtale</a>
+</nav>
 
-<a href="{{'/mine-favoritter' | url}}">Mine favoritter</a>
+<div class="mb-sm"><a href="{{'/mine-favoritter' | url}}" class="btn btn-gray">Mine favoritter</a></div>
 
 <h1>Kursus</h1>
 
 <p style="margin-top: 0;" class="mb-sm"><small><a href="{{'/kursus' | url}}">Læs mere</a></small></p>
 
-<ul>
+<nav class="home-games mb-lg">
     {% for module in collections.module%}
-        <li><a href="{{module.url | url}}">{{module.data.metaTitle}}</a></li>
+        <a href="{{module.url | url}}" class="game">
+            <span class="game-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">
+                    <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5ZM8 8.46 1.758 5.965 8 3.052l6.242 2.913L8 8.46Z"></path>
+                    <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"></path>
+                </svg></span>
+            {{module.data.metaTitle}}</a>
     {% endfor %}
-</ul>
+</nav>
 
-<h2>Aktiviteter og værktøjer</h2>
+<h2 class="mb-sm">Aktiviteter og værktøjer</h2>
 
-<ul>
-    <li><a href="{{'/mere/udsagnsordsendelser' | url}}">Skema: Endelser til udsagnsord</a></li>
-    <li><a href="{{'/mere/navneordsendelser' | url}}">Skema: Endelser til navneord</a></li>
-    <li><a href="{{'/mere/ordforraad' | url}}">Udvid dit ordforråd</a></li>
-</ul>
+<nav class="home-games mb-lg">
+    <a href="{{'/mere/udsagnsordsendelser' | url}}" class="game">Skema: Endelser til udsagnsord</a>
+    <a href="{{'/mere/navneordsendelser' | url}}" class="game">Skema: Endelser til navneord</a>
+    <a href="{{'/mere/ordforraad' | url}}" class="game">Udvid dit ordforråd</a>
+</nav>
 
 <h3 class="mb-sm">Links</h3>
 

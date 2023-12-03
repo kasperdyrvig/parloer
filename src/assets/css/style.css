@@ -95,7 +95,7 @@ tr.byde td {background-color: var(--color-yellow-100);}
 tr.spoerge td {background-color: var(--color-gray-300);}
 tr.oenske td {background-color: var(--color-blue-100);}
 
-html {height: -webkit-fill-available; scroll-padding-top: 25vh;}
+html {height: -webkit-fill-available; scroll-padding-top: 2rem;}
 body {margin: 0; font-family: system-ui; background-color: var(--appbackground); font-size: var(--base-font-size);
     min-height: 100vh; min-height: -webkit-fill-available; display: grid; grid-template-rows: auto 1fr; color: var(--font-color);
 }
@@ -201,7 +201,7 @@ a.list-group-item {text-decoration: none;}
 .list-scroll > .section-item {max-width: 175px;}
 .section-image {margin: 0 auto; aspect-ratio: 4 / 3; display: flex; justify-content: center; align-items: center; padding: var(--spacing-x-small);}
     .section-image > img {max-width: 100%;}
-.section-list .section-name {padding: var(--spacing-x-small); display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.section-list .section-name {padding: var(--spacing-x-small); display: block; max-width: 60%;}
 .collection-list {display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr) ); gap: var(--spacing-medium);}
 .collection-list .section-item {display: flex; display: flex; min-height: 90px; gap: var(--spacing-small);}
 .collection-list .section-image {flex-shrink: 1; aspect-ratio: 1 / 1; padding: 0; width: 90px;}
