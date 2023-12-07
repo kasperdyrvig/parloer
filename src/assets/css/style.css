@@ -185,9 +185,8 @@ a.list-group-item {text-decoration: none;}
 
 .favorite-link {background-color: var(--color-gray-500); color: var(--color-white); padding: var(--spacing-medium); display: block; border-radius: var(--rounded); text-decoration: none; margin-bottom: var(--spacing-large);}
 .home-games {display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--spacing-medium);}
-    .home-games > .game {background-color: var(--color-white); border-radius: var(--border-radius-large); display: flex;
-        flex-direction: column; gap: var(--spacing-x-small); align-items: center; text-align: center; padding: var(--spacing-large) var(--spacing-x-small);
-        text-decoration: none; font-size: var(--size-medium); font-weight: 600; color: var(--color-gray-500); -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto;
+    .home-games > .game {background-color: var(--color-white); border-radius: var(--border-radius-large); display: flex; justify-content: space-between;
+        flex-direction: column; padding: var(--spacing-x-small); text-decoration: none; font-size: var(--size-medium); font-weight: 600; aspect-ratio: 4/3;
     }
         .home-games > .game > .game-icon {color: var(--color-blue-700);}
         .game-icon > svg {height: 32px; width: 32px;}
@@ -381,6 +380,9 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 .list-group.nav-list-group {background-color: var(--color-white); gap: 0; align-items: stretch; max-width: none; margin: 0 calc(var(--spacing-medium) * -1); padding: 0;}
 .nav-list-group .list-group-item {padding: var(--spacing-medium);}
 .nav-list-group .list-group-item:not(:last-of-type) {border-bottom: 1px solid var(--color-gray-500);}
+
+.link-list {display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--spacing-medium);}
+.link-list-item {display: block; padding: var(--spacing-small); background-color: var(--color-white); border-radius: var(--border-radius); text-decoration: none;}
 
 .nav-underline {display: flex; flex-wrap: wrap; padding-left: 0; margin-bottom: 0; list-style: none; gap: 1rem;}
 .nav-underline .nav-link {display: block; cursor: pointer; padding: .5rem 1rem; color: var(--color-gray-900); font-size: inherit; text-decoration: none; background: 0 0; border: 0; transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out; padding-right: 0; padding-left: 0; border-bottom: 0.125rem solid transparent;}
