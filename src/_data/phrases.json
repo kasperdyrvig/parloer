@@ -684,300 +684,324 @@
         {
             "danish": "farver",
             "greenlandic": "qalipaatit",
-            "audio": "colors_01.mp3",
+            "audio": "qalipaatit.mp3",
             "image": "colors.jpg"
         },
         {
             "danish": "rød",
             "greenlandic": "aappalaartoq",
             "note": "Nordgrønlandsk: aappaluttoq",
-            "audio": "colors_02.mp3",
-            "image": "color-red.jpg"
+            "audio": "aappalaartoq.mp3",
+            "image": "color-red.jpg",
+            "emoji": "❤️"
         },
         {
             "danish": "gul",
             "greenlandic": "sungaartoq",
             "note": "Nordgrønlandsk: kajortoq",
-            "audio": "colors_03.mp3",
-            "image": "color-yellow.jpg"
+            "audio": "sungaartoq.mp3",
+            "image": "color-yellow.jpg",
+            "emoji": "💛"
         },
         {
             "danish": "grøn",
             "greenlandic": "qorsuk",
-            "audio": "colors_04.mp3",
-            "image": "color-green.jpg"
+            "audio": "qorsuk.mp3",
+            "image": "color-green.jpg",
+            "emoji": "💚"
         },
         {
             "danish": "blå",
             "greenlandic": "tungujortoq",
-            "audio": "colors_05.mp3",
-            "image": "color-blue.jpg"
+            "audio": "tungujortoq.mp3",
+            "image": "color-blue.jpg",
+            "emoji": "💙"
         },
         {
             "danish": "lilla",
             "greenlandic": "tunguusaq",
-            "audio": "colors_06.mp3",
-            "image": "color-purple.jpg"
+            "audio": "tunguusaq.mp3",
+            "image": "color-purple.jpg",
+            "emoji": "💜"
         },
         {
             "danish": "pink",
             "greenlandic": "aappilarujuttoq",
-            "audio": "colors_07.mp3",
-            "image": "color-pink.jpg"
+            "audio": "aappilarujuttoq.mp3",
+            "image": "color-pink.jpg",
+            "emoji": "🩷"
         },
         {
             "danish": "brun",
             "greenlandic": "kajortoq",
             "note": "Nordgrønlandsk: sukkulaajusaq",
-            "audio": "colors_08.mp3",
-            "image": "color-brown.jpg"
+            "audio": "kajortoq.mp3",
+            "image": "color-brown.jpg",
+            "emoji": "🤎"
         },
         {
             "danish": "sort",
             "greenlandic": "qernertoq",
-            "audio": "colors_09.mp3",
-            "image": "color-black.jpg"
+            "audio": "qernertoq.mp3",
+            "image": "color-black.jpg",
+            "emoji": "🖤"
         },
         {
             "danish": "grå",
             "greenlandic": "qasertoq",
-            "audio": "colors_10.mp3",
-            "image": "color-gray.jpg"
+            "audio": "qasertoq.mp3",
+            "image": "color-gray.jpg",
+            "emoji": "🩶"
         },
         {
             "danish": "hvid",
             "greenlandic": "qaqortoq",
-            "audio": "colors_11.mp3",
-            "image": "color-white.jpg"
+            "audio": "qaqortoq.mp3",
+            "image": "color-white.jpg",
+            "emoji": "🤍"
         }
     ],
     "home": [
         {
             "danish": "rum/værelse",
             "greenlandic": "ini",
-            "audio": "home_01.mp3",
+            "audio": "ini.mp3",
             "image": "hjem_01.png"
         },
         {
             "danish": "badeværelse",
             "greenlandic": "uffarfik",
-            "audio": "home_02.mp3",
+            "audio": "uffarfik1.mp3",
             "image": "hjem_02.png"
         },
         {
             "danish": "soveværelse",
             "greenlandic": "sinittarfik",
-            "audio": "home_03.mp3",
+            "audio": "sinittarfik.mp3",
             "image": "hjem_03.png"
         },
         {
             "danish": "køkken",
             "greenlandic": "igaffik",
-            "audio": "home_04.mp3",
+            "audio": "igaffik.mp3",
             "image": "hjem_04.png"
         },
         {
             "danish": "væg",
             "greenlandic": "iigaq",
-            "audio": "home_05.mp3",
-            "image": "hjem_05.png"
+            "audio": "iigaq.mp3",
+            "image": "hjem_05.png",
+            "emoji": "🧱"
         },
         {
             "danish": "tag/loft",
             "greenlandic": "qaliaq",
-            "audio": "home_06.mp3",
+            "audio": "qaliaq.mp3",
             "image": "hjem_06.png"
         },
         {
             "danish": "gulv",
             "greenlandic": "nateq",
-            "audio": "home_07.mp3",
+            "audio": "nateq.mp3",
             "image": "hjem_07.png"
         },
         {
             "danish": "skorsten",
             "greenlandic": "pujoorfik",
-            "audio": "home_08.mp3",
+            "audio": "pujoorfik.mp3",
             "image": "hjem_08.png"
         },
         {
             "danish": "vindue",
             "greenlandic": "igalaaq",
-            "audio": "home_09.mp3",
-            "image": "hjem_09.png"
+            "audio": "igalaaq.mp3",
+            "image": "hjem_09.png",
+            "emoji": "🪟"
         },
         {
             "danish": "dør",
             "greenlandic": "matu",
-            "audio": "home_10.mp3",
-            "image": "hjem_10.png"
+            "audio": "matu.mp3",
+            "image": "hjem_10.png",
+            "emoji": "🚪"
         },
         {
             "danish": "nøgle",
             "greenlandic": "matuersaat",
-            "audio": "home_11.mp3",
-            "image": "hjem_11.png"
+            "audio": "matuersaat.mp3",
+            "image": "hjem_11.png",
+            "emoji": "🔑"
         },
         {
             "danish": "nøglehul",
             "greenlandic": "matuersaaserfik",
-            "audio": "home_12.mp3",
-            "image": "hjem_12.png"
+            "audio": "matuersaaserfik.mp3",
+            "image": "hjem_12.png",
+            "emoji": "🔒"
         },
         {
             "danish": "trapper",
             "greenlandic": "majuartarfik",
-            "audio": "home_13.mp3",
-            "image": "hjem_13.png"
+            "audio": "majuartarfik.mp3",
+            "image": "hjem_13.png",
+            "emoji": "🪜"
+
         },
         {
             "danish": "møbler",
             "greenlandic": "pequtit",
-            "audio": "home_14.mp3",
-            "image": "hjem_14.png"
+            "audio": "pequtit.mp3",
+            "image": "hjem_14.png",
+            "emoji": "🛋️"
         },
         {
             "danish": "stol",
             "greenlandic": "issiavik",
-            "audio": "home_15.mp3",
-            "image": "hjem_15.png"
+            "audio": "issiavik.mp3",
+            "image": "hjem_15.png",
+            "emoji": "🪑"
         },
         {
             "danish": "lænestol",
             "greenlandic": "issiavissuaq",
-            "audio": "home_16.mp3",
+            "audio": "issiavissuaq.mp3",
             "image": "hjem_16.png"
         },
         {
             "danish": "bord",
             "greenlandic": "nerrivik",
-            "audio": "home_17.mp3",
+            "audio": "nerrivik.mp3",
             "image": "hjem_17.png"
         },
         {
             "danish": "skrivebord",
             "greenlandic": "allaffik",
-            "audio": "home_18.mp3",
+            "audio": "allaffik.mp3",
             "image": "hjem_18.png"
         },
         {
             "danish": "kommode",
             "greenlandic": "amusarialik",
-            "audio": "home_19.mp3",
+            "audio": "amusarialik.mp3",
             "image": "hjem_19.png"
         },
         {
             "danish": "skuffe",
             "greenlandic": "amusariaq",
-            "audio": "home_20.mp3",
+            "audio": "amusariaq.mp3",
             "image": "hjem_20.png"
         },
         {
             "danish": "skab",
             "greenlandic": "sikaavik",
-            "audio": "home_21.mp3",
+            "audio": "sikaavik.mp3",
             "image": "hjem_21.png"
         },
         {
             "danish": "tøjskab/garderobe",
             "greenlandic": "atisaasivik",
-            "audio": "home_22.mp3",
+            "audio": "atisaasivik.mp3",
             "image": "hjem_22.png"
         },
         {
             "danish": "hylde",
             "greenlandic": "ilisivik",
-            "audio": "home_23.mp3",
+            "audio": "ilisivik.mp3",
             "image": "hjem_23.png"
         },
         {
             "danish": "seng",
             "greenlandic": "siniffik",
-            "audio": "home_24.mp3",
-            "image": "hjem_24.png"
+            "audio": "siniffik.mp3",
+            "image": "hjem_24.png",
+            "emoji": "🛏️"
         },
         {
             "danish": "badekar",
             "greenlandic": "uffarfik",
-            "audio": "home_25.mp3",
-            "image": "hjem_25.png"
+            "audio": "uffarfik2.mp3",
+            "image": "hjem_25.png",
+            "emoji": "🛁"
         },
         {
             "danish": "håndvask",
             "greenlandic": "errortortarfik",
-            "audio": "home_26.mp3",
+            "audio": "errortortarfik.mp3",
             "image": "hjem_26.png"
         },
         {
             "danish": "vandhane",
             "greenlandic": "kuuffik",
-            "audio": "home_27.mp3",
+            "audio": "kuuffik.mp3",
             "image": "hjem_27.png"
         },
         {
             "danish": "toilet",
             "greenlandic": "anartarfik",
-            "audio": "home_28.mp3",
-            "image": "hjem_28.png"
+            "audio": "anartarfik.mp3",
+            "image": "hjem_28.png",
+            "emoji": "🚽"
         },
         {
             "danish": "billede",
             "greenlandic": "asseq",
-            "audio": "home_29.mp3",
-            "image": "hjem_29.png"
+            "audio": "asseq.mp3",
+            "image": "hjem_29.png",
+            "emoji": "🖼️"
         },
         {
             "danish": "billedramme",
             "greenlandic": "sinissaq",
-            "audio": "home_30.mp3",
+            "audio": "sinissaq.mp3",
             "image": "hjem_30.png"
         },
         {
             "danish": "spejl",
             "greenlandic": "tarrarsuut",
-            "audio": "home_31.mp3",
-            "image": "hjem_31.png"
+            "audio": "tarrarsuut.mp3",
+            "image": "hjem_31.png",
+            "emoji": "🪞"
         },
         {
             "danish": "gulvtæppe",
             "greenlandic": "natersuaq",
-            "audio": "home_32.mp3",
+            "audio": "natersuaq.mp3",
             "image": "hjem_32.png"
         },
         {
             "danish": "gardin",
             "greenlandic": "saagoq",
-            "audio": "home_33.mp3",
+            "audio": "saagoq.mp3",
             "image": "hjem_33.png"
         },
         {
             "danish": "dug",
             "greenlandic": "nerriviup qalia",
-            "audio": "home_34.mp3",
+            "audio": "nerriviup_qalia.mp3",
             "image": "hjem_34.png"
         },
         {
             "danish": "sofapude",
             "greenlandic": "akisaasaq",
-            "audio": "home_35.mp3",
+            "audio": "akisaasaq.mp3",
             "image": "hjem_35.png"
         },
         {
             "danish": "pude",
             "greenlandic": "akiseq",
-            "audio": "home_36.mp3",
+            "audio": "akiseq.mp3",
             "image": "hjem_36.png"
         },
         {
             "danish": "dyne",
             "greenlandic": "qipik",
-            "audio": "home_37.mp3",
+            "audio": "qipik.mp3",
             "image": "hjem_37.png"
         },
         {
             "danish": "lagen",
             "greenlandic": "tungeq",
-            "audio": "home_38.mp3",
+            "audio": "tungeq.mp3",
             "image": "hjem_38.png"
         }
     ],
@@ -985,199 +1009,217 @@
         {
             "danish": "gaffel",
             "greenlandic": "ajassaat",
-            "audio": "household_01.mp3",
+            "audio": "ajassaat.mp3",
             "image": "food_fork_tableware.png"
         },
         {
             "danish": "kniv",
             "greenlandic": "savik",
-            "audio": "household_02.mp3",
+            "audio": "savik.mp3",
             "image": "food_knife_tableware.png"
         },
         {
             "danish": "skål",
             "greenlandic": "puugutarsuaq",
-            "audio": "household_03.mp3",
-            "image": "food_ramen_bowl_soup.png"
+            "audio": "puugutarsuaq.mp3",
+            "image": "food_ramen_bowl_soup.png",
+            "emoji": "🥣"
         },
         {
             "danish": "tallerken",
             "greenlandic": "puugutaq",
-            "audio": "household_04.mp3",
-            "image": "food_plate_tableware.png"
+            "audio": "puugutaq.mp3",
+            "image": "food_plate_tableware.png",
+            "emoji": "🍽️"
         },
         {
             "danish": "glas",
             "greenlandic": "imertarfik",
-            "audio": "household_05.mp3",
-            "image": "food_glass_tableware.png"
+            "audio": "imertarfik.mp3",
+            "image": "food_glass_tableware.png",
+            "emoji": "🥛"
         },
         {
             "danish": "krus",
             "greenlandic": "tiitorfik",
-            "audio": "household_06.mp3",
-            "image": "food_cup_tableware.png"
+            "audio": "tiitorfik.mp3",
+            "image": "food_cup_tableware.png",
+            "emoji": "☕"
         },
         {
             "danish": "låg",
             "greenlandic": "matu",
-            "audio": "household_07.mp3",
+            "audio": "matu.mp3",
             "image": "serving-lid.png"
         },
         {
             "danish": "kande",
             "greenlandic": "kanni",
-            "audio": "household_08.mp3",
-            "image": "water-jug.png"
+            "audio": "kanni.mp3",
+            "image": "water-jug.png",
+            "emoji": "🍶"
         },
         {
             "danish": "dåse",
             "greenlandic": "qillertuusaq",
-            "audio": "household_09.mp3",
-            "image": "can.png"
+            "audio": "qillertuusaq.mp3",
+            "image": "can.png",
+            "emoji": "🥫"
         },
         {
             "danish": "kedel",
             "greenlandic": "uunnaavik",
-            "audio": "household_10.mp3",
+            "audio": "uunnaavik.mp3",
             "image": "kettle.png"
         },
         {
             "danish": "stegepande",
             "greenlandic": "siatsivik",
-            "audio": "household_11.mp3",
-            "image": "fried-spice.png"
+            "audio": "siatsivik.mp3",
+            "image": "fried-spice.png",
+            "emoji": "🍳"
         },
         {
             "danish": "gryde",
             "greenlandic": "igaq",
-            "audio": "household_12.mp3",
-            "image": "cooking-pot.png"
+            "audio": "igaq.mp3",
+            "image": "cooking-pot.png",
+            "emoji": "🍲"
         },
         {
             "danish": "kasse",
             "greenlandic": "karsi",
-            "audio": "household_13.mp3",
-            "image": "box.png"
+            "audio": "karsi.mp3",
+            "image": "box.png",
+            "emoji": "📦"
         },
         {
             "danish": "kurv",
             "greenlandic": "koori",
-            "audio": "household_14.mp3",
-            "image": "basket.png"
+            "audio": "koori.mp3",
+            "image": "basket.png",
+            "emoji": "🧺"
         },
         {
             "danish": "skraldespand",
             "greenlandic": "eqqaavik",
-            "audio": "household_15.mp3",
-            "image": "trash-bin.png"
+            "audio": "eqqaavik.mp3",
+            "image": "trash-bin.png",
+            "emoji": "🗑️"
         },
         {
             "danish": "skrald",
             "greenlandic": "eqqakkat",
-            "audio": "household_16.mp3",
+            "audio": "eqqakkat.mp3",
             "image": "garbage-recycle.png"
         },
         {
             "danish": "ur",
             "greenlandic": "nalunaaqutaq",
-            "audio": "household_17.mp3",
-            "image": "clock.png"
+            "audio": "nalunaaqutaq.mp3",
+            "image": "clock.png",
+            "emoji": "🕰️"
         },
         {
             "danish": "kamera",
             "greenlandic": "assiliivik",
-            "audio": "household_18.mp3",
-            "image": "camera.png"
+            "audio": "assiliivik.mp3",
+            "image": "camera.png",
+            "emoji": "📷"
         },
         {
             "danish": "radiator",
             "greenlandic": "kiassaat",
-            "audio": "household_19.mp3",
+            "audio": "kiassaat.mp3",
             "image": "room-warmer.png"
         },
         {
             "danish": "køleskab",
             "greenlandic": "nillataartitsivik",
-            "audio": "household_20.mp3",
+            "audio": "nillataartitsivik.mp3",
             "image": "refrigerator.png"
         },
         {
             "danish": "ovn",
             "greenlandic": "kissarsuut",
-            "audio": "household_21.mp3",
+            "audio": "kissarsuut.mp3",
             "image": "stove.png"
         },
         {
             "danish": "hårbørste",
             "greenlandic": "illaagut",
-            "audio": "household_22.mp3",
+            "audio": "illaagut.mp3",
             "image": "hair-brush.png"
         },
         {
             "danish": "sæbe",
             "greenlandic": "qaqorsaat",
-            "audio": "household_23.mp3",
-            "image": "shampoo-bottle.png"
+            "audio": "qaqorsaat.mp3",
+            "image": "shampoo-bottle.png",
+            "emoji": "🧼"
         },
         {
             "danish": "håndklæde",
             "greenlandic": "allarut",
-            "audio": "household_24.mp3",
+            "audio": "allarut.mp3",
             "image": "towel.png"
         },
         {
             "danish": "toiletpapir",
             "greenlandic": "equutissaq",
-            "audio": "household_25.mp3",
-            "image": "tissue-roll.png"
+            "audio": "equutissaq.mp3",
+            "image": "tissue-roll.png",
+            "emoji": "🧻"
         },
         {
             "danish": "fejebakke",
             "greenlandic": "sanikoorfik",
-            "audio": "household_26.mp3",
+            "audio": "sanikoorfik.mp3",
             "image": "dustpan.png"
         },
         {
             "danish": "moppe",
             "greenlandic": "natermut asaat",
-            "audio": "household_27.mp3",
+            "audio": "natermut_asaat.mp3",
             "image": "mop.png"
         },
         {
             "danish": "klud",
             "greenlandic": "asaat",
-            "audio": "household_28.mp3",
+            "audio": "asaat.mp3",
             "image": "cleaning.png"
         },
         {
             "danish": "bandage/forbinding",
             "greenlandic": "nimeq",
-            "audio": "household_29.mp3",
-            "image": "face-with-head-bandage.png"
+            "audio": "nimeq.mp3",
+            "image": "face-with-head-bandage.png",
+            "emoji": "🤕"
         },
         {
             "danish": "plaster",
             "greenlandic": "mattut",
-            "audio": "household_30.mp3",
-            "image": "bandage.png"
+            "audio": "mattut.mp3",
+            "image": "bandage.png",
+            "emoji": "🩹"
         },
         {
             "danish": "termometer",
             "greenlandic": "kiassiut",
-            "audio": "household_31.mp3",
-            "image": "thermometer.png"
+            "audio": "kiassiut.mp3",
+            "image": "thermometer.png",
+            "emoji": "🌡️"
         },
         {
             "danish": "vaskemaskine",
             "greenlandic": "errorsissut",
-            "audio": "household_32.mp3",
+            "audio": "errorsissut.mp3",
             "image": "washing-machine.png"
         },
         {
             "danish": "tørresnor",
             "greenlandic": "manisivik",
-            "audio": "household_33.mp3",
+            "audio": "manisivik.mp3",
             "image": "dress-drying.png"
         }
     ],
