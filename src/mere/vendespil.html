@@ -1,0 +1,174 @@
+---
+layout: base
+metaTitle: Vendespil
+---
+<style>
+    #gameboard {
+        display: grid;
+        align-content: center;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+    }
+
+    .tile {
+        aspect-ratio: 1/1;
+        perspective: 1000px;
+        transition: box-shadow ease-in-out 250ms;
+        transition-delay: 500ms;
+        border-radius: .5rem;
+    }
+
+    .tile.solved {
+        box-shadow: 0 0 0 .1rem #9AE495;
+        pointer-events: none;
+    }
+
+    .tile.flipped .tile-inner {
+        transform: rotateY(180deg);
+    }
+
+    .tile-inner {
+        position: relative;
+        transition: transform 500ms;
+        transform-style: preserve-3d;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 .2rem .25rem 0 rgba(0, 0, 0, 0.1);
+        border-radius: .5rem;
+    }
+
+    .tile-front,
+    .tile-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        display: grid;
+        align-items: center;
+        justify-items: center;
+        border-radius: .5rem;
+    }
+
+    .tile-front {
+        background: radial-gradient(circle, #4F427B 75%, #7260AF);
+        color: #9C8FC7;
+        font-size: 5rem;
+        font-weight: 100;
+        user-select: none;
+    }
+
+    .tile-back {
+        background-color: #FFF;
+        transform: rotateY(180deg);
+        text-align: center;
+    }
+
+    .tile-back img {
+        max-width: 150px;
+        max-height: 150px;
+    }
+</style>
+<main class="turngame-container">
+
+    <section class="gamepanel gameend hidden">
+        <div class="gamepanel-body">
+            <h2 class="gameend-commendation"></h2>
+            <p class="gameend-score">Du klarede det på </p>
+        </div>
+        <footer class="gamepanel-footer">
+            <a href="#" class="btn btn-uppercase btn-block btn-gray">Prøv igen</a>
+        </footer>
+    </section>
+
+    <section id="gameboard">
+        <template>
+            <div class="tile" aria-selected="false" role="button" data-pair="@card.Id">
+                <div class="tile-inner">
+                    <div class="tile-front">?</div>
+                    <div class="tile-back">
+                        @if(card.HasValue("phraseGreenlandic"))
+                        {
+                        <span lang="kl">@card.Value("phraseGreenlandic")</span>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="tile" aria-selected="false" role="button" data-pair="@card.Id">
+                <div class="tile-inner">
+                    <div class="tile-front">?</div>
+                    <div class="tile-back">
+                        @if(card.HasValue("phraseImage"))
+                        {
+                        var illustration = card.Value<MediaWithCrops>("phraseImage");
+                            if(illustration != null)
+                            {
+                            <img src="@illustration.MediaItem.Url()" loading="lazy" alt="@card.Value(" phraseDanish")">
+                            }
+                            }
+                            else if(card.HasValue("phraseDanish"))
+                            {
+                            <span lang="da">@card.Value("phraseDanish")</span>
+                            }
+                    </div>
+                </div>
+            </div>
+        </template>
+    </section>
+</main>
+<script>
+    let startTime = Date.now();
+    let flipped = 0;
+    let solved = 0;
+
+    document.querySelectorAll(".tile").forEach(tile => {
+        tile.style.order = Math.floor(Math.random() * 11); // A random number between 0 and 10
+    });
+
+    document.querySelectorAll(".tile").forEach(tile => {
+        tile.addEventListener("click", function () {
+            if (flipped >= 2) {
+                flipped = 0;
+                backflip();
+            }
+            if (!tile.classList.contains("flipped")) {
+                tile.classList.add("flipped");
+                tile.setAttribute("aria-selected", "true");
+                flipped++;
+                if (flipped == 2) {
+                    checkFlipped();
+                }
+            }
+        });
+    });
+
+    function checkFlipped() {
+        const tiles = document.querySelectorAll(".tile.flipped:not(.solved)");
+        if (tiles[0].getAttribute("data-pair") == tiles[1].getAttribute("data-pair")) {
+            tiles.forEach(tile => {
+                tile.classList.add("solved");
+            });
+            allDone();
+        } else {
+            setTimeout(() => {
+                backflip();
+            }, 1000);
+        }
+    }
+
+    function backflip() {
+        document.querySelectorAll(".tile.flipped:not(.solved)").forEach(tile => {
+            tile.classList.remove("flipped");
+            tile.setAttribute("aria-selected", "false");
+        });
+    }
+
+    function allDone() {
+        if (document.querySelectorAll(".tile.solved").length == document.querySelectorAll(".tile").length) {
+            let stopTime = Date.now();
+            let finalTime = (stopTime - startTime) / 1000;
+            document.querySelector(".gameend").classList.remove("hidden");
+            document.querySelector(".gameend-score").innerText = "Du klarede det på " + Math.floor(finalTime) + " sekunder";
+        }
+    }
+</script>

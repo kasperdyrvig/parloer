@@ -2,10 +2,40 @@
 layout: base
 ---
 <nav id="app-menu">
-    <a class="navigation-item" href="{{'/' | url}}">Hjem</a></li>
-    <a class="navigation-item" href="{{'/parloer' | url}}">Parlør</a>
-    <a class="navigation-item" href="{{'/kursus' | url}}">Kursus</a>
-    <a class="navigation-item" href="{{'/mere' | url}}">Mere</a>
+    <a class="navigation-item" href="{{'/' | url}}" {% if page.url == '/' %}aria-currentpage="true"{% endif %}>
+        <span class="navigation-item-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+            <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/>
+            <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z"/>
+            </svg>
+        </span>
+        <span class="navigation-item-label">Hjem</span>
+    </a>
+    <a class="navigation-item" href="{{'/parloer' | url}}" {% if '/parloer' in page.url %}aria-currentpage="true"{% endif %}>
+        <span class="navigation-item-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-chat-dots-fill" viewBox="0 0 16 16">
+                <path d="M16 8c0 3.866-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.584.296-1.925.864-4.181 1.234-.2.032-.352-.176-.273-.362.354-.836.674-1.95.77-2.966C.744 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7M5 8a1 1 0 1 0-2 0 1 1 0 0 0 2 0m4 0a1 1 0 1 0-2 0 1 1 0 0 0 2 0m3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+            </svg>
+        </span>
+        <span class="navigation-item-label">Parlør</span>
+    </a>
+    <a class="navigation-item" href="{{'/kursus' | url}}" {% if '/kursus' in page.url %}aria-currentpage="true"{% endif %}>
+        <span class="navigation-item-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-mortarboard-fill" viewBox="0 0 16 16">
+                <path d="M8.211 2.047a.5.5 0 0 0-.422 0l-7.5 3.5a.5.5 0 0 0 .025.917l7.5 3a.5.5 0 0 0 .372 0L14 7.14V13a1 1 0 0 0-1 1v2h3v-2a1 1 0 0 0-1-1V6.739l.686-.275a.5.5 0 0 0 .025-.917l-7.5-3.5Z"/>
+                <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466z"/>
+            </svg>
+        </span>
+        <span class="navigation-item-label">Kursus</span>
+    </a>
+    <a class="navigation-item" href="{{'/mere' | url}}" {% if page.url == '/mere/' %}aria-currentpage="true"{% endif %}>
+        <span class="navigation-item-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-folder-fill" viewBox="0 0 16 16">
+                <path d="M9.828 3h3.982a2 2 0 0 1 1.992 2.181l-.637 7A2 2 0 0 1 13.174 14H2.825a2 2 0 0 1-1.991-1.819l-.637-7a1.99 1.99 0 0 1 .342-1.31L.5 3a2 2 0 0 1 2-2h3.672a2 2 0 0 1 1.414.586l.828.828A2 2 0 0 0 9.828 3m-8.322.12C1.72 3.042 1.95 3 2.19 3h5.396l-.707-.707A1 1 0 0 0 6.172 2H2.5a1 1 0 0 0-1 .981z"/>
+            </svg>
+        </span>
+        <span class="navigation-item-label">Mere</span>
+    </a>
 </nav>
 <main>
     <section>

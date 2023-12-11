@@ -1,0 +1,362 @@
+---
+layout: base
+metaTitle: Endelser til udsagnsord
+---
+<main>
+    <section>
+        <div class="whiteboard">
+            <div class="whiteboard-header">
+                <button type="button" class="button-ghost" onclick="copyBendedWord()" title="Kopier tekst">Kopier</button>
+            </div>
+            <div class="whiteboard-body">
+                <output id="bendedWordOutput" lang="kl"
+                    class="word-greenlandic">@Model.Value("activityIntroduction")</output>
+            </div>
+            <div class="whiteboard-footer"></div>
+        </div>
+        <div class="form-group">
+            <label for="rootWordInput" class="control-label">Udsagnsord fra ordbogen</label>
+            <input type="text" class="form-input" id="rootWordInput" autocomplete="off" spellcheck="off"
+                placeholder="Fx anivoq eller asavaa" onblur="bendWord()">
+        </div>
+        <div class="ending-settings">
+            <div class="form-group">
+                <label for="madeSelector" class="control-label">Måde (modus)</label>
+                <select id="madeSelector" class="form-input" onchange="bendWord()">
+                    <option value="frem" selected>Fremsætte</option>
+                    <option value="dafordi">Da/fordi</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="grundledSelector" class="control-label">Grundled (subjekt)</label>
+                <select id="grundledSelector" class="form-input" onchange="bendWord()">
+                    <option value="1en" selected>Jeg (1. person)</option>
+                    <option value="2en">Du (2. person)</option>
+                    <option value="3en">Han/hun/den/det (3. person)</option>
+                    <option value="4en">Han selv (4. person)</option>
+                    <option value="1fl">Vi (1. person flertal)</option>
+                    <option value="2fl">I (2. person flertal)</option>
+                    <option value="3fl">De (3. person flertal)</option>
+                    <option value="4fl">De selv (4. person flertal)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="genstandSelector" class="control-label">Genstandsled (objekt)</label>
+                <select id="genstandSelector" class="form-input" onchange="bendWord()">
+                    <option value="none" disabled selected>Uden genstandsled</option>
+                    <option value="1en">Mig (1. person)</option>
+                    <option value="2en">Dig (2. person)</option>
+                    <option value="3en">Ham/hende/den/det (3. person)</option>
+                    <option value="4en">Ham selv (4. person)</option>
+                    <option value="1fl">Os (1. person flertal)</option>
+                    <option value="2fl">Jer (2. person flertal)</option>
+                    <option value="3fl">Dem (3. person flertal)</option>
+                    <option value="4fl">Dem selv (4. person flertal)</option>
+                </select>
+            </div>
+        </div>
+    </section>
+</main>
+<script>
+    const inputEl = document.getElementById("rootWordInput");
+    const outputEl = document.getElementById("bendedWordOutput");
+    const grundledEl = document.getElementById("grundledSelector");
+    const madeEl = document.getElementById("madeSelector");
+    const genstandEl = document.getElementById("genstandSelector");
+    let alterTribe = false;
+
+    //Copy feature
+    function copyBendedWord() {
+        var phrase = outputEl.value;
+
+        navigator.clipboard.writeText(phrase)
+            .then(() => {
+                console.log("Tekst kopieret.");
+                toast("Tekst kopieret");
+            })
+            .catch(err => {
+                alert("Kunne ikke kopiere tekst.");
+            });
+    }
+
+    function bendWord() {
+        console.clear();
+        alterTribe = false;
+        const rawWord = inputEl.value;
+        let bendedWord;
+        if (rawWord.length > 3) {
+            const modus = determineModus(rawWord);
+            const targetModus = (madeEl.value == "frem" ? modus : setTargetModus(modus));
+
+            if (modus != null) {
+                console.log("Modus: " + modus);
+                console.log("Target modus: " + targetModus);
+
+                const ending = determineEnding();
+
+                if (ending != null) {
+                    console.log("Ending: " + ending);
+                    console.log("Alter word: " + alterTribe);
+
+                    bendedWord = constructWord(rawWord, modus, ending, targetModus);
+                    console.log("Final word: " + bendedWord);
+
+                    outputEl.value = bendedWord;
+                } else {
+                    console.log("Could not construct word");
+                    outputEl.value = "Kombinationen kan ikke lade sig gøre";
+                }
+            }
+        } else {
+            console.log("Word is not long enough");
+        }
+    }
+
+    function constructWord(word, modus, ending, targetModus) {
+        if (alterTribe) {
+            if (madeEl.value == "frem") {
+                if (modus == "rp") {
+                    return word.substring(0, word.lastIndexOf(modus)) + targetModus + ending.substring(2);
+                } else {
+                    return word.substring(0, word.lastIndexOf(modus)) + ending;
+                }
+            } else if (madeEl.value == "dafordi") {
+                if (modus == "rp") {
+                    return word.substring(0, word.lastIndexOf(modus)) + targetModus + ending.substring(1);
+                } else {
+                    return word.substring(0, word.lastIndexOf(modus)) + ending;
+                }
+            }
+        } else {
+            return word.substring(0, word.lastIndexOf(modus)) + targetModus + ending;
+        }
+    }
+
+    function determineModus(word) {
+        if (word.endsWith("voq")) {
+            turnOffObjectEl();
+            return "v";
+        } else if (word.endsWith("rpoq")) {
+            turnOffObjectEl();
+            return "rp";
+        } else if (word.endsWith("ppoq")) {
+            turnOffObjectEl();
+            return "pp";
+        } else if (word.endsWith("vaa")) {
+            turnOnObjectEl();
+            return "v";
+        } else if (word.endsWith("rpaa")) {
+            turnOnObjectEl();
+            return "rp";
+        } else if (word.endsWith("ppaa")) {
+            turnOnObjectEl();
+            return "pp";
+        } else {
+            console.log("Modus could not be determined");
+            return null;
+        }
+    }
+
+    function setTargetModus(originalModus) {
+        if (originalModus == "v") {
+            switch (madeEl.value) {
+                case 'dafordi': return "g"; break;
+                default: return "v";
+            }
+        } else if (originalModus == "rp") {
+            switch (madeEl.value) {
+                case 'dafordi': return "r"; break;
+                default: return "rp";
+            }
+        } else if (originalModus == "pp") {
+            switch (madeEl.value) {
+                case 'dafordi': return "kk"; break;
+                default: return "pp";
+            }
+        } else {
+            return originalModus;
+        }
+    }
+
+    function turnOffObjectEl() {
+        genstandEl.value = "none";
+        genstandEl.disabled = true;
+    }
+
+    function turnOnObjectEl() {
+        genstandEl.disabled = false;
+        if (genstandEl.value == "none") {
+            genstandEl.value = "2en";
+        }
+    }
+
+    function determineEnding() {
+        if (madeEl.value == "frem") {
+            if (genstandEl.value == "none") {
+                switch (grundledEl.value) {
+                    case "1en": return "unga"; break;
+                    case "2en": return "utit"; break;
+                    case "3en": return "oq"; break;
+                    case "1fl": return "ugut"; break;
+                    case "2fl": return "usi"; break;
+                    case "3fl": alterTribe = true; return "pput"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "1en") {
+                switch (grundledEl.value) {
+                    case "2en": return "arma"; break;
+                    case "3en": return "aanga"; break;
+                    case "2fl": return "assinga"; break;
+                    case "3fl": return "aannga"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "2en") {
+                switch (grundledEl.value) {
+                    case "1en": return "akkit"; break;
+                    case "3en": return "aatit"; break;
+                    case "1fl": return "atsigit"; break;
+                    case "3fl": return "aatsit"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "3en") {
+                switch (grundledEl.value) {
+                    case "1en": return "ara"; break;
+                    case "2en": return "at"; break;
+                    case "3en": return "aa"; break;
+                    case "1fl": return "arput"; break;
+                    case "2fl": return "arsi"; break;
+                    case "3fl": return "aat"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "1fl") {
+                switch (grundledEl.value) {
+                    case "2en": return "atsigut"; break;
+                    case "3en": return "aatigut"; break;
+                    case "2fl": return "atsigut"; break;
+                    case "3fl": return "aatigut"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "2fl") {
+                switch (grundledEl.value) {
+                    case "1en": return "assi"; break;
+                    case "3en": return "aasi"; break;
+                    case "1fl": return "assi"; break;
+                    case "3fl": return "aasi"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "3fl") {
+                switch (grundledEl.value) {
+                    case "1en": return "akka"; break;
+                    case "2en": return "atit"; break;
+                    case "3en": return "ai"; break;
+                    case "1fl": return "avut"; break;
+                    case "2fl": return "asi"; break;
+                    case "3fl": return "aat"; break;
+                    default: return null; break;
+                }
+            } else {
+                return null;
+            }
+        } else if (madeEl.value == "dafordi") {
+            if (genstandEl.value == "none") {
+                switch (grundledEl.value) {
+                    case "1en": return "ama"; break;
+                    case "2en": return "avit"; break;
+                    case "3en": alterTribe = true; return "mmat"; break;
+                    case "4en": return "ami"; break;
+                    case "1fl": return "atta"; break;
+                    case "2fl": return "assi"; break;
+                    case "3fl": alterTribe = true; return "mmata"; break;
+                    case "4fl": return "amik"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "1en") {
+                switch (grundledEl.value) {
+                    case "2en": return "amma"; break;
+                    case "3en": alterTribe = true; return "mmanga"; break;
+                    case "4en": return "aminga"; break;
+                    case "2fl": return "assinga"; break;
+                    case "3fl": alterTribe = true; return "mmannga"; break;
+                    case "4fl": return "aminnga"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "2en") {
+                switch (grundledEl.value) {
+                    case "1en": return "akkit"; break;
+                    case "3en": alterTribe = true; return "mmatit"; break;
+                    case "4en": return "amisit"; break;
+                    case "1fl": return "atsigit"; break;
+                    case "3fl": alterTribe = true; return "mmatsit"; break;
+                    case "4fl": return "amitsit"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "3en") {
+                switch (grundledEl.value) {
+                    case "1en": return "akku"; break;
+                    case "2en": return "akku"; break;
+                    case "3en": alterTribe = true; return "mmagu"; break;
+                    case "4en": return "amiuk"; break;
+                    case "1fl": return "atsigu"; break;
+                    case "2fl": return "assiuk"; break;
+                    case "3fl": alterTribe = true; return "mmassuk"; break;
+                    case "4fl": return "amikku"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "4en") {
+                switch (grundledEl.value) {
+                    case "1en": return "anni"; break;
+                    case "2en": return "anni"; break;
+                    case "3en": alterTribe = true; return "mmani"; break;
+                    case "1fl": return "atsinni"; break;
+                    case "2fl": return "assinni"; break;
+                    case "3fl": alterTribe = true; return "mmanni"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "1fl") {
+                switch (grundledEl.value) {
+                    case "2en": return "atsigut"; break;
+                    case "3en": alterTribe = true; return "mmatigut"; break;
+                    case "4en": return "amisigut"; break;
+                    case "2fl": return "atsigut"; break;
+                    case "3fl": alterTribe = true; return "mmatigut"; break;
+                    case "4fl": return "amisigut"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "2fl") {
+                switch (grundledEl.value) {
+                    case "1en": return "assi"; break;
+                    case "3en": alterTribe = true; return "mmasi"; break;
+                    case "4en": return "amisi"; break;
+                    case "1fl": return "assi"; break;
+                    case "3fl": alterTribe = true; return "mmasi"; break;
+                    case "4fl": return "amisi"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "3fl") {
+                switch (grundledEl.value) {
+                    case "1en": return "akkit"; break;
+                    case "2en": return "akkit"; break;
+                    case "3en": alterTribe = true; return "mmagit"; break;
+                    case "4en": return "amigit"; break;
+                    case "1fl": return "atsigit"; break;
+                    case "2fl": return "assigit"; break;
+                    case "3fl": alterTribe = true; return "mmatigit"; break;
+                    case "4fl": return "amikkit"; break;
+                    default: return null; break;
+                }
+            } else if (genstandEl.value == "4fl") {
+                switch (grundledEl.value) {
+                    case "1en": return "atsik"; break;
+                    case "2en": return "atsik"; break;
+                    case "3en": alterTribe = true; return "mmatik"; break;
+                    case "1fl": return "atsik"; break;
+                    case "2fl": return "atsik"; break;
+                    case "3fl": alterTribe = true; return "mmatik"; break;
+                    default: return null; break;
+                }
+            } else {
+                return null;
+            }
+        }
+    }
+</script>

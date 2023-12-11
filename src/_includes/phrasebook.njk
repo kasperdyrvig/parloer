@@ -3,35 +3,35 @@ layout: standard
 ---
 {{content | safe}}
 
-<h2 class="mt-lg mb-sm">Basale ord</h2>
+<h2 class="mt-lg mb-sm" id="basic">Basale ord</h2>
 <div class="collection-list">
 {% for group in collections.basic %}
 <a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-lg mb-sm">Forkyndelse</h2>
+<h2 class="mt-lg mb-sm" id="preaching">Forkyndelse</h2>
 <div class="collection-list">
 {% for group in collections.preaching %}
 <a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-lg mb-sm">Undervisning</h2>
+<h2 class="mt-lg mb-sm" id="teaching">Undervisning</h2>
 <div class="collection-list">
 {% for group in collections.teaching %}
 <a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-lg mb-sm">Bibelens lære</h2>
+<h2 class="mt-lg mb-sm" id="bible">Bibelens lære</h2>
 <div class="collection-list">
 {% for group in collections.bible %}
 <a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
 {%endfor%}
 </div>
 
-<h2 class="mt-lg mb-sm">Hjælp til udtale</h2>
+<h2 class="mt-lg mb-sm" id="pronunciation">Hjælp til udtale</h2>
 <div class="collection-list">
 {% for group in collections.pronunciation %}
 <a class="section-item" href="{{group.url | url}}"><span class="section-name">{{group.data.metaTitle}}</span></a>
