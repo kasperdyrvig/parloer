@@ -5,16 +5,15 @@ layout: standard
 {{content | safe}}
 </div>
 
-<h2 class="mt-lg mb-sm">Lektioner</h2>
+<h2 class="mt-lg mb-sm">Moduler</h2>
+
 <div class="list-group nav-list-group">
-    {%- for lesson in collections[getLessonsOf] | sort(false, false, 'data.lessonNo') %}
-    <a class="list-group-item" href="{{lesson.url | url}}">{{lesson.data.metaTitle}}</a>
+    {%- for module in collections.module | sort(false, false, 'data.moduleNo') %}
+    <a class="list-group-item" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
     {%- endfor %}
 </div>
 
-<p><a class="btn btn-small btn-white btn-inline mb-lg" href="parloer">Støttesætninger</a></p>
-
-<details class="mb-lg">
+<details class="mb-lg mt-lg">
     <summary>Til læreren</summary>
     {% for teachernote in collections.teachernotes %}
         {% if teachernote.data.partOfModule == moduleNo %}
