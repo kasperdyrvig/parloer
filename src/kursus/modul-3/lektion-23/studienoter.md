@@ -1,5 +1,5 @@
 ---
-partOfLesson: 31
+partOfLesson: 23
 tags: studynotes
 onPageTitle: Til selvstudie
 ---

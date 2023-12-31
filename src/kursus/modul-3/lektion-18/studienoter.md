@@ -4,26 +4,38 @@ tags: studynotes
 onPageTitle: Til selvstudie
 ---
 
-Der findes 9 **udsagnsmåder.** Hver måde har et sæt endelser. Nogle af dem bruges i forskellige sammenhænge, mens andre kan ændre på betydningen af ordet.
-De 4 **hoved**udsagnsmåder er: Fremsætte, spørge, ønske, byde.
-De 5 **underordnede** udsagnsmåder er: Ledsage, navne, når/hvis, da/fordi, gentagelses.
-I en sætning skal der være ét (og kun ét) hoveudsagnsord, alle andre skal stå i underordnede måder.
+**Lydregel: Q mellem to vokaler**
+Når Q pga en endelse kommer til at stå mellem to vokaler, bliver det 'svækket' til et R.
 
 **Lær mere:**
-- Skema over udsagnsordsendelser.
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 36 (Måder)
-- *Kalaallisut oqaasilerisa 1* af Birgitte Hertling, s. 37
+- *Grønlandsk grammatik* af Stig Bjørnum, s. 27 (assimilation)
 
-**Ledsagemåde** er en underordnet udsagnsmåde og er kendetegnet ved udsagnsmærket -(l)lu-. Ledsagemåden tilføjer ingen betydning, men bruges når grundleddet er det samme som i hovedudsagnsordet.
+**Navneord i flertal** (nomen)
+Svage: -t
+Stærke: ±it (som regel: + efter q og - efter k)
 
 **Lær mere:**
-- Skema over udsagnsordsendelser (filtrér efter ledsagemåde)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 46 (Kontemporativ)
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 2.1: 13:30-14:30
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 2.2: 07:45-09:00; 09:40-11:22
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 3.2: 03:58-04:15
-- Learn Greenlandic Online, Grønlandsk for voksne 2
-    - Øvelse 2.4: (tekst) og (audio)
-    - Øvelse 3.4: (tekst) og (audio)
-- *Kalaallisut oqaasilerisa 1* af Birgitte Hertling, s. 37-41, 52-53, 56-64
-- *Oqaluussisa* lektion 22
+- Video: Ental/flertal 1
+- *Kalaallisut oqalutta* af Paornánguaq Berthelsen og Lone Kokholm, s. 30, 75, 83
+- *Oqaluussisa,* lektion 1
+- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 2.2: 00:00-03:05
+- Learn Greenlandic Online, Grønlandsk for voksne 2, Øvelse 4.2: Flertal af hhv. p-stammer og up-stammer (tekst) og (audio)
+- Memrise-kursus: Grønlandsk 60 ting i ental og flertal (Regelmæssige)
+
+**Gemination**
+Ved geminerende ord bliver den forudgående konsonant i ordet forstærket når visse endelser (minusendelser der starter med en konsonant, der ikke er et r) bliver sat på. Fx: meeraq -t > meeqqat.
+
+**Lær mere:**
+- Video: Ental/flertal 2
+- Liste over typiske geminationer
+- *Grønlandsk grammatik* af Stig Bjørnum, s. 79-81 (gemination)
+- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 3.2: 09:15-12:30
+- Memrise-kursus: Grønlandsk 60 ting i ental og flertal (Uregelmæssige)
+
+**Farver**
+
+**Lær mere:**
+- Farver
+- *Kalaallisut oqalutta* af Paornánguaq Berthelsen og Lone Kokholm, s. 50-51
+- *Kalaallisut Ilinniarta* af Paornánguaq Berthelsen og Lone Kokholm, s. 24-25
+- *Kalaallisut Ilinniarta* - Suliassat af Paornánguaq Berthelsen og Lone Kokholm, s. 13
