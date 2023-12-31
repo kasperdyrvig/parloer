@@ -1,9 +1,9 @@
 ---
 layout: coursefront
-metaTitle: Sprogkurset Paasivituik?!
+metaTitle: Sprogkurset Paasiviuk?!
 moduleNo: 0
 ---
-# Sprogkurset Paasivituik?!
+# Sprogkurset Paasiviuk?!
 
 Velkommen til Paasiviuk?! :) Det betyder “forstår du det?” og det er lige netop det vi skal - lære at forstå og udtrykke os på grønlandsk. Jeg skal være den første til at indrømme at grønlandsk er et svært sprog. Men det kan læres! - også som voksen. Det kræver dog en del arbejde og målrettet indsats. Jeg håber at det her kursus vil give dig motivationen og værktøjerne til at at lære det.
 
