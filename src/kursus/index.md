@@ -1,7 +1,7 @@
 ---
 layout: course
 tags: mainmenu
-metaTitle: Sprogkurset Paasivituik?!
+metaTitle: Sprogkurset Paasiviuk?!
 showModulesList: true
 ---
 # Sprogkurset Paasivituik?!

@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 4']
 lessonNo: 26
-metaTitle: Lektion 26
+metaTitle: Lektion 26 - Udsagnsmåder & Ledsagemåde
 onPageTitle: Lektion 26
 ---
 Her i modul 4 kommer vi til at lære en masse om udsagnsord.

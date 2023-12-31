@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 4']
 lessonNo: 25
-metaTitle: Lektion 25
+metaTitle: Lektion 25 - Repetition
 onPageTitle: Lektion 25
 ---
 Velkommen til modul 4!
