@@ -2,5 +2,5 @@
 tags: ["phrase", "module-1-revelation"]
 danish: Han vil tørre alle tårer væk fra deres øjne,
 greenlandic: Qul­liit tamaasa isaan­nit allar­tis­savai.
-audio: saqq214-qulliit.mp3
+audio: course/saqq214-qulliit.mp3
 ---
