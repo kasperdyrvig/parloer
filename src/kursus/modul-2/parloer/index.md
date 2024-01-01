@@ -1,7 +1,7 @@
 ---
 layout: coursephrasebook
-metaTitle: Støttesætninger til modul 4
-modulePhrases: modul-4-phases
+metaTitle: Støttesætninger til modul 2
+modulePhrases: modul-2-phases
 ---
-# Støttesætninger til Modul 4
+# Støttesætninger til Modul 2
 

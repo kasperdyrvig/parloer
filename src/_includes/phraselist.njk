@@ -7,6 +7,8 @@ eleventyImport:
 
 <h1 class="mt-lg mb-sm">{{metaTitle}}</h1>
 
+{{content | safe}}
+
 <div class="phrase-list">
 {% for phrase in collections[getCollection] %}
     <div class="phrase-item" id="{{getCollection}}-{{loop.index}}">
