@@ -1,6 +1,6 @@
 ---
 layout: lesson
-tags: ['lesson', 'module 4']
+tags: ['lesson', 'module 3']
 lessonNo: 20
 metaTitle: Lektion 20 - Afhængefald og personendelser
 onPageTitle: Lektion 20

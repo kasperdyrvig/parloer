@@ -1,6 +1,6 @@
 ---
 layout: lesson
-tags: ['lesson', 'module 4']
+tags: ['lesson', 'module 3']
 lessonNo: 23
 metaTitle: Lektion 23 - Tilhæng
 onPageTitle: Lektion 23

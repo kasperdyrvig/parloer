@@ -20,5 +20,5 @@ Omskriv nu teksten så det handler om Rahab og Ruth, og så de sidste sætninger
 
 Rahabi qanoq ilinniarfigisinnaaviuk? Rahabip Jehova pillugu ilikkakkani nuannersorpassuit pissutigalugit Jehova upperaa. Illittaaq Jehova pillugu nuannersorpassuarnik ilinniarputit. Rahabitut Jehova upperiviuk? Ila, pikkoripputit!
 
-<textarea-input data-label="Omskriv teksten så det handler om Rahab og Ruth"></textarea-input>
+<textarea-input></textarea-input>
 {% endexerciseItem %}
