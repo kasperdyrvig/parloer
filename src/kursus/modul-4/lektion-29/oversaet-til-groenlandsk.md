@@ -62,6 +62,8 @@ onPageDescription: Oversæt sætningerne til grønlandsk og vurdér om personend
 <feedback-message data-content="Sætningen kan oversættes: Karenip uia naapippara"></feedback-message>
 {% endexerciseItem %}
 
+{% exerciseItem %}
+
 ## De gik hen til deres (egne) børn
 
 <single-input data-label="Nutseruk"></single-input>
