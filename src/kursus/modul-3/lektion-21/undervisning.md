@@ -47,7 +47,7 @@ onPageTitle: Til læreren
 - Ugens guldkorn: Ordgenerator (nomen)
 - Lektier:
     - **Mundtlig:** Giv ros eller opmuntring ved brug af sætningerne fra opmuntring.
-    - **Skriftlig:** IForholdsendelser, Oversæt til grønlandsk og Oversæt til dansk.
+    - **Skriftlig:** Forholdsendelser, Oversæt til grønlandsk og Oversæt til dansk.
     - Læs intro til næste lektion.
 
 **Links/ressourcer:**
