@@ -10,6 +10,8 @@ onPageDescription: Lav tekst der passer til billederne - brug så mange forskell
 
 {% exerciseItem %}
 
+![Tegneserie]({{'/assets/images/course/lektion-31-Juuserfi.png'|url}})
+
 ## Juuserfi
 
 <multi-input data-radios="false" data-labels="1, 2, 3, 4, 5"></multi-choice>
@@ -20,8 +22,11 @@ onPageDescription: Lav tekst der passer til billederne - brug så mange forskell
 
 ## Mannarsi
 
+![Tegneserie]({{'/assets/images/course/lektion-31-Mannarsi.png'|url}})
+
 <multi-input data-radios="false" data-labels="1, 2, 3, 4"></multi-choice>
 
 <feedback-message data-content="Godt klaret! Jeg glæder mig til at finde ud af hvad der sker i tegneserien"></feedback-message>
+
 {% endexerciseItem %}
 

@@ -10,7 +10,7 @@ onPageDescription: Lav tekst der passer til billederne - brug så mange forskell
 
 {% exerciseItem %}
 
-![](C:\Users\rebek\Documents\GitHub\parloer\src\assets\images\course\lektion 31-Aaperaat.png)
+![Tegneserie]({{'/assets/images/course/lektion-31-Aaperaat.png'|url}})
 
 ## Aaperaat
 
@@ -20,10 +20,13 @@ onPageDescription: Lav tekst der passer til billederne - brug så mange forskell
 
 {% exerciseItem %}
 
+![Tegneserie]({{'/assets/images/course/lektion-31-Jaaku.png'|url}})
+
 ## Jaaku
 
 <multi-input data-radios="false" data-labels="1, 2, 3, 4, 5"></multi-choice>
 
 <feedback-message data-content="Godt klaret! Jeg glæder mig til at finde ud af hvad der sker i tegneserien"></feedback-message>
+
 {% endexerciseItem %}
 

@@ -1,6 +1,6 @@
 ---
 tags: gems
-partOfLesson: 26
+partOfLesson: 18
 onPageTitle: Katersat
 externalLink: https://oqaasileriffik.gl/da/ordbog/
 ---

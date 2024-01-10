@@ -1,5 +1,5 @@
 ---
-partOfLesson: 25
+partOfLesson: 17
 tags: teachernotes
 onPageTitle: Til læreren
 ---
