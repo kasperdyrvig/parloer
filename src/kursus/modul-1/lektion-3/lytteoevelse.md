@@ -52,7 +52,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="food/immuk.mp3"></audio-player>
+<audio-player data-file="food/food_09.mp3"></audio-player>
 <multi-choice data-label="Er der dobbeltkonsonant?" data-type="radio" data-options="Aap, Naamik" data-validation="1"></multi-choice>
 <feedback-message data-content="Immuk betyder mælk"></feedback-message>
 {% endexerciseItem %}
