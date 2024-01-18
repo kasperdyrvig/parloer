@@ -20,7 +20,7 @@ function endExercise() {
     const output = document.getElementById("resultContainer").value + "\n" + document.querySelector(".gameend-score").innerText;
     const emailLink = document.getElementById("shareResult");
     const pathArray = window.location.pathname.split('/');
-    emailLink.setAttribute("href", "mailto:paasiviuk@kasperdyrvig.dk?subject=" + pathArray[pathArray.length - 2] + "&body=" + encodeURIComponent(output));
+    emailLink.setAttribute("href", "mailto:paasiviuk@gmail.com?subject=" + pathArray[pathArray.length - 2] + "&body=" + encodeURIComponent(output));
 }
 
 function nextExerciseItem() {
