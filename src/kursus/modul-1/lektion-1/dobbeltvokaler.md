@@ -1,6 +1,7 @@
 ---
 layout: lessontextpage
 metaTitle: Dobbeltvokaler | Ekstramateriale til lektion 1
+partOfLesson: 1
 ---
 
 # Dobbeltvokaler
