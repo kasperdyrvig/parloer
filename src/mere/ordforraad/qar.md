@@ -40,5 +40,5 @@ Hvis du gerne vil øve dig på tilhænget endnu mere, kan du lære mere her:
 - _Kalaallisut oqalutta_ af Paornánguaq Berthelsen og Lone Kokholm, s. 38-39; Suliassat s. 17
 - _Oqaluussisa,_ lektion 6
 
-<feedback-message data-content="Godt klaret! Du har nu lært tilhænget -qar- i mange forskellige sammenhænge. Du kan sende øvelsen her til mig, hvis du gerne vil have feedback, ved at klikke på "Send til læreren" på næste side."></feedback-message>
+<feedback-message data-content="Godt klaret! Du har nu lært tilhænget -qar- i mange forskellige sammenhænge. Du kan sende øvelsen her til mig, hvis du gerne vil have feedback, ved at klikke på 'Send til læreren' på næste side."></feedback-message>
 {% endexerciseItem %}
