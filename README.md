@@ -33,7 +33,7 @@
 
 - Multiple tekstinput, med eller unden radio og valgfri validering
     ```
-    <multi-input data-label="Bøj ordet 'bil'" data-radios="true" data-labels="Ental, Flertal" data-validation="bil, biler" data-radios-validation="1"></multi-choice>
+    <multi-input data-label="Bøj ordet 'bil'" data-radios="true" data-labels="Ental, Flertal" data-validation="bil, biler" data-radios-validation="1"></multi-input>
     ```
 
 - Match par
