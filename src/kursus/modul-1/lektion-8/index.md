@@ -3,7 +3,7 @@ layout: lesson
 tags: ['lesson', 'module 1']
 lessonNo: 8
 metaTitle: Lektion 8
-onPageTitle: Lektion 8
+onPageTitle: Lektion 8 - Støttesætninger & Tips
 ---
 Så er vi nået til den sidste lektion i modul 1. Godt klaret!
 

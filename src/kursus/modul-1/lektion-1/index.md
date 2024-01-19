@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 1']
 lessonNo: 1
-metaTitle: Lektion 1
+metaTitle: Lektion 1 - Vokaler
 onPageTitle: Lektion 1
 ---
 Velkommen til den første lektion i Paasiviuk?! Jeg håber at du vil få gavn af kurset!

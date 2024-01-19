@@ -1,5 +1,5 @@
 ---
 tags: homework
 partOfLesson: 30
-previewText: Lær et skriftsted på grønlandsk udenad.
+previewText: Lær et skriftsted på grønlandsk udenad
 ---

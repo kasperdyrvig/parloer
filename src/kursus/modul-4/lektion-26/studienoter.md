@@ -14,7 +14,7 @@ I en sætning skal der være ét (og kun ét) hoveudsagnsord, alle andre skal st
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 36 (Måder)
 - *Kalaallisut oqaasilerisa 1* af Birgitte Hertling, s. 37
 
-**Ledsagemåde** er en underordnet udsagnsmåde og er kendetegnet ved udsagnsmærket -(l)lu-. Ledsagemåden tilføjer ingen betydning, men bruges når grundleddet er det samme som i hovedudsagnsordet.
+**Ledsagemåde** er en underordnet udsagnsmåde og er kendetegnet ved udsagnsmærket +(l)lu-. Ledsagemåden tilføjer ingen betydning, men bruges når grundleddet er det samme som i hovedudsagnsordet.
 
 **Lær mere:**
 - Skema over udsagnsordsendelser (filtrér efter ledsagemåde)

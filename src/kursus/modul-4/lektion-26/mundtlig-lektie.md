@@ -1,5 +1,5 @@
 ---
 tags: homework
 partOfLesson: 26
-previewText: Se Qanorooq uden undertekster.
+previewText: Se Qanorooq uden undertekster
 ---

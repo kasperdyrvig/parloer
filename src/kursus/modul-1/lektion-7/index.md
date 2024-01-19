@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 1']
 lessonNo: 7
-metaTitle: Lektion 7
+metaTitle: Lektion 7 - Stavelsesdeling & Intonation
 onPageTitle: Lektion 7
 ---
 Nu har du lært hvordan man udtaler alle bogstaverne - flot! Så gælder det om at lære at sætte dem sammen så det lyder naturligt. I første omgang skal vi lære hvordan stavelserne bliver delt, det påvirker nemlig vores udtale og gør det nemmere at udtale de lange ord.
