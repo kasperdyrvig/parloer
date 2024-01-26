@@ -15,7 +15,7 @@ metaTitle: Lektion
     <div class="tab-pane active" role="tabpanel" tabindex="0" id="student" aria-labelledby="student-tab">
         <div class="mb-lg">{{content | safe}}</div>
 
-        <div class="mb-lg">
+        <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Brug det du har lært</h2>
             <ul class="list-group nav-list-group">
             {% for homework in collections.homework %}
@@ -23,7 +23,9 @@ metaTitle: Lektion
                 <li class="list-group-item d-flex">
                     <div><input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}" checked disabled></div>
                     <div class="d-inline-block">
-                        <label for="homework-{{lessonNo}}-{{loop.index}}">{{homework.data.previewText}}</label>
+                        <label for="homework-{{lessonNo}}-{{loop.index}}">
+                            {%if homework.data.homeworkType %}<span class="inline-label">{{homework.data.homeworkType}}</span>{%endif%}
+                            {{homework.data.previewText}}</label>
                         {%if homework.data.linkText %}
                             <p class="mb-0 mt-sm"><a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a></p>
                         {%endif%}
@@ -34,19 +36,21 @@ metaTitle: Lektion
             </ul>
         </div>
 
-        <div class="mb-lg">
+        <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Guldkorn</h2>
             <ul class="list-group nav-list-group">
             {% for gem in collections.gems %}
                 {% if gem.data.partOfLesson == lessonNo %}
-                    {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" class="list-group-item" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>{%else%}
-                        <a href="{{gem.url | url}}" class="list-group-item">{{gem.data.onPageTitle}}</a>{%endif%}
+                    <li class="list-group-item d-flex">
+                    {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>{%else%}
+                        <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                    </li>
                 {% endif %}
             {% endfor %}
             </ul>
         </div>
 
-        <details class="mb-lg">
+        <details class="mb-lg hide-if-details-empty">
             <summary>Til selvstudie</summary>
             {% for studynote in collections.studynotes %}
                 {% if studynote.data.partOfLesson == lessonNo %}

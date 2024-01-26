@@ -452,3 +452,8 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 .skema:not(.d-transitiv) .tr {display: none;}
 .skema:not(.d-endelser) .normal {display: none;}
 .skema:not(.d-nngit) .nngit {display: none;}
+
+.hide-if-list-empty:not(:has(li)) {display: none;}
+.hide-if-details-empty:has(summary:only-child) {display: none;}
+
+.inline-label {background-color: var(--color-green-100); color: var(--color-green-900); font-weight: bold; padding: .25em; border-radius: 2em; text-transform: uppercase; font-size: var(--size-x-small);}
