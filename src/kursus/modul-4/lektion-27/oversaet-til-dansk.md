@@ -1,7 +1,7 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson: 26
+partOfLesson: 27
 previewText: Oversæt sætningerne til dansk
 linkText: Start øvelsen
 onPageTitle: Oversæt til dansk

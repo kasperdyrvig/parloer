@@ -1,7 +1,7 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson: 27
+partOfLesson: 26
 previewText: Brug ledsagemåde og oversæt sætningerne til grønlandsk
 linkText: Start øvelsen
 onPageTitle: Brug ledsagemåde og oversæt til dansk
