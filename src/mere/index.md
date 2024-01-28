@@ -5,7 +5,7 @@ metaTitle: Mere om grønlandsk
 # Mere om grønlandsk
 
 - [Tips til at lære grønlandsk]({{'/mere/tips/' | url}})
-- [Videoer]({{'/mere/videoer/' | url}})
+- Videoer
 
 ## Skemaer
 
@@ -14,10 +14,10 @@ metaTitle: Mere om grønlandsk
 
 ## Aktiviter og værktøjer
 
-- [Udvid dit ordforråd]({{'/mere/ordforraad/' | url}})
-- [Grammatik: Intransitive verber]({{'/mere/grammatik-intransitiv/' | url}})
-- [Grammatik: Transitive verber]({{'/mere/grammatik-transitiv/' | url}})
-- [Udsagnsordsendelser]({{'/mere/endelser/' | url}})
+- [Udvid dit ordforråd](/mere/ordforraad/)
+- Grammatik: Intransitive verber
+- Grammatik: Transitive verber
+- [Udsagnsordsendelser](/mere/endelser/)
 - Vendespil
 - Diktat
 - Flashcards

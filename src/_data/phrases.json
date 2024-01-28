@@ -2,62 +2,62 @@
     "numbers": [
         {
             "greenlandic": "ataaseq",
-            "audio": "numbers_01.mp3",
+            "audio": "01.mp3",
             "image": "number01.jpg"
         },
         {
             "greenlandic": "marluk",
-            "audio": "numbers_02.mp3",
+            "audio": "02.mp3",
             "image": "number02.jpg"
         },
         {
             "greenlandic": "pingasut",
-            "audio": "numbers_03.mp3",
+            "audio": "03.mp3",
             "image": "number03.jpg"
         },
         {
             "greenlandic": "sisamat",
-            "audio": "numbers_04.mp3",
+            "audio": "04.mp3",
             "image": "number04.jpg"
         },
         {
             "greenlandic": "tallimat",
-            "audio": "numbers_05.mp3",
+            "audio": "05.mp3",
             "image": "number05.jpg"
         },
         {
             "greenlandic": "arfinillit",
-            "audio": "numbers_06.mp3",
+            "audio": "06.mp3",
             "image": "number06.jpg"
         },
         {
             "greenlandic": "arfineq-marluk",
-            "audio": "numbers_07.mp3",
+            "audio": "07.mp3",
             "image": "number07.jpg"
         },
         {
             "greenlandic": "arfineq-pingasut",
-            "audio": "numbers_08.mp3",
+            "audio": "08.mp3",
             "image": "number08.jpg"
         },
         {
             "greenlandic": "qulingiluat",
-            "audio": "numbers_09.mp3",
+            "audio": "09.mp3",
             "image": "number09.jpg"
         },
         {
             "greenlandic": "qulit",
-            "audio": "numbers_10.mp3",
+            "audio": "10.mp3",
             "image": "number10.jpg"
         },
         {
             "greenlandic": "aqqanillit",
-            "audio": "numbers_11.mp3",
+            "audio": "11.mp3",
             "image": "number11.jpg"
         },
         {
             "greenlandic": "aqqaneq-marluk",
-            "audio": "numbers_12.mp3",
+            "audio": "12.mp3",
             "image": "number12.jpg"
         }
     ],
