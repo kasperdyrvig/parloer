@@ -1,9 +1,6 @@
 ---
 layout: standard
 ---
-<div>
-{{content | safe}}
-</div>
 
 <h2 class="mt-lg mb-sm">Moduler</h2>
 
@@ -11,6 +8,10 @@ layout: standard
     {%- for module in collections.module | sort(false, false, 'data.moduleNo') %}
     <a class="list-group-item" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
     {%- endfor %}
+</div>
+
+<div class="mt-lg mb-lg">
+{{content | safe}}
 </div>
 
 <details class="mb-lg mt-lg">
