@@ -5388,5 +5388,182 @@
             "greenlandic": "Ulloriannguaq",
             "audio": "ulloriannguaq.mp3"
         }
+    ],
+    "east-greenlandic": [
+        {
+            "danish": "Hej",
+            "greenlandic": "Kulaa",
+            "audio": "kulaa.mp3"
+        },
+        {
+            "danish": "Vi ses",
+            "greenlandic": "Dagiuud",
+            "audio": "dagiuud.mp3"
+        },
+        {
+            "danish": "Tak",
+            "greenlandic": "Qujanaq",
+            "audio": "qujanaq.mp3"
+        },
+        {
+            "danish": "Ja",
+            "greenlandic": "Ii",
+            "audio": "ii.mp3"
+        },
+        {
+            "danish": "Nej",
+            "greenlandic": "Eeqqi",
+            "audio": "eeqqi.mp3"
+        },
+        {
+            "danish": "Nej tak",
+            "greenlandic": "Qujaannarpua",
+            "audio": "qujaannarpua.mp3"
+        },
+        {
+            "danish": "Jeg er ikke interesseret",
+            "greenlandic": "Tsoruliinninngilarnga",
+            "audio": "tsoruliinninngilarnga.mp3"
+        },
+        {
+            "danish": "Ikke mig",
+            "greenlandic": "Uarngaanngitseq",
+            "audio": "uarngaanngitseq.mp3"
+        },
+        {
+            "danish": "Kom ind",
+            "greenlandic": "Iserniaad",
+            "audio": "iserniaad.mp3"
+        },
+        {
+            "danish": "Hvad hedder du?",
+            "greenlandic": "Qaneq alerarpi?",
+            "audio": "alerarpi.mp3"
+        },
+        {
+            "danish": "Jeg hedder_ og det er _",
+            "greenlandic": "_-mi alerarpua aana _",
+            "audio": "alerarpua.mp3"
+        },
+        {
+            "danish": "Hvordan har du det?",
+            "greenlandic": "Qaniippi?",
+            "audio": "qaniippi.mp3"
+        },
+        {
+            "danish": "Jeg har det godt",
+            "greenlandic": "Ainngilarnga",
+            "audio": "ainngilarnga.mp3"
+        },
+        {
+            "danish": "Du må have det godt",
+            "greenlandic": "Ainnginniaana",
+            "audio": "ainnginniaana.mp3"
+        },
+        {
+            "danish": "Det er ok",
+            "greenlandic": "Ainngilaq",
+            "audio": "ainngilaq.mp3"
+        },
+        {
+            "danish": "Jeg kan komme igen en anden dag",
+            "greenlandic": "Uddu adda akkeqqitsinnaaua",
+            "audio": "uddu-adda.mp3"
+        },
+        {
+            "danish": "Taler du dansk?",
+            "greenlandic": "Qaddunaalu oralivartsinnaavi?",
+            "audio": "qaddunaalu.mp3"
+        },
+        {
+            "danish": "Jeg er ved at lære grønlandsk",
+            "greenlandic": "Kalaaddisud oralivarneq ilinniarparnga",
+            "audio": "kalaaddisud.mp3"
+        },
+        {
+            "danish": "Kan du sige det igen?",
+            "greenlandic": "Oraqqitsinnaavi?",
+            "audio": "oraqqitsinnaavi.mp3"
+        },
+        {
+            "danish": "Er der nogle voksne hjemme?",
+            "greenlandic": "Inertsimasuni eerdasimalerarpa?",
+            "audio": "inertsimasuni.mp3"
+        },
+        {
+            "danish": "Jeg besøger alle i området",
+            "greenlandic": "Damaani najungarardi damarmi naaperngusuppakka",
+            "audio": "najungarardi.mp3"
+        },
+        {
+            "danish": "Jeg er et af Jehovas Vidner",
+            "greenlandic": "Jehovamu Nalunaajaasuu-ua",
+            "audio": "jehovamu.mp3"
+        },
+                {
+            "danish": "Jeg er på besøg fra _",
+            "greenlandic": "-minngaannii damaavarpua",
+            "audio": "damaavarpua.mp3"
+        },
+        {
+            "danish": "Hvad interesserer dig?",
+            "greenlandic": "Kisi tsoruliilaavii?",
+            "audio": "tsoruliilaavii.mp3"
+        },
+        {
+            "danish": "Kunne du tænke dig at kende svaret på det spørgsmål?",
+            "greenlandic": "Apeqqulip agitsulaa paaserngusuppii?",
+            "audio": "apeqqulip.mp3"
+        },
+        {
+            "danish": "Hvad tror du?",
+            "greenlandic": "Qaneq isimararpi?",
+            "audio": "isimararpi.mp3"
+        },
+        {
+            "danish": "Har du lidt tid?",
+            "greenlandic": "Pippitsaralaarpi?",
+            "audio": "pippitsaralaarpi.mp3"
+        },
+        {
+            "danish": "Vi tilbyder et gratis bibelkursus",
+            "greenlandic": "Biibilimi ageranngitsimi alivaqqitsaarngusutsinnaavi?",
+            "audio": "alivaqqitsaarngusutsinnaavi.mp3"
+        },
+        {
+            "danish": "Må jeg vise dig en kort video?",
+            "greenlandic": "Videu una naakkaaju dagilitsinnaavarnga?",
+            "audio": "videu.mp3"
+        },
+        {
+            "danish": "Jeg stiller alle det her spørgsmål:",
+            "greenlandic": "Iivi iminna apiilarpakka:",
+            "audio": "apiilarpakka.mp3"
+        },
+        {
+            "danish": "Bemærk hvad der står i Bibelen",
+            "greenlandic": "Biibilimi qaneq addatsimaleq malinginiarniaa",
+            "audio": "malinginiarniaa.mp3"
+        },
+        {
+            "danish": "Bibelen forsikrer os om at problemerne snart vil blive fjernet",
+            "greenlandic": "Biibilimi neriortsornerarpuud aarnardortsiiliu qaniddikku peerneratsali",
+            "audio": "neriortsornerarpuud.mp3"
+        },
+        {
+            "danish": "Synes du det lyder godt?",
+            "greenlandic": "Kaiminnarpalippa?",
+            "audio": "kaiminnarpalippa.mp3"
+        },
+        {
+            "danish": "Jeg vil gerne invitere dig til et særligt arrangement",
+            "greenlandic": "Pilitsamu pingaarngulerardimu qaaqqorngusuppakki",
+            "audio": "qaaqqorngusuppakki.mp3"
+        },
+        {
+            "danish": "Jeg taler med folk om Bibelen",
+            "greenlandic": "Biibili piddungu iivi oralivaraliivakka",
+            "audio": "biibili-piddungu.mp3"
+        }
     ]
 }
