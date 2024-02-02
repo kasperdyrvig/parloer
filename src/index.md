@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-metaTitle: Hjemmeside
+metaTitle: Grønlandsk parlør og sprogkursus
 ---
