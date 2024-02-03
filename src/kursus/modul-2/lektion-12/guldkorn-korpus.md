@@ -1,5 +1,5 @@
 ---
 tags: gems
-partOfLesson: 20
+partOfLesson: 12
 onPageTitle: Ordbogen Oqaatsit (hvad betyder qass).
 ---

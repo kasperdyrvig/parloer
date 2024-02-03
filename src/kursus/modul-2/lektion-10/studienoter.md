@@ -13,7 +13,7 @@ onPageTitle: Til selvstudie
 **Endelser.** Man bruger endelserne der starter med v på vokalstammer, fx anivoq, og dem der starter med p på r- og konsonantstammer, fx atuarpoq og sinippoq.
 
 **Lær mere:**
-- [Udsagnsordsendelser](/mere/udsagnsordsendelser.html)
+- [Udsagnsordsendelser](/mere/udsagnsordsendelser/)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 52 (Skema 1: Indikativ og interrogativ - fremsætte- og spørgemåde)
 - *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 3.2](https://learngreenlandic.com/online/lg2/3.2/): 00:00-02:11
 - *Learn Greenlandic Online,* Grønlandsk for voksne 2

@@ -1225,121 +1225,141 @@
             "danish": "kat",
             "greenlandic": "qitsuk",
             "audio": "qitsuk.mp3",
-            "image": "qitsuk.png"
+            "image": "qitsuk.png",
+            "emoji": "🐱"
         },
         {
             "danish": "hund",
             "greenlandic": "qimmeq",
             "audio": "qimmeq.mp3",
-            "image": "qimmeq.png"
+            "image": "qimmeq.png",
+            "emoji": "🐶"
         },
         {
             "danish": "kamel",
             "greenlandic": "qatigattooq",
             "audio": "qatigattooq.mp3",
-            "image": "qatigattooq.png"
+            "image": "qatigattooq.png",
+            "emoji": "🐫"
         },
         {
             "danish": "hest",
             "greenlandic": "hiisti",
             "audio": "hiisti.mp3",
-            "image": "hiisti.png"
+            "image": "hiisti.png",
+            "emoji": "🐴"
         },
         {
             "danish": "bjørn",
             "greenlandic": "nanoq",
             "audio": "nanoq.mp3",
-            "image": "nanoq.jpg"
+            "image": "nanoq.jpg",
+            "emoji": "🐻‍❄️"
         },
         {
             "danish": "elefant",
             "greenlandic": "nagguaatsoq",
             "audio": "nagguaatsoq.mp3",
-            "image": "nagguaatsoq.png"
+            "image": "nagguaatsoq.png",
+            "emoji": "🐘"
         },
         {
             "danish": "løve",
             "greenlandic": "løveq",
             "audio": "løveq.mp3",
-            "image": "løveq.png"
+            "image": "løveq.png",
+            "emoji": "🦁"
         },
         {
             "danish": "abe",
             "greenlandic": "aapakaaq",
             "audio": "aapakaaq.mp3",
-            "image": "aapakaaq.png"
+            "image": "aapakaaq.png",
+            "emoji": "🐒"
         },
         {
             "danish": "mus",
             "greenlandic": "teriaq",
             "audio": "teriaq.mp3",
-            "image": "teriaq.png"
+            "image": "teriaq.png",
+            "emoji": "🐭"
         },
         {
             "danish": "giraf",
             "greenlandic": "qungasersooq",
             "audio": "qungasersooq.mp3",
-            "image": "qungasersooq.png"
+            "image": "qungasersooq.png",
+            "emoji": "🦒"
         },
         {
             "danish": "flodhest",
             "greenlandic": "imarmiutaq",
             "audio": "imarmiutaq.mp3",
-            "image": "imarmiutaq.png"
+            "image": "imarmiutaq.png",
+            "emoji": "🦛"
         },
         {
             "danish": "ko",
             "greenlandic": "nersussuaq",
             "audio": "nersussuaq.mp3",
-            "image": "nersussuaq.png"
+            "image": "nersussuaq.png",
+            "emoji": "🐮"
         },
         {
             "danish": "høne",
             "greenlandic": "kukkukooq",
             "audio": "kukkukooq.mp3",
-            "image": "kukkukooq.png"
+            "image": "kukkukooq.png",
+            "emoji": "🐔"
         },
         {
             "danish": "kylling",
             "greenlandic": "kukkukuuaraq",
             "audio": "kukkukuuaraq.mp3",
-            "image": "kukkukuuaraq.png"
+            "image": "kukkukuuaraq.png",
+            "emoji": "🐣"
         },
         {
             "danish": "bi",
             "greenlandic": "igutsak",
             "audio": "igutsak.mp3",
-            "image": "igutsak.png"
+            "image": "igutsak.png",
+            "emoji": "🐝"
         },
         {
             "danish": "flue",
             "greenlandic": "niviugak",
             "audio": "niviugak.mp3",
-            "image": "niviugak.png"
+            "image": "niviugak.png",
+            "emoji": "🪰"
         },
         {
             "danish": "myg",
             "greenlandic": "ippernaq",
             "audio": "ippernaq.mp3",
-            "image": "ippernaq.png"
+            "image": "ippernaq.png",
+            "emoji": "🦟"
         },
         {
             "danish": "orm/larve",
             "greenlandic": "qullugiaq",
             "audio": "qullugiaq.mp3",
-            "image": "qullugiaq.png"
+            "image": "qullugiaq.png",
+            "emoji": "🪱"
         },
         {
             "danish": "edderkop",
             "greenlandic": "aasiak",
             "audio": "aasiak.mp3",
-            "image": "aasiak.png"
+            "image": "aasiak.png",
+            "emoji": "🕷️"
         },
         {
-            "danish": "skilpadde",
+            "danish": "skildpadde",
             "greenlandic": "saaniluk",
             "audio": "saaniluk.mp3",
-            "image": "saaniluk.png"
+            "image": "saaniluk.png",
+            "emoji": "🐢"
         },
         {
             "danish": "gren",
@@ -1357,7 +1377,8 @@
             "danish": "blomst",
             "greenlandic": "naasoq",
             "audio": "naasoq.mp3",
-            "image": "naasoq.png"
+            "image": "naasoq.png",
+            "emoji": "🌼"
         },
         {
             "danish": "græs",
@@ -1369,43 +1390,43 @@
             "danish": "blad",
             "greenlandic": "pilutaq",
             "audio": "pilutaq.mp3",
-            "image": "pilutaq.png"
-        },
-        {
-            "danish": "stængel",
-            "greenlandic": "kanaartaq",
-            "audio": "kanaartaq.mp3",
-            "image": "kanaartaq.png"
+            "image": "pilutaq.png",
+            "emoji": "🍃"
         },
         {
             "danish": "træ",
             "greenlandic": "orpik",
             "audio": "orpik.mp3",
-            "image": "orpik.png"
+            "image": "orpik.png",
+            "emoji": "🌳"
         },
         {
             "danish": "træstamme",
             "greenlandic": "orpiup kanaartaa",
             "audio": "orpiup-kanaartaa.mp3",
-            "image": "orpiup-kanaartaa.png"
+            "image": "orpiup-kanaartaa.png",
+            "emoji": "🌳"
         },
         {
             "danish": "sæl",
             "greenlandic": "puisi",
             "audio": "puisi.mp3",
-            "image": "puisi.png"
+            "image": "puisi.png",
+            "emoji": "🦭"
         },
         {
             "danish": "hval",
             "greenlandic": "arfeq",
             "audio": "arfeq.mp3",
-            "image": "arfeq.png"
+            "image": "arfeq.png",
+            "emoji": "🐋"
         },
         {
             "danish": "rensdyr",
             "greenlandic": "tuttu",
             "audio": "tuttu.mp3",
-            "image": "tuttu.png"
+            "image": "tuttu.png",
+            "emoji": "🦌"
         },
         {
             "danish": "moskusokse",
@@ -1417,19 +1438,22 @@
             "danish": "ulv",
             "greenlandic": "amaroq",
             "audio": "amaroq.mp3",
-            "image": "amaroq.jpg"
+            "image": "amaroq.jpg",
+            "emoji": "🐺"
         },
         {
             "danish": "ræv",
             "greenlandic": "terianniaq",
             "audio": "terianniaq.mp3",
-            "image": "terianniaq.jpg"
+            "image": "terianniaq.jpg",
+            "emoji": "🦊"
         },
         {
             "danish": "hare",
             "greenlandic": "ukaleq",
             "audio": "ukaleq.mp3",
-            "image": "ukaleq.png"
+            "image": "ukaleq.png",
+            "emoji": "🐰"
         },
         {
             "danish": "grønlandssæl",
@@ -1471,7 +1495,8 @@
             "danish": "haj",
             "greenlandic": "eqalussuaq",
             "audio": "eqalussuaq.mp3",
-            "image": "eqalussuaq.png"
+            "image": "eqalussuaq.png",
+            "emoji": "🦈"
         },
         {
             "danish": "ulk",
@@ -1513,13 +1538,15 @@
             "danish": "havørn",
             "greenlandic": "nattoralik",
             "audio": "nattoralik.mp3",
-            "image": "nattoralik.jpg"
+            "image": "nattoralik.jpg",
+            "emoji": "🦅"
         },
         {
             "danish": "gås",
             "greenlandic": "nerleq",
             "audio": "nerleq.mp3",
-            "image": "nerleq.jpg"
+            "image": "nerleq.jpg",
+            "emoji": "🪿"
         },
         {
             "danish": "marsvin",
@@ -1537,7 +1564,8 @@
             "danish": "sommerfugl",
             "greenlandic": "pakkaluaq",
             "audio": "pakkaluaq.mp3",
-            "image": "pakkaluaq.png"
+            "image": "pakkaluaq.png",
+            "emoji": "🦋"
         },
         {
             "danish": "hellefisk",
@@ -1555,7 +1583,8 @@
             "danish": "and",
             "greenlandic": "qeerlutooq",
             "audio": "qeerlutooq.mp3",
-            "image": "qeerlutooq.png"
+            "image": "qeerlutooq.png",
+            "emoji": "🦆"
         },
         {
             "danish": "hvidhval",
@@ -1603,7 +1632,8 @@
             "danish": "ravn",
             "greenlandic": "tulugaq",
             "audio": "tulugaq.mp3",
-            "image": "tulugaq.png"
+            "image": "tulugaq.png",
+            "emoji": "🐦‍⬛"
         },
         {
             "danish": "blåmusling",
@@ -1614,7 +1644,8 @@
             "danish": "ugle",
             "greenlandic": "uppik",
             "audio": "uppik.mp3",
-            "image": "uppik.jpg"
+            "image": "uppik.jpg",
+            "emoji": "🦉"
         },
         {
             "danish": "remmesæl",
@@ -1628,25 +1659,29 @@
             "danish": "mad",
             "greenlandic": "nerisassat",
             "audio": "food_01.mp3",
-            "image": "food.png"
+            "image": "food.png",
+            "emoji": "🥗"
         },
         {
             "danish": "kage",
             "greenlandic": "kaagi",
             "audio": "food_02.mp3",
-            "image": "cake.png"
+            "image": "cake.png",
+            "emoji": "🍰"
         },
         {
             "danish": "chokolade",
             "greenlandic": "sukkulaaq",
             "audio": "food_03.mp3",
-            "image": "chocolate.png"
+            "image": "chocolate.png",
+            "emoji": "🍫"
         },
         {
             "danish": "is",
             "greenlandic": "siku",
             "audio": "food_04.mp3",
-            "image": "ice-cream.png"
+            "image": "ice-cream.png",
+            "emoji": "🍦"
         },
         {
             "danish": "brød",
@@ -1658,43 +1693,50 @@
             "danish": "franskbrød",
             "greenlandic": "iffiaq-qaqortoq",
             "audio": "food_10.mp3",
-            "image": "bread.png"
+            "image": "bread.png",
+            "emoji": "🍞"
         },
         {
             "danish": "smør",
             "greenlandic": "punneq",
             "audio": "food_06.mp3",
-            "image": "butter.png"
+            "image": "butter.png",
+            "emoji": "🧈"
         },
         {
             "danish": "ost",
             "greenlandic": "immussuaq",
             "audio": "food_07.mp3",
-            "image": "cheese.png"
+            "image": "cheese.png",
+            "emoji": "🧀"
         },
         {
             "danish": "honning",
             "greenlandic": "tungusunnitsuut",
             "audio": "food_08.mp3",
-            "image": "honeypot.png"
+            "image": "honeypot.png",
+            "emoji": "🍯"
         },
         {
             "danish": "mælk",
             "greenlandic": "immuk",
             "audio": "food_09.mp3",
-            "image": "milk.png"
+            "image": "milk.png",
+            "emoji": "🥛"
         },
         {
             "danish": "æg",
             "greenlandic": "mannik",
             "audio": "food_11.mp3",
-            "image": "egg.png"
+            "image": "egg.png",
+            "emoji": "🥚"
         },
         {
             "danish": "kød",
             "greenlandic": "neqi",
             "audio": "food_12.mp3",
-            "image": "meat.png"
+            "image": "meat.png",
+            "emoji": "🥩"
         },
         {
             "danish": "grønlandsk mad",

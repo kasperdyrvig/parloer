@@ -13,7 +13,7 @@ Man kan også dele tilhæng op i **plustilhæng** (se lektion 15) og **minustilh
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 219-223 (Affikser)
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Forelæsning 5.1: 07:20-10:05
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, [Forelæsning 5.1](https://learngreenlandic.com/online/lg1/5.1/): 07:20-10:05
 - *Kalaallisut oqaasilerisa 3* af Birgitte Hertling, s. 42
 - *Kalaallisut ilikkarit - Lær grønlandsk 1* af Bente Marie Meilvang, s. 27-29
 
@@ -22,7 +22,7 @@ Betydning: Har, der er. Sættes på navneord (nomen) og bliver til et udsagnsord
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 254 (-qarpoq)
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Forelæsning 5.1: 09:23-10:05
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, [Forelæsning 5.1](https://learngreenlandic.com/online/lg1/5.1/): 09:23-10:05
 - *Kalaallisut oqalutta* af Paornánguaq Berthelsen og Lone Kokholm, s. 12-13, 38-39
 - *Kalaallisut oqaasilerisa 3* af Birgitte Hertling, s. 43
 - *Oqaluussisa* lektion 6

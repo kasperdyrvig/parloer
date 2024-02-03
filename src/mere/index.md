@@ -17,7 +17,7 @@ metaTitle: Mere om grønlandsk
 - [Udvid dit ordforråd](/mere/ordforraad/)
 - Grammatik: Intransitive verber
 - Grammatik: Transitive verber
-- [Udsagnsordsendelser](/mere/endelser/)
+- Udsagnsordsendelser
 - Vendespil
 - Diktat
 - Flashcards
