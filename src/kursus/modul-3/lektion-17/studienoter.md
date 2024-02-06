@@ -14,4 +14,4 @@ Stærke: De fleste der ender på **-neq** og **k**.
 
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 70 (nominer)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 77-78 (svage og stærke stammer)
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 2.2: 00:00-03:05; 05:10-06:20
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 2.2](https://learngreenlandic.com/online/lg2/2.2/): 00:00-03:05; 05:10-06:20

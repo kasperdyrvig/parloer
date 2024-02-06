@@ -10,7 +10,7 @@ Betydning: ikke. Sættes på udsagnsord (verbum) og forbliver det samme. Når ti
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 251 (Affiksliste -nngilaq)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 54 (Skema 5: endelser på -nngilaq)
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Forelæsning 4.2: 03:05-09:10
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Øvelse 5.4X
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 4.2](https://learngreenlandic.com/online/lg2/4.2/): 03:05-09:10
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, [Øvelse 5.4X](https://learngreenlandic.com/online/lg1/5x/qa-naamik/)
 - *Kalaallisut oqaasilerisa 3* af Birgitte Hertling, s. 43
 - *Kalaallisut ilikkarit - Lær grønlandsk 1* af Bente Marie Meilvang, s. 16-21

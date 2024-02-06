@@ -10,7 +10,7 @@ O er en variant af U. O står *altid* foran R eller Q, U står *aldrig* foran R 
 
 **Lær mere:** 
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 16 (retskrivningsregel 1)
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Forelæsning 5.2: 00:00-03:35
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, [Forelæsning 5.2](https://learngreenlandic.com/online/lg1/5.2/): 00:00-03:35
 - O og E foran R og Q
 
 **Lydregel: Assimilation af konsonanter**
@@ -20,15 +20,15 @@ R bliver ikke assimileret på skrift, men i udtalen bliver konsonanten fordoblet
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 27 (assimilation)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 20 (R-kombinationer)
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Forelæsning 5.2: 03:35-05:00
-- Learn Greenlandic Online, Grønlandsk for voksne 1, Strukturøvelser:
-1.2 Dan nye ord
-1.3 Lyt, forstå, dan ord
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, [Forelæsning 5.2](https://learngreenlandic.com/online/lg1/5.2/): 03:35-05:00
+- *Learn Greenlandic Online,* Grønlandsk for voksne 1, Strukturøvelser:
+    - [1.2 Dan nye ord](https://learngreenlandic.com/online/lg1/structure/1.2/)
+    - [1.3 Lyt, forstå, dan ord](https://learngreenlandic.com/online/lg1/structure/1.3/)
 
 **Tilhænget +fik/+vik, v-n**
 Betydning: Stedet/tiden for noget. Sættes på udsagnsord (verbum) og bliver til et navneord (nomen).
 
 **Lær mere:**
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 7.1: 11:05-11:45
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 7.1](https://learngreenlandic.com/online/lg2/7.1/): 11:05-11:45
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 229 (affikset +ffik)
 - *Oqaluussisa* lektion 4
