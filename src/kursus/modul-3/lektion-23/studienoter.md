@@ -9,8 +9,8 @@ Betydning: har den som. Sættes på navneord (nomen) og bliver til et transitivt
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 230-231 (-gaa)
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Forelæsning 5.2: 03:12-05:10
-- Learn Greenlandic Online, Grønlandsk for voksne 2, Øvelse 5.5: (tekst) og (audio)
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 5.2](https://learngreenlandic.com/online/lg2/5.2/): 03:12-05:10
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, Øvelse 5.5: ([tekst](https://learngreenlandic.com/online/lg2/structure/5.5/t/)) og ([audio](https://learngreenlandic.com/online/lg2/structure/5.5/a/))
 - *Kalaallisut oqaasilerisa 1* af Birgitte Hertling, s. 24-26
 - *Oqaluussisa* lektion 15 & 16
 

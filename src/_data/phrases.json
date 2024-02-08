@@ -1756,7 +1756,7 @@
             "danish": "æble",
             "greenlandic": "iipili",
             "audio": "plants-and-fruits_02.mp3",
-            "image": "fruit01.jpg"
+            "image": "Iipili.png"
         },
         {
             "danish": "banan",
@@ -1774,17 +1774,19 @@
             "danish": "kartoffel",
             "greenlandic": "naatsiiaq",
             "audio": "plants-and-fruits_05.mp3",
-            "image": "fruit04.jpg"
+            "image": "naatsiiaq.png"
         },
         {
             "danish": "kvan",
             "greenlandic": "kuanneq",
-            "audio": "plants-and-fruits_06.mp3"
+            "audio": "plants-and-fruits_06.mp3",
+            "image": "Kuanneq.png"
         },
         {
             "danish": "klokkeblomst",
             "greenlandic": "tikiusaaq",
-            "audio": "plants-and-fruits_07.mp3"
+            "audio": "plants-and-fruits_07.mp3",
+            "image": "Tikiusaaq.png"
         },
         {
             "danish": "timian",
@@ -1799,7 +1801,8 @@
         {
             "danish": "gederams",
             "greenlandic": "niviarsiaq",
-            "audio": "plants-and-fruits_10.mp3"
+            "audio": "plants-and-fruits_10.mp3",
+            "image": "Niviarsiaq.png"
         },
         {
             "danish": "svamp",
@@ -1826,7 +1829,7 @@
             "danish": "mælkebøtte",
             "greenlandic": "inneruulaq",
             "audio": "plants-and-fruits_15.mp3",
-            "image": "dandelion.png"
+            "image": "inneruulaq.png"
         },
         {
             "danish": "grønlandspost",

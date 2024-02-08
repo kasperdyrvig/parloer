@@ -8,7 +8,7 @@ onPageTitle: Til selvstudie
 I sætninger med når/hvis-måde skal hovedudsagnsordet normalt have et fremtidstilhæng på.
 
 **Lær mere:**
-- Skema over udsagnsordsendelser
+- [Skema over udsagnsordsendelser](/mere/udsagnsordsendelser)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 45 (Konditionalis)
 - *Kalaallisut oqaasilerisa 2* af Birgitte Hertling, s. 41-60
 
