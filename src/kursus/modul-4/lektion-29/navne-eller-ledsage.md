@@ -6,27 +6,27 @@ partOfLesson: 29
 
 # Navne- eller ledsagemåde?
 
-Sinipput. Takuakka.
-Nerivunga. Atuarpunga.
-Oqarputit. Pulaarpai.
+Sinipput. Takuakka.<br>
+Nerivunga. Atuarpunga.<br>
+Oqarputit. Pulaarpai.<br>
 Ataatsimiinnermi sinippunga. Takuisiuk?
 
-Anipput. Takuigit?
-Atuarpugut. Allappugut.
-Paasiviuk? Ippassaq ataatsimiigianngillat.
+Anipput. Takuigit?<br>
+Atuarpugut. Allappugut.<br>
+Paasiviuk? Ippassaq ataatsimiigianngillat.<br>
 Iserpoq. Aperivoq.
 
-Qiavunga. Takuinga?
-Neriniarput. Angerlarput.
-Nalunngilara. Asavaanga.
+Qiavunga. Takuinga?<br>
+Neriniarput. Angerlarput.<br>
+Nalunngilara. Asavaanga.<br>
 Ane nuussimavoq. Tusarpiuk?
 
-Nuannaarputit. Takuara.
-Takuai. Ornippai.
-Oqarpoq. Oqaluussivusi.
+Nuannaarputit. Takuara.<br>
+Takuai. Ornippai.<br>
+Oqarpoq. Oqaluussivusi.<br>
 Nalunngiliuk? Iipilit qanoq akeqarpat?
 
-Arpappusi. Takuassi.
-Ataatsimiippusi. Erinarsorpusi.
-Sikkilerpugut. Takuisigut?
+Arpappusi. Takuassi.<br>
+Ataatsimiippusi. Erinarsorpusi.<br>
+Sikkilerpugut. Takuisigut?<br>
 Neriorsorpai. Sikutussapput.

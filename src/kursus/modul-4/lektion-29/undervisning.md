@@ -33,7 +33,7 @@ onPageTitle: Til læreren
 10 min: **Øvelse.**
 
 - Kursisterne skal arbejde sammen 2 og 2.
-- De får en række af to sætninger der skal sættes sammen og skrives om, enten ved brug af ledsage- eller navnemåde.
+- De får en række af to [sætninger](navne-eller-ledsage) der skal sættes sammen og skrives om, enten ved brug af ledsage- eller navnemåde.
 - Grupperne oversætter sætningerne hvis tiden er til det.
 
 5 min: **Opsummering og lektier.**
