@@ -22,7 +22,7 @@ onPageTitle: Til læreren
 
 - I grupper af 3. En mellemmand skal hjælpe med at kommunikere mellem de to andre.
 - Spørg ind til familien, brug spørgsmål om familien.
-    - Fx: A: C ataatani ullumi takuaa?<br>B: Ataatat ullumi takuiuk?<br>C: Naamik, ataataga ullumi takunngilara.<br>B: Ataatani ullumi takunngilaa.
+    - Fx: A: C-p ataatani ullumi takuaa?<br>B: Ataatat ullumi takuiuk?<br>C: Naamik, ataataga ullumi takunngilara.<br>B: C-p ataatani ullumi takunngilaa.
 - Byt mellemmand efter hver udveksling.
 
 5 min: **Ledsage- eller navnemåde?**
