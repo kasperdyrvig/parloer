@@ -10,7 +10,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="nature/nature 05.mp3"></audio-player>
+<audio-player data-file="nature/nanoq.mp3"></audio-player>
 
 ## Nanoq
 
@@ -32,11 +32,11 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-## Illoqarpoq
+## Ateqarpunga
 
 <multi-choice data-label="Suua?" data-type="radio" data-random="false" data-options="Småord, Navneord, Udsagnsord" data-validation="3"></multi-choice>
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Illoqarpoq betyder: Der er huse/han har et hus"></feedback-message>
+<feedback-message data-content="Ateqarpunga betyder: Jeg hedder / Jeg har et navn"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
@@ -52,7 +52,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="song and prayer/songs 02.mp3"></audio-player>
+<audio-player data-file="songprayer/songs_02.mp3"></audio-player>
 
 ## Erinarsuut
 
@@ -89,16 +89,16 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-## Illoqarfissuaq
+## Kangerlussuaq
 
 <multi-choice data-label="Suua?" data-type="radio" data-random="false" data-options="Småord, Navneord, Udsagnsord" data-validation="2"></multi-choice>
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Illoqarfissuaq betyder: Storby/en stor by"></feedback-message>
+<feedback-message data-content="Kangerlussuaq betyder: stor fjord og er navnet på en bygd"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
-<audio-player data-file="language/languages 02.mp3"></audio-player>
+<audio-player data-file="language/languages_02.mp3"></audio-player>
 
 ## Kalaallisut
 

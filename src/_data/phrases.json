@@ -1791,12 +1791,14 @@
         {
             "danish": "timian",
             "greenlandic": "tupaarnaq",
-            "audio": "plants-and-fruits_08.mp3"
+            "audio": "plants-and-fruits_08.mp3",
+            "image": "tupaarnaq.png"
         },
         {
             "danish": "fjeld-ene",
             "greenlandic": "kakillarnaq",
-            "audio": "plants-and-fruits_09.mp3"
+            "audio": "plants-and-fruits_09.mp3",
+            "image": "kakillarnaq.png"
         },
         {
             "danish": "gederams",
@@ -1808,7 +1810,7 @@
             "danish": "svamp",
             "greenlandic": "pupik",
             "audio": "plants-and-fruits_11.mp3",
-            "image": "mushroom-1.png"
+            "image": "pupik.png"
         },
         {
             "danish": "gøgelilje",
@@ -1844,12 +1846,14 @@
         {
             "danish": "røn",
             "greenlandic": "napaartoq",
-            "audio": "plants-and-fruits_18.mp3"
+            "audio": "plants-and-fruits_18.mp3",
+            "image": "napaartoq.png"
         },
         {
             "danish": "tyttebær",
             "greenlandic": "kimmernat",
-            "audio": "plants-and-fruits_19.mp3"
+            "audio": "plants-and-fruits_19.mp3",
+            "image": "kimmernat.png"
         }
     ],
     "places": [
