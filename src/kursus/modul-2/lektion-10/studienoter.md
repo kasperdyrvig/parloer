@@ -4,13 +4,13 @@ tags: studynotes
 onPageTitle: Til selvstudie
 ---
 
-**Udsagnsord** består altid af en stamme og endelse (tilhæng og efterhæng kan også sættes på). Der er 3 forskellige typer stammer: r, fx atuar-, vokal, fx ani-, og konsonant, fx sinip-.
+**Udsagnsord** består altid af en stamme og endelse (tilhæng og efterhæng kan også sættes på). Der er 3 forskellige typer stammer: R, fx *atuar-,* vokal, fx *ani-,* og konsonant, fx *sinip-.*
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 35 (Stammer)
 - *Oqaluussisa* lektion 1
 
-**Endelser.** Man bruger endelserne der starter med v på vokalstammer, fx anivoq, og dem der starter med p på r- og konsonantstammer, fx atuarpoq og sinippoq.
+**Endelser.** Man bruger endelserne der starter med V på vokalstammer, fx anivoq, og dem der starter med P på R- og konsonantstammer, fx atuarpoq og sinippoq.
 
 **Lær mere:**
 - [Udsagnsordsendelser](/mere/udsagnsordsendelser/)

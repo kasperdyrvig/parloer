@@ -1,5 +1,5 @@
 ---
-partOfLesson: 26
+partOfLesson: 10
 tags: teachernotes
 onPageTitle: Til læreren
 ---
@@ -18,7 +18,7 @@ onPageTitle: Til læreren
     - Nødvendigt at have en stamme og en endelse.
     - Hvad er en endelse? På dansk bøjer vi ikke udsagnsordet efter hvilken person, men på grønlandsk ændrer endelsen sig efter hvem der gør noget.
     - Hvad er en stamme? Betydningsbærende del af ordet, det at…
-        - Skriv følgende ord på tavlen og hjælp kursisterne til at kende forskel på stamme og endelse: Sulivoq, toquvoq, orluvunga, igavunga.
+        - Skriv følgende ord på tavlen og hjælp kursisterne til at kende forskel på stamme og endelse: Sulivoq, akivoq, anivunga, igavunga.
 
 20 min: **Endelser.**
 

@@ -1,7 +1,7 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson: 10
+partOfLesson: 
 previewText: Find den endelse og oversættelse der passer sammen.
 onPageTitle: V-endespil
 onPageDescription: Find den endelse og oversættelse der passer sammen.

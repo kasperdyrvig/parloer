@@ -32,6 +32,8 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
+<audio-player data-file="course/ateqarpunga.mp3"></audio-player>
+
 ## Ateqarpunga
 
 <multi-choice data-label="Suua?" data-type="radio" data-random="false" data-options="Småord, Navneord, Udsagnsord" data-validation="3"></multi-choice>
@@ -88,6 +90,8 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
+
+<audio-player data-file="places/kangerlussuaq.mp3"></audio-player>
 
 ## Kangerlussuaq
 

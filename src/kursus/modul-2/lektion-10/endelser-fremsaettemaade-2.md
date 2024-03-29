@@ -1,8 +1,8 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson:
-previewText: Sæt de forskellige endelser på stammerne - del 1
+partOfLesson: 10
+previewText: Sæt de forskellige endelser på stammerne - del 2
 onPageTitle: Endelser i fremsættemåde - del 2
 onPageDescription: Du får præsenteret nogle stammer. For hver af dem skal du skrive hele ordet med hver personendelse i fremsættemåde, samt oversættelsen af stammen
 linkText: Start øvelsen

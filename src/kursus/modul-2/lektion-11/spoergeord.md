@@ -1,7 +1,7 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson:
+partOfLesson: 11
 previewText: Træn spørgeord!
 onPageTitle: Spørgeord
 onPageDescription: Træn spørgeord! Vælg den rigtige oversættelse af hvert spørgeord.

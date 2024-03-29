@@ -1,8 +1,8 @@
 ---
 tags: homework
 layout: exercise
-partOfLesson:
-previewText: Oversæt til dansk. Oversæt sætningerne.
+partOfLesson: 11
+previewText: Oversæt sætningerne til dansk.
 onPageTitle: Oversæt til dansk
 onPageDescription: Oversæt sætningerne.
 linkText: Start øvelsen

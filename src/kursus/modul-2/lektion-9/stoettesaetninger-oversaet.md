@@ -12,47 +12,47 @@ linkText: Start øvelsen
 
 ## Forstår du mig?
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Forstår du mig? hedder: Paasivinga?"></feedback-message>
+<feedback-message data-content="Det hedder: Paasivinga?"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Qallunaatut qanoq taasarpaat?
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Qallunaatut qanoq taasarpaat? betyder: Hvad hedder det på dansk?"></feedback-message>
+<feedback-message data-content="Det betyder: Hvad hedder det på dansk?"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Det er forkert/dårligt
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Det er forkert/dårligt hedder: Ajorpoq"></feedback-message>
+<feedback-message data-content="Det hedder: Ajorpoq"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Qanoq oqarpit?
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Qanoq oqarpit? betyder: Hvad siger du?"></feedback-message>
+<feedback-message data-content="Det betyder: Hvad siger du?"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Vil du gentage det?
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Vil du gentage det? hedder: Uteqqilaaruk"></feedback-message>
+<feedback-message data-content="Det hedder: Uteqqilaaruk"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Det ved jeg ikke
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Det ved jeg ikke hedder: Naluara"></feedback-message>
+<feedback-message data-content="Det hedder: Naluara"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 
 ## Paasinngilakkit
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Paasinngilakkit betyder: Jeg forstår dig ikke"></feedback-message>
+<feedback-message data-content="Det betyder: Jeg forstår dig ikke"></feedback-message>
 {% endexerciseItem %}

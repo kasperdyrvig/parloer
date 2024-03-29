@@ -14,7 +14,7 @@ onPageTitle: Til selvstudie
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 33 (Verber)
 
-**Småord** er alle de resterende ord der hverken er navneord eller udsagnsord, som fx måske, immaqa og ja, aap. Man kan ikke sætte endelser og tilhæng på småord, men man kan godt sætte efterhæng på.
+**Småord** er alle de resterende ord der hverken er navneord eller udsagnsord, som fx måske *immaqa* og ja *aap.* Man kan ikke sætte endelser og tilhæng på småord, men man kan godt sætte efterhæng på.
 
 **Lær mere:**
 - Grønlandsk grammatik af Stig Bjørnum, s. 34 (Adverbier)

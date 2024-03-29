@@ -10,7 +10,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="language/languages 03.mp3"></audio-player>
+<audio-player data-file="language/languages_03.mp3"></audio-player>
 
 ## Qallunaatut
 
@@ -50,7 +50,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="home/home 15.mp3"></audio-player>
+<audio-player data-file="home/issiavik.mp3"></audio-player>
 
 ## Issiavik
 
@@ -61,7 +61,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="language/languages 11.mp3"></audio-player>
+<audio-player data-file="language/languages_11.mp3"></audio-player>
 
 ## Qanoq
 
@@ -103,7 +103,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="common questions/common questions 18.mp3"></audio-player>
+<audio-player data-file="questionsanswers/common-questions_18.mp3"></audio-player>
 
 ## Qujaannarpunga
 
