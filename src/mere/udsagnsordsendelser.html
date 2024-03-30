@@ -35,6 +35,8 @@ metaTitle: Skema over endelser til udsagnsord
                         value="transitiv">Transitiv</label>
             </fieldset>
         </fieldset>
+        <hr>
+        <button type="button" onclick="shareConfig()" class="btn btn-small btn-gray">Kopier konfiguration</button>
     </form>
 </details>
 
@@ -774,4 +776,43 @@ metaTitle: Skema over endelser til udsagnsord
     function showRow(row) {
         document.querySelector(".skema").classList.add("d-" + row);
     }
+
+    function shareConfig() {
+        const form = document.getElementById("tableFilter").elements;
+        
+        const shareUrl = location.protocol + '//' + location.host + location.pathname
+            + "?f=" + form["f"].checked
+            + "&d=" + form["d"].checked
+            + "&h=" + form["h"].checked
+            + "&n=" + form["n"].checked
+            + "&l=" + form["l"].checked
+            + "&o=" + form["o"].checked
+            + "&s=" + form["s"].checked
+            + "&b=" + form["b"].checked
+            + "&fjerdeperson=" + form["fjerdeperson"].checked
+            + "&nngit=" + form["nngit"].value
+            + "&transitivitet=" + form["transitivitet"].value;
+
+        navigator.clipboard.writeText(shareUrl).then(() => {
+            console.log("Copied url");
+        }).catch(err => {
+            console.log("Could not copy url");
+        });
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const startUrl = new URLSearchParams(window.location.href.substring(window.location.href.indexOf("?")));
+        if(startUrl.has("f")) {
+            console.log("Getting configuration");
+            const form = document.getElementById("tableFilter").elements;
+            startUrl.forEach((value, key) => {
+                if(key == "nngit" || key == "transitivitet") {
+                    form[key].value = value;
+                } else {
+                    form[key].checked = (value.toLocaleLowerCase() === "true");
+                }
+            });
+            updateTable();
+        }
+    });
 </script>
