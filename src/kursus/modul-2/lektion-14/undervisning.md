@@ -13,7 +13,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier og hvis der er nogle hyppige fejl.
-- Gennemgå den første del af historien fra læseøvelsen og spørgsmålene til den.
+- Gennemgå historien fra læseøvelsen og spørgsmålene til den.
 
 5 min: **Tilhæng på udsagnsord.**
 

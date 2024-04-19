@@ -2,9 +2,9 @@
 tags: homework
 layout: exercise
 partOfLesson: 13
-previewText: Øv endelser i fremsætte- og spørgemåde.
+previewText: Øv endelser i spørgemåde.
 onPageTitle: Øv endelser
-onPageDescription: Bøj ordene fra læseøvelsen i fremsætte- og spørgemåde.
+onPageDescription: Bøj ordene fra læseøvelsen i spørgemåde.
 linkText: Start øvelsen
 ---
 
@@ -24,21 +24,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-## Bøj ordet "angerlarput" i <u>fremsætte</u>måde
-<multi-input data-labels="Uanga, Illit, Una, Uagut, Ilissi, Uku" data-validation="angerlarpunga, angerlarputit, angerlarpoq, angerlarpugut, angerlarpusi, angerlarput"></multi-input>
-<feedback-message data-content="Angerlarput betyder: De tager hjem"></feedback-message>
-{% endexerciseItem %}
-
-{% exerciseItem %}
-
 ## Bøj ordet "annilaangalerput" i <u>spørge</u>måde
 <multi-input data-labels="Uanga, Illit, Una, Uagut, Ilissi, Uku" data-validation="annilaangalerpunga, annilaangalerpit, annilaangalerpa, annilaangalerpugut, annilaangalerpisi, annilaangalerpat"></multi-input>
 <feedback-message data-content="Annilaangalerput betyder: De blev bekymret"></feedback-message>
-{% endexerciseItem %}
-
-{% exerciseItem %}
-
-## Bøj ordet "guutisiorfimmiippoq" i <u>fremsætte</u>måde
-<multi-input data-labels="Uanga, Illit, Una, Uagut, Ilissi, Uku" data-validation="guutisiorfimmiippunga, guutisiorfimmiipputit, guutisiorfimmiippoq, guutisiorfimmiippugut, guutisiorfimmiippusi, guutisiorfimmiipput"></multi-input>
-<feedback-message data-content="Guutisiorfimmiippoq betyder: Han er i templet"></feedback-message>
 {% endexerciseItem %}

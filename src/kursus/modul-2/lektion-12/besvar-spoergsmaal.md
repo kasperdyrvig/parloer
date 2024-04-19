@@ -72,7 +72,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-<>
+
 ## Sumi sulisarpit?
 <single-input data-label="Akiuk" ></single-input>
 <feedback-message data-content="Spørgsmålet kan oversættes: Hvor arbejder du?"></feedback-message>

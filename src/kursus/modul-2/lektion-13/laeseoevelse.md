@@ -14,14 +14,14 @@ linkText: Start øvelsen
 Jiisusi maani nunarsuarmi inunngorpoq. Angajoqqaaqarpoq, Juuserfimik Mariiamillu ateqarput. Jerusalemmimit angerlarput, Juuserfilli Mariiallu Jiisusi tammaavaat. Nanisinnaanngilaat, taamaattumik annilaangalerput. Jiisusili Jehova asagamiuk guutisiorfimmiippoq. Jiisusi angajoqqaaminnut naalattuaannarpoq.
 
 Gloser:
-inunngorpoq = han bliver født
-angajoqqaat = forældre
-angerlarpoq = han tager hjem
-tammaavaat = de kan ikke finde ham
-nanisinnaanngilaat = de kan ikke finde ham
-annilaangalerput = de blev bekymret
-guutisiorfimmiippoq = han er i templet
-naalattuaannarpoq = han er altid lydig
+<br>inunngorpoq = han bliver født
+<br>angajoqqaat = forældre
+<br>angerlarpoq = han tager hjem
+<br>tammaavaat = de kan ikke finde ham
+<br>nanisinnaanngilaat = de kan ikke finde ham
+<br>annilaangalerput = de blev bekymret
+<br>guutisiorfimmiippoq = han er i templet
+<br>naalattuaannarpoq = han er altid lydig
 
 <multi-choice data-label="Oqaluttuaq paasiviuk?" data-type="radio" data-random="false" data-options="Aap, Naamik, Immannguaq" ></multi-choice>
 <single-input data-label="Jiisusip angajoqqaavi qanoq ateqarpat?" ></single-input>

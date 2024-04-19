@@ -12,11 +12,11 @@ onPageTitle: Til læreren
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier og hvis der er nogle hyppige fejl.
 
-15 min: **Spørgemåde.** Mange tilhæng og endelser starter med enten T eller S - T efter konsonant og S efter vokal.
-
+15 min: **Spørgemåde.**
+- Hvordan stiller man spørgsmål på grønlandsk?
 - Gennemgå de 6 endelser i spørgemåde og skriv dem på skemaet med personer fra lektion 10, som du har gjort klar på forhånd.
 - Arbejd sammen om at sætte de forskellige endelser på sinip-.
-- Hav et A4-ark for hver personsendelse.
+- Hav et A4-ark for hver personendelse.
     - Øv endelserne ved at sige en stamme og vis et af arkene og lad kursisterne sige hele ordet.
 - Eller: Giv hver af kursisterne et af A4-arkene.
     - Sig forskellige ord og lad dem række skiltet op hvis det er 'deres endelse'.
@@ -31,7 +31,7 @@ onPageTitle: Til læreren
 
 15 min: **Samtaleøvelse.**
 
-- Vis listen Forslag til spørgsmål.
+- Vis listen [Forslag til spørgsmål](/kursus/modul-2/parloer/spoergsmaal).
 - Kursisterne skal bruge den og evt egne spørgsmål til at gå rundt i 10 min og snakke med hinanden og indhente oplysninger.
     - De skal svare i hele sætninger.
 - Lyt til de forskellige samtaler og hold øje med hvem der snakker med hinanden.
@@ -53,5 +53,4 @@ onPageTitle: Til læreren
 - *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 266 § 7.9 (Spørgsmål)
 - *Erinarsuutikka,* s. 49 (Kulloq illit)
 - *Qiimalluni nuan’* track 10 (Melodi til Kulloq illit)
-- Grammatik > Udsagnsord uden genstandsled
-- Endelser
+- [Endelser](https://parloer.kasperdyrvig.dk/mere/udsagnsordsendelser/?f=false&d=false&h=false&n=false&l=false&o=false&s=true&b=false&fjerdeperson=false&nngit=all&transitivitet=intransitiv)

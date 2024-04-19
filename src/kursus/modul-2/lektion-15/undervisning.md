@@ -53,8 +53,7 @@ onPageTitle: Til læreren
 - Ugens guldkorn: Greenlandic-English Dictionary (2018)
 - Lektier:
     - **Mundtlig:** Oversæt og øv rollespil 2-og-2.
-    - **Skriftlig:** Tilhænget +fik del 1 og del 2.
-    - Skriv også hvilke emner du gerne vil have repeteret i den sidste lektion.
+    - **Skriftlig:** Tilhænget +fik del 1 (del 2 er valgfri).
     - Læs intro til næste lektion.
 
 **Links/ressourcer:**

@@ -5,8 +5,8 @@ onPageTitle: Til selvstudie
 ---
 
 **Lydregel: I/E & U/O**
-E er en variant af I. E står *altid* foran R eller Q, I står *aldrig* foran R eller Q.
-O er en variant af U. O står *altid* foran R eller Q, U står *aldrig* foran R eller Q.
+<br>E er en variant af I. E står *altid* foran R eller Q, I står *aldrig* foran R eller Q.
+<br>O er en variant af U. O står *altid* foran R eller Q, U står *aldrig* foran R eller Q.
 
 **Lær mere:** 
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 16 (retskrivningsregel 1)
@@ -14,8 +14,8 @@ O er en variant af U. O står *altid* foran R eller Q, U står *aldrig* foran R 
 - O og E foran R og Q
 
 **Lydregel: Assimilation af konsonanter**
-K1+K2 > K2K2. Når to konsonanter støder sammen bliver den første konsonant assimileret til den sidste. Fx: k+p>pp. (Gælder ikke ng og ts)
-R bliver ikke assimileret på skrift, men i udtalen bliver konsonanten fordoblet og vi kan kun høre R på vokalen. Q assimileres til R, fx: erneq+mi > ernermi.
+<br>K1+K2 > K2K2. Når to konsonanter støder sammen bliver den første konsonant assimileret til den sidste. Fx: k+m>mm. Nuu<u>k</u>+mi>Nuu<u>m</u>mi (Gælder ikke ng og ts)
+<br>R bliver ikke assimileret på skrift, men i udtalen bliver konsonanten fordoblet og vi kan kun høre R på vokalen. Q assimileres til R, fx: erneq+mi > ernermi.
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 27 (assimilation)

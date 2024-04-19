@@ -5,11 +5,11 @@ onPageTitle: Til selvstudie
 ---
 
 **Tilhæng** (affikser) tilføjer betydning til stammen. Tilhæng kan deles op i forskellige kategorier:
-n-v (sættes på navneord/nomen og bliver til udsagnsord/verbum)
-n-n (sættes på navneord/nomen og forbliver det samme)
-v-v (sættes på udsagnsord/verbum og bliver til navneord/nomen)
-v-n (sættes på udsagnsord/verbum og forbliver det samme)
-Man kan også dele tilhæng op i **plustilhæng** (se lektion 15) og **minustilhæng,** som spiser den sidste konsonant og sætter sig til vokalen.
+<br>n-v (sættes på navneord/nomen og bliver til udsagnsord/verbum)
+<br>n-n (sættes på navneord/nomen og forbliver det samme)
+<br>v-v (sættes på udsagnsord/verbum og bliver til navneord/nomen)
+<br>v-n (sættes på udsagnsord/verbum og forbliver det samme)
+<br>Man kan også dele tilhæng op i **plustilhæng** (se [lektion 15](/kursus/modul-2/lektion-15)) og **minustilhæng,** som spiser den sidste konsonant og sætter sig til vokalen.
 
 **Lær mere:**
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 219-223 (Affikser)

@@ -5,9 +5,11 @@ onPageTitle: Til selvstudie
 ---
 
 **Tilhænget -nngit-, v-v**
-Betydning: ikke. Sættes på udsagnsord (verbum) og forbliver det samme. Når tilhænget står lige foran endelsen bliver udsagnsmærket -vu- skiftet ud med -la-, så endelserne i fremsættemåde bliver: -langa, -latit, -laq, -lagut, -lasi, -llat, endelserne i spørgemåde er præcis de samme, eneste forskel er at man siger -la? ved 3. ps. ental i stedet for -laq.
+Betydning: ikke. Sættes på udsagnsord (verbum) og forbliver det samme.
+<br>Når tilhænget står lige foran endelsen bliver udsagnsmærket -vu- skiftet ud med -la-. Endelserne i spørgemåde er præcis de samme, eneste forskel er at man siger -la? ved 3. ps. ental i stedet for -laq.
 
 **Lær mere:**
+- [Skema over endelser](https://parloer.kasperdyrvig.dk/mere/udsagnsordsendelser/?f=true&d=false&h=false&n=false&l=false&o=false&s=true&b=false&fjerdeperson=false&nngit=negative&transitivitet=intransitiv)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 251 (Affiksliste -nngilaq)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 54 (Skema 5: endelser på -nngilaq)
 - *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 4.2](https://learngreenlandic.com/online/lg2/4.2/): 03:05-09:10
