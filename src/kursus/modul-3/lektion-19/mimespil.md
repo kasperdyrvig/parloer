@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Mimespil
 metaTitle: Prompter til mimespil | Ekstramateriale til lektion 19
 partOfLesson: 19
 ---

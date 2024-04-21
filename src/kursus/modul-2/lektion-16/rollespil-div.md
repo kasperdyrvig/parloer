@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Ekstra rollespil
 metaTitle: Ekstra rollespil | Ekstramateriale til lektion 15
 ---
 

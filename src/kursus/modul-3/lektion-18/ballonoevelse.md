@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Ballonøvelse
 metaTitle: Ballonøvelse | Ekstramateriale til lektion 18
 ---
 

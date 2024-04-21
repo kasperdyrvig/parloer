@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Rollespil 1
 metaTitle: Rollespil - Genbesøg der inviterer indenfor (2) | Ekstramateriale til lektion 15
 partOfLesson: 16
 ---

@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Transitiv eller ej?
 metaTitle: Er den transitiv eller ej? | Ekstramateriale til lektion 22
 partOfLesson: 22
 ---

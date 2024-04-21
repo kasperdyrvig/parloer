@@ -37,6 +37,19 @@ metaTitle: Lektion
         </div>
 
         <div class="mb-lg hide-if-list-empty">
+            <h3 class="mb-sm">Ekstramateriale</h3>
+            <ul class="list-group nav-list-group">
+            {% for extrapages in collections.extrapage %}
+                {% if extrapages.data.partOfLesson == lessonNo %}
+                    <li class="list-group-item d-flex">
+                        <a href="{{extrapages.url | url}}">{{extrapages.data.onPageTitle}}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+
+        <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Guldkorn</h2>
             <ul class="list-group nav-list-group">
             {% for gem in collections.gems %}

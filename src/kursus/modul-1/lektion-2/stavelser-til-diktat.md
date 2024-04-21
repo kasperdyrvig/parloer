@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Typiske stavelser
 metaTitle: Typiske stavelser | Diktat til lektion 2
 ---
 # Typiske stavelser til diktat

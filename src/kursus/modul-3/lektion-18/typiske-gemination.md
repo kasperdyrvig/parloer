@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Typiske geminationer
 metaTitle: Typiske geminationer | Ekstramateriale til lektion 18
 ---
 

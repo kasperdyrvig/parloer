@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Rollespil 2
 metaTitle: Rollespil - På studium (3) | Ekstramateriale til lektion 15
 partOfLesson: 16
 ---

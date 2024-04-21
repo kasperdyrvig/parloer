@@ -1,5 +1,7 @@
 ---
 layout: lessontextpage
+tags: extrapage
+onPageTitle: Navne- eller ledsagemåde?
 metaTitle: Navne- eller ledsagemåde? | Ekstramateriale til lektion 29
 partOfLesson: 29
 ---
