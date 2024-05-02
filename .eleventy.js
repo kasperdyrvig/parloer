@@ -14,6 +14,10 @@ module.exports = function (eleventyConfig) {
   }
   
   // Shortcodes
+  eleventyConfig.addShortcode("videoPlayer", function (videoUrl) {
+    return `<div class="video-wrapper"><video controls><source src="/assets/video/` + videoUrl + `" type="video/mp4"></video></div>`;
+  });
+
   eleventyConfig.addPairedShortcode("exerciseItem", function (exerciseContent) {
     const id = uuidv4();
     return `<div class="exercise-item" id="`+ id +`"><form id="`+ id +`f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;

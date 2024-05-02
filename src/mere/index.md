@@ -5,7 +5,7 @@ metaTitle: Mere om grønlandsk
 # Mere om grønlandsk
 
 - [Tips til at lære grønlandsk]({{'/mere/tips/' | url}})
-- Videoer
+- [Videoer](/mere/videoer/)
 
 ## Skemaer
 
