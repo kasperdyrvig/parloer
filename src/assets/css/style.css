@@ -140,6 +140,8 @@ button, input {font-family: inherit; transition: color ease .2s;}
 .btn-yellow {background-color: var(--color-yellow-500); color: var(--color-black);}
     .btn-yellow:not(disabled):hover {background-color: var(--color-yellow-700); color: var(--color-black);}
 .btn:disabled{opacity: .8;}
+.btn-search{padding: var(--spacing-medium); border-radius: .75rem; aspect-ratio: 1 / 1; margin: 0 var(--spacing-small) var(--spacing-large); text-align: center;}
+.fab-search{position: fixed; bottom: calc(var(--spacing-medium) + 77px); right: var(--spacing-medium); padding: var(--spacing-medium); box-shadow: rgba(0, 0, 0, .25) 0 0.2rem 3px 0, rgba(0, 0, 0, .25) 0 0.1rem 4px 0; border-radius: .75rem; aspect-ratio: 1 / 1;}
 .fs-lg {font-size: var(--size-x-large);}
 .fs-sm {font-size: var(--size-x-small);}
 
@@ -164,10 +166,12 @@ body > nav {position: fixed; background-color: var(--color-red-500); z-index: 10
 @media (max-width: 899px) {
     body:has(> nav) {padding-bottom: 5rem;}
     body > nav {inset: auto 0 0 0; justify-content: space-around; padding: 12px 0 4px;}
+    .btn-search {display: none;}
 }
 @media (min-width: 900px) {
     body:has(> nav) {margin-left: 5rem;}
     body > nav {padding-top: 1rem; inset: 0 auto 0 0; flex-direction: column; width: 5rem;}
+    .fab-search {display: none;}
 }
 .navigation-item {display: flex; flex-direction: column; align-items: center; text-decoration: none; color: var(--color-red-100); margin: 0 4px 12px;}
 .navigation-item:hover {color: var(--color-white);}
