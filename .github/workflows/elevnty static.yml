@@ -44,6 +44,7 @@ jobs:
         with:
           # Upload entire repository
           path: './public'
+      - run: npx -y pagefind --site public
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
