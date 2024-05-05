@@ -63,8 +63,8 @@
 
     --appbackground: var(--color-gray-100);
     --base-font-size: var(--size-medium);
-    --border-radius: 4px;
-    --border-radius-large: 10px;
+    --border-radius: .75rem;
+    --border-radius-large: 1rem;
     --font-color: var(--color-blue-900);
     --app-header-height: 60px;
     --app-max-width: 800px;
@@ -95,15 +95,8 @@ tr.byde td {background-color: var(--color-yellow-100);}
 tr.spoerge td {background-color: var(--color-gray-300);}
 tr.oenske td {background-color: var(--color-blue-100);}
 
-html {height: -webkit-fill-available; scroll-padding-top: 2rem;}
-body {margin: 0; font-family: system-ui; background-color: var(--appbackground); font-size: var(--base-font-size);
-    min-height: 100vh; min-height: -webkit-fill-available; display: grid; grid-template-rows: auto 1fr; color: var(--font-color);
-}
-body > header {display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: var(--spacing-x-small);
-    position: sticky; top: 0; z-index: 100; height: var(--app-header-height); box-shadow: 0 0 20px 0 rgba(0,0,0,.25);
-    background-color: var(--color-white); border-radius: 0 0 var(--border-radius-large) var(--border-radius-large); 
-}
-body > main {height: 100%; width: 100%; max-width: var(--app-max-width); margin-left: auto; margin-right: auto; display: flex; flex-direction: column;}
+body {margin: 0; font-family: system-ui; background-color: var(--appbackground); font-size: var(--base-font-size); color: var(--font-color);}
+body > main {width: 100%; max-width: var(--app-max-width); margin-left: auto; margin-right: auto;}
 body > main.fluid {max-width: none;}
 body > main > section {flex-grow: 1; padding: var(--spacing-medium); display: flex; flex-direction: column;}
 body > main > footer {padding: var(--spacing-medium); display: flex; justify-content: space-between; align-items: center;}
@@ -252,9 +245,10 @@ a.list-group-item {text-decoration: none;}
 .quiz-correct {background-color: var(--color-green-500);}
     .quiz-wrong .word-greenlandic, .quiz-correct .word-greenlandic {color: var(--color-white) !important;}
 
+.gameheader {display: flex; align-items: center; gap: 1rem; padding: 1rem;}
 .gamepanel {display: grid; grid-template-rows: 1fr auto; gap: var(--spacing-medium);}
 .gamepanel-body {display: flex; flex-direction: column; /*justify-content: center;*/ gap: var(--spacing-large);}
-.gamepanel-meter {appearance: none; width: 100%; height: 1rem; background-color: var(--color-white); border: 0; accent-color: var(--color-green-500); border-radius: 1rem; overflow: hidden;}
+.gamepanel-meter {appearance: none; display: block; flex-grow: 1; width: 100%; height: .75rem; background-color: var(--color-white); border: 0; accent-color: var(--color-green-500); border-radius: 1rem; overflow: hidden;}
     .gamepanel-meter::-webkit-progress-bar {background-color: var(--color-white);}
     .gamepanel-meter::-webkit-progress-value {background-color: var(--color-green-500);}
     .gamepanel-meter::-moz-progress-bar {background-color: var(--color-green-500);}
@@ -262,9 +256,8 @@ a.list-group-item {text-decoration: none;}
 .gamepanel-body img {max-width: 100%;}
 .exercise-item:not(.active){display: none;}
 .exercise-image-container > img {max-width: 100%;}
-.response {position: fixed; bottom: 0; width: 100%; max-width: var(--app-max-width); padding: var(--spacing-medium); margin-left: calc(var(--spacing-medium) * -1);
-    display: flex; flex-direction: column; gap: var(--spacing-small); box-shadow: 0 0 10px 0 rgba(0,0,0,.1); background-color: var(--color-white);
-    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+.response {position: sticky; bottom: 0; padding: var(--spacing-medium); display: flex; flex-direction: column; gap: var(--spacing-small); 
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.1); background-color: var(--color-white); border-radius: var(--border-radius-large);
 }
 .response > p {margin: var(--spacing-2x-small); font-size: var(--size-large);}
 .response-text:empty {display: none;}

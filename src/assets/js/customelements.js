@@ -310,6 +310,7 @@ class customAudioPlayer extends HTMLElement {
         playButton.setAttribute("data-playing", false);
         playButton.setAttribute("title", "Sig højt");
         playButton.setAttribute("type", "button");
+        playButton.textContent = "🔊";
 
         const audioEl = document.createElement("audio");
         audioEl.setAttribute("src", "/assets/audio/" + this.dataset.file);
