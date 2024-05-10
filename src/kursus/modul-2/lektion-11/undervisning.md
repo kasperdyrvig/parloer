@@ -19,7 +19,7 @@ onPageTitle: Til læreren
 
 15 min: **Spørgeord.** Gennemgå spørgeordene og giv et eksempel på en sætning med hver af dem.
 
-10 min: **Følelser**
+15 min: **Følelser**
 
 - Gennemgå ordene for følelser.
 - Se videoen Følelser.

@@ -12,7 +12,7 @@ linkText: Start øvelsen
 
 ## qaqugu
 <multi-choice data-label="Qanoq isumaqarpa?" data-type="radio" data-random="true" data-options="hvornår (fremtid), hvordan, hvorfor" data-validation="1"></multi-choice>
-<feedback-message data-content="Qaqugu betyder hvornår (når man spørger til noget i fremtiden)></feedback-message>
+<feedback-message data-content="Qaqugu betyder hvornår (når man spørger til noget i fremtiden)"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
