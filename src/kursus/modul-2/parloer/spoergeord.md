@@ -1,6 +1,6 @@
 ---
 layout: phraselist
-metaTitle: Spørgsord
+metaTitle: Spørgeord
 getCollection: module-2-questionwords
 tags: modul-2-phases
 ---
