@@ -11,7 +11,7 @@ linkText: Start øvelsen
 {% exerciseItem %}
 
 ## Læs teksten og besvar spørgsmålene
-Jiisusi maani nunarsuarmi inunngorpoq. Angajoqqaaqarpoq, Juuserfimik Mariiamillu ateqarput. Jerusalemmimit angerlarput, Juuserfilli Mariiallu Jiisusi tammaavaat. Nanisinnaanngilaat, taamaattumik annilaangalerput. Jiisusili Jehova asagamiuk guutisiorfimmiippoq. Jiisusi angajoqqaaminnut naalattuaannarpoq.
+Jiisusi maani nunarsuarmi inunngorpoq. Angajoqqaaqarpoq, Juuserfimik Mariiamillu ateqarput. Jerusalemmimit angerlarput, Juuserfilli Mariiallu Jiisusi tammaavaat. Nanisinnaanngilaat, taamaattumik annilaangalerput. Jiisusili Jehova asagamiuk guutisiorfimmiippoq. Jiisusi angajoqqaaminnut naalattuaannarpoq. 
 
 Gloser:
 <br>inunngorpoq = han bliver født
