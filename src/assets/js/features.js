@@ -135,3 +135,93 @@ function clearFavorites() {
         }
     }
 }
+
+
+//Show lessons completed in list
+document.querySelectorAll(".lessonList > a").forEach(lessonLink => {
+    const lessonNo = lessonLink.dataset.lessonnumber;
+    console.log(lessonLink.dataset.lessonnumber);
+    let currentLesson = -1;
+    if(window.localStorage){
+        //Get existing lesson dates
+        let lessonDateArray = [];
+        lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
+
+        //Find current lesson
+        for (let index = 0; index < lessonDateArray.length; index++) {
+            if(lessonDateArray[index].number == lessonNo) {
+                currentLesson = index;
+                break;
+            }
+        }
+
+        if (currentLesson > -1) {
+            lessonLink.classList.add("lessonCompleted");
+        }
+    }
+});
+
+
+//Show lesson completed date
+document.querySelectorAll("#completedDate").forEach(lessonDateViewer => {
+    const lessonNo = document.querySelector("#lesson").value;
+    let currentLesson = -1;
+    if(window.localStorage){
+        //Get existing lesson dates
+        let lessonDateArray = [];
+        lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
+
+        //Find current lesson
+        for (let index = 0; index < lessonDateArray.length; index++) {
+            if(lessonDateArray[index].number == lessonNo) {
+                currentLesson = index;
+                break;
+            }
+        }
+
+        if (currentLesson > -1) {
+            lessonDateViewer.value = lessonDateArray[currentLesson].date;
+        }
+    }
+});
+
+//Store lesson completed
+document.querySelector("#completedDate").addEventListener("change", function() {
+    const lessonDate = this.value;
+    const lessonNo = document.querySelector("#lesson").value;
+    console.log(lessonNo, lessonDate);
+
+    if(window.localStorage){
+        //Get existing favorites (or create a new set)
+        let lessonDateArray = [];
+        let alreadyAdded = -1;
+        if(localStorage.getItem("lessons") == null) {
+            localStorage.setItem("lessons", JSON.stringify(lessonDateArray));
+        }
+        lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
+
+        //Check if the selected item already exists in the lessonDateArray
+        for (let index = 0; index < lessonDateArray.length; index++) {
+            if(lessonDateArray[index].number == lessonNo) {
+                alreadyAdded = index;
+                break;
+            }
+        }
+        
+        //Remove if added earlier
+        if(alreadyAdded != -1) {
+            lessonDateArray.splice(alreadyAdded, 1);
+        }
+
+        //Add the new item
+        const newItem = {
+            number: lessonNo, 
+            date: lessonDate
+        };
+        lessonDateArray.push(newItem);
+
+        //Save favorites
+        localStorage.setItem("lessons", JSON.stringify(lessonDateArray));
+    }
+
+});

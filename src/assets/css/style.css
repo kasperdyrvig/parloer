@@ -454,3 +454,5 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 .hide-if-details-empty:has(summary:only-child) {display: none;}
 
 .inline-label {background-color: var(--color-green-100); color: var(--color-green-900); font-weight: bold; padding: .25em; border-radius: 2em; text-transform: uppercase; font-size: var(--size-x-small);}
+
+.lessonList > a:not(.lessonCompleted) > span {display: none;}
