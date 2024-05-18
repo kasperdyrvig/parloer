@@ -140,7 +140,7 @@ function clearFavorites() {
 //Show lessons completed in list
 document.querySelectorAll(".lessonList > a").forEach(lessonLink => {
     if(window.localStorage){
-        if(localStorage.getItem("lessons") == null) {
+        if(localStorage.getItem("lessons") != null) {
             const lessonNo = lessonLink.dataset.lessonnumber;
             console.log(lessonLink.dataset.lessonnumber);
             let currentLesson = -1;
@@ -168,7 +168,7 @@ document.querySelectorAll(".lessonList > a").forEach(lessonLink => {
 //Show lesson completed date
 document.querySelectorAll("#completedDate").forEach(lessonDateViewer => {
     if(window.localStorage){
-        if(localStorage.getItem("lessons") == null) {
+        if(localStorage.getItem("lessons") != null) {
             const lessonNo = document.querySelector("#lesson").value;
             let currentLesson = -1;
 
