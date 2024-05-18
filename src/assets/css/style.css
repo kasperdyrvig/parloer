@@ -67,7 +67,7 @@
     --border-radius-large: 1rem;
     --font-color: var(--color-blue-900);
     --app-header-height: 60px;
-    --app-max-width: 800px;
+    --app-max-width: 85ch;
 }
 
 * {-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
@@ -102,7 +102,7 @@ body > main > section {flex-grow: 1; padding: var(--spacing-medium); display: fl
 body > main > footer {padding: var(--spacing-medium); display: flex; justify-content: space-between; align-items: center;}
 h1, h2, h3, h4, h5, h6 {margin: 0;}
 h1, h2, h3, h4, h5, h6, strong, b {font-weight: 600;}
-p, ul, ol {max-width: 70ch; line-height: 1.5;}
+p, ul, ol {line-height: 1.5;}
 p + ul {margin-top: -1em;}
 a {color: var(--color-blue-500); transition: color ease .2s;}
 a:hover {color: var(--color-blue-700);}
@@ -456,3 +456,4 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 .inline-label {background-color: var(--color-green-100); color: var(--color-green-900); font-weight: bold; padding: .25em; border-radius: 2em; text-transform: uppercase; font-size: var(--size-x-small);}
 
 .lessonList > a:not(.lessonCompleted) > span {display: none;}
+.lessonList > a.lessonCompleted > span {color: var(--color-green-700);}

@@ -8,7 +8,7 @@ layout: standard
 <h2 class="mt-lg mb-sm">Lektioner</h2>
 <div class="list-group nav-list-group lessonList">
     {%- for lesson in collections[getLessonsOf] | sort(false, false, 'data.lessonNo') %}
-    <a class="list-group-item" href="{{lesson.url | url}}" data-lessonnumber="{{lesson.data.lessonNo}}">{{lesson.data.metaTitle}} <span>&#9745;</span></a>
+    <a class="list-group-item" href="{{lesson.url | url}}" data-lessonnumber="{{lesson.data.lessonNo}}">{{lesson.data.metaTitle}} <span>✔</span></a>
     {%- endfor %}
 </div>
 

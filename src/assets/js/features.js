@@ -137,96 +137,45 @@ function clearFavorites() {
 }
 
 
-//Show lessons completed in list
-document.querySelectorAll(".lessonList > a").forEach(lessonLink => {
-    if(window.localStorage){
-        if(localStorage.getItem("lessons") != null) {
-            const lessonNo = lessonLink.dataset.lessonnumber;
-            console.log(lessonLink.dataset.lessonnumber);
-            let currentLesson = -1;
-
-            //Get existing lesson dates
-            let lessonDateArray = [];
-            lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
-
-            //Find current lesson
-            for (let index = 0; index < lessonDateArray.length; index++) {
-                if(lessonDateArray[index].number == lessonNo) {
-                    currentLesson = index;
-                    break;
-                }
-            }
-
-            if (currentLesson > -1) {
-                lessonLink.classList.add("lessonCompleted");
-            }
-        }
-    }
-});
-
-
-//Show lesson completed date
-document.querySelectorAll("#completedDate").forEach(lessonDateViewer => {
-    if(window.localStorage){
-        if(localStorage.getItem("lessons") != null) {
-            const lessonNo = document.querySelector("#lesson").value;
-            let currentLesson = -1;
-
-            //Get existing lesson dates
-            let lessonDateArray = [];
-            lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
-
-            //Find current lesson
-            for (let index = 0; index < lessonDateArray.length; index++) {
-                if(lessonDateArray[index].number == lessonNo) {
-                    currentLesson = index;
-                    break;
-                }
-            }
-
-            if (currentLesson > -1) {
-                lessonDateViewer.value = lessonDateArray[currentLesson].date;
-            }
-        }
-    }
-});
-
-//Store lesson completed
-document.querySelector("#completedDate").addEventListener("change", function() {
-    if(window.localStorage){
-        const lessonDate = this.value;
-        const lessonNo = document.querySelector("#lesson").value;
-
-        //Get existing favorites (or create a new set)
-        let lessonDateArray = [];
-        let alreadyAdded = -1;
-        if(localStorage.getItem("lessons") == null) {
-            localStorage.setItem("lessons", JSON.stringify(lessonDateArray));
-        }
-        lessonDateArray = JSON.parse(localStorage.getItem("lessons"));
-
-        //Check if the selected item already exists in the lessonDateArray
-        for (let index = 0; index < lessonDateArray.length; index++) {
-            if(lessonDateArray[index].number == lessonNo) {
-                alreadyAdded = index;
-                break;
-            }
-        }
-        
-        //Remove if added earlier
-        if(alreadyAdded != -1) {
-            lessonDateArray.splice(alreadyAdded, 1);
-        }
-
-        //Add the new item
-        const newItem = {
-            number: lessonNo, 
-            date: lessonDate
-        };
-        lessonDateArray.push(newItem);
-
-        //Save favorites
-        localStorage.setItem("lessons", JSON.stringify(lessonDateArray));
+document.addEventListener("DOMContentLoaded", function() {
+    if (!window.localStorage) {
+        return;
     }
 
+    // Storing and showing lessons completed
+    const lessonDateObject = JSON.parse(localStorage.getItem("lessons")) || {};
+
+    // Show lessons completed in list
+    document.querySelectorAll(".lessonList > a").forEach(lessonLink => {
+        const lessonNo = lessonLink.dataset.lessonnumber;
+
+        // Check if the lesson number exists in the stored lessons
+        if (lessonDateObject.hasOwnProperty(lessonNo)) {
+            lessonLink.classList.add("lessonCompleted");
+        }
+    });
+
+    // Store lesson completed
+    const completedDateElement = document.querySelector("#completedDate");
+    const lessonElement = document.querySelector("#lesson");
+
+    // Check if elements exist before adding event listeners
+    if (completedDateElement && lessonElement) {
+        const lessonNo = lessonElement.value;
+
+        completedDateElement.addEventListener("change", function() {
+            const lessonDate = this.value;
+
+            // Add or update the lesson
+            lessonDateObject[lessonNo] = lessonDate;
+
+            // Save updated lessons
+            localStorage.setItem("lessons", JSON.stringify(lessonDateObject));
+        });
+
+        // Show date if lesson is already completed
+        if (lessonDateObject.hasOwnProperty(lessonNo)) {
+            completedDateElement.value = lessonDateObject[lessonNo];
+        }
+    }
 });

@@ -2,7 +2,10 @@
 layout: standard
 metaTitle: Lektion
 ---
-<p><a href="../" class="btn btn-small btn-white btn-inline"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/></svg> Tilbage</a></p>
+<div style="display: flex; justify-content: space-between;">
+    {% backButton %}
+    <p><a class="btn btn-small btn-yellow btn-inline" href="../parloer">Støttesætninger</a></p>
+</div>
 
 <h1 class="my-4">{{onPageTitle}}</h1>
 
@@ -13,7 +16,23 @@ metaTitle: Lektion
 
 <div class="tab-content">
     <div class="tab-pane active" role="tabpanel" tabindex="0" id="student" aria-labelledby="student-tab">
-        <div class="mb-lg">{{content | safe}}</div>
+        <div class="mb-lg">
+            {{content | safe}}
+
+            <div class="hide-if-list-empty">
+                <p class="mb-lg"><strong>Ekstramateriale:</strong></p>
+                <ul>
+                {% for extrapages in collections.extrapage %}
+                    {% if extrapages.data.partOfLesson == lessonNo %}
+                        <li>
+                            <a href="{{extrapages.url | url}}">{{extrapages.data.onPageTitle}}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+
 
         <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Brug det du har lært</h2>
@@ -37,19 +56,6 @@ metaTitle: Lektion
         </div>
 
         <div class="mb-lg hide-if-list-empty">
-            <h3 class="mb-sm">Ekstramateriale</h3>
-            <ul class="list-group nav-list-group">
-            {% for extrapages in collections.extrapage %}
-                {% if extrapages.data.partOfLesson == lessonNo %}
-                    <li class="list-group-item d-flex">
-                        <a href="{{extrapages.url | url}}">{{extrapages.data.onPageTitle}}</a>
-                    </li>
-                {% endif %}
-            {% endfor %}
-            </ul>
-        </div>
-
-        <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Guldkorn</h2>
             <ul class="list-group nav-list-group">
             {% for gem in collections.gems %}
@@ -63,6 +69,14 @@ metaTitle: Lektion
             </ul>
         </div>
 
+        <form class="mb-lg">
+            <div class="form-group">
+                <label class="form-label" for="completedDate">Lektion gennemført</label>
+                <input class="form-input" type="date" id="completedDate" onFocus="this.showPicker()">
+                <input type="hidden" id="lesson" value="{{lessonNo}}">
+            </div>
+        </form>
+
         <details class="mb-lg hide-if-details-empty">
             <summary>Til selvstudie</summary>
             {% for studynote in collections.studynotes %}
@@ -71,14 +85,6 @@ metaTitle: Lektion
                 {% endif %}
             {% endfor %}
         </details>
-
-        <form>
-            <div class="form-group">
-                <label class="form-label" for="completedDate">Lektion gennemført</label>
-                <input class="form-input" type="date" id="completedDate" onFocus="this.showPicker()">
-                <input type="hidden" id="lesson" value="{{lessonNo}}">
-            </div>
-        </form>
     </div>
 
     <div class="tab-pane" role="tabpanel" tabindex="0" id="teacher" aria-labelledby="teacher-tab">
