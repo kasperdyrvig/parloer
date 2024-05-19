@@ -5,11 +5,24 @@ function setPlaybackRate(input) {
 }
 
 //Listen for clicks on play buttons
-document.querySelectorAll("button.play-button").forEach(playButton => {
+document.querySelectorAll(".audio > button.play-button").forEach(playButton => {
     playButton.addEventListener("click", event => {
-        const audioElement = playButton.parentElement.parentElement.querySelector("audio");
+        const audioElement = playButton.closest("div").querySelector("audio");
         audioElement.playbackRate = userSettingPlaySpeed;
-        if (playButton.dataset.playing === "false") {
+        if (audioElement.paused) {
+            audioElement.play();
+            playButton.dataset.playing = "true";
+        }
+    });
+});
+
+//Listen for playback request in phrases
+document.querySelectorAll(".phrase-body:has(.play-button)").forEach(phraseBody => {
+    phraseBody.addEventListener("click", event => {
+        const playButton = phraseBody.closest(".phrase-item").querySelector(".play-button");
+        const audioElement = phraseBody.closest(".phrase-item").querySelector("audio");
+        audioElement.playbackRate = userSettingPlaySpeed;
+        if (audioElement.paused) {
             audioElement.play();
             playButton.dataset.playing = "true";
         }
@@ -19,7 +32,7 @@ document.querySelectorAll("button.play-button").forEach(playButton => {
 //When audio is done, reset playing state
 document.querySelectorAll("audio").forEach(audioElement => {
     audioElement.addEventListener("ended", () => {
-        const playButton = audioElement.parentElement.querySelector("button.play-button");
+        const playButton = audioElement.closest("div").querySelector("button.play-button");
         playButton.dataset.playing = "false";
     });
 }, false);
@@ -27,7 +40,7 @@ document.querySelectorAll("audio").forEach(audioElement => {
 //Copy phrase
 document.querySelectorAll("button.copy-button").forEach(copyButton => {
     copyButton.addEventListener("click", event => {
-        const phrase = copyButton.parentElement.parentElement.querySelector(".phrase-greenlandic").innerText;
+        const phrase = copyButton.closest(".phrase-item").querySelector(".phrase-greenlandic").innerText;
         if (phrase.length > 0) {
             navigator.clipboard.writeText(phrase).then(() => {
                 console.log("Copied text");

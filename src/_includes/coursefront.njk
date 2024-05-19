@@ -2,25 +2,37 @@
 layout: standard
 ---
 
-<h2 class="mt-lg mb-sm">Moduler</h2>
+<h1 class="my-4">{{onPageTitle}}</h1>
 
-<div class="list-group nav-list-group">
-    {%- for module in collections.module | sort(false, false, 'data.moduleNo') %}
-    <a class="list-group-item" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
-    {%- endfor %}
+<ul class="nav nav-underline border-bottom mb-4" role="tablist">
+    <li class="nav-item" role="presentation"><button class="nav-link active" id="modules-tab" data-toggle="tab" data-target="modules" aria-selected="true">Moduler</button></li>
+    <li class="nav-item" role="presentation"><button class="nav-link" id="about-tab" data-toggle="tab" data-target="about" aria-selected="false">Om kurset</button></li>
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane active" role="tabpanel" tabindex="0" id="modules" aria-labelledby="modules-tab">
+        <div class="mb-lg">
+            <div class="list-group nav-list-group">
+                {%- for module in collections.module | sort(false, false, 'data.moduleNo') %}
+                <a class="list-group-item" href="{{module.url | url}}">{{module.data.metaTitle}}</a>
+                {%- endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="tab-pane" role="tabpanel" tabindex="0" id="about" aria-labelledby="about-tab">
+        <div class="mt-sm mb-lg">
+            {{content | safe}}
+
+            <details class="mb-lg mt-lg">
+                <summary>Til læreren</summary>
+                {% for teachernote in collections.teachernotes %}
+                    {% if teachernote.data.partOfModule == moduleNo %}
+                        {{teachernote.content | safe}}
+                    {% endif %}
+                {% endfor %}
+            </details>
+        </div>
+    </div>
 </div>
-
-<div class="mt-lg mb-lg">
-{{content | safe}}
-</div>
-
-<details class="mb-lg mt-lg">
-    <summary>Til læreren</summary>
-    {% for teachernote in collections.teachernotes %}
-        {% if teachernote.data.partOfModule == moduleNo %}
-            {{teachernote.content | safe}}
-        {% endif %}
-    {% endfor %}
-</details>
 
 {% searchFab %}

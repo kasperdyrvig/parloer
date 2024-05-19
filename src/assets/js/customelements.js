@@ -274,6 +274,9 @@ class exerciseMatchPairs extends HTMLElement {
         
         wrapper.appendChild(one);
         wrapper.appendChild(two);
+        wrapper.style.display = "grid";
+        wrapper.style.gridTemplateColumns = "1fr 1fr";
+        wrapper.style.gap = "1rem";
         this.appendChild(wrapper);
         this.style.display = "contents";
     }
