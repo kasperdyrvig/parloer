@@ -14,6 +14,29 @@ module.exports = function (eleventyConfig) {
   }
   
   // Shortcodes
+  eleventyConfig.addShortcode("exerciseMultiInput", function (labelArray, validationArray) {
+    let output = `<fieldset class="multiinput">`;
+    const labels = labelArray.split(",");
+    console.log(labels)
+    labels.forEach(element => {
+      const id = uuidv4();
+      output += `<div class="form-group textinput">
+        <label for="${id}">${element}</label>
+        <input type="text" id="${id}" class="form-input" autocomplete="off" spellcheck="off">
+      </div>`;
+    });
+    output += `</fieldset>`;
+    return output;
+  });
+  
+  eleventyConfig.addShortcode("exerciseInput", function (label, validation) {
+    const id = uuidv4();
+    return `<div class="form-group textinput">
+        <label for="${id}">${label}</label>
+        <input type="text" id="${id}" autocomplete="off" spellcheck="off">
+      </div>`;
+  });
+
   eleventyConfig.addShortcode("backButton", function () {
     return `<p><a href="../" class="btn btn-small btn-white btn-inline"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-left" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/></svg> Tilbage</a></p>`;
   });

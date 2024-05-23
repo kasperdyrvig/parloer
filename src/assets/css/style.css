@@ -252,7 +252,6 @@ a.list-group-item {text-decoration: none;}
     .gamepanel-meter::-webkit-progress-bar {background-color: var(--color-white);}
     .gamepanel-meter::-webkit-progress-value {background-color: var(--color-green-500);}
     .gamepanel-meter::-moz-progress-bar {background-color: var(--color-green-500);}
-.gamepanel-body p {max-width: none;}
 .gamepanel-body img {max-width: 100%;}
 .exercise-item:not(.active){display: none;}
 .exercise-image-container > img {max-width: 100%;}

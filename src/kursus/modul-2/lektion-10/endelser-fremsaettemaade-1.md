@@ -11,8 +11,9 @@ linkText: Start øvelsen
 {% exerciseItem %}
 
 ## oqaluussi-
-<single-input data-label="Nutseruk" ></single-input>
-<multi-input data-labels="Uanga, Illit, Una, Uagut, Ilissi, Uku" data-validation="oqaluussivunga, oqaluussivutit, oqaluussivoq, oqaluussivugut, oqaluussivusi, oqaluussipput"></multi-input>
+
+{% exerciseInput "Nutseruk" %}
+{% exerciseMultiInput "Uanga, Illit, Una, Uagut, Ilissi, Uku" "oqaluussivunga, oqaluussivutit, oqaluussivoq, oqaluussivugut, oqaluussivusi, oqaluussipput" %}
 <feedback-message data-content="Oqaluussi- er en vokalstamme, derfor skal endelserne starte med V og det betyder: at forkynde"></feedback-message>
 {% endexerciseItem %}
 
