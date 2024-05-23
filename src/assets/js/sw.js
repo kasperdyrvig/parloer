@@ -2,7 +2,7 @@ const urlsToCache = [
     '.',
 ];
 
-const cacheName = 'gp20240519-1';
+const cacheName = 'gp20240523-1';
 
 self.addEventListener('install', event => {
     console.log('Install event!');
