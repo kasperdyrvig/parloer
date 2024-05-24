@@ -1,6 +1,5 @@
 ---
-tags: homework
+tags: oral
 partOfLesson: 31
 previewText: Lav et svar til mødet, hvor du bruger da/fordi-måde
-homeworkType: Mundtlig
 ---

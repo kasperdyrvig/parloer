@@ -1,6 +1,5 @@
 ---
-tags: homework
+tags: oral
 partOfLesson: 25
 previewText: Lav en aftale på grønlandsk om at arbejde sammen i forkyndelsen
-homeworkType: Mundtlig
 ---

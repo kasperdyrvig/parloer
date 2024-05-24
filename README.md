@@ -1,4 +1,15 @@
-## Input til øvelser
+# Copyright
+
+&copy; Kasper Dyrvig.
+
+All rights reserved. Do not mass distribute links to this app, like in large groups on social media. Thank you.
+
+Alle rettigheder forbeholdt. Denne app er lavet på et privat og frivilligt initiativ. Link til denne app må ikke massedistribueres, f.eks. i store grupper på sociale medier.
+
+
+# Vedligeholdelse
+
+## Input i øvelser
 
 - Knap med lyd
     ```

@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 13
+sortNumber: 3
 previewText: Øv endelser i fremsættemåde.
 onPageTitle: Øv endelser
 onPageDescription: Bøj ordene fra læseøvelsen i fremsættemåde.

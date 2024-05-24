@@ -28,7 +28,7 @@ ___
 
 Denne app er lavet på et frivilligt og privat initiativ. Den indeholder ikke reklamer og er gratis.
 
-Link til denne app må gerne gives videre til andre Jehovas Vidner, men må ikke massedistribueres, f.eks. i store grupper på sociale medier.
+Link til denne app må ikke massedistribueres, f.eks. i store grupper på sociale medier.
 
 Appen indsamler ikke brugerdata. Indstillinger som brugeren selv laver gemmes i browseren.
 

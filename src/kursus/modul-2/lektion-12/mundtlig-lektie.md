@@ -1,6 +1,5 @@
 ---
-tags: homework
+tags: oral
 partOfLesson: 12
 previewText: Brug spørgsmålet "Qanoq isumaqarpit?"
-homeworkType: Mundtlig
 ---

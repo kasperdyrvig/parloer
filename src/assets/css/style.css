@@ -322,7 +322,6 @@ a.list-group-item {text-decoration: none;}
 /*fieldset {display: flex; gap: var(--spacing-medium); border: 0; padding: 0; margin: 0; flex-wrap: wrap;}*/
 .form-group {margin-bottom: .75rem;}
 fieldset {border: 0; padding: 0; margin: 0;}
-fieldset.multiinput {}
 fieldset.multiinput > .form-group label {width: 25%; float: left;}
 fieldset.multiinput > .form-group input {width: 75%; float: left;}
 fieldset.multiinput > .form-group .response-label {clear: both;}
@@ -390,7 +389,7 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 .pairitem.disabled {background-color: var(--color-gray-100); color: var(--color-gray-700); opacity: .5;}
 
 /*Overrides for large screens*/
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 768px) {
     .video-desc {margin: 0;}
     .home-games {grid-template-columns: repeat(5, 1fr);}
     details {margin: 0;}

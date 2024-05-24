@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 13
+sortNumber: 1
 previewText: Læs teksten og svar på spørgsmål.
 onPageTitle: Læseøvelse
 onPageDescription: I denne øvelse skal du læse en tekst og svare på spørgsmål om den.

@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets");
   eleventyConfig.addPassthroughCopy("src/manifest.json");
@@ -12,7 +14,7 @@ module.exports = function (eleventyConfig) {
       return v.toString(16);
     });
   }
-  
+
   // Shortcodes
   eleventyConfig.addShortcode("exerciseMultiInput", function (labelArray, validationArray) {
     let output = `<fieldset class="multiinput">`;
@@ -55,6 +57,50 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPairedShortcode("exerciseItem", function (exerciseContent) {
     const id = uuidv4();
     return `<div class="exercise-item" id="${id}"><form id="${id}f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
+  });
+
+  // Filters
+  eleventyConfig.addFilter("relatedHomework", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("homework") && item.data.partOfLesson === lessonNumber;
+    })
+    .sort((a, b) => (a.data.sortNumber > b.data.sortNumber ? 1 : -1));
+  });
+
+  eleventyConfig.addFilter("relatedOralHomework", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("oral") && item.data.partOfLesson === lessonNumber;
+    })
+  });
+
+  eleventyConfig.addFilter("relatedGem", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("gems") && item.data.partOfLesson === lessonNumber;
+    })
+  });
+
+  eleventyConfig.addFilter("relatedExtra", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("extrapage") && item.data.partOfLesson === lessonNumber;
+    })
+  });
+
+  eleventyConfig.addFilter("lessonStudyNote", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("studynotes") && item.data.partOfLesson === lessonNumber;
+    })
+  });
+
+  eleventyConfig.addFilter("lessonTeacherNote", (collections, lessonNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("teachernotes") && item.data.partOfLesson === lessonNumber;
+    })
+  });
+
+  eleventyConfig.addFilter("moduleTeacherNote", (collections, moduleNumber) => {
+    return collections.filter(item => {
+      return item.data.tags && item.data.tags.includes("teachernotes") && item.data.partOfModule === moduleNumber;
+    })
   });
 
   // Return your Object options (must be last in file)

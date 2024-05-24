@@ -1,38 +1,63 @@
+const CACHE_NAME = 'gp20240524-2';
 const urlsToCache = [
     '.',
+    'offline/index.html',
+    'assets/css/style.css'
 ];
 
-const cacheName = 'gp20240524-1';
-
 self.addEventListener('install', event => {
-    console.log('Install event!');
-    self.skipWaiting();
     event.waitUntil(
-        caches.open(cacheName)
-            .then(cache => {
-                return cache.addAll(urlsToCache);
-            })
-    );
-});
-
-self.addEventListener('activate', event => {
-    console.log('Activate event!');
-});
-
-//self.addEventListener('fetch', event => {
-//    console.log('Fetch intercepted for:', event.request.url);
-//    event.respondWith(caches.match(event.request)
-//        .then(cachedResponse => {
-//            return cachedResponse || fetch(event.request);
-//        })
-//    );
-//});
-
-self.addEventListener('fetch', event => {
-    console.log('Fetch intercepted for:', event.request.url);
-    event.respondWith(
-        fetch(event.request).catch(function () {
-            return caches.match(event.request);
+      caches.open(CACHE_NAME)
+        .then(cache => {
+          return cache.addAll(urlsToCache);
         })
     );
-});
+  });
+
+// Fetch event - Serve cached content when offline
+self.addEventListener('fetch', event => {
+    event.respondWith(
+      caches.match(event.request)
+        .then(response => {
+          // Return cached version if available
+          if (response) {
+            return response;
+          }
+          // Fetch from network if not in cache
+          return fetch(event.request).then(
+            networkResponse => {
+              if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+                return networkResponse;
+              }
+              // Cache the new resource
+              let responseToCache = networkResponse.clone();
+              caches.open(CACHE_NAME)
+                .then(cache => {
+                  cache.put(event.request, responseToCache);
+                });
+              return networkResponse;
+            }
+          );
+        }).catch(() => {
+          // If both cache and network fail, show a fallback page (optional)
+          return caches.match('offline.html');
+        })
+    );
+  });
+
+  // Activate event - Clean up old caches
+self.addEventListener('activate', event => {
+    const cacheWhitelist = [CACHE_NAME];
+    event.waitUntil(
+      caches.keys().then(cacheNames => {
+        return Promise.all(
+          cacheNames.map(cacheName => {
+            if (cacheWhitelist.indexOf(cacheName) === -1) {
+              return caches.delete(cacheName);
+            }
+          })
+        );
+      })
+    );
+  });
+  

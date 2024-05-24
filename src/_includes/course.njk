@@ -1,6 +1,11 @@
 ---
 layout: standard
 ---
+<div style="display: flex; justify-content: space-between;">
+    {% backButton %}
+    <p><a class="btn btn-small btn-yellow btn-inline" href="parloer">Støttesætninger</a></p>
+</div>
+
 <div>
 {{content | safe}}
 </div>
@@ -12,13 +17,10 @@ layout: standard
     {%- endfor %}
 </div>
 
-<p><a class="btn btn-small btn-white btn-inline mb-lg" href="parloer">Støttesætninger</a></p>
-
-<details class="mb-lg">
+<details class="mt-lg mb-lg">
     <summary>Til læreren</summary>
-    {% for teachernote in collections.teachernotes %}
-        {% if teachernote.data.partOfModule == moduleNo %}
-            {{teachernote.content | safe}}
-        {% endif %}
+    {% set moduleTeacherNotes = collections.all | moduleTeacherNote(moduleNo) %}
+    {% for teachernote in moduleTeacherNotes %}
+        {{teachernote.content | safe}}
     {% endfor %}
 </details>

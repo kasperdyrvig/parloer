@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 13
+sortNumber: 2
 previewText: Øv endelser i spørgemåde.
 onPageTitle: Øv endelser
 onPageDescription: Bøj ordene fra læseøvelsen i spørgemåde.
