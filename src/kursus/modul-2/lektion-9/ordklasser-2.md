@@ -16,7 +16,7 @@ linkText: Start øvelsen
 
 <multi-choice data-label="Suua?" data-type="radio" data-random="false" data-options="Småord, Navneord, Udsagnsord" data-validation="2"></multi-choice>
 <single-input data-label="Nutseruk" ></single-input>
-<feedback-message data-content="Qallunaatut betyder grønlandsk"></feedback-message>
+<feedback-message data-content="Qallunaatut betyder dansk"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}

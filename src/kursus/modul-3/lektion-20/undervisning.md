@@ -31,11 +31,6 @@ onPageTitle: Til læreren
 
 5 min: **Lydregel: Q/R og G/J.** Når Q og R støder sammen med et G eller J, bliver det til et R. qg=r, rg=r, qj=r, rj=r
 
-10 min: **Ved -nngit-.**
-
-- Lydreglen om T/S bliver brugt i den intransitive endelse. (Skrevet i skemaet som stort T)
-- Hjælp kursisterne til at regne ud hvordan den transitive form (der starter med g) skal sættes på hhv. r-, vokal- og konsonantstammer.
-
 30 min: **Personendelser.**
 
 - Hvorfor stod der "kunngeqarfia" og "anaanaa"? Der er brug for endelser på de ting der er ejet.

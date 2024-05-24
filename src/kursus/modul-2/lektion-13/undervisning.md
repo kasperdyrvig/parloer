@@ -30,6 +30,11 @@ onPageTitle: Til læreren
         - På navneord der slutter på t kommer der et I/E ind før -qar- (forklaring følger i modul 3).
 - Øv at sætte -qar- på forskellige ting fra [Ord](/parloer/#basic).
 
+5 min: **Vokaler efter A.**
+
+- Når en vokal kommer efter et A, vil den selv blive til et A.
+    - Eks: Rebekka+una > Rebekkaana, men: Kasper + una = Kasperuna.
+    
 10 min: **-ut(i), n-n.**
 
 - Betyder "noget ejet", sættes på et navneord og forbliver et navneord. (narsaq *eng*, narsaat *en mark der er ejet*)
@@ -37,8 +42,8 @@ onPageTitle: Til læreren
     - Gælder især ting man har stående og dyr (men ikke qimmeq).
     - Lyt dig frem og læg mærke til det hvis du bliver rettet.
     - Forklar fx forskellen på immoqarpoq og immuuteqarpoq.
-
-15 min: **Øvelse.**
+    
+10 min: **Øvelse.**
 
 - Læg div. ting ud på et bord (eller billeder på et whiteboard) med det grønlandske ord for tingen skrevet på (skriv evt også hvis der skal -ut på).
 - Kursisterne skal tage en ting hver og gå rundt og spørge hinanden: "Suuteqarpit?" De skal notere sig hvad hver person har.

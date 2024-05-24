@@ -35,11 +35,11 @@ onPageTitle: Til læreren
 - Repetér ordklasser og ordenes opbygning - brug A4-ark med ordene stamme, tilhæng, endelse, efterhæng.
 - Nævn kort at navneord ikke kun er ting, men også kan være begreber, navne og danske tillægsord.
 
-10 min: **Navneord**
+10 min: **Nomen (navneord)**
 
 - Kan godt kun være en stamme, men kan også have både tilhæng, endelse og efterhæng.
-    - Eksempler på navneord: Ini, issiavik, siniffik, siku, qimmeq, qaqqaq, naasoq, angut, qatanngut.
-- Navneord kan deles op i to kategorier: Svage og stærke stammer.
+    - Eksempler på nomen: Ini, issiavik, siniffik, siku, qimmeq, qaqqaq, naasoq, angut, qatanngut.
+- Nomen kan deles op i to kategorier: Svage og stærke stammer.
     - Svage stammer: Alle der slutter på vokaler og -t.
     - Stærke stammer: næsten alle der slutter på -k og -neq.
     - Alle andre der slutter på -q er der ingen regler for, så det skal læres (ligesom en og et på dansk).
