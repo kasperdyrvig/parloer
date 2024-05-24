@@ -17,7 +17,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("exerciseMultiInput", function (labelArray, validationArray) {
     let output = `<fieldset class="multiinput">`;
     const labels = labelArray.split(",");
-    console.log(labels)
     labels.forEach(element => {
       const id = uuidv4();
       output += `<div class="form-group textinput">
@@ -50,12 +49,12 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("videoPlayer", function (videoUrl) {
-    return `<div class="video-wrapper"><video controls><source src="/assets/video/` + videoUrl + `" type="video/mp4"></video></div>`;
+    return `<div class="video-wrapper"><video controls><source src="/assets/video/${videoUrl}" type="video/mp4"></video></div>`;
   });
 
   eleventyConfig.addPairedShortcode("exerciseItem", function (exerciseContent) {
     const id = uuidv4();
-    return `<div class="exercise-item" id="`+ id +`"><form id="`+ id +`f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
+    return `<div class="exercise-item" id="${id}"><form id="${id}f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
   });
 
   // Return your Object options (must be last in file)

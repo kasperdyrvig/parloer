@@ -1,6 +1,7 @@
 {
     "short_name": "Parlør-app",
     "name": "Grønlandsk parlør",
+    "theme_color": "#F35060",
     "background_color": "#E5EAF5",
     "display": "standalone",
     "description": "En grønlandsk parlør-app",
