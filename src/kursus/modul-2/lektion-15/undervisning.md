@@ -45,7 +45,7 @@ onPageTitle: Til læreren
 
 - Hvordan sætter man flere tilhæng på et ord?
 - Vær opmærksom på om ordet er et udsagnsord eller navneord.
-- Øv at bygge ordene: Illoqarfik, sulinngiffik, qitsuuteqanngilaq.
+- Øv at bygge ordene: Sulinngiffik, qitsuuteqanngilaq, illoqarfik, illoqarfeqarpoq, illoqarfeqanngiffik.
 
 5 min: **Opsummering og lektier.**
 
