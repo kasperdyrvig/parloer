@@ -2,8 +2,8 @@
 tags: homework
 layout: exercise
 partOfLesson: 14
-previewText: Vælg det rigtige svar og fuldfør svaret - del 1
-onPageTitle: Svar på spørgsmål - del 1
+previewText: Vælg det rigtige svar og fuldfør svaret - del 2
+onPageTitle: Svar på spørgsmål - del 2
 onPageDescription: Du får vist et billede og et spørgsmål. Vælg det rigtige svar og fuldfør svaret. Brug det nægtende tilhæng (-nngit-) hvis svaret er nej.
 linkText: Start øvelsen
 ---
@@ -66,7 +66,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-![]({{'/assets/images/course/sila-ajoq.png' | url}})
+![]({{'/assets/images/course/Sila-ajoq.png' | url}})
 ## Sila ajorpa?
 <multi-input data-radios="true" data-labels="Aap, Naamik" ></multi-input>
 <feedback-message data-content="Sila ajorpa? betyder: Er vejret dårligt? Man kan svare: Aap, sila ajorpoq."></feedback-message>
