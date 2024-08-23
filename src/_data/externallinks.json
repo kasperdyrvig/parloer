@@ -5,16 +5,20 @@
             "url": "https://ordbog.gl/"
         },
         {
-            "onPageTitle": "nutserut.gl - maskinoversættelse",
-            "url": "https://nutserut.gl/"
+            "onPageTitle": "Korpus - samling af udgivet tekst på grønlandsk",
+            "url": "https://oqaasileriffik.gl/da/sprogteknologi/korpus/"
         },
         {
             "onPageTitle": "\"Martha\" tekst-til-tale",
             "url": "https://oqaasileriffik.gl/sprogteknologi/martha/"
         },
         {
-            "onPageTitle": "Korpus - samling af udgivet tekst på grønlandsk",
-            "url": "https://oqaasileriffik.gl/da/sprogteknologi/korpus/"
+            "onPageTitle": "nutserut.gl - maskinoversættelse",
+            "url": "https://nutserut.gl/"
+        },
+        {
+            "onPageTitle": "Google Translate",
+            "url": "https://translate.google.com/?sl=auto&tl=kl&op=translate"
         },
         {
             "onPageTitle": "Biibili",
