@@ -57,6 +57,15 @@ Alle rettigheder forbeholdt. Denne app er lavet på et privat og frivilligt init
     <feedback-message data-content="Godt klaret!"></feedback-message>
     ```
 
+- Hjælpetekst
+    ```
+    {% helpContent "Hjælp" %}
+
+    Her er der hjælp at hente
+
+    {% endhelpContent %}
+    ```
+
 Eksempel:
 ```
 {% exerciseItem %}

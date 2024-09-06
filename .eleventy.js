@@ -59,6 +59,11 @@ module.exports = function (eleventyConfig) {
     return `<div class="exercise-item" id="${id}"><form id="${id}f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
   });
 
+  eleventyConfig.addPairedShortcode("helpContent", function (content, label) {
+    const id = uuidv4();
+    return `<details class="details-help"><summary>${label}</summary><div class="details-help-content">${content}</div></details>`;
+  });
+
   // Filters
   eleventyConfig.addFilter("relatedHomework", (collections, lessonNumber) => {
     return collections.filter(item => {
