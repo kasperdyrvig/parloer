@@ -329,8 +329,7 @@ fieldset.multiinput > .form-group .response-label {clear: both;}
     width: 100%; background-color: var(--color-white); color: var(--color-black);
 }
 
-.ending-settings {display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-medium);}
-    .ending-settings > .form-group {justify-content: flex-end;}
+.ending-settings {display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--spacing-medium); align-items: end;}
 .text-gray {color: var(--color-gray-500);}
 .text-left {text-align: left;}
 .text-center {text-align: center;}
