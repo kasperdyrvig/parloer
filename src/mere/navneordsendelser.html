@@ -3,7 +3,7 @@ layout: base
 metaTitle: Skema over endelser til navneord
 ---
 
-<details style="margin: 1rem auto;">
+<details style="margin: 0;">
     <summary>Filtrer</summary>
     <form id="tableFilter" onchange="updateTable()">
         <fieldset style="display: flex; flex-direction: column; gap: .5rem; margin-top: 1rem;">
@@ -23,166 +23,168 @@ metaTitle: Skema over endelser til navneord
     </form>
 </details>
 
-<div class="skema d-personendelser d-ental d-flertal" style="margin: 0 auto;">
-    <div class="headers">
-        <div style="grid-column: 2;">Det ejede</div>
-    </div>
-    <div class="headers">
-        <div></div>
-        <div class="pe" style="grid-column: span 2;">Personendelser</div>
-        <div class="af" style="grid-column: span 2;">Afhængefald</div>
-        <div class="mn" style="grid-column: span 2;">Forholdsendelser med M/N</div>
-        <div class="kk" style="grid-column: span 2;">Forholdsendelsen -kkut/tigut</div>
-        <div class="tu" style="grid-column: span 2;">Forholdsendelsen -tut/-sut</div>
-    </div>
-    <div class="headers">
-        <div>Ejer</div>
-        <div class="en pe">Ental</div>
-        <div class="fl pe">Flertal</div>
-        <div class="en af">Ental</div>
-        <div class="fl af">Flertal</div>
-        <div class="en mn">Ental</div>
-        <div class="fl mn">Flertal</div>
-        <div class="en kk">Ental</div>
-        <div class="fl kk">Flertal</div>
-        <div class="en tu">Ental</div>
-        <div class="fl tu">Flertal</div>
-    </div>
-    <div class="person">
-        <div class="person-name">Uden ejer</div>
-        <div class="nomens">
-            <div class="en pe"></div>
-            <div class="fl pe">-t<br>(Stærk: ±it)</div>
-            <div class="en af">-p<br>(Stærk: ±up)</div>
-            <div class="fl af">-t<br>(Stærk: ±it)</div>
-            <div class="en mn">-mi<br>(Stærk: +mi)</div>
-            <div class="fl mn">-ni<br>(Stærk: +ni)</div>
-            <div class="en kk">-kkut</div>
-            <div class="fl kk">-tigut<br>(Stærk: +tigut)</div>
-            <div class="en tu">-tut<br>(Stærk: +tut)</div>
-            <div class="fl tu">-tut<br>(Stærk: +tut)</div>
+<div class="skema-wrapper">
+    <div class="skema d-personendelser d-ental d-flertal">
+        <div class="headers">
+            <div style="grid-column: 2;">Det ejede</div>
         </div>
-    </div>
-    <hr>
-    <div class="person">
-        <div class="person-name">1. person ental</div>
-        <div class="nomens">
-            <div class="en pe">-ga<br>(Q: +ga)</div>
-            <div class="fl pe">-kka</div>
-            <div class="en af">-ma<br>(stærk: +ma)</div>
-            <div class="fl af">-ma</div>
-            <div class="en mn">-nni</div>
-            <div class="fl mn">-nni</div>
-            <div class="en kk">-kkut</div>
-            <div class="fl kk">-kkut</div>
-            <div class="en tu">-ttut</div>
-            <div class="fl tu">-ttut</div>
+        <div class="headers">
+            <div></div>
+            <div class="pe" style="grid-column: span 2;">Personendelser</div>
+            <div class="af" style="grid-column: span 2;">Afhængefald</div>
+            <div class="mn" style="grid-column: span 2;">Forholdsendelser med M/N</div>
+            <div class="kk" style="grid-column: span 2;">Forholdsendelsen -kkut/tigut</div>
+            <div class="tu" style="grid-column: span 2;">Forholdsendelsen -tut/-sut</div>
         </div>
-    </div>
-    <div class="person">
-        <div class="person-name">2. person ental</div>
-        <div class="nomens">
-            <div class="en pe">-t<br>(Stærk: ±it)</div>
-            <div class="fl pe">-tit</div>
-            <div class="en af">-rpit<br>(Stærk: +pit)</div>
-            <div class="fl af">-vit</div>
-            <div class="en mn">-nni</div>
-            <div class="fl mn">-nni</div>
-            <div class="en kk">-kkut</div>
-            <div class="fl kk">-kkut</div>
-            <div class="en tu">-ttut</div>
-            <div class="fl tu">-ttut</div>
+        <div class="headers">
+            <div>Ejer</div>
+            <div class="en pe">Ental</div>
+            <div class="fl pe">Flertal</div>
+            <div class="en af">Ental</div>
+            <div class="fl af">Flertal</div>
+            <div class="en mn">Ental</div>
+            <div class="fl mn">Flertal</div>
+            <div class="en kk">Ental</div>
+            <div class="fl kk">Flertal</div>
+            <div class="en tu">Ental</div>
+            <div class="fl tu">Flertal</div>
         </div>
-    </div>
-    <div class="person">
-        <div class="person-name">3. person ental</div>
-        <div class="nomens">
-            <div class="en pe">-a<br>(Stærk Q: +a)</div>
-            <div class="fl pe">-i<br>(Stærk Q: +i)</div>
-            <div class="en af">-ata<br>(Stærk Q: +ata)</div>
-            <div class="fl af">-isa<br>(Stærk Q: +isa)</div>
-            <div class="en mn">-ani<br>(Stærk Q: +ani)</div>
-            <div class="fl mn">-ini<br>(Stærk Q: +ini)</div>
-            <div class="en kk">-a[ti]gut<br>(Stærk Q: +a[ti]gut)</div>
-            <div class="fl kk">-isigut<br>(Stærk Q: +isigut)</div>
-            <div class="en tu">-atut<br>(Stærk Q: +atut)</div>
-            <div class="fl tu">-isut<br>(Stærk Q: +isut)</div>
+        <div class="person">
+            <div class="person-name">Uden ejer</div>
+            <div class="nomens">
+                <div class="en pe"></div>
+                <div class="fl pe">-t<br>(Stærk: ±it)</div>
+                <div class="en af">-p<br>(Stærk: ±up)</div>
+                <div class="fl af">-t<br>(Stærk: ±it)</div>
+                <div class="en mn">-mi<br>(Stærk: +mi)</div>
+                <div class="fl mn">-ni<br>(Stærk: +ni)</div>
+                <div class="en kk">-kkut</div>
+                <div class="fl kk">-tigut<br>(Stærk: +tigut)</div>
+                <div class="en tu">-tut<br>(Stærk: +tut)</div>
+                <div class="fl tu">-tut<br>(Stærk: +tut)</div>
+            </div>
         </div>
-    </div>
-    <div class="person p4">
-        <div class="person-name">4. person ental</div>
-        <div class="nomens">
-            <div class="en pe">-ni</div>
-            <div class="fl pe">-ni</div>
-            <div class="en af">-mi<br>(Stærk: +mi)</div>
-            <div class="fl af">-mi</div>
-            <div class="en mn">-mini<br>(Stærk: +mini)</div>
-            <div class="fl mn">-mini<br>(Stærk Q: +mini)</div>
-            <div class="en kk">-migut<br>(Stærk: +migut)</div>
-            <div class="fl kk">-migut<br>(Stærk Q: +migut)</div>
-            <div class="en tu">-misut<br>(Stærk: +misut)</div>
-            <div class="fl tu">-misut<br>(Stærk Q: +misut)</div>
+        <hr>
+        <div class="person">
+            <div class="person-name">1. person ental</div>
+            <div class="nomens">
+                <div class="en pe">-ga<br>(Q: +ga)</div>
+                <div class="fl pe">-kka</div>
+                <div class="en af">-ma<br>(stærk: +ma)</div>
+                <div class="fl af">-ma</div>
+                <div class="en mn">-nni</div>
+                <div class="fl mn">-nni</div>
+                <div class="en kk">-kkut</div>
+                <div class="fl kk">-kkut</div>
+                <div class="en tu">-ttut</div>
+                <div class="fl tu">-ttut</div>
+            </div>
         </div>
-    </div>
-    <hr>
-    <div class="person">
-        <div class="person-name">1. person flertal</div>
-        <div class="nomens">
-            <div class="en pe">-rput<br>(Stærk K: +put)</div>
-            <div class="fl pe">-gut/-vut</div>
-            <div class="en af">-tta</div>
-            <div class="fl af">-tta</div>
-            <div class="en mn">-tsinni</div>
-            <div class="fl mn">-tsinni</div>
-            <div class="en kk">-tsigut</div>
-            <div class="fl kk">-tsigut</div>
-            <div class="en tu">-tsitut</div>
-            <div class="fl tu">-tsitut</div>
+        <div class="person">
+            <div class="person-name">2. person ental</div>
+            <div class="nomens">
+                <div class="en pe">-t<br>(Stærk: ±it)</div>
+                <div class="fl pe">-tit</div>
+                <div class="en af">-rpit<br>(Stærk: +pit)</div>
+                <div class="fl af">-vit</div>
+                <div class="en mn">-nni</div>
+                <div class="fl mn">-nni</div>
+                <div class="en kk">-kkut</div>
+                <div class="fl kk">-kkut</div>
+                <div class="en tu">-ttut</div>
+                <div class="fl tu">-ttut</div>
+            </div>
         </div>
-    </div>
-    <div class="person">
-        <div class="person-name">2. person flertal</div>
-        <div class="nomens">
-            <div class="en pe">-rsi<br>(Stærk: +si)</div>
-            <div class="fl pe">-si</div>
-            <div class="en af">-ssi</div>
-            <div class="fl af">-ssi</div>
-            <div class="en mn">-ssinni</div>
-            <div class="fl mn">-ssinni</div>
-            <div class="en kk">-ssigut</div>
-            <div class="fl kk">-ssigut</div>
-            <div class="en tu">-ssisut</div>
-            <div class="fl tu">-ssisut</div>
+        <div class="person">
+            <div class="person-name">3. person ental</div>
+            <div class="nomens">
+                <div class="en pe">-a<br>(Stærk Q: +a)</div>
+                <div class="fl pe">-i<br>(Stærk Q: +i)</div>
+                <div class="en af">-ata<br>(Stærk Q: +ata)</div>
+                <div class="fl af">-isa<br>(Stærk Q: +isa)</div>
+                <div class="en mn">-ani<br>(Stærk Q: +ani)</div>
+                <div class="fl mn">-ini<br>(Stærk Q: +ini)</div>
+                <div class="en kk">-a[ti]gut<br>(Stærk Q: +a[ti]gut)</div>
+                <div class="fl kk">-isigut<br>(Stærk Q: +isigut)</div>
+                <div class="en tu">-atut<br>(Stærk Q: +atut)</div>
+                <div class="fl tu">-isut<br>(Stærk Q: +isut)</div>
+            </div>
         </div>
-    </div>
-    <div class="person">
-        <div class="person-name">3. person flertal</div>
-        <div class="nomens">
-            <div class="en pe">-at<br>(Stærk Q: +at)</div>
-            <div class="fl pe">-at / -i<br>(Stærk Q: +i)</div>
-            <div class="en af">-ata<br>(Stærk Q: +ata)</div>
-            <div class="fl af">-isa<br>(Stærk Q: +isa)</div>
-            <div class="en mn">-anni<br>(Stærk Q: +anni)</div>
-            <div class="fl mn">-ini<br>(Stærk Q: +ini)</div>
-            <div class="en kk">-atigut<br>(Stærk Q: +atigut)</div>
-            <div class="fl kk">-isigut<br>(Stærk Q: +isigut)</div>
-            <div class="en tu">-attut<br>(Stærk Q: +attut)</div>
-            <div class="fl tu">-isut<br>(Stærk Q: +isut)</div>
+        <div class="person p4">
+            <div class="person-name">4. person ental</div>
+            <div class="nomens">
+                <div class="en pe">-ni</div>
+                <div class="fl pe">-ni</div>
+                <div class="en af">-mi<br>(Stærk: +mi)</div>
+                <div class="fl af">-mi</div>
+                <div class="en mn">-mini<br>(Stærk: +mini)</div>
+                <div class="fl mn">-mini<br>(Stærk Q: +mini)</div>
+                <div class="en kk">-migut<br>(Stærk: +migut)</div>
+                <div class="fl kk">-migut<br>(Stærk Q: +migut)</div>
+                <div class="en tu">-misut<br>(Stærk: +misut)</div>
+                <div class="fl tu">-misut<br>(Stærk Q: +misut)</div>
+            </div>
         </div>
-    </div>
-    <div class="person p4">
-        <div class="person-name">4. person flertal</div>
-        <div class="nomens">
-            <div class="en pe">-rtik<br>(Stærk: +tik)</div>
-            <div class="fl pe">-tik</div>
-            <div class="en af">-mik<br>(Stærk: +mik)</div>
-            <div class="fl af">-mik</div>
-            <div class="en mn">-minni<br>(Stærk: +minni)</div>
-            <div class="fl mn">-minni<br>(Stærk Q: +minni)</div>
-            <div class="en kk">-mikkut<br>(Stærk: +mikkut)</div>
-            <div class="fl kk">-mikkut<br>(Stærk Q: +mikkut)</div>
-            <div class="en tu">-missut<br>(Stærk: +missut)</div>
-            <div class="fl tu">-missut<br>(Stærk Q: +missut)</div>
+        <hr>
+        <div class="person">
+            <div class="person-name">1. person flertal</div>
+            <div class="nomens">
+                <div class="en pe">-rput<br>(Stærk K: +put)</div>
+                <div class="fl pe">-gut/-vut</div>
+                <div class="en af">-tta</div>
+                <div class="fl af">-tta</div>
+                <div class="en mn">-tsinni</div>
+                <div class="fl mn">-tsinni</div>
+                <div class="en kk">-tsigut</div>
+                <div class="fl kk">-tsigut</div>
+                <div class="en tu">-tsitut</div>
+                <div class="fl tu">-tsitut</div>
+            </div>
+        </div>
+        <div class="person">
+            <div class="person-name">2. person flertal</div>
+            <div class="nomens">
+                <div class="en pe">-rsi<br>(Stærk: +si)</div>
+                <div class="fl pe">-si</div>
+                <div class="en af">-ssi</div>
+                <div class="fl af">-ssi</div>
+                <div class="en mn">-ssinni</div>
+                <div class="fl mn">-ssinni</div>
+                <div class="en kk">-ssigut</div>
+                <div class="fl kk">-ssigut</div>
+                <div class="en tu">-ssisut</div>
+                <div class="fl tu">-ssisut</div>
+            </div>
+        </div>
+        <div class="person">
+            <div class="person-name">3. person flertal</div>
+            <div class="nomens">
+                <div class="en pe">-at<br>(Stærk Q: +at)</div>
+                <div class="fl pe">-at / -i<br>(Stærk Q: +i)</div>
+                <div class="en af">-ata<br>(Stærk Q: +ata)</div>
+                <div class="fl af">-isa<br>(Stærk Q: +isa)</div>
+                <div class="en mn">-anni<br>(Stærk Q: +anni)</div>
+                <div class="fl mn">-ini<br>(Stærk Q: +ini)</div>
+                <div class="en kk">-atigut<br>(Stærk Q: +atigut)</div>
+                <div class="fl kk">-isigut<br>(Stærk Q: +isigut)</div>
+                <div class="en tu">-attut<br>(Stærk Q: +attut)</div>
+                <div class="fl tu">-isut<br>(Stærk Q: +isut)</div>
+            </div>
+        </div>
+        <div class="person p4">
+            <div class="person-name">4. person flertal</div>
+            <div class="nomens">
+                <div class="en pe">-rtik<br>(Stærk: +tik)</div>
+                <div class="fl pe">-tik</div>
+                <div class="en af">-mik<br>(Stærk: +mik)</div>
+                <div class="fl af">-mik</div>
+                <div class="en mn">-minni<br>(Stærk: +minni)</div>
+                <div class="fl mn">-minni<br>(Stærk Q: +minni)</div>
+                <div class="en kk">-mikkut<br>(Stærk: +mikkut)</div>
+                <div class="fl kk">-mikkut<br>(Stærk Q: +mikkut)</div>
+                <div class="en tu">-missut<br>(Stærk: +missut)</div>
+                <div class="fl tu">-missut<br>(Stærk Q: +missut)</div>
+            </div>
         </div>
     </div>
 </div>
