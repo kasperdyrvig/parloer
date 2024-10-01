@@ -311,7 +311,8 @@ a.list-group-item {text-decoration: none;}
 }
     .grammar-whiteboard .word-greenlandic {font-size: var(--size-large);}
 .grammar-options {display: flex; flex-direction: column; gap: var(--spacing-large);}
-.grammar-options label:has(> input:checked) {background-color: var(--color-blue-300);}
+.grammar-options label {padding: var(--spacing-x-small);}
+.grammar-options label:has(> input:checked) {background-color: var(--color-green-300); border-radius: var(--border-radius);}
 .whiteboard {background-color: var(--color-white); aspect-ratio: 16 /9; display: grid; grid-template-rows: auto 1fr auto;
     margin: 0 calc(var(--spacing-medium) * -1) var(--spacing-large) calc(var(--spacing-medium) * -1); padding: var(--spacing-large);
 }

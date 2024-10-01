@@ -15,12 +15,12 @@ metaTitle: Mere om grønlandsk
 ## Aktiviter og værktøjer
 
 - [Udvid dit ordforråd](/mere/ordforraad/)
-- Grammatik: Intransitive verber
-- Grammatik: Transitive verber
+- [Grammatik: Intransitive verber](/mere/grammatik-intransitiv/)
+- [Grammatik: Transitive verber](/mere/grammatik-transitiv/)
 - [Udsagnsordsendelser](/mere/endelser/)
-- Vendespil
-- Diktat
-- Flashcards
+- Vendespil (kommer snart)
+- Diktat (kommer snart)
+- Flashcards (kommer snart)
 
 ___
 
