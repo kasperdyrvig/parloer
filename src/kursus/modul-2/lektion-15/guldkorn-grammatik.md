@@ -1,5 +1,5 @@
 ---
 tags: gems
 partOfLesson: 15
-onPageTitle: Greenlandic-English Dictionary (2018)
+onPageTitle: Ordanalysator på oqaasileriffik.gl
 ---

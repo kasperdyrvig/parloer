@@ -50,7 +50,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Greenlandic-English Dictionary (2018)
+- Ugens guldkorn: [Ordanalysator](https://oqaasileriffik.gl/da/sprogteknologi/lookup/)
 - Lektier:
     - **Mundtlig:** Oversæt og øv rollespil 2-og-2.
     - **Skriftlig:** Tilhænget +fik del 1 (del 2 er valgfri).
