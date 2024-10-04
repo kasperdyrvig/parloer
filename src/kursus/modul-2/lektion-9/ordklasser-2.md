@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 9
+sortNumber: 4
 previewText: Vælg hvilken ordklasse ordene tilhører - del 2.
 onPageTitle: Ordklasser - del 2
 onPageDescription: Du får præsenteret 10 ord. Vælg hvilken ordklasse ordet tilhører. Tip! Kig på ordets endelse.

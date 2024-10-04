@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 15
+sortNumber: 1
 previewText: Øv tilhænget +fik - del 1
 onPageTitle: Tilhænget +fik - del 1
 onPageDescription: Du får præsenteret 10 udsagnsord, du først skal oversætte, sæt så +fik på og skriv den nye betydning.

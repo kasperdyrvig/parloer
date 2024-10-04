@@ -5,7 +5,7 @@ lessonNo: 13
 metaTitle: Lektion 13 - -qar- og -ut
 onPageTitle: Lektion 13
 ---
-I denne lektion skal vi gennemgå lidt om tilhæng, og vi skal lære to af dem som ofte bliver brugt sammen, nemlig -qar- at have og -ut noget ejet.
+I denne lektion skal vi gennemgå lidt om tilhæng, og vi skal lære to af dem som ofte bliver brugt sammen, nemlig -qar- *at have* og -ut *noget ejet.*
 
 Tilhæng bliver brugt i stort set alle sætninger. De tilføjer betydning til stammen. Man kan dele tilhæng op i to kategorier, nemlig plustilhæng og minustilhæng. Plustilhæng kommer vi til at gennemgå i lektion 15. Minustilhæng “spiser” den sidste konsonant på stammen og sætter sig op ad den sidste vokal.
 

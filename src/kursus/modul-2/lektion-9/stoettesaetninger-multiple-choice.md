@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 9
+sortNumber: 1
 previewText: Repeter støttesætningerne fra modul 1 ved multiple choice.
 onPageTitle: Støttesætninger - multiple choice
 onPageDescription: Vi skal repetere de støttesætninger vi lærte i modul 1. Prøv at huske hvad de forskellige sætninger betyder.

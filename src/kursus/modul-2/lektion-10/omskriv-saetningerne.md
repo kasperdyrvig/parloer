@@ -19,9 +19,9 @@ Skriv sætningen om til "uagut", start med "Naamik, ..."
 
 {% exerciseItem %}
 
-## Qanipputit
+## Igavutit
 Skriv sætningen om til "uanga", start med "Naamik, ..."
-<single-input data-validation="Naamik, uanga qanippunga"></single-input>
+<single-input data-validation="Naamik, uanga igavunga"></single-input>
 
 {% endexerciseItem %}
 

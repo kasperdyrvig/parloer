@@ -2,6 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 9
+sortNumber: 2
 previewText: Oversæt støttesætningerne fra modul 1.
 onPageTitle: Støttesætninger - oversæt
 onPageDescription: Vi skal repetere de støttesætninger vi lærte i modul 1. Oversæt sætningerne til enten dansk eller grønlandsk.
