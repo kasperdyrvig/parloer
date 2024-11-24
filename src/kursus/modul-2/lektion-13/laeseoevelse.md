@@ -14,8 +14,8 @@ linkText: Start øvelsen
 ## Læs teksten og besvar spørgsmålene
 Jiisusi maani nunarsuarmi inunngorpoq. Angajoqqaaqarpoq, Juuserfimik Mariiamillu ateqarput. Jerusalemmimit angerlarput, Juuserfilli Mariiallu Jiisusi tammaavaat. Nanisinnaanngilaat, taamaattumik annilaangalerput. Jiisusili Jehova asagamiuk guutisiorfimmiippoq. Jiisusi angajoqqaaminnut naalattuaannarpoq. 
 
-Gloser:
-<br>inunngorpoq = han bliver født
+{% helpContent "Gloser" %}
+inunngorpoq = han bliver født
 <br>angajoqqaat = forældre
 <br>angerlarpoq = han tager hjem
 <br>tammaavaat = de kan ikke finde ham
@@ -23,6 +23,7 @@ Gloser:
 <br>annilaangalerput = de blev bekymret
 <br>guutisiorfimmiippoq = han er i templet
 <br>naalattuaannarpoq = han er altid lydig
+{% endhelpContent %}
 
 <multi-choice data-label="Oqaluttuaq paasiviuk?" data-type="radio" data-random="false" data-options="Aap, Naamik, Immannguaq" ></multi-choice>
 <single-input data-label="Jiisusip angajoqqaavi qanoq ateqarpat?" ></single-input>
