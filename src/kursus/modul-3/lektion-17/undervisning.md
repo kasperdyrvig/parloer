@@ -3,36 +3,20 @@ partOfLesson: 17
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Repetition af modul 2 og lære om navneord/nomen
+**Formål:** 
 
 **Plan:**
 
-15 min: **Velkomst.**
+20 min: **Velkomst**
 
-- Modul 3-mut aallarniut.
-- Evt introduktion af kurset til nye kursister.
 - Har kursisterne lært noget nyt siden sidst?
+- Fortæl lidt om "comprehensible input"
+- Introduktion til Learn Greenlandic og hvad man skal være opmærksom på
+- Gennemgang af spørgsmål / kommentarer til forelæsning 1, 2 og 3
 
-10 min: **Repetition**
+5 min: **Repetition**
 
-- Repetér endelser i fremsættemåde, spørgemåde og tilhænget -nngit-.
-- Lav et skema sammen.
-
-10 min: **Øvelse.**
-
-- I grupper af 3-4: Brug en mellemmand til at kommunikere.
-    - A: C qanoq ateqarpa?<br>B: Qanoq ateqarpit?<br>C: Rebekkamik ateqarpunga.<br>B: Rebekkamik ateqarpoq.
-- Og sådan fortsætter man ved at bruge Forslag til spørgsmål. Lyt og hjælp evt med gloser.
-
-10 min: **Repetition af lydregler**
-
-- Repetér lydreglerne:
-    - I/E & U/O
-    - Assimilation af konsonanter (K1+K2>K2K2)
-
-5 min: **Repetition.**
-
-- Repetér ordklasser og ordenes opbygning - brug A4-ark med ordene stamme, tilhæng, endelse, efterhæng.
+- Repetér ordklasser og ordenes opbygning.
 - Nævn kort at navneord ikke kun er ting, men også kan være begreber, navne og danske tillægsord.
 
 10 min: **Nomen (navneord)**
@@ -43,20 +27,39 @@ onPageTitle: Til læreren
     - Svage stammer: Alle der slutter på vokaler og -t.
     - Stærke stammer: næsten alle der slutter på -k og -neq.
     - Alle andre der slutter på -q er der ingen regler for, så det skal læres (ligesom en og et på dansk).
+        - (Kært barn har mange navne, i Learn Greenlandic skriver de enten +/- eller up/p-stammer)
+    
+5 min: **Repetition af lydregler**
 
-5 min: **Opsummering og lektier.**
+- Repetér lydreglerne:
+    - I/E & U/O
+    - Assimilation af konsonanter (K1+K2>K2K2)
+
+15 min: **Forholdsendelserne ±nut/±mut og ±nit/±mit**
+- Se videoen [Til, i og fra](/mere/videoer/forholdsendelser/).
+- Gennemgå betydningen af ±nut/±mut (Trm) og ±nit/±mit (Abl)
+- Hvornår er det +/-?
+    - Stærke stammer: +, svage stammer: -.
+    - Prøv at sætte endelserne på Nuuk og Qaqortoq
+- Endelser sættes altid på entalsordet
+- Man bruger kun formen der starter med "±m" ved helt ubøjede ord = dvs ord der står i ental.
+    - Prøv at sætte endelserne på Sisimiut og Aasiaat
+
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
 - Lektier:
-    - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler op og sig ordet højt hver gang du bruger tingen.
-    - **Skriftlig:** Find stavefejl del 1, del 2 & del 3.
+    - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen.
+    - **Skriftlig:** Øvelse 2.1X, 2.2X, 2.3X, 2.4X (Vis eleverne listen over bynavne i støttesætninger)
     - Læs intro til næste lektion.
+
+10 min: **Organisering**
+- Forklar konceptet med at lave lektier i grupper.
+- Få delt eleverne op i grupper alt efter hvem der kan hvornår.
 
 **Links/ressourcer:**
 
-- Lektion 10, 12 og 14 (endelser i fremsættemæde, spørgemåde og -nngit-)
-- *Qaagit* af Birgitte Hertling og Pia Rosing Heilmann s. 12, punkt 2 (inspiration til øvelse)
 - Lektion 15 (lydregler)
 - Lektion 9 (ordklasser og ordenes opbygning)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 70 (nominer)
