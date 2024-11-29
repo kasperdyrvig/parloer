@@ -3,7 +3,7 @@ partOfLesson: 18
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om forholdsendelsen ±ni
+**Formål:** Lære om forholdsendelsen ±ni/±mi
 
 **Plan:**
 
@@ -39,17 +39,9 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
 - Lektier:
-    - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen.
+    - **Mundtlig:** Øv dig på at bruge -mi, ved at sætte den på ordene du har sat post-it sedler på.
     - **Skriftlig:** Øvelse 3.3X, 3.4X, 3.5X, 3.6X, 3.7X, 3.8X
         - Hjælp til lektier: Ved udenlandske navne gælder lydreglen om vokaler ikke, fx: Egedemut.
         - Grønlandske nominer kan kun ende på K, P, Q eller T. Ved udenlandske navne/ord der ender på andet indsættes i når der bliver sat endelser på. Fx: Rosingimi.
         - Ilissi er særlig, her bruger man -nn når endelsen kommer på, fx: Ilissinnit
     - Læs intro til næste lektion.
-
-**Links/ressourcer:**
-
-- Lektion 15 (lydregler)
-- Lektion 9 (ordklasser og ordenes opbygning)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 70 (nominer)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 77-78 (svage og stærke stammer)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 63, 64 og 67 (svage og stærke stammer)
