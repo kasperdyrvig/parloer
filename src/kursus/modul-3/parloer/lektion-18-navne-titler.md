@@ -1,6 +1,6 @@
 ---
 layout: phraselist
-metaTitle: Lektion 17 - Stednavne
-getCollection: module-3-towns
+metaTitle: Lektion 18 - Navne og titler
+getCollection: module-3-names
 tags: modul-3-phases
 ---

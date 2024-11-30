@@ -1,5 +1,5 @@
 ---
 tags: ["phrase", "module-3-names"]
-greenlandic: Malik
+greenlandic: Pisiffik
 ---
 Stærk

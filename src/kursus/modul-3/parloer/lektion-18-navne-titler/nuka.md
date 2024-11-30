@@ -1,5 +1,5 @@
 ---
-tags: ["phrase", "module-3-towns"]
-greenlandic: Aasiaat (Aasiak)
+tags: ["phrase", "module-3-names"]
+greenlandic: Nuka
 ---
-Stærk. Aasiaat er et flertalsord, endelser skal sættes på ordet i parentes.
+Svag

@@ -1,5 +1,6 @@
 ---
 tags: ["phrase", "module-3-names"]
-greenlandic: Malik
+greenlandic: Ilisimatusarfik
+danish: Grønlands universitet
 ---
 Stærk
