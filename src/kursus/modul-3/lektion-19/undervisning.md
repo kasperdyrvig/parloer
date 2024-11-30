@@ -3,7 +3,7 @@ partOfLesson: 19
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om forholdsendelsen ±ni/±mi
+**Formål:** Lære om transitive udsagnsord
 
 **Plan:**
 
@@ -43,12 +43,12 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
+- Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
     - **Skriftlig:** Øvelse 3.1X, 3.2X, 3.9X, 3.10X, 3.11X
         - Hjælp til lektier: Snak om hvordan man decifrerer sætningens skabelon i øvelse 3.11X
-    - Se Forelæsning 4: Træning og opsamling
+    - Send emner til repetition til læreren.
 
 **Links/ressourcer:**
 

@@ -48,7 +48,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
+- Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen.
     - **Skriftlig:** Øvelse 2.1X, 2.2X, 2.3X, 2.4X

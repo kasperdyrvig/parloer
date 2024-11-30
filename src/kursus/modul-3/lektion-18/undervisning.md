@@ -37,7 +37,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
+- Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** Øv dig på at bruge -mi, ved at sætte den på ordene du har sat post-it sedler på.
     - **Skriftlig:** Øvelse 3.3X, 3.4X, 3.5X, 3.6X, 3.7X, 3.8X
