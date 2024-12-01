@@ -1,5 +1,5 @@
 ---
-tags: ["phrase", "module-3-23-25-terms"]
+tags: ["phrase", "module-3-23-terms"]
 greenlandic: najugaq
 danish: bopæl
 ---

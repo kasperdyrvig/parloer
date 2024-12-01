@@ -3,7 +3,7 @@ partOfLesson: 23
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lær tilhænget +miu
+**Formål:** Lære tilhænget +miu
 
 **Plan:**
 
@@ -33,5 +33,6 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** ??
+    - **Mundtlig:** Øv dig på de nye gloser.
+        - Hvordan lærer man gloser? Se forelæsning 5.2 fra 10:16.
     - **Skriftlig:** Strukturøvelse 1.1, 1.2, 1.3, 3.1, 3.2
