@@ -191,4 +191,34 @@ document.addEventListener("DOMContentLoaded", function() {
             completedDateElement.value = lessonDateObject[lessonNo];
         }
     }
+
+    // Store homework marked as done
+    const homeworkCheckboxes = document.querySelectorAll(".homework-check");
+    const progressBar = document.getElementById("homework-progress");
+
+    // Update progress bar
+    function updateProgress() {
+        const total = homeworkCheckboxes.length;
+        const completed = Array.from(homeworkCheckboxes).filter(checkbox => checkbox.checked).length;
+        const percentage = Math.round((completed / total) * 100);
+        progressBar.ariaValueNow = completed;
+        progressBar.querySelector(".progress-bar").style.width = `${percentage}%`;
+    }
+
+    // Load saved progress from local storage
+    homeworkCheckboxes.forEach((checkbox) => {
+        const isChecked = localStorage.getItem(checkbox.id) === "true";
+        checkbox.checked = isChecked;
+    });
+
+    // Initial update of progress bar
+    updateProgress();
+
+    // Save progress to local storage when checkbox state changes
+    homeworkCheckboxes.forEach((checkbox) => {
+        checkbox.addEventListener("change", (event) => {
+            localStorage.setItem(event.target.id, event.target.checked);
+            updateProgress();
+        });
+    });
 });

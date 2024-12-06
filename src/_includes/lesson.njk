@@ -32,14 +32,16 @@ metaTitle: Lektion
             </div>
         </div>
 
-
         <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Øvelser</h2>
+            <div class="progress mb-sm" id="homework-progress" role="progressbar" aria-label="Øvelser gennemført" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar w-0"></div>
+            </div>
             <ul class="list-group nav-list-group">
             {% set relatedHomeworks = collections.all | relatedHomework(lessonNo) %}
             {% for homework in relatedHomeworks %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}" checked disabled></div>
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="homework-{{lessonNo}}-{{loop.index}}"></div>
                     <div class="d-inline-block">
                         <label for="homework-{{lessonNo}}-{{loop.index}}">
                             {{homework.data.previewText}}</label>
@@ -58,7 +60,7 @@ metaTitle: Lektion
             {% set relatedOralHomeworks = collections.all | relatedOralHomework(lessonNo) %}
             {% for oral in relatedOralHomeworks %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2" id="oral-{{lessonNo}}-{{loop.index}}" checked disabled></div>
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="oral-{{lessonNo}}-{{loop.index}}"></div>
                     <div class="d-inline-block">
                         <label for="oral-{{lessonNo}}-{{loop.index}}">
                             {{oral.data.previewText}}</label>
