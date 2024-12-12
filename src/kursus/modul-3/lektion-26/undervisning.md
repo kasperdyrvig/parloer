@@ -1,5 +1,5 @@
 ---
-partOfLesson: 25
+partOfLesson: 26
 tags: teachernotes
 onPageTitle: Til læreren
 ---
@@ -27,7 +27,7 @@ onPageTitle: Til læreren
     - -ssa
     - -nngit-
 
-10 min: Tikas velkomst
+10 min: **Tikas velkomst**
 
 - Se videoen med Tikas velkomst.
     - Kunne eleverne genkende nogle af ordene?
@@ -40,6 +40,6 @@ onPageTitle: Til læreren
 - Ugens guldkorn:
 - Lektier:
     - **Mundtlig:**
-    - **Skriftlig:** Øvelse 5.7X. Skriv diktat af Tikas velkomst.
+    - **Skriftlig:** Øvelse 5.7X. Skriv diktat af Tikas velkomst. Tænk over hvilke spørgsmål vi kan stille den person der skal interviewes næste lektion.
         - Hjælp til lektier: Lav diktaten sammen som gruppe. Afspil videoen i langsom hastighed.
         - Pas på! Det er en god øvelse at kunne opfatte ord/sætninger man ikke forstår, men det er en meget svær opgave. Lad den ikke tage al modet fra dig.

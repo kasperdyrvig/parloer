@@ -26,13 +26,15 @@ onPageTitle: Til læreren
 
 - Betydning: at være - identitet
     - Fx: Puisiuvoq *det er en sæl*, iipiliuvoq *det er et æble*.
-- Normalt er det et minustilhæng, men på mange stærke stammer der slutter på q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
+- Normalt er det et minustilhæng, men der er lidt undtagelser:
+    - På mange stærke stammer der slutter på q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
+    - På alle T-stammer kommer der et ekstra A ind. Fx: angutaavutit *du er en mand*. Forklaring kommer i næste modul.
 - Hvad sker der når man sætter -u- på arnaq, anersaaq (j indsættes mellem vokalerne), nalunaajaasoq eller qimmeq?
 
-15 min: **Øvelse.** To sandheder og en løgn
+15 min: **Øvelse.** Gæt en person
 
-- Kursisterne får 5-10 min til at finde på 2 sandheder og 1 løgn om sig selv (ved brug af -u-). Hjælp evt med gloser.
-    - Derefter skiftes kursisterne 2 og 2 til at sige udtalelserne til hinanden foran hele klassen og at gætte på, hvad der er løgnen.
+- En kursist bliver tildelt en kendt person fra Bibelen.
+- De andre kursister skal ved at stille ja/nej spørgsmål (gerne med -u-) prøve at regne ud hvilken person de er.
 
 10 min: **Øvelse.** Mimespil
 
