@@ -3,7 +3,7 @@ partOfModule: 0
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-Velkommen til Paasiviuk?! :) Jeg har lagt alt kursusmaterialet ud her på siden for at gøre det tilgængeligt for alle der kunne tænke sig at afholde et grønlandskkursus. Der ligger selvfølgelig mange tanker bag og det er ikke sikkert at du altid kan regne ud hvad jeg mener, men jeg håber at det kan gøre det nemt at afholde et interessant og engagerende kursus. Hvis du beslutter dig for at afholde et Paasiviuk?! kursus, vil jeg elske at høre om det og jeg modtager meget gerne feedback. Skriv til mig her. Materialet bliver løbende opdateret og finjusteret, efterhånden som jeg får det afprøvet og får mere erfaring.
+Velkommen til Paasiviuk?! :) Jeg har lagt alt kursusmaterialet ud her på siden for at gøre det tilgængeligt for alle der kunne tænke sig at afholde et grønlandskkursus. Der ligger selvfølgelig mange tanker bag og det er ikke sikkert at du altid kan regne ud hvad jeg mener, men jeg håber at det kan gøre det nemt at afholde et interessant og engagerende kursus. Hvis du beslutter dig for at afholde et Paasiviuk?! kursus, vil jeg elske at høre om det og jeg modtager meget gerne feedback. Skriv til mig [her](https://forms.gle/Ksbe7eu3tx79HiQ6A). Materialet bliver løbende opdateret og finjusteret, efterhånden som jeg får det afprøvet og får mere erfaring.
 
 Kurset er lavet til fysisk klasseundervisning. Hvis der er behov for at gennemføre det over videokonference, må man tilpasse flere af øvelserne.
 

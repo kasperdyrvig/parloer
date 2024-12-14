@@ -15,7 +15,7 @@ onPageTitle: Til læreren
 15 min: **Sætningsstafet**
 
 - Alle kursister skiftes til at sige en ny sætning uden at slå op i noter mm.
-- læreren skriver dem løbende op på whiteboard.
+- Læreren skriver dem løbende op på whiteboard.
 - Hvis man ikke kan komme i tanke om noget må man sige pas.
 - Hvis alle har sagt pas 2 gange, er stafetten færdig.
 - Bagefter kan I gennemgå alle sætningerne.

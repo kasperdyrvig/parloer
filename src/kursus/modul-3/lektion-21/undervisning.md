@@ -3,7 +3,7 @@ partOfLesson: 21
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Repetere tilhænget -qar- og lære -tor-
+**Formål:** Repetere tilhænget -qar- og lære +tor-
 
 **Plan:**
 
@@ -38,5 +38,5 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** Alle kursister får hver et stykke fra Naassaanngitsumik pilluarsinnaavutit de skal øve sig på at læse til næste gang.
+    - **Mundtlig:** Alle kursister får hver et stykke fra *Naassaanngitsumik pilluarsinnaavutit!* de skal øve sig på at læse til næste gang.
     - **Skriftlig:** Øvelse 4.1X, 4.2X og 3.10X, 3.11X igen

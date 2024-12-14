@@ -12,7 +12,7 @@ onPageTitle: Til læreren
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 
-10 min: **Forholdsendelsen ±ni/±mi**
+10 min: **Forholdsendelsen ±ni/±mi (Lok)**
 - Hvad betyder det?
 - Repetition: Hvornår er det +/-?
     - Prøv at sætte endelsen på Nuuk, Qaqortoq, Sisimiut og Aasiaat
@@ -42,6 +42,6 @@ onPageTitle: Til læreren
     - **Mundtlig:** Øv dig på at bruge -mi, ved at sætte den på ordene du har sat post-it sedler på.
     - **Skriftlig:** Øvelse 3.3X, 3.4X, 3.5X, 3.6X, 3.7X, 3.8X
         - Hjælp til lektier: Ved udenlandske navne gælder lydreglen om vokaler ikke, fx: Egedemut.
-        - Grønlandske nominer kan kun ende på K, P, Q eller T. Ved udenlandske navne/ord der ender på andet indsættes i når der bliver sat endelser på. Fx: Rosingimi.
+        - Grønlandske nominer kan kun ende på K, P, Q eller T. Ved udenlandske navne/ord der ender på andet indsættes I når der bliver sat endelser på. Fx: Rosingimi.
         - Ilissi er særlig, her bruger man -nn når endelsen kommer på, fx: Ilissinnit
     - Læs intro til næste lektion.
