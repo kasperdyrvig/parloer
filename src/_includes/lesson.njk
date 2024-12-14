@@ -46,7 +46,13 @@ metaTitle: Lektion
                         <label for="homework-{{lessonNo}}-{{loop.index}}">
                             {{homework.data.previewText}}</label>
                         {%if homework.data.linkText %}
-                            <p class="mb-0 mt-sm"><a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a></p>
+                            <p class="mb-0 mt-sm">
+                                {% if homework.data.externalLink %}
+                                    <a class="btn btn-small btn-blue" target="_blank" href="{{homework.data.externalLink | url}}">{{homework.data.linkText}}</a>
+                                {%else%}
+                                    <a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                                {%endif%}
+                            </p>
                         {%endif%}
                     </div>
                 </li>
@@ -79,8 +85,13 @@ metaTitle: Lektion
             {% set relatedGems = collections.all | relatedGem(lessonNo) %}
             {% for gem in relatedGems %}
                 <li class="list-group-item d-flex">
-                {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>{%else%}
-                    <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                    {% if gem.data.externalLink %}
+                        <a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>
+                    {% elif gem.content %}
+                        <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>
+                    {%else%}
+                        {{gem.data.onPageTitle}}
+                    {%endif%}
                 </li>
             {% endfor %}
             </ul>

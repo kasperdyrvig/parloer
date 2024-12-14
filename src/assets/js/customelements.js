@@ -127,6 +127,7 @@ class exerciseMultiChoice extends HTMLElement {
         wrapper.appendChild(legend);
         
         const optionsWrapper = el("div", "multiple-choice-container");
+        if (this.dataset.random) optionsWrapper.dataset.random = true;
         wrapper.appendChild(optionsWrapper);
         
         for (let index = 0; index < this.dataset.options.split(",").length; index++) {
