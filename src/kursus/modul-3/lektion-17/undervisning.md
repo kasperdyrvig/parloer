@@ -45,7 +45,7 @@ onPageTitle: Til læreren
 - Man bruger kun formen der starter med "±m" ved helt ubøjede ord = dvs ord der står i ental.
     - Prøv at sætte endelserne på Sisimiut og Aasiaat
 
-5 min: **Opsummering og lektier**
+10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
@@ -55,9 +55,10 @@ onPageTitle: Til læreren
         - Hjælp til lektier: Vis eleverne listen over bynavne i støttesætninger.
         - Kalaallit Nunaat er særlig, der er en personendelse på. Den bøjes: Kalaallit Nunaannut.
         - Når du laver lektier: Husk at gentage/sige sætningen højt og at tænke over hvad ordet betyder.
+        - Skriv ned hvis der opstår spørgsmål/hvis noget var ekstra svært! Der er ekstra tid i hver lektion til at snakke om ugens lektier.
     - Læs intro til næste lektion.
 
-10 min: **Organisering**
+5 min: **Organisering**
 - Forklar konceptet med at lave lektier i grupper.
 - Få delt eleverne op i grupper alt efter hvem der kan hvornår.
 
