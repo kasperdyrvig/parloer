@@ -59,8 +59,8 @@ function nextExerciseItem() {
         }
         
         //If randomize options
-        if(exerciseItems[itemIndex].querySelector(".multiple-choise-container") !== null) {
-            const radioContainer = exerciseItems[itemIndex].querySelector(".multiple-choise-container");
+        if(exerciseItems[itemIndex].querySelector(".multiple-choice-container") !== null) {
+            const radioContainer = exerciseItems[itemIndex].querySelector(".multiple-choice-container");
             if(radioContainer.dataset.random == "true") {
                 for (var i = radioContainer.children.length; i >= 0; i--) {
                     radioContainer.appendChild(radioContainer.children[Math.random() * i | 0]);

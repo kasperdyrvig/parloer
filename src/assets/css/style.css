@@ -466,3 +466,6 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 
 .lessonList > a:not(.lessonCompleted) > span {display: none;}
 .lessonList > a.lessonCompleted > span {color: var(--color-green-700);}
+
+.progress {display: flex; height: .75rem; overflow: hidden; background-color: var(--color-white); border-radius: var(--border-radius);}
+.progress-bar {display: flex; flex-direction: column; justify-content: center; overflow: hidden; color: var(--color-white); text-align: center; white-space: nowrap; background-color: var(--color-green-500); transition: width 0.6s ease;}

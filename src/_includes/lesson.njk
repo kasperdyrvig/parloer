@@ -32,19 +32,27 @@ metaTitle: Lektion
             </div>
         </div>
 
-
         <div class="mb-lg hide-if-list-empty">
             <h2 class="mb-sm">Øvelser</h2>
+            <div class="progress mb-sm" id="homework-progress" role="progressbar" aria-label="Øvelser gennemført" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar w-0"></div>
+            </div>
             <ul class="list-group nav-list-group">
             {% set relatedHomeworks = collections.all | relatedHomework(lessonNo) %}
             {% for homework in relatedHomeworks %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2" id="homework-{{lessonNo}}-{{loop.index}}" checked disabled></div>
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="homework-{{lessonNo}}-{{loop.index}}"></div>
                     <div class="d-inline-block">
                         <label for="homework-{{lessonNo}}-{{loop.index}}">
                             {{homework.data.previewText}}</label>
                         {%if homework.data.linkText %}
-                            <p class="mb-0 mt-sm"><a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a></p>
+                            <p class="mb-0 mt-sm">
+                                {% if homework.data.externalLink %}
+                                    <a class="btn btn-small btn-blue" target="_blank" href="{{homework.data.externalLink | url}}">{{homework.data.linkText}}</a>
+                                {%else%}
+                                    <a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                                {%endif%}
+                            </p>
                         {%endif%}
                     </div>
                 </li>
@@ -58,7 +66,7 @@ metaTitle: Lektion
             {% set relatedOralHomeworks = collections.all | relatedOralHomework(lessonNo) %}
             {% for oral in relatedOralHomeworks %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2" id="oral-{{lessonNo}}-{{loop.index}}" checked disabled></div>
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="oral-{{lessonNo}}-{{loop.index}}"></div>
                     <div class="d-inline-block">
                         <label for="oral-{{lessonNo}}-{{loop.index}}">
                             {{oral.data.previewText}}</label>
@@ -77,8 +85,13 @@ metaTitle: Lektion
             {% set relatedGems = collections.all | relatedGem(lessonNo) %}
             {% for gem in relatedGems %}
                 <li class="list-group-item d-flex">
-                {% if gem.data.externalLink %}<a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>{%else%}
-                    <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>{%endif%}
+                    {% if gem.data.externalLink %}
+                        <a href="{{gem.data.externalLink}}" target="_blank">{{gem.data.onPageTitle}} (eksternt link)</a>
+                    {% elif gem.content %}
+                        <a href="{{gem.url | url}}">{{gem.data.onPageTitle}}</a>
+                    {%else%}
+                        {{gem.data.onPageTitle}}
+                    {%endif%}
                 </li>
             {% endfor %}
             </ul>
