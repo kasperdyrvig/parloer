@@ -212,7 +212,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     // Initial update of progress bar
-    updateProgress();
+    if (progressBar) updateProgress();
 
     // Save progress to local storage when checkbox state changes
     homeworkCheckboxes.forEach((checkbox) => {

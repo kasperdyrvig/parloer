@@ -20,7 +20,7 @@ metaTitle: Mere om grønlandsk
 - [Udsagnsordsendelser](/mere/endelser/)
 - Vendespil (kommer snart)
 - Diktat (kommer snart)
-- Flashcards (kommer snart)
+- [Flashcards](/mere/flashcards/)
 
 ___
 

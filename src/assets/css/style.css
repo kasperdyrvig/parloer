@@ -277,26 +277,20 @@ a.list-group-item {text-decoration: none;}
 .flashcard-footer-result {display: grid; grid-template-columns: 1fr 1fr; gap: var(--spacing-medium); width: 100%;}
     .flashcard-footer-result > p {grid-column: span 2; text-align: center;}
 .flashcard-card {position: relative; height: 100%; padding: var(--spacing-medium); background: var(--color-white); border-radius: var(--border-radius-large);
-    display: flex; align-items: center;justify-content: center;
+    display: flex; align-items: center;justify-content: center; aspect-ratio: 1/1;
 }
     .flashcard-card:not(.active) {display: none;}
 .flashcard-card-inner {position: relative; display: flex; flex-direction: column; align-items: center; gap: var(--spacing-x-small); font-size: var(--size-x-large)}
-.flashcard-card .word-greenlandic, .flashcard-card .word-danish, .flashcard-card .flashcard-image {
-    transition: height ease .3s;
-    overflow: hidden;
-}
 .flashcard-card > .flashcard-play {position: absolute; bottom: var(--spacing-small); right: var(--spacing-small);}
 .flashcard-image {margin-bottom: 1rem; order: 1;}
 .flashcard-image > img {max-width: 200px; max-height: 150px;}
 .flashcard-card.has-image .word-danish {order: 2;}
 .flashcard-card.has-image .word-greenlandic {order: 3;}
-.flashcard-card .word-danish, .flashcard-card .flashcard-image {height: 0;}
-.flashcard-card.flipped .word-danish, .flashcard-card.flipped .flashcard-image {height: auto;}
-.flashcard-card.flipped .word-greenlandic {height: 0;}
+.flashcard-card .word-danish, .flashcard-card .flashcard-image {display: none;}
+.flashcard-card.flipped .word-danish, .flashcard-card.flipped .flashcard-image {display: unset;}
+.flashcard-card.flipped .word-greenlandic {display: none;}
 .flashcard-card.flipped:not(.show-answer) > .flashcard-play {display: none;}
-.flashcard-card.show-answer .word-greenlandic, .flashcard-card.show-answer .word-danish, .flashcard-card.show-answer .flashcard-image {
-    height: auto !important;
-}
+.flashcard-card.show-answer .word-greenlandic, .flashcard-card.show-answer .word-danish, .flashcard-card.show-answer .flashcard-image {display: unset;}
 
 .dictation-card {height: 100%; width: 100%; display: flex; flex-direction: column; justify-content: center; gap: var(--spacing-medium);}
 .exercise-whiteboard {background-color: var(--color-white); display: flex; flex-direction: column; justify-content: center; align-items: center; flex-grow: 1;
