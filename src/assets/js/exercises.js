@@ -5,6 +5,7 @@ let firstCard, secondCard, startTimer, endTimer, pairsTotal;
 let hasFlippedCard = false;
 let lockBoard = false;
 const submitBtn = document.querySelector("button[type=submit]");
+const exerciseId = document.querySelector("#exercise > .gamepanel-body").id;
 
 function startExercise() {
     document.getElementById("start").classList.add("hidden");
@@ -15,6 +16,10 @@ function startExercise() {
 function endExercise() {
     document.getElementById("exercise").classList.add("hidden");
     document.getElementById("finish").classList.remove("hidden");
+    clearLocalStorage();
+
+    //Save as complete
+    localStorage.setItem(document.querySelector("#exercise > .gamepanel-body").dataset.parentId, true);
     
     //Prepare email to send
     const output = document.getElementById("resultContainer").value + "\n" + document.querySelector(".gameend-score").innerText;
@@ -37,10 +42,15 @@ function nextExerciseItem() {
     if(itemIndex < exerciseItems.length) {
         //Hide previous item (if not the first item)
         if(itemIndex > 0) {
-            const activeExerciseItem = document.querySelector(".exercise-item.active");
-            activeExerciseItem.classList.remove("active");
+            try {
+                const activeExerciseItem = document.querySelector(".exercise-item.active");
+                activeExerciseItem.classList.remove("active");
+            } catch (error) { /*Ignore*/ }
         }
         
+        //Save what is the current step
+        localStorage.setItem(exerciseId + "-step", itemIndex);
+
         //Display next item
         exerciseItems[itemIndex].classList.add("active");
         if(exerciseItems[itemIndex].querySelector("form") !== null) {
@@ -164,6 +174,7 @@ function unflipCards() {
 
 function startCheck(event) {
     event.preventDefault();
+    //saveAllFormsToLocalStorage();
     checkAnswers();
     submitBtn.disabled = true;
 }
@@ -362,3 +373,71 @@ function selectSiblingInput(element) {
     const input = parent.querySelector("input[type=text]");
     input.focus = true;
 }
+
+// Function to save all form data to local storage
+function saveAllFormsToLocalStorage() {
+    const formData = {};
+    const forms = document.querySelectorAll("form");
+    forms.forEach(form => {
+        Array.from(form.elements).forEach(element => {
+            if (element.type === "text" || element.type === "number" || element.tagName.toLowerCase() === 'textarea' || element.tagName.toLowerCase() === 'select') {
+                formData[element.id] = element.value;
+            } else if (element.type === "checkbox" || element.type === "radio") {
+                formData[element.id] = element.checked;
+            }
+        });
+    });
+    localStorage.setItem(exerciseId, JSON.stringify(formData));
+    localStorage.setItem(exerciseId + "-output", document.getElementById("resultContainer").value);
+}
+
+// Function to load form data from local storage
+function loadFromLocalStorage() {
+    const savedData = localStorage.getItem(exerciseId);
+    if (savedData) {
+        const formData = JSON.parse(savedData);
+        const forms = document.querySelectorAll('form');
+        forms.forEach(form => {
+            Array.from(form.elements).forEach(element => {
+                if (formData[element.id] !== undefined) {
+                    if (element.type === "text" || element.type === "number" || element.tagName.toLowerCase() === 'textarea' || element.tagName.toLowerCase() === 'select') {
+                        element.value = formData[element.id];
+                    } else if (element.type === 'checkbox' || element.type === 'radio') {
+                        element.checked = formData[element.id];
+                    }
+                }
+            });
+        });
+    }
+    
+    const savedOutput = localStorage.getItem(exerciseId + "-output");
+    if (savedOutput) {
+        document.getElementById("resultContainer").value = savedOutput;
+    }
+
+    const savedStep = localStorage.getItem(exerciseId + "-step");
+    if (savedStep) {
+        itemIndex = savedStep;
+    }
+}
+
+// Function to clear form data from local storage
+function clearLocalStorage() {
+    localStorage.removeItem(exerciseId + "-step");
+    localStorage.removeItem(exerciseId);
+    localStorage.removeItem(exerciseId + "-output");
+}
+
+
+// Load saved data when the page loads
+document.addEventListener("DOMContentLoaded", function() {
+    if (localStorage.getItem(exerciseId)) {
+        loadFromLocalStorage();
+        startExercise();
+        console.log("Continue");
+    } else {
+        console.log("Start over");
+    }
+
+    document.querySelectorAll("input, textarea, select").forEach(formInput => formInput.addEventListener('input', saveAllFormsToLocalStorage));
+});

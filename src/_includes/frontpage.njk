@@ -17,7 +17,7 @@ layout: standard
 
 <p style="margin-top: 0;" class="mb-sm"><small><a href="{{'/kursus' | url}}">Læs mere</a></small></p>
 
-<nav class="home-games mb-lg">
+<nav class="home-games mb-sm">
     {% for module in collections.module%}
         <a href="{{module.url | url}}" class="game">
             <span class="game-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-mortarboard" viewBox="0 0 16 16">
@@ -27,6 +27,8 @@ layout: standard
             {{module.data.metaTitle}}</a>
     {% endfor %}
 </nav>
+
+<div class="alert mb-lg"><b>NYHED:</b> Nu gemmes dine svar i øvelserne automatisk, så du kan vende tilbage og gøre dem færdig senere. Når du har gennemført en øvelse, registres det automatisk.</div>
 
 <h2 class="mb-sm">Aktiviteter og værktøjer</h2>
 
