@@ -48,8 +48,8 @@ function nextExerciseItem() {
             } catch (error) { /*Ignore*/ }
         }
         
-        //Save what is the current step
-        localStorage.setItem(exerciseId + "-step", itemIndex);
+        //Save what is the current step and points
+        localStorage.setItem(exerciseId + "-step", itemIndex + "," + score + "," + maxScore);
 
         //Display next item
         exerciseItems[itemIndex].classList.add("active");
@@ -415,9 +415,11 @@ function loadFromLocalStorage() {
         document.getElementById("resultContainer").value = savedOutput;
     }
 
-    const savedStep = localStorage.getItem(exerciseId + "-step");
-    if (savedStep) {
-        itemIndex = savedStep;
+    const stepAndScore = localStorage.getItem(exerciseId + "-step").split(",");
+    if (stepAndScore.length > 0) {
+        itemIndex = Number(stepAndScore[0]);
+        if (stepAndScore[1]) score = Number(stepAndScore[1]);
+        if (stepAndScore[2]) maxScore = Number(stepAndScore[2]);
     }
 }
 
