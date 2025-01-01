@@ -5,6 +5,26 @@ function generateID(prefix) {
     return `${prefix}-${counter}`;
 }
 
+class exerciseIllustration extends HTMLElement {
+    constructor() {
+        super();
+    }
+    
+    connectedCallback() {
+        const wrapper = el("div", "exercise-image-container");
+
+        const img = el("img", "exercise-imgage");
+        img.setAttribute("src", "/assets/images/" + this.dataset.file);
+        if (this.dataset.alt) img.setAttribute("alt", this.dataset.alt);
+        wrapper.appendChild(img);
+        
+        this.appendChild(wrapper);
+        this.style.display = "contents";
+    }
+}
+
+customElements.define("image-illustration", exerciseIllustration);
+
 class exerciseSingleInput extends HTMLElement {
     constructor() {
         super();

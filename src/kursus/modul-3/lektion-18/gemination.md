@@ -9,8 +9,7 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/kapisilik.jpg' | url}})
+<image-illustration data-file="nature/kapisilik.jpg"></image-illustration>
 
 ## Kapisilik
 
@@ -20,8 +19,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/home/iigaq.jpg' | url}})
+<image-illustration data-file="home/iigaq.jpg"></image-illustration>
 
 ## Iigaq
 
@@ -31,8 +29,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/body/isigak.jpg' | url}})
+<image-illustration data-file="body/isigak.jpg"></image-illustration>
 
 ## Isigak
 
@@ -42,8 +39,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/clothes/nalunaaqutaq.jpg' | url}})
+<image-illustration data-file="clothes/nalunaaqutaq.jpg"></image-illustration>
 
 ## Nalunaaqutaq
 
@@ -53,8 +49,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/qullugiaq.jpg' | url}})
+<image-illustration data-file="nature/qullugiaq.jpg"></image-illustration>
 
 ## Qullugiaq
 
@@ -64,8 +59,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/ukaleq.jpg' | url}})
+<image-illustration data-file="nature/ukaleq.jpg"></image-illustration>
 
 ## Ukaleq
 
@@ -75,8 +69,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/body/inuaq.jpg' | url}})
+<image-illustration data-file="body/inuaq.jpg"></image-illustration>
 
 ## Inuaq
 
@@ -86,8 +79,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/clothes/sinnguseq.jpg' | url}})
+<image-illustration data-file="clothes/sinnguseq.jpg"></image-illustration>
 
 ## Sinnguseq
 
@@ -97,8 +89,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/home/amusarialik.jpg' | url}})
+<image-illustration data-file="home/amusarialik.jpg"></image-illustration>
 
 ## Amusarialik
 
@@ -108,8 +99,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/pakkaluaq.jpg' | url}})
+<image-illustration data-file="nature/pakkaluaq.jpg"></image-illustration>
 
 ## Pakkaluaq
 
@@ -119,8 +109,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/clothes/ajaappiaq.jpg' | url}})
+<image-illustration data-file="clothes/ajaappiaq.jpg"></image-illustration>
 
 ## Ajaappiaq
 
@@ -130,8 +119,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/orpigaq.jpg' | url}})
+<image-illustration data-file="nature/orpigaq.jpg"></image-illustration>
 
 ## Orpigaq
 
@@ -141,8 +129,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/nattoralik.jpg' | url}})
+<image-illustration data-file="nature/nattoralik.jpg"></image-illustration>
 
 ## Nattoralik
 
@@ -152,8 +139,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/family/nukappiaraq.jpg' | url}})
+<image-illustration data-file="family/nukappiaraq.jpg"></image-illustration>
 
 ## Nukappiaraq
 
@@ -163,8 +149,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/tulugaq.jpg' | url}})
+<image-illustration data-file="nature/tulugaq.jpg"></image-illustration>
 
 ## Tulugaq
 
@@ -174,8 +159,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/nanoq.jpg' | url}})
+<image-illustration data-file="nature/nanoq.jpg"></image-illustration>
 
 ## Nanoq
 
@@ -185,8 +169,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/teriaq.jpg' | url}})
+<image-illustration data-file="nature/teriaq.jpg"></image-illustration>
 
 ## Teriaq
 
@@ -196,8 +179,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/clothes/tujuuluaraq.jpg' | url}})
+<image-illustration data-file="clothes/tujuuluaraq.jpg"></image-illustration>
 
 ## Tujuuluaraq
 
@@ -207,8 +189,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/home/akiseq.jpg' | url}})
+<image-illustration data-file="home/akiseq.jpg"></image-illustration>
 
 ## Akiseq
 
@@ -218,8 +199,7 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-
-![]({{'/assets/images/nature/amaroq.jpg' | url}})
+<image-illustration data-file="nature/amaroq.jpg"></image-illustration>
 
 ## Amaroq
 
