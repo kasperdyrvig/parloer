@@ -16,15 +16,14 @@ Jiisusi maani nunarsuarmi inunngorpoq. Angajoqqaaqarpoq, Juuserfimik Mariiamillu
 
 {% helpContent "Gloser" %}
 inunngorpoq = han bliver født
-<br>angajoqqaat = forældre
-<br>angerlarpoq = han tager hjem
-<br>tammaavaat = de kan ikke finde ham
-<br>nanisinnaanngilaat = de kan ikke finde ham
-<br>annilaangalerput = de blev bekymret
-<br>guutisiorfimmiippoq = han er i templet
-<br>naalattuaannarpoq = han er altid lydig
+angajoqqaat = forældre
+angerlarpoq = han tager hjem
+tammaavaat = de kan ikke finde ham
+nanisinnaanngilaat = de kan ikke finde ham
+annilaangalerput = de blev bekymret
+guutisiorfimmiippoq = han er i templet
+naalattuaannarpoq = han er altid lydig
 {% endhelpContent %}
-
 <multi-choice data-label="Oqaluttuaq paasiviuk?" data-type="radio" data-random="false" data-options="Aap, Naamik, Immannguaq" ></multi-choice>
 <single-input data-label="Jiisusip angajoqqaavi qanoq ateqarpat?" ></single-input>
 <single-input data-label="Jiisusi annilaangalerpa?" ></single-input>

@@ -16,26 +16,8 @@ module.exports = function (eleventyConfig) {
   }
 
   // Shortcodes
-  eleventyConfig.addShortcode("exerciseMultiInput", function (labelArray, validationArray) {
-    let output = `<fieldset class="multiinput">`;
-    const labels = labelArray.split(",");
-    labels.forEach(element => {
-      const id = uuidv4();
-      output += `<div class="form-group textinput">
-        <label for="${id}">${element}</label>
-        <input type="text" id="${id}" class="form-input" autocomplete="off" spellcheck="off">
-      </div>`;
-    });
-    output += `</fieldset>`;
-    return output;
-  });
-  
-  eleventyConfig.addShortcode("exerciseInput", function (label, validation) {
-    const id = uuidv4();
-    return `<div class="form-group textinput">
-        <label for="${id}">${label}</label>
-        <input type="text" id="${id}" autocomplete="off" spellcheck="off">
-      </div>`;
+  eleventyConfig.addShortcode("uniqueId", function () {
+    return uuidv4();
   });
 
   eleventyConfig.addShortcode("backButton", function () {
@@ -60,8 +42,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPairedShortcode("helpContent", function (content, label) {
-    const id = uuidv4();
-    return `<details class="details-help"><summary>${label}</summary><div class="details-help-content">${content}</div></details>`;
+    return `<details class="details-help"><summary>${label}</summary><div class="details-help-content">${content.trim().toString().replace(/\n/g, "<br>")}</div></details>`;
   });
 
   // Filters

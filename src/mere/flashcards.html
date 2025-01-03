@@ -1,66 +1,140 @@
 ---
 layout: base
-metaTitle: Flashcards
+metaTitle: Spil
 ---
+<ul id="words-list" hidden>
+{% for phrase in phrases.numbers %}<li data-parent="numbers" data-image="{{ phrase.image }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.family %}<li data-parent="family" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.body %}<li data-parent="body" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.clothes %}<li data-parent="clothes" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.colors %}<li data-parent="colors" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.nature %}<li data-parent="nature" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.food %}<li data-parent="food" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.plants %}<li data-parent="plants" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+{% for phrase in phrases.calendar %}<li data-parent="calendar" data-danish="{{ phrase.danish }}" data-greenlandic="{{ phrase.greenlandic }}"></li>
+{% endfor %}
+</ul>
+
 <main class="flashcard-container">
-    <section>
-        <template>
-            <div id="@card.Id" class="flashcard-card @(hasImage ? " has-image" : "" )">
-                <div class="flashcard-card-inner">
-                    @if(hasImage)
-                    {
-                    var illustration = card.Value<MediaWithCrops>("phraseImage");
-                        if(illustration != null)
-                        {
-                        <div class="flashcard-image"><img src="@illustration.MediaItem.Url()" loading="lazy"></div>
-                        }
-                        }
-                        @if(card.HasValue("phraseGreenlandic"))
-                        {
-                        <div class="word-greenlandic" lang="kl">@card.Value("phraseGreenlandic")</div>
-                        }
-                        @if(card.HasValue("phraseDanish"))
-                        {
-
-                        <div class="word-danish">@card.Value("phraseDanish")</div>
-                        }
-                </div>
-                @if(card.HasValue("phraseAudio"))
-                {
-                var audioFile = card.Value<MediaWithCrops>("phraseAudio");
-                    <audio src="@audioFile.MediaItem.Url"></audio>
-                    <button type="button" data-playing="false" class="flashcard-play button-ghost play-button"
-                        title="Sig højt" onclick="flashcardPlay()">
-                        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                            fill="currentColor" class="bi bi-volume-up" viewBox="0 0 16 16">
-                            <path
-                                d="M11.536 14.01A8.473 8.473 0 0 0 14.026 8a8.473 8.473 0 0 0-2.49-6.01l-.708.707A7.476 7.476 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303l.708.707z" />
-                            <path
-                                d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.483 5.483 0 0 1 11.025 8a5.483 5.483 0 0 1-1.61 3.89l.706.706z" />
-                            <path
-                                d="M10.025 8a4.486 4.486 0 0 1-1.318 3.182L8 10.475A3.489 3.489 0 0 0 9.025 8c0-.966-.392-1.841-1.025-2.475l.707-.707A4.486 4.486 0 0 1 10.025 8zM7 4a.5.5 0 0 0-.812-.39L3.825 5.5H1.5A.5.5 0 0 0 1 6v4a.5.5 0 0 0 .5.5h2.325l2.363 1.89A.5.5 0 0 0 7 12V4zM4.312 6.39 6 5.04v5.92L4.312 9.61A.5.5 0 0 0 4 9.5H2v-3h2a.5.5 0 0 0 .312-.11z" />
-                        </svg>
-                    </button>
-                    }
-            </div>
-            <div class="flashcard-result" style="display: none;">
-                <h2 class="mb-sm">Sejt!</h2>
-                <p>Du fik <span id="score"></span> ud af @selection.Count() rigtige</p>
-            </div>
-        </template>
+    <section id="game-intro">
+        <button type="button" class="btn btn-block btn-uppercase btn-blue" onclick="startGame();">Start</button>
     </section>
-
+    <section id="gameboard" class="hidden"></section>
     <footer>
-        <button type="button" class="flashcard-footer btn btn-uppercase btn-block btn-blue" style="display: none;"
-            onclick="showAnswer()">Vis svaret</button>
-        <div class="flashcard-footer-result" style="display: none;">
+        <button type="button" class="flashcard-footer btn btn-uppercase btn-block btn-blue hidden" onclick="showAnswer();">Vis svaret</button>
+        <div class="flashcard-footer-result hidden">
             <p>Var dit svar ...</p>
-            <button type="button" class="btn btn-block btn-uppercase btn-green btn-right"
-                onclick="correctAnswer()">Rigtigt</button>
-            <button type="button" class="btn btn-block btn-uppercase btn-red btn-wrong"
-                onclick="wrongAnswer()">Forkert</button>
+            <button type="button" class="btn btn-block btn-uppercase btn-green btn-right" onclick="correctAnswer()">Rigtigt</button>
+            <button type="button" class="btn btn-block btn-uppercase btn-red btn-wrong" onclick="wrongAnswer()">Forkert</button>
         </div>
-        <a href="#" class="flashcard-footer-final btn btn-uppercase btn-block btn-gray" style="display: none;">Prøv
-            igen</a>
+        <div class="flashcard-result hidden">
+            <h2 class="mb-sm">Sejt!</h2>
+            <p>Du fik X ud af Y rigtige</p>
+            <a href="{{page.url}}" class="flashcard-footer-final btn btn-uppercase btn-block btn-gray">Prøv igen</a>
+        </div>
     </footer>
 </main>
+
+<template>
+    <div class="flashcard-card hasImage">
+        <div class="flashcard-card-inner">
+            <div class="flashcard-image"><img src="#" loading="lazy"></div>
+            <div class="word-greenlandic" lang="kl">Greenlandic</div>
+            <div class="word-danish">Danish</div>
+        </div>
+    </div>
+</template>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const wordList = document.querySelectorAll('#words-list li');
+    const board = document.getElementById("gameboard");
+    const flashcardTemplate = document.querySelector("template");
+
+    // Convert NodeList to Array
+    const wordArray = Array.from(wordList);
+
+    // Shuffle the array
+    const shuffled = wordArray.sort(() => 0.5 - Math.random());
+
+    // Get 5 random items
+    const randomItems = shuffled.slice(0, 10);
+
+    // Display the random items
+    randomItems.forEach(item => {
+        const clone = flashcardTemplate.content.cloneNode(true);
+        if (item.dataset.image) {
+            clone.querySelector("img").src = `/assets/images/${item.dataset.parent}/${item.dataset.image}`;
+        } else {
+            clone.querySelector(".flashcard-card").classList.remove("hasImage");
+            clone.querySelector(".flashcard-image").remove();
+        }
+        clone.querySelector(".word-greenlandic").textContent = item.dataset.greenlandic;
+        clone.querySelector(".word-danish").textContent = item.dataset.danish;
+        
+        board.appendChild(clone);
+    });
+});
+
+const intro = document.getElementById("game-intro");
+const board = document.getElementById("gameboard");
+const answerBtn = document.querySelector(".flashcard-footer");
+const rightOrWrong = document.querySelector(".flashcard-footer-result");
+const result = document.querySelector(".flashcard-result");
+let rightAnswersCount = 0;
+let wrongAnswersCount = 0;
+
+function startGame() {
+    intro.classList.add("hidden");
+    board.classList.remove("hidden");
+    nextCard();
+}
+
+function nextCard() {
+    const cards = document.querySelectorAll(".flashcard-card");
+    if (cards.length == 1) {
+        endGame();
+    } else {
+        if (cards[0].classList.contains("flipped")) {
+            cards[0].remove();
+            cards[1].classList.add("active");
+        } else {
+            cards[0].classList.add("active");
+        }
+        rightOrWrong.classList.add("hidden");
+        answerBtn.classList.remove("hidden");
+    }
+}
+
+function showAnswer() {
+    board.querySelector(".flashcard-card.active").classList.add("flipped");
+    rightOrWrong.classList.remove("hidden");
+    answerBtn.classList.add("hidden");
+}
+
+function correctAnswer() {
+    rightAnswersCount++;
+    nextCard();
+}
+
+function wrongAnswer() {
+    wrongAnswersCount++;
+    nextCard();
+}
+
+function endGame() {
+    board.classList.add("hidden");
+    answerBtn.classList.add("hidden");
+    rightOrWrong.classList.add("hidden");
+    result.querySelector("p").textContent = result.querySelector("p").innerHTML.replace("X", rightAnswersCount).replace("Y", (rightAnswersCount + wrongAnswersCount));
+    result.classList.remove("hidden");
+}
+</script>

@@ -252,7 +252,10 @@ a.list-group-item {text-decoration: none;}
     .gamepanel-meter::-moz-progress-bar {background-color: var(--color-green-500);}
 .gamepanel-body img {max-width: 100%;}
 .exercise-item:not(.active){display: none;}
-.exercise-image-container > img {max-width: 100%;}
+.exercise-item .audio {margin-bottom: var(--spacing-medium); text-align: center;}
+.exercise-image-container {text-align: center; margin-bottom: var(--spacing-large);}
+.exercise-image-container > img {max-height: 300px;}
+.alert {padding: var(--spacing-medium); background-color: var(--color-yellow-100); border-radius: var(--border-radius-large);}
 .response {position: sticky; bottom: 0; padding: var(--spacing-medium); display: flex; flex-direction: column; gap: var(--spacing-small); 
     box-shadow: 0 0 10px 0 rgba(0,0,0,.1); background-color: var(--color-white); border-radius: var(--border-radius-large);
 }
@@ -277,26 +280,20 @@ a.list-group-item {text-decoration: none;}
 .flashcard-footer-result {display: grid; grid-template-columns: 1fr 1fr; gap: var(--spacing-medium); width: 100%;}
     .flashcard-footer-result > p {grid-column: span 2; text-align: center;}
 .flashcard-card {position: relative; height: 100%; padding: var(--spacing-medium); background: var(--color-white); border-radius: var(--border-radius-large);
-    display: flex; align-items: center;justify-content: center;
+    display: flex; align-items: center;justify-content: center; aspect-ratio: 1/1;
 }
     .flashcard-card:not(.active) {display: none;}
 .flashcard-card-inner {position: relative; display: flex; flex-direction: column; align-items: center; gap: var(--spacing-x-small); font-size: var(--size-x-large)}
-.flashcard-card .word-greenlandic, .flashcard-card .word-danish, .flashcard-card .flashcard-image {
-    transition: height ease .3s;
-    overflow: hidden;
-}
 .flashcard-card > .flashcard-play {position: absolute; bottom: var(--spacing-small); right: var(--spacing-small);}
 .flashcard-image {margin-bottom: 1rem; order: 1;}
 .flashcard-image > img {max-width: 200px; max-height: 150px;}
 .flashcard-card.has-image .word-danish {order: 2;}
 .flashcard-card.has-image .word-greenlandic {order: 3;}
-.flashcard-card .word-danish, .flashcard-card .flashcard-image {height: 0;}
-.flashcard-card.flipped .word-danish, .flashcard-card.flipped .flashcard-image {height: auto;}
-.flashcard-card.flipped .word-greenlandic {height: 0;}
+.flashcard-card .word-danish, .flashcard-card .flashcard-image {display: none;}
+.flashcard-card.flipped .word-danish, .flashcard-card.flipped .flashcard-image {display: unset;}
+.flashcard-card.flipped .word-greenlandic {display: none;}
 .flashcard-card.flipped:not(.show-answer) > .flashcard-play {display: none;}
-.flashcard-card.show-answer .word-greenlandic, .flashcard-card.show-answer .word-danish, .flashcard-card.show-answer .flashcard-image {
-    height: auto !important;
-}
+.flashcard-card.show-answer .word-greenlandic, .flashcard-card.show-answer .word-danish, .flashcard-card.show-answer .flashcard-image {display: unset;}
 
 .dictation-card {height: 100%; width: 100%; display: flex; flex-direction: column; justify-content: center; gap: var(--spacing-medium);}
 .exercise-whiteboard {background-color: var(--color-white); display: flex; flex-direction: column; justify-content: center; align-items: center; flex-grow: 1;
@@ -320,11 +317,13 @@ a.list-group-item {text-decoration: none;}
     .whiteboard-footer {display: flex; gap: var(--spacing-medium);}
     .whiteboard-body {display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .whiteboard .word-greenlandic {font-size: var(--size-large);}
-/*fieldset {display: flex; gap: var(--spacing-medium); border: 0; padding: 0; margin: 0; flex-wrap: wrap;}*/
 .form-group {margin-bottom: .75rem;}
 fieldset {border: 0; padding: 0; margin: 0;}
-fieldset.multiinput > .form-group label {width: 25%; float: left;}
-fieldset.multiinput > .form-group input {width: 75%; float: left;}
+fieldset.multiinput > .form-group {display: flex; align-items: center;}
+fieldset.multiinput > .form-group input[type=radio] {width: 5%;}
+fieldset.multiinput > .form-group label {width: 25%;}
+fieldset.multiinput > .form-group input[type=text] {width: 75%;}
+fieldset.multiinput:has(input[type=radio]) > .form-group input[type=text] {width: 70%;}
 fieldset.multiinput > .form-group .response-label {clear: both;}
 .form-input {border: 1px solid var(--color-gray-500); font-family: inherit; border-radius: var(--border-radius); padding: var(--spacing-small);
     width: 100%; background-color: var(--color-white); color: var(--color-black);
@@ -367,7 +366,7 @@ details {background-color: var(--color-white); padding: var(--spacing-medium); m
 details:not(:last-of-type) {border-bottom: 1px solid var(--color-gray-500);}
 details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-medium) * -1); cursor: pointer;}
 
-.details-help {background: none; padding: 0; margin: var(--spacing-2x-small) 0;}
+.details-help {background: none; padding: 0; margin: var(--spacing-2x-small) 0 var(--spacing-large);}
 .details-help > summary {background-color: var(--color-white); margin: 0 0 var(--spacing-2x-small) 0; padding: var(--spacing-x-small); border-radius: 1000px; width: min-content; white-space: nowrap; color: var(--color-gray-700); font-size: small;}
 .details-help > div {    border-left: 3px solid var(--color-gray-700); padding-left: var(--spacing-small);}
 

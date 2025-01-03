@@ -11,6 +11,12 @@ Alle rettigheder forbeholdt. Denne app er lavet på et privat og frivilligt init
 
 ## Input i øvelser
 
+- Billede
+    ```
+    <image-illustration data-file="nature/niisa.jpg" data-alt="Tegning af et marsvin"></image-illustration>
+    ```
+    (Billedet finder selv images-mappen)
+
 - Knap med lyd
     ```
     <audio-player data-file="numbers/Numbers_01.mp3"></audio-player>
@@ -59,7 +65,7 @@ Alle rettigheder forbeholdt. Denne app er lavet på et privat og frivilligt init
 
 - Hjælpetekst
     ```
-    {% helpContent "Hjælp" %}
+    {% helpContent "Gloser" %}
 
     Her er der hjælp at hente
 

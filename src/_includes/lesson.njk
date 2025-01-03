@@ -40,17 +40,20 @@ metaTitle: Lektion
             <ul class="list-group nav-list-group">
             {% set relatedHomeworks = collections.all | relatedHomework(lessonNo) %}
             {% for homework in relatedHomeworks %}
-                <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="homework-{{lessonNo}}-{{loop.index}}"></div>
+                {% set homeworkId %}{{homework.data.tags}}-{{lessonNo}}-{{homework.fileSlug}}{% endset %}
+                <li class="list-group-item d-flex homework-item">
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="{{homeworkId}}"></div>
                     <div class="d-inline-block">
-                        <label for="homework-{{lessonNo}}-{{loop.index}}">
+                        <label for="{{homeworkId}}">
                             {{homework.data.previewText}}</label>
                         {%if homework.data.linkText %}
                             <p class="mb-0 mt-sm">
                                 {% if homework.data.externalLink %}
                                     <a class="btn btn-small btn-blue" target="_blank" href="{{homework.data.externalLink | url}}">{{homework.data.linkText}}</a>
                                 {%else%}
-                                    <a class="btn btn-small btn-blue" href="{{homework.url | url}}">{{homework.data.linkText}}</a>
+                                    <a class="btn btn-small btn-blue" href="{{homework.url | url}}" data-context="unused">{{homework.data.linkText}}</a>
+                                    <a class="btn btn-small btn-blue hidden" href="{{homework.url | url}}" data-context="continue">Fortsæt</a>
+                                    <a class="btn btn-small btn-gray hidden" href="{{homework.url | url}}" data-context="restart" onclick="resetExercise('{{homeworkId}}');">Start forfra</a>
                                 {%endif%}
                             </p>
                         {%endif%}
@@ -65,10 +68,11 @@ metaTitle: Lektion
             <ul class="list-group nav-list-group">
             {% set relatedOralHomeworks = collections.all | relatedOralHomework(lessonNo) %}
             {% for oral in relatedOralHomeworks %}
+                {% set homeworkId %}{{oral.data.tags}}-{{lessonNo}}-{{oral.fileSlug}}{% endset %}
                 <li class="list-group-item d-flex">
-                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="oral-{{lessonNo}}-{{loop.index}}"></div>
+                    <div><input type="checkbox" class="form-check-input me-2 homework-check" id="{{homeworkId}}"></div>
                     <div class="d-inline-block">
-                        <label for="oral-{{lessonNo}}-{{loop.index}}">
+                        <label for="{{homeworkId}}">
                             {{oral.data.previewText}}</label>
                         {%if oral.data.linkText %}
                             <p class="mb-0 mt-sm"><a class="btn btn-small btn-blue" href="{{oral.url | url}}">{{oral.data.linkText}}</a></p>

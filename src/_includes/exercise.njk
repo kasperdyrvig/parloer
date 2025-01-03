@@ -23,7 +23,7 @@ hideMainMenu: true
 </section>
 
 <section class="gamepanel gamearea hidden" id="exercise">
-    <div class="gamepanel-body">
+    <div class="gamepanel-body" id="{{partOfLesson}}-{{page.fileSlug}}" data-parent-id="{{tags}}-{{partOfLesson}}-{{page.fileSlug}}">
         {{content | safe}}
     </div>
             

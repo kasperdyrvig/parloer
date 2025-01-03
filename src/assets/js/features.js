@@ -149,6 +149,21 @@ function clearFavorites() {
     }
 }
 
+// Reset stored excercise
+function resetExercise(exerciseId) {
+    exerciseId = exerciseId.replace("homework-", "").replace("oral-", "")
+    localStorage.removeItem(exerciseId + "-step");
+    localStorage.removeItem(exerciseId);
+    localStorage.removeItem(exerciseId + "-output");
+    return true;
+}
+
+// Remove all localstorage
+function clearData() {
+    if (confirm("Er du sikker på at du vil slette alle dine data fra Parlør-appen?")) {
+        localStorage.clear();
+    }
+}
 
 document.addEventListener("DOMContentLoaded", function() {
     if (!window.localStorage) {
@@ -212,7 +227,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     // Initial update of progress bar
-    updateProgress();
+    if (progressBar) updateProgress();
 
     // Save progress to local storage when checkbox state changes
     homeworkCheckboxes.forEach((checkbox) => {
@@ -220,5 +235,17 @@ document.addEventListener("DOMContentLoaded", function() {
             localStorage.setItem(event.target.id, event.target.checked);
             updateProgress();
         });
+    });
+
+    // Check if already started
+    const homeworkItems = document.querySelectorAll(".homework-item");
+    homeworkItems.forEach(item => {
+        const homeworkId = item.querySelector(".homework-check").id;
+        if (localStorage.getItem(homeworkId.replace("homework-", "") + "-step") !== null) {
+            const buttons = item.querySelectorAll(".btn");
+            buttons.forEach(button => {
+                button.classList.contains("hidden") ? button.classList.remove("hidden") : button.classList.add("hidden");
+            });
+        }
     });
 });

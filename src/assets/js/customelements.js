@@ -1,11 +1,37 @@
+let counter = 0;
+
+function generateID(prefix) {
+    counter += 1;
+    return `${prefix}-${counter}`;
+}
+
+class exerciseIllustration extends HTMLElement {
+    constructor() {
+        super();
+    }
+    
+    connectedCallback() {
+        const wrapper = el("div", "exercise-image-container");
+
+        const img = el("img", "exercise-imgage");
+        img.setAttribute("src", "/assets/images/" + this.dataset.file);
+        if (this.dataset.alt) img.setAttribute("alt", this.dataset.alt);
+        wrapper.appendChild(img);
+        
+        this.appendChild(wrapper);
+        this.style.display = "contents";
+    }
+}
+
+customElements.define("image-illustration", exerciseIllustration);
+
 class exerciseSingleInput extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
-        const id = uuidv4();
-
+        const id = generateID("exerciseElement");
         const wrapper = el("div", "form-group textinput");
 
         const label = el("label", "form-label");
@@ -43,10 +69,9 @@ class exerciseNumberInput extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
-        const id = uuidv4();
-
+        const id = generateID("exerciseElement");
         const wrapper = el("div", "form-group textinput");
 
         const label = el("label", "form-label");
@@ -84,10 +109,9 @@ class exerciseTextareaInput extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
-        const id = uuidv4();
-
+        const id = generateID("exerciseElement");
         const wrapper = el("div", "form-group textinput");
 
         const label = el("label", "form-label");
@@ -114,9 +138,9 @@ class exerciseMultiChoice extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
-        const groupName = uuidv4();
+        const groupName = generateID("exerciseElement");
         const optionsType = (this.dataset.type.length > 0) ? this.dataset.type.toLowerCase() : "radio";
         
         const wrapper = el("fieldset", "form-group " + optionsType);
@@ -131,7 +155,7 @@ class exerciseMultiChoice extends HTMLElement {
         wrapper.appendChild(optionsWrapper);
         
         for (let index = 0; index < this.dataset.options.split(",").length; index++) {
-            const id = uuidv4();
+            const id = generateID("exerciseElement");
             const element = this.dataset.options.split(",")[index];
             y++;
             
@@ -176,10 +200,11 @@ class exerciseMultiInput extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
+        const id = generateID("exerciseElement");
         const wrapper = el("fieldset", "multiinput");
-        const radiosid = uuidv4();
+        const radiosid = id;
 
         if(this.dataset.label != null && this.dataset.label.length > 0) {
             const legend = document.createElement("legend");
@@ -195,12 +220,13 @@ class exerciseMultiInput extends HTMLElement {
 
         for (let index = 0; index < labels.length; index++) {
             const element = labels[index];
-            const id = uuidv4();
+            const id = generateID("exerciseElement");
             const inputWrapper = el("div", "form-group textinput");
 
             if (this.dataset.radios == "true") {
                 const radio = document.createElement("input");
                 radio.type = "radio";
+                radio.setAttribute("id", generateID("exerciseElement"));
                 radio.setAttribute("name", radiosid);
                 radio.setAttribute("onChange", "selectSiblingInput(this)");
                 radio.setAttribute("value", element.trim());
@@ -248,7 +274,7 @@ class exerciseMatchPairs extends HTMLElement {
     constructor() {
         super();
     }
-
+    
     connectedCallback() {
         const wrapper = el("div", "pairs");
         const one = el("div", "colOne");
@@ -333,12 +359,3 @@ function el (type, classes) {
     newEl.setAttribute("class", classes);
     return newEl;
 }
-
-function uuidv4() {
-    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'
-    .replace(/[xy]/g, function (c) {
-      const r = Math.random() * 16 | 0,
-      v = c == 'x' ? r : (r & 0x3 | 0x8);
-      return v.toString(16);
-    });
-  }
