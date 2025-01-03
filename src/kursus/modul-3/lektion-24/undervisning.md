@@ -11,6 +11,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 10 min: **Repetition af lydregler**
 
@@ -36,9 +37,11 @@ onPageTitle: Til læreren
 - En kursist bliver tildelt en kendt person fra Bibelen.
 - De andre kursister skal ved at stille ja/nej spørgsmål (gerne med -u-) prøve at regne ud hvilken person de er.
 
-10 min: **Øvelse.** Mimespil
+10 min: **Repetition af -nngit-**
 
-- Kursisterne får en beskæftigelse de skal mime, (Se [prompterne her](/kursus/modul-3/lektion-24/mimespil.md)) og de andre kursister skal gætte, fx: Sanasuuvutit!
+- Repetér tilhænget -nngit- (se lektion 14)
+    - Betydning, hvordan bruges det.
+    - Hvordan er -nngit- særlig?
 
 5 min: **Opsummering og lektier.**
 

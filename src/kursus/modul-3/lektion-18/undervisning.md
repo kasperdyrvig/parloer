@@ -11,6 +11,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 10 min: **Forholdsendelsen ±ni/±mi (Lok)**
 - Hvad betyder det?

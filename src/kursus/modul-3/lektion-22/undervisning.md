@@ -7,17 +7,18 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-20 min: **Repetition og lektier**
+25 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 - Lad hver kursist læse det stykke højt de har øvet sig på.
 
-10 min: **Lydregler om G**
+5 min: **Lydregler om G**
 
 - Når Q og R støder sammen med et G eller J, bliver det til et R. qg/rg/qj/rj=r
     - Eks: aallar+gusup- = aallarusup-
-- Når G støder sammen med en anden konsonant end R, bliver det ofte til KK.
+- Når G støder sammen med en anden konsonant end R/Q, bliver det ofte til KK.
     - Eks: tikip+gusup- = tikikkusup-
 
 10 min: **+gusup-, v-v**

@@ -7,10 +7,11 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-15 min: **Repetition og lektier**
+25 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 15 min: **Video af Per og Tika**
 
@@ -23,10 +24,6 @@ onPageTitle: Til læreren
 
 - Betyder "indbygger i", sættes på navneord og bliver ved med at være et navneord.
     - Øv at sætte det på Nuuk, Sisimiut, Ilulissat
-
-10 min: **Øvelse**
-
-- ????
 
 10 min: **Opsummering og lektier**
 

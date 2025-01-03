@@ -3,7 +3,7 @@ partOfLesson: 25
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære tilhænget -ssa-, lære om -mik.
+**Formål:** Lære tilhænget -ssa-, lidt om personendelser og -mik.
 
 **Plan:**
 
@@ -11,6 +11,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 5 min: **Tid**
 
@@ -34,14 +35,17 @@ onPageTitle: Til læreren
 
 10 min: **Forholdsendelsen ±nik/±mik**
 
+- Repetition af hvornår man bruger plus/minus og m/n
 - Hvad kan eleverne huske af forelæsning 5.2 om instrumentalis?
-????
+- -mik i intransitive sætninger:
+    - Tænk på det som "nærmere bestemt". Fx: Rebekkamik ateqarpunga (*Jeg har et navn, nærmere bestemt Rebekka*), 31-nik ukioqarpunga (*Jeg har år, nærmere bestemt 31*)
+    - Den har også andre funktioner, mere om dem i et senere modul
 
 10 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn:
 - Lektier:
-    - **Mundtlig:** 
+    - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
     - **Skriftlig:** Øvelse 5.3X, 5.4X, 5.5X og 5.6X. Skriv diktat af Per/Tikas introduktion (hver gruppe får hver deres at skulle skrive ned).
         - Hjælp til lektier: Hvordan påvirker -nngit- endelserne i transitiv fremsættemåde?

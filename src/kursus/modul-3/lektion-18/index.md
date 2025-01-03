@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 18
-metaTitle: Lektion 18 - Forholdsendelsen ±ni/±mi
+metaTitle: Lektion 18 - Forholdsendelsen -mi
 onPageTitle: Lektion 18
 ---
 I denne lektion skal vi lære endnu en forholdsendelse. Den opfører sig på fuldstændig samme måde som de to andre vi lærte sidste gang, så der er ikke noget nyt grammatik.

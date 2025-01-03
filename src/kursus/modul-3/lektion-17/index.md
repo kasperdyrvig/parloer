@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 17
-metaTitle: Lektion 17 - Nomen & Forholdsendelserne -nit og -nut
+metaTitle: Lektion 17 - Nomen og forholdsendelserne -mit og -mut
 onPageTitle: Lektion 17
 ---
 Velkommen til modul 3!

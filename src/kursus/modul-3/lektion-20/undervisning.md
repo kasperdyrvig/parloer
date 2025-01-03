@@ -7,10 +7,11 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-15 min: **Repetition og lektier**
+20 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 15 min: **Sætningsstafet**
 
@@ -20,7 +21,7 @@ onPageTitle: Til læreren
 - Hvis alle har sagt pas 2 gange, er stafetten færdig.
 - Bagefter kan I gennemgå alle sætningerne.
 
-20 min: **Repetition**
+15 min: **Repetition**
 
 - Spørg på forhånd eleverne hvad de gerne vil have repeteret
 - Gennemgå evt. lydregler, hvis ikke der kommer forslag.

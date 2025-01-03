@@ -7,18 +7,15 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-15 min: **Repetition og lektier**
+20 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
-
-5 min: **Repetition**
-
-- Hvad ved kursisterne om udsagnsord på grønlandsk? (Se lektion 10)
-- Repetér kort de forskellige stammer samt endelser i fremsættemåde og spørgemåde.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 15 min: **Transitivitet**
 
+- Repetér kort hvad kursisterne ved om udsagnsord på grønlandsk.
 - Grundlæggende i grønlandsk grammatik. Transitiv = med genstandsled, intransitiv = uden genstandsled.
     - Hvad er et genstandsled? Fx: nerivunga *jeg spiser,* nerivara *jeg spiser det.*
     - Repetér også hvad et grundled er.
