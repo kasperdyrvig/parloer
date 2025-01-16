@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 21
-previewText: Giv ros eller opmuntring ved brug af sætningerne fra opmuntring.
+previewText: Øv dig på læsestykket fra Naassaanngitsumik pilluarsinnaavutit!
 ---

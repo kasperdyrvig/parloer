@@ -3,61 +3,43 @@ partOfLesson: 22
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om transitive udsagnsord.
+**Formål:** Lær tilhænget +gusup- og lydregler om G
 
 **Plan:**
 
-10 min: **Repetition og lektier.**
+25 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
-- Gennemgå evt. spørgsmål vedr. lektier og hvis der er nogle hyppige fejl.
+- Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
+- Lad hver kursist læse det stykke højt de har øvet sig på.
 
-5 min: **Repetition.**
+5 min: **Lydregler om G**
 
-- Hvad ved kursisterne om udsagnsord på grønlandsk? (Se lektion 10)
-- Repetér kort de forskellige stammer samt endelser i fremsættemåde og spørgemåde.
+- Når Q og R støder sammen med et G eller J, bliver det til et R. qg/rg/qj/rj=r
+    - Eks: aallar+gusup- = aallarusup-
+- Når G støder sammen med en anden konsonant end R/Q, bliver det ofte til KK.
+    - Eks: tikip+gusup- = tikikkusup-
 
-15 min: **Transitivitet.**
+10 min: **+gusup-, v-v**
 
-- Grundlæggende i grønlandsk grammatik. Transitiv = med genstandsled, intransitiv = uden genstandsled.
-    - Hvad er et genstandsled? Fx: nerivunga jeg spiser, nerivara jeg spiser det.
-    - Repetér også hvad et grundled er.
-- Både grundled og genstandsled kan ses i endelsen.
-- Stammer kan være intransitive eller transitive. Nogle få ord kan være begge dele, men de fleste er skarpt opdelt.
-    - Fx asa- elske nogen, paasi- forstå noget, iser- komme ind, sinip- sove.
-- Pas på! Når man oversætter til dansk, kan man ikke altid høre om det er transitivt eller ej!
-    - Fx er denne intransitiv på grønlandsk: Nasaqarpoq han har en hue. Transitive endelser sættes på transitive stammer, og omvendt.
-- Hvordan kender man forskel? I ordbogen står der enten -poq/-voq eller -paa/-vaa.
+- Betyder "at ønske/have lyst til/vil gerne", sættes på udsagnsord og bliver ved med at være et udsagnsord.
+    - Øv at sætte det på aallar-, tikip-, naapip- og ilinniartip-
+- Tilhænget er særligt, for den har formen +rusup- på vokalstammer.
+    - Eks: anerusuppoq, sulerusuppoq
 
-10 min: **Øvelse.** Er den transitiv eller ej?
+15 min: **Samtaleøvelse:** Hvad vil du gerne lave i paradiset?
 
-- Giv kursisterne i grupper på 2-3 en liste på 10 udsagnsord på dansk.
-- De skal nu slå dem op i ordbogen og notere om de er transitive eller ej (eller begge dele).'
-- Efter alle er færdige samler I fælles op.
+- Giv kursisterne 5 minutters tid til at finde udsagnsord i ordbogen (find intransitive ord) om ting de gerne vil lave i paradiset.
+- Begynd så med at sige: Paratiisimi ...-rusuppunga
+    - Vis handlingen (fx hvis det er qitikkusuppunga, så dans). Skriv ordene ned på whiteboardet.
+- Hver kursist tilføjer en ny handling og udfører hvert ord, efterhånden som de siger dem.
 
-15 min: **Grundled og endelser.**
-
-- Grundledet i en transitiv sætning står i afhængefald (se lektion 20).
-    - Fx Jehovap inuit asavai Jehova elsker mennesker.
-- Lad kursisterne komme med forslag til hvordan man siger "hunden spiser sælen", "mor læser Bibelen".
-- Introducér skemaet over udsagnsordsendelser (kun med fremsættemåde og spørgemåde).
-    - Fokusér på -vara og -viuk?
-- Sammenlign personendelser på navneord med de tilsvarende endelser for udsagnsord og vis at de minder meget om hinanden.
-- Mind kursisterne om "qanoq igaajuk?".
-    - Man kan svare med: nuannaraara jeg kan lide den, eller: nuannarinngilara jeg kan ikke lide den.
-    - Hvis der er tid, kan du stille det spørgsmål om forskellige ting til kursisterne enkeltvis.
-
-5 min: **Opsummering og lektier.**
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordgenerator (verbum)
+- Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
-    - **Skriftlig:** Transitive spørgsmål del 1 og del 2 og Færdiggør og oversæt.
-    - Læs intro til næste lektion.
-
-**Links/ressourcer:**
-
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 35 (verber: stammer)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 150 (transitive sætninger)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 255 (transitivitet)
+    - **Mundtlig:** Brug spørgsmålet "Sumut aallarusuppit?"
+    - **Skriftlig:** Øvelse 4.3X, 4.4X, 4.5X og 4.6X
+    - Se forelæsning 5.1

@@ -2,9 +2,9 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 21
-metaTitle: Lektion 21 - Forholdsendelser
+metaTitle: Lektion 21 - -qar og +tor
 onPageTitle: Lektion 21
 ---
-Hvordan siger man 'kasseord' på grønlandsk? Nogle af dem siger man med forholdsendelser. Der findes 6 på grønlandsk: ±ni/±mi i, ±nut/±mut til, ±nit/±mit fra, ±tigut/-kkut gennem, ±tut/±sut ligesom, ±nik/±mik med. Næsten alle forholdsendelserne bliver også brugt grammatisk, så de får andre betydninger. Fx bruger man ±nit når man sammenligner to ting Jehova inunnit asanninneruvoq Jehova er mere kærlig end mennesker. Men her i lektionen kommer vi mest til at fokusere på deres hovedbetydning.
+Vi skal repetere det vi ved generelt om tilhæng, og mere specifikt tilhænget -qar-. Derudover skal vi også lære et nyt tilhæng, +tor- *spise/drikke*.
 
-Man sætter kun forholdsendelser på navneord, så som forberedelse til lektionen vil det være godt hvis du kigger det vi lærte i lektion 10 om stærke og svage stammer igennem igen, så du har det i frisk erindring.
+Kig dine notater fra [lektion 13](/kursus/modul-2/lektion-13/) igennem for at se hvad vi har haft om tilhæng før.

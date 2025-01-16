@@ -4,13 +4,15 @@ tags: studynotes
 onPageTitle: Til selvstudie
 ---
 
-**Ordstillingen** på grønlandsk er: Tid/sted, grundled (subjekt), genstandsled (objekt) og udsagnsled (verbum). Det er udgangspunktet, men kan sagtens være anderledes alt efter behov.
+**Tilhænget -u-, n-v**
+<br>Betydning: At være (identitet). Sættes på navneord (nomen) og bliver til et udsagnsord (verbum).
+<br>Normalt et minustilhæng, men på mange stærke stammer der slutter på Q, bliver det til plus og svækker Q til R. Fx: erneq|+u-|+voq = erneruvoq.
+<br>Hvis der kommer til at stå 3 ens vokaler efter hinanden, indsætter man et j for at skille dem ad. Fx: anersaaq|-u-|+voq = anersaajuvoq
 
 **Lær mere:**
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 149-150 (syntaks)
-- *Kalaallisut ilikkarit - Lær grønlandsk 1* af Bente Marie Meilvang, s. 15 (ordstilling)
 
-**Idéer** til at lære mere inden modul 4:
-- Forbered dig til vagttårnsstudiet på både grønlandsk og dansk. (Læs fx i den danske og prøv at finde svaret for hver paragraf i den grønlandske). Prøv at lave et enkelt svar selv. (Fx Jehovap meeqqat asavai).
-- Brug alt det grønlandske du har lært, fortsæt med at bruge grønlandsk i din dagligdag (ligesom de mundtlige øvelser).
-- Brug funktionen Ordforråd til at udvide dit ordforråd.
+- *Grønlandsk grammatik* af Stig Bjørnum, s. 275 (tilhænget -uvoq)
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, Øvelse 1.8: Brug N-U ([tekst](https://learngreenlandic.com/online/lg2/structure/1.8/t/)) og ([audio](https://learngreenlandic.com/online/lg2/structure/1.8/a/))
+- *Oqaluussisa,* lektion 1
+- *Kalaallisut ilikkarit - Lær grønlandsk 1* af Bente Marie Meilvang, s. 30 § 1.7.6 (Tilhænget -u-)
+- *Kalaallisut oqalutta* af Paornánguaq Berthelsen og Lone Kokholm, s. 11

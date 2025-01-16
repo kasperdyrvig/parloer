@@ -3,58 +3,36 @@ partOfLesson: 20
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om afhængefald og personendelser på navneord.
-
-*OBS! Denne lektion tager 1 time og 15 minutter.*
+**Formål:** Øve sig på det man har lært
 
 **Plan:**
 
-10 min: **Repetition og lektier.**
+20 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
-- Gennemgå evt. spørgsmål vedr. lektier og hvis der er nogle hyppige fejl.
+- Gennemgå evt. spørgsmål vedr. lektier.
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-10 min: **Afhængefald.** Mange tilhæng og endelser starter med enten T eller S - T efter konsonant og S efter vokal.
+15 min: **Sætningsstafet**
 
-- Spørg om kursisterne ved hvorfor der nogle gange står "Jehovap".
-- Hvad er afhængefald? Bruges bl.a. ved ejefald.
-    - Fx Guutip kunngeqarfia Guds rige, Rebekkap anaanaa Rebekkas mor, angutip nerrivia mandens spisebord.
-- Svage og stærke stammer bøjes forskelligt.
-    - Svage: -p og stærke: ±up. (som regel: +up efter q og -up efter k)
-- Flertal. Fx Angutit anaanaat mændenes mødre, meeqqat angajoqqaavi børnenes forældre. Afhængefald i flertal er det samme som almindelig flertal.
-- Gemination: Ord med gemination gør det også ved afhængefald. Fx: Meeqqap, ilulissap.
+- Alle kursister skiftes til at sige en ny sætning uden at slå op i noter mm.
+- Læreren skriver dem løbende op på whiteboard.
+- Hvis man ikke kan komme i tanke om noget må man sige pas.
+- Hvis alle har sagt pas 2 gange, er stafetten færdig.
+- Bagefter kan I gennemgå alle sætningerne.
 
-5 min: **Øvelse.**
+15 min: **Repetition**
 
-- Hvad hedder ordet i afhængefald?
-- Bed kursisterne om en ad gangen at sige et af ordene i afhængefald: Ini, issiavik, siniffik, siku, qimmeq, qaqqaq, naasoq, angut, qatanngut, nerrivik, arnaq, erneq, panik, Biibili, anersaaq, Guuti, meeraq.
+- Spørg på forhånd eleverne hvad de gerne vil have repeteret
+- Gennemgå evt. lydregler, hvis ikke der kommer forslag.
+- Man kan også bruge tiden til at dele erfaringer med lektier, metoder til at lære sproget mm.
+    - Hør evt. eleverne hvordan det går med at holde ugeplanen.
 
-5 min: **Lydregel: Q/R og G/J.** Når Q og R støder sammen med et G eller J, bliver det til et R. qg=r, rg=r, qj=r, rj=r
-
-30 min: **Personendelser.**
-
-- Hvorfor stod der "kunngeqarfia" og "anaanaa"? Der er brug for endelser på de ting der er ejet.
-- Vis og gennemgå skema over personendelser for navneord. Mange kombinationer - der er forskel på om den der ejer er i ental/flertal og om det ejede er i ental flertal.
-- Bøj "meeraq" i alle former, for at vise hvilke endelser der forårsager gemination (alle der starter med minuskonsonant som ikke er r) og hvilke der ikke gør.
-    - Visualisér skemaet ved at bruge kursisterne og dele dem op i grupper, fx: Ikinngutiga min ven, ikinngutikka mine venner, ikinngutaa hans ven osv.
-    - Hvis nogle af kursisterne er i familie kan det også bruges, fx: anaanaa hans mor, anaanaat deres mor.
-
-10 min: **Øvelse.** Kursisterne stiller spørgsmål til hinanden om deres familie, brug personendelser og Forslag til spørgsmål.
-
-5 min: **Opsummering og lektier.**
+10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Korpus
+- Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** Brug en kombination af det du har lært i dag og Forslag til spørgsmål til at spørge nogen ud om deres familie (Fx: Paniit qassinik ukioqarpa? Uiit sumi sulisarpa?).
-    - **Skriftlig:** Afhængefald, Læseøvelse, Personendelser.
-    - Læs intro til næste lektion.
-
-**Links/ressourcer:**
-
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 72 (grammatiske kasus)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 58, 244-245 (syntaktiske kasus)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 32 (lydregel: j og g)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 86-88 (possessive endelser)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 60, 250 (personendelser)
-- Skema over navneordsendelser
+    - Se Forelæsning 4: Træning og opsamling
+    - **Mundtlig:** Minidialog 1.1, 1.2, 1.3. Udvælg en af sætningerne derfra og brug den i din hverdag.
+    - **Skriftlig:** Gennemgå nogle af de tidligere øvelser du ikke fik brugt så meget tid på.
