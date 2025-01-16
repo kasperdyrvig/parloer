@@ -1,5 +1,5 @@
 ---
-partOfLesson: 20
+partOfLesson: 25
 tags: studynotes
 onPageTitle: Til selvstudie
 ---
@@ -24,8 +24,8 @@ Der skal endelser på det der bliver ejet (possessum). I endelsen kan man se hve
 - *Kalaallisut oqalutta* af Paornánguaq Berthelsen og Lone Kokholm, s. 14-18; Suliassat s. 9
 - *Kalaallisut oqaasilerisa* af Birgitte Hertling, s. 30-31, 33-34
 
-**Forholdsendelsen ±mik/±nik** (oblik kasus: instrumentalis)
-<br>±mik/±nik = med, nærmere bestemt
+**Forholdsendelsen ±mik/±nik** (oblik kasus)
+<br>±mik/±nik = med, nærmere bestemt (instrumentalis)
 
 Kan kun sættes på navneord (nomen). De sættes på entalsordet.
 <br>Man bruger + ved stærke stammer og - ved svage stammer. Man bruger kun formen der starter med "±m" ved helt ubøjede ord (= uden andre endelser). I alle andre tilfælde (ved flertal og personendelser) bruges ±n.

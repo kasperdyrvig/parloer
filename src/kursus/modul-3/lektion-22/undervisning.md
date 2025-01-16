@@ -30,7 +30,7 @@ onPageTitle: Til læreren
 
 15 min: **Samtaleøvelse:** Hvad vil du gerne lave i paradiset?
 
-- Giv kursisterne 5 minutters tid til at finde udsagnsord i ordbogen (find ord der slutter på -voq eller -poq) om ting de gerne vil lave i paradiset.
+- Giv kursisterne 5 minutters tid til at finde udsagnsord i ordbogen (find intransitive ord) om ting de gerne vil lave i paradiset.
 - Begynd så med at sige: Paratiisimi ...-rusuppunga
     - Vis handlingen (fx hvis det er qitikkusuppunga, så dans). Skriv ordene ned på whiteboardet.
 - Hver kursist tilføjer en ny handling og udfører hvert ord, efterhånden som de siger dem.

@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 22
+partOfLesson: 24
 sortNumber: 5
 previewText: Forelæsning 5.2
 linkText: Se videoen

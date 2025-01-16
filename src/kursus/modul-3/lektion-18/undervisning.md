@@ -3,7 +3,7 @@ partOfLesson: 18
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om forholdsendelsen ±ni/±mi
+**Formål:** Lære om forholdsendelsen ±mi
 
 **Plan:**
 
@@ -18,22 +18,14 @@ onPageTitle: Til læreren
 - Repetition: Hvornår er det +/-?
     - Prøv at sætte endelsen på Nuuk, Qaqortoq, Sisimiut og Aasiaat
     
-15 min: **Øvelse**
-
-- Del kursisterne op i grupper af 4 eller 3 og giv dem hver et lego-/dukkehus, et landekort, tegning e.l.
-- Giv hver gruppe en historie på ca. 3 sætninger der bruger forholdsord og som passer til den genstand de har fået.
-- Grupperne skal nu oversætte historien. Læreren hjælper med gloser.
-- Efter de har brugt 7-8 min på det, bytter grupperne historier.
-- Grupperne skal nu læse den oversatte historie højt og prøve at forstå og udføre den.
-
-10 min: **Øvelse**
-
+25 min: **Øvelse**
 - I grupper af 3-4: Brug en mellemmand til at kommunikere.
     - A: C qanoq ateqarpa?
     <br>B: Qanoq ateqarpit?
     <br>C: Rebekkamik ateqarpunga.
     <br>B: Rebekkamik ateqarpoq.
-- Og sådan fortsætter man ved at bruge [Forslag til spørgsmål]({{'/kursus/modul-2/parloer/spoergsmaal/'|url}}). Lyt og hjælp evt med gloser.
+- Og sådan fortsætter man ved at bruge [Forslag til spørgsmål]({{'/kursus/modul-2/parloer/spoergsmaal/'|url}}).
+    - Fokusér især på spørgsmål der starter med sumi/sumut/sumit. Prøv evt at lave jeres egne spørgsmål ved at bruge de ord.
 
 10 min: **Opsummering og lektier**
 

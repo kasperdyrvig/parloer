@@ -11,6 +11,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Hvordan er det gået med diktaten?
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
 15 min: **Forberedelse af spørgsmål**

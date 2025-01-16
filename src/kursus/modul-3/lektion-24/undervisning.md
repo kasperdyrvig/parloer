@@ -28,7 +28,7 @@ onPageTitle: Til læreren
 - Betydning: at være - identitet
     - Fx: Puisiuvoq *det er en sæl*, iipiliuvoq *det er et æble*.
 - Normalt er det et minustilhæng, men der er lidt undtagelser:
-    - På mange stærke stammer der slutter på q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
+    - På mange stærke stammer der slutter på Q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
     - På alle T-stammer kommer der et ekstra A ind. Fx: angutaavutit *du er en mand*. Forklaring kommer i næste modul.
 - Hvad sker der når man sætter -u- på arnaq, anersaaq (j indsættes mellem vokalerne), nalunaajaasoq eller qimmeq?
 
@@ -38,7 +38,7 @@ onPageTitle: Til læreren
 - De andre kursister skal ved at stille ja/nej spørgsmål (gerne med -u-) prøve at regne ud hvilken person de er.
 
 10 min: **Repetition af -nngit-**
-
+<br>*Tilhænget bliver først brugt i lektierne til næste lektion.*
 - Repetér tilhænget -nngit- (se lektion 14)
     - Betydning, hvordan bruges det.
     - Hvordan er -nngit- særlig?

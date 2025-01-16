@@ -26,6 +26,7 @@ onPageTitle: Til læreren
 - Spørg på forhånd eleverne hvad de gerne vil have repeteret
 - Gennemgå evt. lydregler, hvis ikke der kommer forslag.
 - Man kan også bruge tiden til at dele erfaringer med lektier, metoder til at lære sproget mm.
+    - Hør evt. eleverne hvordan det går med at holde ugeplanen.
 
 10 min: **Opsummering og lektier**
 

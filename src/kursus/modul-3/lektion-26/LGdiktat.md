@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 25
+partOfLesson: 26
 sortNumber: 2
 previewText: Skriv diktat af Tikas velkomst
 linkText: Åbn øvelsen

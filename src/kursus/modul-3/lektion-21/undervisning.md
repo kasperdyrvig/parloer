@@ -11,6 +11,7 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Hvad fik eleverne ud af forelæsning 4?
 
 5 min: **Repetition af tilhæng**
 
@@ -19,12 +20,12 @@ onPageTitle: Til læreren
 
 10 min: **Repetition af -qar-**
 
-- Hvad kan kursisterne husk om tilhænget -qar-, n-v?
+- Hvad kan kursisterne huske om tilhænget -qar-, n-v?
 - Øv at sætte tilhænget på nukik, qimmeq og illu
 
 10 min: **+tor-, n-v**
 
-- Betyder "at spise/drikke", sættes på navneord og bliver til et udsagnsord.
+- Betyder "at spise/drikke", sættes på navneord (hvor det giver mening) og bliver til et udsagnsord.
 - Øv at sætte det på neqi, tii, iffiaq, immuk.
     - Hvorfor hedder det kaffisorpoq?
 

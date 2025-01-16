@@ -3,7 +3,7 @@ partOfLesson: 17
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om stærke og svage nomen og forholdsendelserne ±nut/±mut og ±nit/±mit
+**Formål:** Lære om stærke og svage nomen og forholdsendelserne ±mut og ±mit
 
 **Plan:**
 
@@ -54,13 +54,16 @@ onPageTitle: Til læreren
     - **Skriftlig:** Øvelse 2.1X, 2.2X, 2.3X, 2.4X
         - Hjælp til lektier: Vis eleverne listen over bynavne i støttesætninger.
         - Kalaallit Nunaat er særlig, der er en personendelse på. Den bøjes: Kalaallit Nunaannut.
-        - Når du laver lektier: Husk at gentage/sige sætningen højt og at tænke over hvad ordet betyder.
+        - Når du laver lektier: Lyt til sætningen, forstå den, gentag, lav løsningen, tjek den og sig den højt.
         - Skriv ned hvis der opstår spørgsmål/hvis noget var ekstra svært! Der er ekstra tid i hver lektion til at snakke om ugens lektier.
     - Læs intro til næste lektion.
 
-5 min: **Organisering**
+15 min: **Pause**
+
+30 min: **Gruppearbejde**
 - Forklar konceptet med at lave lektier i grupper.
-- Få delt eleverne op i grupper alt efter hvem der kan hvornår.
+    - Husk at du har et ansvar over for din makker!
+- Få delt eleverne op i grupper alt efter hvor meget tid de har sat af til grønlandsk.
 
 **Links/ressourcer:**
 

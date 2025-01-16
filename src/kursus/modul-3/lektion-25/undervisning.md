@@ -22,8 +22,8 @@ onPageTitle: Til læreren
 15 min: **-ssa- v-v.**
 
 - Fremtidstilhæng, kan betyde "skal/vil".
-- Tilhænget -ssa- er særligt. Udsagnsmærket -vu- bliver til -a- i intransitiv fremsættemåde.
-    - Skriv endelserne for fremsættemåde, -nngit- og -ssa- ved siden af hinanden, og vis at hvis man bare bytter udsagnsmærket ud, så er de det samme.
+- Tilhænget -ssa- er særligt. Udsagnsmærket -vu- bliver til -a- i intransitiv fremsættemåde (undtagen i 3. ps. flertal).
+    - Skriv endelserne for fremsættemåde og -ssa- ved siden af hinanden, og vis at hvis man bare bytter udsagnsmærket ud, så er de det samme.
 - Øv at sætte -ssa- på de udsagnsord kursisterne allerede kender.
 
 5 min: **Personendelsen +ga**
@@ -31,7 +31,8 @@ onPageTitle: Til læreren
 - Hvad er personendelser?
     - Der er brug for endelser på de ting der er ejet. Fx: Guutip kunngeqarfia
     - Kan kun sættes på nomen
-- Første personendelse: +ga = min ene
+- Første personendelse: -ga = min ene (+ ved Q-stammer)
+    - Vis [skema over endelser til navneord](/mere/navneordsendelser/)
 
 10 min: **Forholdsendelsen ±nik/±mik**
 

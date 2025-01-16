@@ -4,7 +4,9 @@ tags: studynotes
 onPageTitle: Til selvstudie
 ---
 
-**Transitivitet.** Udsagnsord kan være transitive eller intransitive. Nogle få kan være begge dele, men for det meste er det skarpt opdelt. Transitiv = med genstandsled (objekt), intransitiv = uden genstandsled (objekt). Transitive endelser sættes på transitive stammer, og omvendt. I ordbogen ender transitive ord på -vaa/paa og intransitive ord ender på -voq/-poq. Både grundled (subjekt) og genstandsled (objekt) kan ses i endelsen.
+**Transitivitet.** Udsagnsord kan være transitive eller intransitive. Nogle få kan være begge dele, men for det meste er det skarpt opdelt.
+<br>Transitiv = med genstandsled (objekt), intransitiv = uden genstandsled (objekt).
+<br>Transitive endelser sættes på transitive stammer, og omvendt. I ordbogen ender transitive ord på -vaa/paa og intransitive ord ender på -voq/-poq. Både grundled (subjekt) og genstandsled (objekt) kan ses i endelsen.
 
 **Lær mere:**
 
