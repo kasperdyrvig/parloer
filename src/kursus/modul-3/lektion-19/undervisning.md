@@ -7,13 +7,13 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-20 min: **Repetition og lektier**
+15 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-15 min: **Transitivitet**
+20 min: **Transitivitet**
 
 - Repetér kort hvad kursisterne ved om udsagnsord på grønlandsk.
 - Grundlæggende i grønlandsk grammatik. Transitiv = med genstandsled, intransitiv = uden genstandsled.
