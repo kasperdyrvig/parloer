@@ -66,7 +66,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="numbers/Numbers_09.mp3"></audio-player>
+<audio-player data-file="numbers/09.mp3"></audio-player>
 <multi-choice data-label="Er der dobbeltkonsonant?" data-type="radio" data-options="Aap, Naamik" data-validation="2"></multi-choice>
 <feedback-message data-content="Qulingiluat betyder ni"></feedback-message>
 {% endexerciseItem %}

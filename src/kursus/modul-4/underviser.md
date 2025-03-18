@@ -1,5 +1,5 @@
 ---
-partOfModule: 3
+partOfModule: 4
 tags: teachernotes
 onPageTitle: Til læreren
 ---
