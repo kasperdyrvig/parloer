@@ -17,14 +17,14 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 <image-illustration data-file="numbers/number10.jpg"></image-illustration>
-<audio-player data-file="numbers/Numbers_10.mp3"></audio-player>
+<audio-player data-file="numbers/10.mp3"></audio-player>
 <single-input data-label="Qanoq oqarpa?" data-validation="qulit"></single-input>
 <feedback-message data-content="Qulit betyder 10"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}
 <image-illustration data-file="numbers/number02.jpg"></image-illustration>
-<audio-player data-file="numbers/Numbers_02.mp3"></audio-player>
+<audio-player data-file="numbers/02.mp3"></audio-player>
 <single-input data-label="Qanoq oqarpa?" data-validation="marluk"></single-input>
 <feedback-message data-content="Marluk betyder to"></feedback-message>
 {% endexerciseItem %}
