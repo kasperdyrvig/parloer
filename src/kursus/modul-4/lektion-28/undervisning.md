@@ -3,7 +3,7 @@ partOfLesson: 28
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om stærke og svage nomen og forholdsendelserne ±mut og ±mit
+**Formål:** Repetition; lære lydreglen om T/S og tilhængene +Toq, +Tariaqar-, +Tar- 
 
 **Plan:**
 
@@ -14,7 +14,7 @@ onPageTitle: Til læreren
 
 10 min: **Repetition af tilhæng**
 
-- Hvilke tilhæng har vi lært?
+- Hvilke tilhæng kender vi?
     - -qar-
     - +tor-
     - +miu
@@ -56,4 +56,5 @@ onPageTitle: Til læreren
 - Lektier:
     - **Mundtlig:** 
     - **Skriftlig:** Øvelse 0.1T, 0.1A, 0.2T, 0.2A, 0.3T, 0.3A.
+        - Hjælp til lektier: Forklar øvelse 0.3
     - Læs intro til næste lektion.
