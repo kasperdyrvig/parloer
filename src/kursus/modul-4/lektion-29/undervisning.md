@@ -16,7 +16,7 @@ onPageTitle: Til læreren
 10 min: **Video af Tika**
 
 - Afspil [video af Tika](https://learngreenlandic.com/online/lg2/repeat/1/)
-    - Tag videoerne sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
+    - Tag videoen sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
     - Vi skal forstå alt hvad der sker med ordene, så vi tager det lidt efterhånden.
 
 5 min: **Repetition af -ssa-**
@@ -38,5 +38,5 @@ onPageTitle: Til læreren
 - Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** 
-    - **Skriftlig:** Øvelse 0.4 og 0.5 - NÅET HERTIL
+    - **Skriftlig:** Øvelse 1.3T, 1.3A, 0.4T, 0.4A, 0.5T, 0.5A
     - Læs intro til næste lektion.
