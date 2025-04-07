@@ -3,33 +3,50 @@ partOfLesson: 23
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære tilhænget +miu
+**Formål:** Lære tilhænget -ssa-, lidt om personendelser og -mik.
 
 **Plan:**
 
-25 min: **Repetition og lektier**
+15 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-15 min: **Video af Per og Tika**
+5 min: **Tid**
 
-- Repetér metoden "lyt, forstå, gentag".
-- Afspil video af Per og Tika.
-    - Tag videoerne sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
-    - Vi skal forstå alt hvad der sker med ordene, så vi tager det lidt efterhånden.
+- Hvordan siger man ting i fremtid/nutid/datid på grønlandsk?
+    - Ingen særlige bøjninger, men man bruger tilhæng.
+    - Nutid og datid er ens, men datid kan godt tydeliggøres ved et tilhæng.
 
-10 min: **+miu, n-n**
+15 min: **-ssa- v-v.**
 
-- Betyder "indbygger i", sættes på navneord og bliver ved med at være et navneord.
-    - Øv at sætte det på Nuuk, Sisimiut, Ilulissat
+- Fremtidstilhæng, kan betyde "skal/vil".
+- Tilhænget -ssa- er særligt. Udsagnsmærket -vu- bliver til -a- i intransitiv fremsættemåde (undtagen i 3. ps. flertal).
+    - Skriv endelserne for fremsættemåde og -ssa- ved siden af hinanden, og vis at hvis man bare bytter udsagnsmærket ud, så er de det samme.
+- Øv at sætte -ssa- på de udsagnsord kursisterne allerede kender.
 
-10 min: **Opsummering og lektier**
+5 min: **Personendelsen +ga**
+
+- Hvad er personendelser?
+    - Der er brug for endelser på de ting der er ejet. Fx: Guutip kunngeqarfia
+    - Kan kun sættes på nomen
+- Første personendelse: -ga = min ene (+ ved Q-stammer)
+    - Vis [skema over endelser til navneord](/mere/navneordsendelser/)
+
+10 min: **Forholdsendelsen ±nik/±mik**
+
+- Repetition af hvornår man bruger plus/minus og m/n
+- -mik i intransitive sætninger:
+    - Tænk på det som "nærmere bestemt". Fx: Rebekkamik ateqarpunga (*Jeg har et navn, nærmere bestemt Rebekka*), 31-nik ukioqarpunga (*Jeg har år, nærmere bestemt 31*)
+    - Den har også andre funktioner, mere om dem i et senere modul
+
+10 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Nutserut
+- Ugens guldkorn: Kalaallisut Ilinniarta & Kalaallisut oqalutta
 - Lektier:
-    - **Mundtlig:** Øv dig på de nye gloser.
-        - Hvordan lærer man gloser? Se forelæsning 5.2 fra 10:16.
-    - **Skriftlig:** Strukturøvelse 1.1, 1.2, 1.3, 3.1, 3.2
+    - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
+    - **Skriftlig:** Øvelse 5.3X, 5.4X, 5.5X og 5.6X. Skriv diktat af Per/Tikas introduktion (hver gruppe får hver deres at skulle skrive ned).
+        - Hjælp til lektier: Hvordan påvirker -nngit- de transitive og intransitive endelser?
+    - Se forelæsning 5.2

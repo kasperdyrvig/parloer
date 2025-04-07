@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 22
-previewText: Brug spørgsmålet "Sumut aallarusuppit?".
+previewText: Spørg en du møder "Sumiuuit?" (Eller fx Nuummiuuit?)
 ---

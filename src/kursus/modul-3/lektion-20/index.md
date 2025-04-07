@@ -2,9 +2,9 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 20
-metaTitle: Lektion 20 - Repetition
+metaTitle: Lektion 20 - -qar og +tor
 onPageTitle: Lektion 20
 ---
-I denne lektion skal vi ikke lære noget nyt, men øve os lidt på alt det vi har lært.
+Vi skal repetere det vi ved generelt om tilhæng, og mere specifikt tilhænget -qar-. Derudover skal vi også lære et nyt tilhæng, +tor- *spise/drikke*.
 
-Send hvilke emner du gerne vil have repeteret til mig før lektionen.
+Kig dine notater fra [lektion 13](/kursus/modul-2/lektion-13/) igennem for at se hvad vi har haft om tilhæng før.

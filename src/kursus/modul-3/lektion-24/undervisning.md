@@ -3,56 +3,44 @@ partOfLesson: 24
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Repetition af lydregler og lære tilhænget -u-.
+**Formål:** Gennemgå videoer med introduktion af Per og Tika
 
 **Plan:**
 
-10 min: **Repetition og lektier.**
+20 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-10 min: **Repetition af lydregler**
+15 min: **Video med introduktion af Per og Tika**
 
-- Hvilke lydregler kan kursisterne huske? Kan de komme med eksempler?
-    - E/I og O/U
-    - K1+K2 = K2K2
-    - V mellem U og A/E/I
-    - A efter andre vokaler
-    - qg/rg/qj/rj=r
-    - G bliver fordoblet til KK
+- Se videoerne med introduktion af Per og Tika
+- Afspil hver video, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
 
-10 min: **-u-, n-v.**
+5 min: **Repetition af tilhæng**
 
-- Betydning: at være - identitet
-    - Fx: Puisiuvoq *det er en sæl*, iipiliuvoq *det er et æble*.
-- Normalt er det et minustilhæng, men der er lidt undtagelser:
-    - På mange stærke stammer der slutter på Q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
-    - På alle T-stammer kommer der et ekstra A ind. Fx: angutaavutit *du er en mand*. Forklaring kommer i næste modul.
-- Hvad sker der når man sætter -u- på arnaq, anersaaq (j indsættes mellem vokalerne), nalunaajaasoq eller qimmeq?
+- Hvilke tilhæng har vi lært?
+    - -qar-
+    - +tor-
+    - +miu
+    - -u-
+    - -ssa-
+    - -nngit-
 
-15 min: **Øvelse.** Gæt en person
+10 min: **Tikas velkomst**
 
-- En kursist bliver tildelt en kendt person fra Bibelen.
-- De andre kursister skal ved at stille ja/nej spørgsmål (gerne med -u-) prøve at regne ud hvilken person de er.
+- Se videoen med Tikas velkomst.
+    - Kunne eleverne genkende nogle af ordene/tilhængene?
+- Vis teksten i [Intro til diktat af Tikas velkomst](https://learngreenlandic.com/online/lg1/welcome/intro/)
+- Gennmgå videoen sætning for sætning - fremhæv de ord eleverne kender og giv en oversættelse af hver sætning.
 
-10 min: **Repetition af -nngit-**
-<br>*Tilhænget bliver først brugt i lektierne til næste lektion.*
-- Repetér tilhænget -nngit- (se lektion 14)
-    - Betydning, hvordan bruges det.
-    - Hvordan er -nngit- særlig?
-
-5 min: **Opsummering og lektier.**
+10 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Nutserut glossering
+- Ugens guldkorn: Oqaluussisa
 - Lektier:
-    - **Mundtlig:** Spørg en du møder: "Sumiuuit?" (Eller fx Nuummiuuit?)
-    - **Skriftlig:** Strukturøvelse 2.1 og 2.2, Øvelse 5.1X og 5.2X.
-    - Se forelæsning 5.2
-
-**Links/ressourcer:**
-
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 275 (tilhænget -uvoq)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 116 (tilhænget -u-)
+    - **Mundtlig:** Udvid og brug dit small-talk ordforråd.
+    - **Skriftlig:** Øvelse 5.2X, 5.7X. Skriv diktat af Tikas velkomst. Tænk over hvilke spørgsmål vi kan stille den person der skal interviewes næste lektion.
+        - Hjælp til lektier: Lav diktaten sammen som gruppe. Afspil videoen i langsom hastighed.
+        - Pas på! Det er en god øvelse at kunne opfatte ord/sætninger man ikke forstår, men det er også en meget svær opgave. Lad den ikke tage al modet fra dig.

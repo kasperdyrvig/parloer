@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 24
-previewText: Spørg en du møder "Sumiuuit?" (Eller fx Nuummiuuit?)
+previewText: Udvid og brug dit small-talk ordforråd
 ---
