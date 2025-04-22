@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 28
+partOfLesson: 26
 sortNumber: 6
 previewText: Øvelse 0.3 (audio) - +Tar-
 linkText: Åbn øvelsen

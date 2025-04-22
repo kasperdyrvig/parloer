@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 29
+partOfLesson: 27
 sortNumber: 5
 previewText: Øvelse 0.5 (tekst) - +galuar-
 linkText: Åbn øvelsen

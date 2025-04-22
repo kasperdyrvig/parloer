@@ -3,7 +3,7 @@ layout: course
 tags: module
 moduleNo: 4
 getLessonsOf: module 4
-metaTitle: Modul 4 (lektion 28-xx)
+metaTitle: Modul 4 (lektion 26-xx)
 ---
 # Modul 4
 

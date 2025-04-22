@@ -10,7 +10,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 <image-illustration data-file="numbers/number01.jpg"></image-illustration>
-<audio-player data-file="numbers/Numbers_01.mp3"></audio-player>
+<audio-player data-file="numbers/01.mp3"></audio-player>
 <multi-choice data-label="K imaluunniit Q?" data-type="radio" data-options="K, Q" data-validation="2"></multi-choice>
 <feedback-message data-content="Ataaseq betyder et"></feedback-message>
 {% endexerciseItem %}
@@ -115,7 +115,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 <image-illustration data-file="clothes/alerseq.png"></image-illustration>
-<audio-player data-file="clothes/alersoq.mp3"></audio-player>
+<audio-player data-file="clothes/alerseq.mp3"></audio-player>
 <multi-choice data-label="K imaluunniit Q?" data-type="radio" data-options="K, Q" data-validation="2"></multi-choice>
 <feedback-message data-content="Alerseq betyder sok"></feedback-message>
 {% endexerciseItem %}

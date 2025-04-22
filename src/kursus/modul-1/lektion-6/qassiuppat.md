@@ -29,8 +29,8 @@ linkText: Start øvelsen
 {% endexerciseItem %}
 
 {% exerciseItem %}
-<image-illustration data-file="clothes/atisat.png"></image-illustration>
-<multi-choice data-label="Qassiuppat?" data-type="radio" data-random="true" data-options="Arfinillit, Ataaseq, Qulit" data-validation="1"></multi-choice>
+<image-illustration data-file="plants/dandelion.png"></image-illustration>
+<multi-choice data-label="Qassiuppat?" data-type="radio" data-random="true" data-options="Aqqanillit, Ataaseq, Qulit" data-validation="1"></multi-choice>
 {% endexerciseItem %}
 
 {% exerciseItem %}

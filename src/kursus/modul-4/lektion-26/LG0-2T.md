@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 28
+partOfLesson: 26
 sortNumber: 3
 previewText: Øvelse 0.2 (tekst) - +Tariaqar-
 linkText: Åbn øvelsen
