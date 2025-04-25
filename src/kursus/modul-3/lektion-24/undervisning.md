@@ -13,22 +13,12 @@ onPageTitle: Til læreren
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-15 min: **Video med introduktion af Per og Tika**
+10 min: **Video med introduktion af Per og Tika**
 
 - Se videoerne med introduktion af Per og Tika
 - Afspil hver video, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
 
-5 min: **Repetition af tilhæng**
-
-- Hvilke tilhæng har vi lært?
-    - -qar-
-    - +tor-
-    - +miu
-    - -u-
-    - -ssa-
-    - -nngit-
-
-10 min: **Tikas velkomst**
+20 min: **Tikas velkomst**
 
 - Se videoen med Tikas velkomst.
     - Kunne eleverne genkende nogle af ordene/tilhængene?

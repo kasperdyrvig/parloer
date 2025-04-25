@@ -18,7 +18,7 @@ linkText: Start øvelsen
 
 {% exerciseItem %}
 
-<audio-player data-file="course/Uteqqilaaruk.mp3"></audio-player>
+<audio-player data-file="course/uteqqilaaruk.mp3"></audio-player>
 <single-input data-label="Qanoq oqarpa?" data-validation="Uteqqilaaruk"></single-input>
 <single-input data-label="Del ordene op i stavelser"></single-input>
 <feedback-message data-content="Uteqqilaaruk betyder 'Vil du gentage det?' og kan deles i stavelser sådan her: U-teq-qi-laa-ruk."></feedback-message>

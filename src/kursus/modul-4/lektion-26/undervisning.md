@@ -21,6 +21,7 @@ onPageTitle: Til læreren
     - -u-
     - -ssa-
     - -nngit-
+    - +gusup-
 - Få kursisterne til at komme med et eksempel på et ord hvor tilhænget indgår.
 
 10 min: **Repetition af lydregler**
