@@ -2,9 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 18
-metaTitle: Lektion 18 - Forholdsendelsen -mi
+metaTitle: Lektion 18 - Transitive udsagnsord
 onPageTitle: Lektion 18
 ---
-I denne lektion skal vi lære endnu en forholdsendelse. Den opfører sig på fuldstændig samme måde som de to andre vi lærte sidste gang, så der er ikke noget nyt grammatik.
-
-Vi kommer til at lave lidt forskellige øvelser hvor vi øver os på at bruge forholdsendelserne og hvor vi repeterer de udsagnsordsendelser vi lærte i modul 2.
+I denne lektion går vi tilbage til at tale om udsagnsord. Vi skal lære om et meget grundlæggende princip for grønlandsk grammatik, nemlig transitivitet. Transitiv betyder at et ord har genstandsled, intransitiv betyder at ordet ikke har et genstandsled. På dansk kan vi udtrykke transitivitet med 3 ord: "Jeg elsker ham." På grønlandsk bliver det sammenfattet i ét ord: "Asavara." Både grundledet (jeg) og genstandsledet (ham) er udtrykt i endelsen -vara *jeg-ham*. Der er en endelse for alle personsammenstød, hvilket godt kan lyde uoverskueligt første gang. Men her i lektionen skal vi bare lære to nye endelser, nemlig -para og -passi. Hvis du gerne vil se en forsmag på alle de endelser der findes, kan du kigge på [Skema over udsagnsordsendelser](/mere/udsagnsordsendelser/?f=true&d=false&h=false&n=false&l=false&o=false&s=true&b=false&fjerdeperson=true&nngit=all&transitivitet=transitiv).

@@ -2,9 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 3']
 lessonNo: 20
-metaTitle: Lektion 20 - -qar og +tor
+metaTitle: Lektion 20 - +gusup- og lydregler om G
 onPageTitle: Lektion 20
 ---
-Vi skal repetere det vi ved generelt om tilhæng, og mere specifikt tilhænget -qar-. Derudover skal vi også lære et nyt tilhæng, +tor- *spise/drikke*.
-
-Kig dine notater fra [lektion 13](/kursus/modul-2/lektion-13/) igennem for at se hvad vi har haft om tilhæng før.
+Vi skal i denne lektion lære et nyt tilhæng, +gusup- *At ønske/have lyst til/vil gerne* og nogle lydregler vi skal bruge når vi sætter tilhænget på.

@@ -3,34 +3,36 @@ partOfLesson: 24
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Gennemgå videoer med introduktion af Per og Tika
+**Formål:** Repetition og interview
 
 **Plan:**
 
-20 min: **Repetition og lektier.**
+15 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
+- Hvordan er det gået med diktaten?
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-10 min: **Video med introduktion af Per og Tika**
+15 min: **Forberedelse af spørgsmål**
 
-- Se videoerne med introduktion af Per og Tika
-- Afspil hver video, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
+- Lav en liste med spørgsmål til den der skal interviewes.
 
-20 min: **Tikas velkomst**
+20 min: **Interview**
 
-- Se videoen med Tikas velkomst.
-    - Kunne eleverne genkende nogle af ordene/tilhængene?
-- Vis teksten i [Intro til diktat af Tikas velkomst](https://learngreenlandic.com/online/lg1/welcome/intro/)
-- Gennmgå videoen sætning for sætning - fremhæv de ord eleverne kender og giv en oversættelse af hver sætning.
+- Interview en grønlandsktalende som I har aftalt med på forhånd.
+- Kursisterne skiftes til at stille spørgsmål.
+- Læreren skriver noter.
+- Tal om svarene efter I har lavet interviewet og hjælp alle kursisterne til at forstå dem.
 
-10 min: **Opsummering og lektier.**
+10 min: **Afslutning**
 
-- Ullumi suna ilikkarparput?
-- Ugens guldkorn: Oqaluussisa
+- Giv ros!
+- Opfordringer:
+    - Gå tilbage og repetér
+    - Brug de mundtlige øvelser
+    - Bliv ved med at bruge 15 min hver dag på at lave lidt grønlandsk (spørg mig hvis I mangler inspiration)
+    - Fokusér på at få *comprehensible input*. Henvis fx til [øvelse 0.10X](https://learngreenlandic.com/online/lg2/pdf/alt.pdf)
+- Planlæg hvornår næste modul skal starte.
 - Lektier:
-    - **Mundtlig:** Udvid og brug dit small-talk ordforråd.
-    - **Skriftlig:** Øvelse 5.2X, 5.7X. Skriv diktat af Tikas velkomst. Tænk over hvilke spørgsmål vi kan stille den person der skal interviewes næste lektion.
-        - Hjælp til lektier: Lav diktaten sammen som gruppe. Afspil videoen i langsom hastighed.
-        - Pas på! Det er en god øvelse at kunne opfatte ord/sætninger man ikke forstår, men det er også en meget svær opgave. Lad den ikke tage al modet fra dig.
+    - [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf9YLRsrOIKHmszbemHhO69_KVAp0knMw2y7GZMwUukG7mpkg/viewform?usp=header).

@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 23
-previewText: Brug sætningen "Tulliani una eqqartorsinnaavarput"
+previewText: Udvid og brug dit small-talk ordforråd
 ---

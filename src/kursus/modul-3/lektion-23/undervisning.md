@@ -3,50 +3,34 @@ partOfLesson: 23
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære tilhænget -ssa-, lidt om personendelser og -mik.
+**Formål:** Gennemgå videoer med introduktion af Per og Tika
 
 **Plan:**
 
-15 min: **Repetition og lektier.**
+20 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-5 min: **Tid**
+10 min: **Video med introduktion af Per og Tika**
 
-- Hvordan siger man ting i fremtid/nutid/datid på grønlandsk?
-    - Ingen særlige bøjninger, men man bruger tilhæng.
-    - Nutid og datid er ens, men datid kan godt tydeliggøres ved et tilhæng.
+- Se videoerne med introduktion af Per og Tika
+- Afspil hver video, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
 
-15 min: **-ssa- v-v.**
+20 min: **Tikas velkomst**
 
-- Fremtidstilhæng, kan betyde "skal/vil".
-- Tilhænget -ssa- er særligt. Udsagnsmærket -vu- bliver til -a- i intransitiv fremsættemåde (undtagen i 3. ps. flertal).
-    - Skriv endelserne for fremsættemåde og -ssa- ved siden af hinanden, og vis at hvis man bare bytter udsagnsmærket ud, så er de det samme.
-- Øv at sætte -ssa- på de udsagnsord kursisterne allerede kender.
-
-5 min: **Personendelsen +ga**
-
-- Hvad er personendelser?
-    - Der er brug for endelser på de ting der er ejet. Fx: Guutip kunngeqarfia
-    - Kan kun sættes på nomen
-- Første personendelse: -ga = min ene (+ ved Q-stammer)
-    - Vis [skema over endelser til navneord](/mere/navneordsendelser/)
-
-10 min: **Forholdsendelsen ±nik/±mik**
-
-- Repetition af hvornår man bruger plus/minus og m/n
-- -mik i intransitive sætninger:
-    - Tænk på det som "nærmere bestemt". Fx: Rebekkamik ateqarpunga (*Jeg har et navn, nærmere bestemt Rebekka*), 31-nik ukioqarpunga (*Jeg har år, nærmere bestemt 31*)
-    - Den har også andre funktioner, mere om dem i et senere modul
+- Se videoen med Tikas velkomst.
+    - Kunne eleverne genkende nogle af ordene/tilhængene?
+- Vis teksten i [Intro til diktat af Tikas velkomst](https://learngreenlandic.com/online/lg1/welcome/intro/)
+- Gennmgå videoen sætning for sætning - fremhæv de ord eleverne kender og giv en oversættelse af hver sætning.
 
 10 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Kalaallisut Ilinniarta & Kalaallisut oqalutta
+- Ugens guldkorn: Oqaluussisa
 - Lektier:
-    - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
-    - **Skriftlig:** Øvelse 5.3X, 5.4X, 5.5X og 5.6X. Skriv diktat af Per/Tikas introduktion (hver gruppe får hver deres at skulle skrive ned).
-        - Hjælp til lektier: Hvordan påvirker -nngit- de transitive og intransitive endelser?
-    - Se forelæsning 5.2
+    - **Mundtlig:** Udvid og brug dit small-talk ordforråd.
+    - **Skriftlig:** Øvelse 5.2X, 5.7X. Skriv diktat af Tikas velkomst. Tænk over hvilke spørgsmål vi kan stille den person der skal interviewes næste lektion.
+        - Hjælp til lektier: Lav diktaten sammen som gruppe. Afspil videoen i langsom hastighed.
+        - Pas på! Det er en god øvelse at kunne opfatte ord/sætninger man ikke forstår, men det er også en meget svær opgave. Lad den ikke tage al modet fra dig.

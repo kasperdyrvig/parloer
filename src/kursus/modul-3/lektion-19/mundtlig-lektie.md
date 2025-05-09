@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 19
-previewText: Brug det du har lært til at lave et svar til mødet.
+previewText: Udvælg en af sætningerne fra minidialogen og brug den i din hverdag.
 ---

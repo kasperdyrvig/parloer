@@ -3,7 +3,7 @@ partOfLesson: 20
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Repetere tilhænget -qar- og lære +tor-
+**Formål:** Lær tilhænget +gusup- og lydregler om G
 
 **Plan:**
 
@@ -11,42 +11,39 @@ onPageTitle: Til læreren
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
-- Hvad fik eleverne ud af forelæsning 4?
+- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-5 min: **Repetition af tilhæng**
+5 min: **Lydregler om G**
 
-- Hvad kan kursisterne huske om tilhæng?
-    - Plus/minus, ordklasser
+- Når Q og R støder sammen med et G eller J, bliver det til et R. qg/rg/qj/rj=r
+    - Eks: aallar+gusup- = aallarusup-
+- Når G støder sammen med en anden konsonant end R/Q, bliver det ofte til KK.
+    - Eks: tikip+gusup- = tikikkusup-
 
-5 min: **Repetition af -qar-**
+10 min: **+gusup-, v-v**
 
-- Hvad kan kursisterne huske om tilhænget -qar-, n-v?
-- Øv at sætte tilhænget på nukik, qimmeq og illu
+- Betyder "at ønske/have lyst til/vil gerne", sættes på udsagnsord og bliver ved med at være et udsagnsord.
+    - Øv at sætte det på aallar-, tikip-, naapip- og ilinniartip-
+- Tilhænget er særligt, for den har formen +rusup- på vokalstammer.
+    - Eks: anerusuppoq, sulerusuppoq
 
-10 min: **+tor-, n-v**
+15 min: **Samtaleøvelse:** Hvad vil du gerne lave i paradiset?
 
-- Betyder "at spise/drikke", sættes på navneord (hvor det giver mening) og bliver til et udsagnsord.
-- Øv at sætte det på neqi, tii, iffiaq, immuk.
-    - Hvorfor hedder det kaffisorpoq?
+- Giv kursisterne 5 minutters tid til at finde udsagnsord i ordbogen (find intransitive ord) om ting de gerne vil lave i paradiset.
+- Begynd så med at sige: Paratiisimi ...-rusuppunga
+    - Vis handlingen (fx hvis det er qitikkusuppunga, så dans). Skriv ordene ned på whiteboardet.
+- Hver kursist tilføjer en ny handling og udfører hvert ord, efterhånden som de siger dem.
 
-10 min: **Øvelse**
+10 min: **Reptition/status**
 
-- Kursisterne deles op i grupper og skal spørge hinanden: "Ippassaq sutorpit?" "Unnugu sutussavit?"
-- Efter 10 min samler I op fælles og kursisterne kan fortælle hvad de fandt ud af.
+- Repetér tilhænget -nngit- eller lydregler.
+- Eller snak om status, hvordan det går med at få lavet lektier hver dag, gruppearbejde mm.
 
-10 min: **Sætningsstafet**
-
-- Alle kursister skiftes til at sige en ny sætning uden at slå op i noter mm.
-- Læreren skriver dem løbende op på whiteboard.
-- Hvis man ikke kan komme i tanke om noget må man sige pas.
-- Hvis alle har sagt pas 2 gange, er stafetten færdig.
-- Bagefter kan I gennemgå alle sætningerne.
-
-10 min: **Opsummering og lektier**
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Tilhængsliste
+- Ugens guldkorn: Katersat - søg på tilhæng
 - Lektier:
-    - Se Forelæsning 4: Træning og opsamling
-    - **Mundtlig:** Minidialog 1.1, 1.2, 1.3. Udvælg en af sætningerne derfra og brug den i din hverdag.
-    - **Skriftlig:** Øvelse 4.1X og 4.2X
+    - **Mundtlig:** Brug spørgsmålet "Sumut aallarusuppit?"
+    - **Skriftlig:** Øvelse 4.3X, 4.4X, 4.5X og 4.6X
+    - Se forelæsning 5.1

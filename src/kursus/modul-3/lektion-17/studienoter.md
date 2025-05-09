@@ -11,12 +11,12 @@ Deles op i *stærke* og *svage* stammer.
 <br>Stærke: De fleste der ender på **-neq** og **K**.
 
 **Lær mere:**
-
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 70 (nominer)
 - *Grønlandsk grammatik* af Stig Bjørnum, s. 77-78 (svage og stærke stammer)
 - *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 2.2](https://learngreenlandic.com/online/lg2/2.2/): 00:00-03:05; 05:10-06:20
 
-**Forholdsendelserne ±mut og ±mit** (oblikke kasus)
+**Forholdsendelserne ±mi, ±mut og ±mit** (oblikke kasus)
+<br>±mi/±ni = i/på/hos/ved (lokalis)
 <br>±mut/±nut = til (terminalis)
 <br>±mit/±nit = fra (ablativ)
 

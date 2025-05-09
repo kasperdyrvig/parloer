@@ -3,52 +3,50 @@ partOfLesson: 19
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om transitive udsagnsord
+**Formål:** Repetere tilhænget -qar- og lære +tor-
 
 **Plan:**
 
-15 min: **Repetition og lektier**
+10 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
-- Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
+- Hvad fik eleverne ud af forelæsning 4?
 
-20 min: **Transitivitet**
+5 min: **Repetition af tilhæng**
 
-- Repetér kort hvad kursisterne ved om udsagnsord på grønlandsk.
-- Grundlæggende i grønlandsk grammatik. Transitiv = med genstandsled, intransitiv = uden genstandsled.
-    - Hvad er et genstandsled? Fx: nerivunga *jeg spiser,* nerivara *jeg spiser det.*
-    - Repetér også hvad et grundled er.
-- Både grundled og genstandsled kan ses i endelsen.
-- Stammer er enten intransitive eller transitive. Nogle få ord kan være begge dele, men de fleste er skarpt opdelt.
-    - Fx ilinniartip- *undervise nogen,* naapip- *møde nogen,* aallar- *rejse,* tikip- *ankomme.*
-- Pas på! Når man oversætter til dansk, kan man ikke altid høre om det er transitivt eller ej!
-    - Fx er denne intransitiv på grønlandsk: Nasaqarpoq *han har en hue.* Transitive endelser sættes på transitive stammer, og omvendt.
-- Hvordan kender man forskel? I ordbogen står der enten -poq/-voq eller -paa/-vaa.
+- Hvad kan kursisterne huske om tilhæng?
+    - Plus/minus, ordklasser
 
-10 min: **Øvelse:** Er den transitiv eller ej?
+5 min: **Repetition af -qar-**
 
-- Giv kursisterne i grupper på 2-3 en liste på 10 udsagnsord på dansk.
-- De skal nu slå dem op i ordbogen og notere om de er transitive eller ej (eller begge dele).
-- Efter alle er færdige samler I fælles op.
+- Hvad kan kursisterne huske om tilhænget -qar-, n-v?
+- Øv at sætte tilhænget på nukik, qimmeq og illu
 
-5 min: **Endelser**
+10 min: **+tor-, n-v**
 
-- Gennemgå endelserne -punga, -poq, -para og -passi
-- Hvilke endelser kan bruges på hvilke stammer?
+- Betyder "at spise/drikke", sættes på navneord (hvor det giver mening) og bliver til et udsagnsord.
+- Øv at sætte det på neqi, tii, iffiaq, immuk.
+    - Hvorfor hedder det kaffisorpoq?
+
+10 min: **Øvelse**
+
+- Kursisterne deles op i grupper og skal spørge hinanden: "Ippassaq sutorpit?" "Unnugu sutussavit?"
+- Efter 10 min samler I op fælles og kursisterne kan fortælle hvad de fandt ud af.
+
+10 min: **Sætningsstafet**
+
+- Alle kursister skiftes til at sige en ny sætning uden at slå op i noter mm.
+- Læreren skriver dem løbende op på whiteboard.
+- Hvis man ikke kan komme i tanke om noget må man sige pas.
+- Hvis alle har sagt pas 2 gange, er stafetten færdig.
+- Bagefter kan I gennemgå alle sætningerne.
 
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Udsagnsordsendelser i parlør-app
+- Ugens guldkorn: Tilhængsliste
 - Lektier:
-    - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
-    - **Skriftlig:** Øvelse 3.1X, 3.2X, 3.9X, 3.10X, 3.11X
-        - Hjælp til lektier: Snak om hvordan man decifrerer sætningens skabelon i øvelse 3.11X
-    - Send emner til repetition til læreren.
-
-**Links/ressourcer:**
-
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 35 (verber: stammer)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 150 (transitive sætninger)
-- *Vestgrønlandsk grammatik* af Flemming Nielsen, s. 255 (transitivitet)
+    - Se Forelæsning 4: Træning og opsamling
+    - **Mundtlig:** Minidialog 1.1, 1.2, 1.3. Udvælg en af sætningerne derfra og brug den i din hverdag.
+    - **Skriftlig:** Øvelse 4.1X og 4.2X

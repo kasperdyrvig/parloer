@@ -3,47 +3,41 @@ partOfLesson: 21
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lær tilhænget +gusup- og lydregler om G
+**Formål:** Lære tilhænget +miu
 
 **Plan:**
 
-10 min: **Repetition og lektier**
+20 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-5 min: **Lydregler om G**
+15 min: **Video af Per og Tika**
 
-- Når Q og R støder sammen med et G eller J, bliver det til et R. qg/rg/qj/rj=r
-    - Eks: aallar+gusup- = aallarusup-
-- Når G støder sammen med en anden konsonant end R/Q, bliver det ofte til KK.
-    - Eks: tikip+gusup- = tikikkusup-
+- Repetér metoden "lyt, forstå, gentag".
+- Afspil video af Per og Tika.
+    - Tag videoerne sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
+    - Vi skal forstå alt hvad der sker med ordene, så vi tager det lidt efterhånden.
 
-10 min: **+gusup-, v-v**
+5 min: **+miu, n-n**
 
-- Betyder "at ønske/have lyst til/vil gerne", sættes på udsagnsord og bliver ved med at være et udsagnsord.
-    - Øv at sætte det på aallar-, tikip-, naapip- og ilinniartip-
-- Tilhænget er særligt, for den har formen +rusup- på vokalstammer.
-    - Eks: anerusuppoq, sulerusuppoq
+- Betyder "indbygger i", sættes på navneord og bliver ved med at være et navneord.
+    - Øv at sætte det på Nuuk, Sisimiut, Ilulissat
 
-15 min: **Samtaleøvelse:** Hvad vil du gerne lave i paradiset?
+15 min: **-u-, n-v.**
 
-- Giv kursisterne 5 minutters tid til at finde udsagnsord i ordbogen (find intransitive ord) om ting de gerne vil lave i paradiset.
-- Begynd så med at sige: Paratiisimi ...-rusuppunga
-    - Vis handlingen (fx hvis det er qitikkusuppunga, så dans). Skriv ordene ned på whiteboardet.
-- Hver kursist tilføjer en ny handling og udfører hvert ord, efterhånden som de siger dem.
-
-10 min: **Reptition/status**
-
-- Repetér tilhænget -nngit- eller lydregler.
-- Eller snak om status, hvordan det går med at få lavet lektier hver dag, gruppearbejde mm.
+- Betydning: at være - identitet
+    - Fx: pisiniarfiuvoq *det er en butik*, sanasuuvoq *han er tømrer*.
+- Normalt er det et minustilhæng, men der er lidt undtagelser:
+    - På mange stærke stammer der slutter på Q, bliver det til plus og svækker Q til R. Fx: erneq +u- = erneruvutit *du er en søn*.
+    - På alle T-stammer kommer der et ekstra A ind. Fx: angutaavutit *du er en mand*. Forklaring kommer i næste modul.
+- Hvad sker der når man sætter -u- på nuliaq, qallunaaq (j indsættes mellem vokalerne), nalunaajaasoq eller qimmeq?
 
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Katersat - søg på tilhæng
+- Ugens guldkorn: Nutserut
 - Lektier:
-    - **Mundtlig:** Brug spørgsmålet "Sumut aallarusuppit?"
-    - **Skriftlig:** Øvelse 4.3X, 4.4X, 4.5X og 4.6X
-    - Se forelæsning 5.1
+    - **Mundtlig:** Spørg en du møder: "Sumiuuit?" (Eller fx Nuummiuuit?)
+    - **Skriftlig:** Strukturøvelse 1.1, 1.2, 1.3, 2.1, 2.2, 3.1, 3.2 og øvelse 5.1X

@@ -3,9 +3,11 @@ layout: course
 tags: module
 moduleNo: 4
 getLessonsOf: module 4
-metaTitle: Modul 4 (lektion 26-xx)
+metaTitle: Modul 4 (lektion 25-32)
 ---
 # Modul 4
+
+**OBS! Er stadig under udarbejdelse**
 
 Modul 4 er til dig der har godt styr på den grundlæggende grammatik på grønlandsk, herunder transitive og intransitive udsagnsord, plus- og minustilhæng og forholdsendelser. Du skal enten have gennemgået modul 3 eller *Learn Greenlandic - Grønlandsk for voksne I*, før du kan komme med på modulet her.
 

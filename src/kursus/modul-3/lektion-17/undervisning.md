@@ -14,6 +14,16 @@ onPageTitle: Til læreren
 - Introduktion til Learn Greenlandic og hvad man skal være opmærksom på
 - Gennemgang af spørgsmål / kommentarer til forelæsning 1, 2 og 3
 
+15 min: **Øvelse**
+
+- I grupper af 3-4: Brug en mellemmand til at kommunikere.
+    - A: C qanoq ateqarpa?
+    <br>B: Qanoq ateqarpit?
+    <br>C: Rebekkamik ateqarpunga.
+    <br>B: Rebekkamik ateqarpoq.
+- Og sådan fortsætter man ved at bruge [Forslag til spørgsmål]({{'/kursus/modul-2/parloer/spoergsmaal/'|url}}).
+    - Fokusér især på spørgsmål der starter med sumi/sumut/sumit. Prøv evt at lave jeres egne spørgsmål ved at bruge de ord.
+    
 5 min: **Repetition**
 
 - Repetér ordklasser og ordenes opbygning.
@@ -28,6 +38,8 @@ onPageTitle: Til læreren
     - Stærke stammer: næsten alle der slutter på -k og -neq.
     - Alle andre der slutter på -q er der ingen regler for, så det skal læres (ligesom en og et på dansk).
         - (Kært barn har mange navne, i Learn Greenlandic skriver de enten +/- eller up/p-stammer)
+
+10 min: **Pause**
     
 5 min: **Repetition af lydregler**
 
@@ -35,7 +47,7 @@ onPageTitle: Til læreren
     - I/E & U/O
     - Assimilation af konsonanter (K1+K2>K2K2)
 
-15 min: **Forholdsendelserne ±nut/±mut og ±nit/±mit**
+20 min: **Forholdsendelserne ±nut/±mut og ±nit/±mit**
 - Se videoen [Til, i og fra](/mere/videoer/forholdsendelser/).
 - Gennemgå betydningen af ±nut/±mut (Trm) og ±nit/±mit (Abl)
 - Hvornår er det +/-?
@@ -45,25 +57,23 @@ onPageTitle: Til læreren
 - Man bruger kun formen der starter med "±m" ved helt ubøjede ord = dvs ord der står i ental.
     - Prøv at sætte endelserne på Sisimiut og Aasiaat
 
-10 min: **Opsummering og lektier**
+15 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: *Grønlandsk grammatik* af Stig Bjørnum
 - Lektier:
     - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen.
-    - **Skriftlig:** Øvelse 2.1X, 2.2X, 2.3X, 2.4X
-        - Hjælp til lektier: Vis eleverne listen over bynavne i støttesætninger.
-        - Kalaallit Nunaat er særlig, der er en personendelse på. Den bøjes: Kalaallit Nunaannut.
+    - **Skriftlig:** Øvelse 2.1X, 2.2X, 2.3X, 2.4X, 3.5X, 3.6X, 3.7X, 3.8X
         - Når du laver lektier: Lyt til sætningen, forstå den, gentag, lav løsningen, tjek den og sig den højt.
         - Skriv ned hvis der opstår spørgsmål/hvis noget var ekstra svært! Der er ekstra tid i hver lektion til at snakke om ugens lektier.
+        - Forklar konceptet med at lave lektier i grupper.
+            - Husk at du har et ansvar over for din makker!
+        - Hjælp til lektier: Vis eleverne listen over bynavne i støttesætninger.
+        - Kalaallit Nunaat og ilissi er særlige. De bøjes: Kalaallit Nunaannut, ilissinnut.
+        - Grønlandske nominer kan kun ende på K, P, Q eller T. Ved udenlandske navne/ord der ender på andet indsættes I når der bliver sat endelser på. Fx: Rosingimi.
+            - Ved udenlandske navne gælder lydreglen om vokaler ikke, fx: Egedemut.
     - Læs intro til næste lektion.
 
-15 min: **Pause**
-
-30 min: **Gruppearbejde**
-- Forklar konceptet med at lave lektier i grupper.
-    - Husk at du har et ansvar over for din makker!
-- Få delt eleverne op i grupper alt efter hvor meget tid de har sat af til grønlandsk.
 
 **Links/ressourcer:**
 
