@@ -19,9 +19,9 @@ onPageTitle: Til læreren
     - Tag videoen sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
     - Vi skal forstå alt hvad der sker med ordene, så vi tager det lidt efterhånden.
 
-5 min: **Repetition af -ssa-**
+5 min: **Repetition af -ssa- og -u-**
 
-- Repetér betydning og hvad der sker med udsagnsmærket.
+- Repetér betydning og hvad der sker med udsagnsmærket ved -ssa-
 
 10 min: **Tilhæng: +galuar-**
 
@@ -30,7 +30,7 @@ onPageTitle: Til læreren
     
 10 min: **Flere tilhæng i ét ord**
 - Hvad er betydningen når der kommer flere tilhæng i ét ord?
-    - Hvad betyder: Eqqaamassagaluarpaannga, sulisassaaq, sulisassagaluarpunga
+    - Hvad betyder: Eqqaamasariaqaraluarpaannga, sulisassaaq, sulisassagaluarpunga, eqqumiitsuliortuuvoq
 
 10 min: **Opsummering og lektier**
 

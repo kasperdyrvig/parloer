@@ -56,6 +56,6 @@ onPageTitle: Til læreren
 - Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** 
-    - **Skriftlig:** Øvelse 0.1T, 0.1A, 0.2T, 0.2A, 0.3T, 0.3A.
+    - **Skriftlig:** Øvelse 0.1T, 0.1A, 0.2T, 0.2A, 0.3T, 0.3A, 1.3T, 1.3A, 1.4T, 1.4A
         - Hjælp til lektier: Forklar øvelse 0.3
     - Læs intro til næste lektion.
