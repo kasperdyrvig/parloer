@@ -28,7 +28,7 @@ onPageTitle: Til læreren
 - Kursisterne bliver delt op i grupper på 2-3 og skal prøve at lave et ord der giver mening med så mange tilhæng som muligt. (Skal indeholde -taq)
     - Vær opmærksom på ordklasser og lydregler!
     - Liste over tilhæng vi har lært: -qar-, +tor-, +miu, -u-, -ssa-, -nngit-, +gusup-, +Tar-, +Tariaqar-, +Toq, +galuar-, -Taq.
-- Efter 10 min gennmgår I ordene sammen.
+- Efter 10 min gennemgår I ordene sammen.
 
 10 min: **Opsummering og lektier**
 
@@ -36,5 +36,5 @@ onPageTitle: Til læreren
 - Ugens guldkorn: 
 - Lektier:
     - **Mundtlig:** 
-    - **Skriftlig:** Øvelse 0.6, 0.7, 0.8x, 0.1.1x, 0.1.2x, 0.2.1x
+    - **Skriftlig:** Øvelse 0.6, 0.7, 0.8x, 0.1.1x, 0.1.2x
     - Læs intro til næste lektion.
