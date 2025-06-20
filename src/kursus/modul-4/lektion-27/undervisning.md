@@ -37,4 +37,5 @@ onPageTitle: Til læreren
 - Lektier:
     - **Mundtlig:** 
     - **Skriftlig:** Øvelse 0.6, 0.7, 0.8x, 0.1.1x, 0.1.2x
+        - Tip: Repetér evt. lektion 21 om -u-
     - Læs intro til næste lektion.
