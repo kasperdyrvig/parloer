@@ -3,7 +3,7 @@ partOfLesson: 31
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Præsentationer, repetition og afslutning
+**Formål:** Forberede fremlæggelser
 
 **Plan:**
 

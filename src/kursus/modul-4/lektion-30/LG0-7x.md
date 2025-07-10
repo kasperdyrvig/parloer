@@ -1,6 +1,6 @@
 ---
 tags: homework
-partOfLesson: 29
+partOfLesson: 30
 sortNumber: 4
 previewText: Øvelse 0.7x - bekræft spørgsmålet
 linkText: Åbn øvelsen
