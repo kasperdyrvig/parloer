@@ -3,7 +3,7 @@ partOfLesson: 32
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Præsentationer, repetition og afslutning
+**Formål:** Fremlæggelser, repetition og afslutning
 
 **Plan:**
 
@@ -17,6 +17,9 @@ onPageTitle: Til læreren
 - Lyt til fremlæggelserne kursisterne forberedte i sidste lektion.
 
 15 min: **Repetition/Brainstorming**
+- Hvad gør man efter kurset? (hvad har virket godt/ikke så godt)
+- Hvordan kan man bruge sin menighed til at lære mere grønlandsk?
+- Er der noget læreren kan gøre for at det bliver nemmere?
 
 10 min: **Afslutning**
 - Giv ros!

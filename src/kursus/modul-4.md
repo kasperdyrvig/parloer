@@ -20,7 +20,7 @@ Hvis ikke du har muligheden for at bruge den tid på det, vil jeg foreslå at du
 
 Modulet her er baseret på [Learn Greenlandic Online](https://learngreenlandic.com/online) som er udarbejdet af Per Langgård. Alle skriftlige lektier kommer til at være derfra. Hvis du gerne vil lære lidt om teorien og historien bag grønlandskindlæring, kan du læse hvilke tanker Per har gjort sig her: [Sprogtilegnelse på grønlandsk](https://learngreenlandic.com/fakta/)
 
-Som forberedelse til modulet her skal du have set følgende forelæsning og øvet dig på de nye gloser:
+Som forberedelse til den første lektion skal du have set følgende forelæsning og øvet dig på de nye gloser:
 - [Forelæsning II-1.1: Modul I lærte dig](https://learngreenlandic.com/online/lg2/1.1/)
     - Brug denne øvelse til at lære gloserne: [Automat 1.1.1: Reception](https://learngreenlandic.com/online/lg2/fsts/1.1.1/)
 
