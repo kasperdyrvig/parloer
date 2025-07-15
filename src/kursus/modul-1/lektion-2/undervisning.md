@@ -32,8 +32,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Rundvisning i parlørapp'en.
 - Lektier:
-    - Lyt til en grønlandsk oplæsning og følg med i teksten.
-    - Lav øvelser: Lytteøvelse (konsonanter) og Graphogame aqqut 2.1-2.10 Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Lyt til en grønlandsk oplæsning og følg med i teksten.
+    - **Skriftlig:** Lytteøvelse (konsonanter) og Graphogame aqqut 2.1-2.10 Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

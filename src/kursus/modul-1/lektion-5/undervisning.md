@@ -37,8 +37,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: _Kalaallisut ilikkarit - Lær grønlandsk 1_ af Bente Marie Meilvang
 - Lektier:
-    - Præsentér dig på grønlandsk næste gang du tager et besøg.
-    - Lav øvelser: Dialog, K eller Q? og Graphogame aqqut 5.1-5.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Præsentér dig på grønlandsk næste gang du tager et besøg.
+    - **Skriftlig:** Dialog, K eller Q? og Graphogame aqqut 5.1-5.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

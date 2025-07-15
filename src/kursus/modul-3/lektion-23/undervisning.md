@@ -30,7 +30,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Oqaluussisa
 - Lektier:
-    - **Mundtlig:** Udvid og brug dit small-talk ordforråd.
+    - **Mundtlig:** Lær, og brug spørgsmålet "Sumut aallarusuppit?"
     - **Skriftlig:** Øvelse 5.2X, 5.7X. Skriv diktat af Tikas velkomst. Tænk over hvilke spørgsmål vi kan stille den person der skal interviewes næste lektion.
         - Hjælp til lektier: Lav diktaten sammen som gruppe. Afspil videoen i langsom hastighed.
         - Pas på! Det er en god øvelse at kunne opfatte ord/sætninger man ikke forstår, men det er også en meget svær opgave. Lad den ikke tage al modet fra dig.

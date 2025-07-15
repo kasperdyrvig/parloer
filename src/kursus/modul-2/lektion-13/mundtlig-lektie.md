@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 13
-previewText: Brug grønlandske ord når du køber ind. (Fx nalinganut, sussa, qujaannarpunga osv.).
+previewText: Lær, og brug spørgsmålet "Qanoq isumaqarpit?"
 ---

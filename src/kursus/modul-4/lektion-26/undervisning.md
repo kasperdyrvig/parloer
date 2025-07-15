@@ -37,6 +37,6 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** 
+    - **Mundtlig:** Brug sætningen "Inuit ima aperisarpakka" i forkyndelsen (igen).
     - **Skriftlig:** Øvelse 1.3T, 1.3A, 0.4T, 0.4A, 0.5T, 0.5A
     - Læs intro til næste lektion.

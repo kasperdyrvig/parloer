@@ -46,8 +46,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: [Learn Greenlandic Online](https://learngreenlandic.com/online)
 - Lektier:
-    - Øv Saqqummersitat 21:4 derhjemme og send en optagelse til mig.
-    - Lav øvelser: Diktat og Graphogame aqqut 4.1-4.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Øv Saqqummersitat 21:4 derhjemme og send en optagelse til mig.
+    - **Skriftlig:** Diktat og Graphogame aqqut 4.1-4.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

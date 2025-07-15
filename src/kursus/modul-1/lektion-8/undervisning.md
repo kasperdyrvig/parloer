@@ -30,7 +30,9 @@ onPageTitle: Til læreren
 - Giv ros.
 - Opfordring: Øv udtale, oplæsning og brug de ord og sætninger de har lært i modul 1.
 - Planlæg hvornår modul 2 skal starte.
-- Lektier: [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf3NeYsrr4lFwBCrYzNNY8g5EE2K6srjDVr1vJJS2X6QiLRoA/viewform?usp=sf_link).
+- Lektier:
+    - **Mundtlig:** Læs et vers højt på grønlandsk i forkyndelsen (spørg fx din forkyndermakker om du må læse verset, når de tager besøg).
+    - **Skriftlig:** [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf3NeYsrr4lFwBCrYzNNY8g5EE2K6srjDVr1vJJS2X6QiLRoA/viewform?usp=sf_link).
 
 **Links/ressourcer:**
 

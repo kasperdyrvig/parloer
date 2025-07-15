@@ -42,7 +42,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder qass).
 - Lektier:
-    - **Mundtlig:** Brug spørgsmålet "Qanoq isumaqarpit?"
+    - **Mundtlig:** Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?" (igen)
     - **Skriftlig:** Besvar spørgsmål og Øv spørgemåde.
     - Læs intro til næste lektion.
 

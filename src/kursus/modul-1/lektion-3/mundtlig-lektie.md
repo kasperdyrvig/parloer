@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 3
-previewText: Lær og brug ordene sunaana?, kinaana? og sussa fra "Støttesætningerne".
+previewText: Lyt til en grønlandsk oplæsning og følg med i teksten.
 ---

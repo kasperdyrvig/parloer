@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 7
-previewText: Læs et vers højt på grønlandsk i forkyndelsen
+previewText: Præsentér dig på grønlandsk næste gang du tager et besøg.
 ---

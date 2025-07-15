@@ -40,8 +40,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: De historiske film [Inuit](https://www.danmarkpaafilm.dk/film/inuit) og [Paalup nuliassarnera](https://youtu.be/PviADLkfXo4?si=N0UCX2Rei5VaYpJt).
 - Lektier:
-    - Læs et vers højt på grønlandsk i forkyndelsen (spørg fx din forkyndermakker om du må læse verset, når de tager besøg).
-    - Lav øvelser: Diktat og stavelsesdeling og Apeqqutaava? Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Præsentér dig på grønlandsk næste gang du tager et besøg (igen).
+    - **Skriftlig:** Diktat og stavelsesdeling og Apeqqutaava? Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

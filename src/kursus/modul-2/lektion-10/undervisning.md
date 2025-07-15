@@ -40,7 +40,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Filtreringsmuligheder på ordbog.gl.
 - Lektier:
-    - **Mundtlig:** Brug sætningen "Inuit ima aperisarpakka" i forkyndelsen.
+    - **Mundtlig:** Brug "qanoq igaajuk" næste gang du har læst et vers op i forkyndelsen - og så meget som muligt (igen).
     - **Skriftlig:** V-endespil, Oversættelse, Endelser i fremsættemåde - del 1 & 2.
     - Læs intro til næste lektion.
 

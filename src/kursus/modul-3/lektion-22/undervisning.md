@@ -46,7 +46,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Kalaallisut Ilinniarta & Kalaallisut oqalutta
 - Lektier:
-    - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
+    - **Mundtlig:** Spørg en du møder: "Sumiuuit?" (Eller fx Nuummiuuit?) (igen)
     - **Skriftlig:** Øvelse 5.3X, 5.4X, 5.5X og 5.6X. Skriv diktat af Per/Tikas introduktion (hver gruppe får hver deres at skulle skrive ned).
         - Hjælp til lektier: Hvordan påvirker -nngit- de transitive og intransitive endelser?
     - Se forelæsning 5.2

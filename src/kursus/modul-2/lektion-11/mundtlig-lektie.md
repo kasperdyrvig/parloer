@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 11
-previewText: Lær og brug small-talk (Fx. Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.)
+previewText: Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?"
 ---

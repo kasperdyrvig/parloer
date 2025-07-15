@@ -44,6 +44,6 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Katersat - søg på tilhæng
 - Lektier:
-    - **Mundtlig:** Brug spørgsmålet "Sumut aallarusuppit?"
+    - **Mundtlig:** Udvælg en af sætningerne fra minidialogen i sidste lektion og brug den i din hverdag.
     - **Skriftlig:** Øvelse 4.3X, 4.4X, 4.5X og 4.6X
     - Se forelæsning 5.1

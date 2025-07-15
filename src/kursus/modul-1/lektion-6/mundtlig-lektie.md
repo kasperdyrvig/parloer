@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 6
-previewText: Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?"
+previewText: Præsentér dig på grønlandsk næste gang du tager et besøg.
 ---

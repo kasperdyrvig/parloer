@@ -41,7 +41,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Ordbogen (2003) (udsagnsord: kig efter endelser - eks: glad)
 - Lektier:
-    - **Mundtlig:** Lav et enkelt svar til møde.
+    - **Mundtlig:** Lær, og brug spørgsmålet "Qanoq isumaqarpit?" (igen)
     - **Skriftlig:** Svar på spørgsmål del 1 og del 2 + noget med -qar-.
     - Læs intro til næste lektion.
 

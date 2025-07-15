@@ -42,7 +42,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Udsagnsordsendelser i parlør-app
 - Lektier:
-    - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
+    - **Mundtlig:** Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen (igen).
     - **Skriftlig:** Øvelse 3.1X, 3.2X, 3.3X, 3.4X, 3.9X, 3.10X, 3.11X
         - Hjælp til lektier: Snak om hvordan man decifrerer sætningens skabelon i øvelse 3.11X
     - Send emner til repetition til læreren.

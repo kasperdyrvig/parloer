@@ -35,4 +35,5 @@ onPageTitle: Til læreren
     - Fokusér på at få *comprehensible input*. Henvis fx til [øvelse 0.10X](https://learngreenlandic.com/online/lg2/pdf/alt.pdf)
 - Planlæg hvornår næste modul skal starte.
 - Lektier:
-    - [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf9YLRsrOIKHmszbemHhO69_KVAp0knMw2y7GZMwUukG7mpkg/viewform?usp=header).
+    - **Mundtlig:** Brug grønlandske ord når du køber ind. (Fx nalinganut, sussa, qujaannarpunga osv.).
+    - **Skriftlig:** [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf9YLRsrOIKHmszbemHhO69_KVAp0knMw2y7GZMwUukG7mpkg/viewform?usp=header).

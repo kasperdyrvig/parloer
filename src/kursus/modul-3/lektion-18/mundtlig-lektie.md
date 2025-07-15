@@ -1,5 +1,5 @@
 ---
 tags: oral
 partOfLesson: 18
-previewText: Brug det du har lært til at lave et svar til mødet.
+previewText: Lær ordene for nogle af tingene i hjemmet. Sæt fx post-it sedler/malertape op og sig ordet højt hver gang du bruger tingen.
 ---

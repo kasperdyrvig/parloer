@@ -27,6 +27,6 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** 
+    - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
     - **Skriftlig:** Øvelse 1.2x, 1.3x, 1.4x, 1.8T, 1.8A
     - Læs intro til næste lektion.

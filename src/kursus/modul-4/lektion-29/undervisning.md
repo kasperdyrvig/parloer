@@ -38,7 +38,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** 
+    - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
     - **Skriftlig:** Øvelse 1.5T, 1.5A, 1.5x, 1.6x, 0.3.1x, 0.3.2x
     - Se forelæsning II-1.2
     - Læs intro til næste lektion.

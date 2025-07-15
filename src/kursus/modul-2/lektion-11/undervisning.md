@@ -30,7 +30,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder t & o)
 - Lektier:
-    - **Mundtlig:** Lær og brug small-talk: (Fx: Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.)
+    - **Mundtlig:** Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?"
     - **Skriftlig:** Spørgeord og Oversæt til dansk.
     - Læs intro til næste lektion.
 

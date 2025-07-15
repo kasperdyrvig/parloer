@@ -36,8 +36,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: [Martha](https://oqaasileriffik.gl/da/sprogteknologi/martha/).
 - Lektier:
-    - (Introducér [støttesætninger]({{'/kursus/modul-1/parloer'|url}})) Lær, og brug ordene sunaana?, kinaana? og sussa.
-    - Lav øvelser: Dobbeltkonsonanter og Graphogame aqqut 3.1-3.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Lyt til en grønlandsk oplæsning og følg med i teksten (igen).
+    - **Skriftlig:** Dobbeltkonsonanter og Graphogame aqqut 3.1-3.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

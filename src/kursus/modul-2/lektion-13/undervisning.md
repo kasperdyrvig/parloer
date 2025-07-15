@@ -54,7 +54,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Ordbogen (2003) - 20 år gammel ordbog
 - Lektier:
-    - **Mundtlig:** Brug grønlandske ord når du køber ind. (Fx nalinganut, sussa, qujaannarpunga osv.).
+    - **Mundtlig:** Lær, og brug spørgsmålet "Qanoq isumaqarpit?"
     - **Skriftlig:** Læseøvelse, Øv endelser i spørgemåde og Øv endelser i fremsættemåde.
     - Læs intro til næste lektion.
 

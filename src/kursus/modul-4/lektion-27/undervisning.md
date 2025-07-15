@@ -35,7 +35,7 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: 
 - Lektier:
-    - **Mundtlig:** 
+    - **Mundtlig:** Lær og brug small-talk (Fx. Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.)
     - **Skriftlig:** Øvelse 0.6, 0.7, 0.8x, 0.1.1x, 0.1.2x
         - Tip: Repetér evt. lektion 21 om -u-
     - Læs intro til næste lektion.

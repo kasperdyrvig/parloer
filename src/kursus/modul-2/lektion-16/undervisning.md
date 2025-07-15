@@ -25,7 +25,8 @@ onPageTitle: Til læreren
 - Opfordring: Prøv at lave et enkelt svar til mødet selv. (Fx Jehova sallunngilaq). Brug alt det grønlandske du har lært.
 - Planlæg workshops.
 - Lektier:
-    - [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf3NeYsrr4lFwBCrYzNNY8g5EE2K6srjDVr1vJJS2X6QiLRoA/viewform?usp=sf_link)
+    - **Mundtlig:** Lav et enkelt svar til møde.
+    - **Skriftlig:** [Evaluerings-spørgeskema](https://docs.google.com/forms/d/e/1FAIpQLSf3NeYsrr4lFwBCrYzNNY8g5EE2K6srjDVr1vJJS2X6QiLRoA/viewform?usp=sf_link)
 
 **Links/ressourcer:**
 

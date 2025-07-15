@@ -43,8 +43,8 @@ onPageTitle: Til læreren
 - Forklar om at mundtlige lektier på kurset bygger ovenpå hinanden.
 - Hjælp alle med at få installeret GraphoGame Kalaallisut ([Andriod](https://play.google.com/store/apps/details?id=com.graphogame.gg_greenland)) ([iOS](https://apps.apple.com/dk/app/graphogame-kalaallisut/id1599740443)) og med at låse alle niveauer op.
 - Lektier:
-    - Reproducér sprog. Hvis du lærer et nyt ord, gentag det højt.
-    - Lav øvelser: Lytteøvelse (vokaler) og Graphogame aqqut 1 og 7. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Reproducér sprog. Hvis du lærer et nyt ord, gentag det højt.
+    - **Skriftlig:** Lytteøvelse (vokaler) og Graphogame aqqut 1 og 7. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**

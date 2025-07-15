@@ -35,8 +35,8 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Gratis e-bøger med oplæsning.
 - Lektier:
-    - Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?".
-    - Lav øvelser: Qassiuppat? og Graphogame aqqut 6.1-6.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
+    - **Mundtlig:** Præsentér dig på grønlandsk næste gang du tager et besøg (igen).
+    - **Skriftlig:** Qassiuppat? og Graphogame aqqut 6.1-6.10. Send resultatet til mig med evt. spørgsmål senest dagen før næste lektion.
     - Læs Til kursisten til næste lektion.
 
 **Links/ressourcer:**
