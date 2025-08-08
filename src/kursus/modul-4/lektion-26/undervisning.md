@@ -3,7 +3,7 @@ partOfLesson: 26
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om -ssa- og +galuar-
+**Formål:** Se video med Tika og lære +galuar-
 
 **Plan:**
 

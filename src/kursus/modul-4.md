@@ -9,7 +9,7 @@ metaTitle: Modul 4 (lektion 25-32)
 
 **OBS! Er stadig under udarbejdelse**
 
-Modul 4 er til dig der har godt styr på den grundlæggende grammatik på grønlandsk, herunder transitive og intransitive udsagnsord, plus- og minustilhæng og forholdsendelser. Du skal enten have gennemgået modul 3 eller *Learn Greenlandic - Grønlandsk for voksne I*, før du kan komme med på modulet her.
+Modul 4 er til dig der har godt styr på den grundlæggende grammatik på grønlandsk, herunder transitive og intransitive udsagnsord, plus- og minustilhæng og forholdsendelser. Du skal enten have gennemgået modul 3 eller [*Learn Greenlandic - Grønlandsk for voksne I*](https://learngreenlandic.com/online/lg1/), før du kan komme med på modulet her.
 
 Ligesom i modul 3 er det et krav at du i det her modul som minimum bruger:
 - 1 time hver uge på at deltage i undervisningen
