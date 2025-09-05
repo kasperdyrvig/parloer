@@ -3,7 +3,7 @@ partOfLesson: 17
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære om stærke og svage nomen og forholdsendelserne ±mut og ±mit
+**Formål:** Lære om stærke og svage nomen og forholdsendelserne ±mi, ±mut og ±mit
 
 **Plan:**
 
@@ -47,9 +47,9 @@ onPageTitle: Til læreren
     - I/E & U/O
     - Assimilation af konsonanter (K1+K2>K2K2)
 
-20 min: **Forholdsendelserne ±nut/±mut og ±nit/±mit**
+20 min: **Forholdsendelserne ±ni/±mi, ±nut/±mut og ±nit/±mit**
 - Se videoen [Til, i og fra](/mere/videoer/forholdsendelser/).
-- Gennemgå betydningen af ±nut/±mut (Trm) og ±nit/±mit (Abl)
+- Gennemgå betydningen (I Learn Greenlandic bliver de kaldt for Lok, Trm og Abl)
 - Hvornår er det +/-?
     - Stærke stammer: +, svage stammer: -.
     - Prøv at sætte endelserne på Nuuk og Qaqortoq
