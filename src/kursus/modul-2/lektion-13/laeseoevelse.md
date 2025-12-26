@@ -30,5 +30,5 @@ naalattuaannarpoq = han er altid lydig
 <single-input data-label="Jiisusi sumiippa?" ></single-input>
 <single-input data-label="Mariia naalappa?" ></single-input>
 <number-input data-label="Hvor mange udsagnsord i fremsættemåde kan du finde?" data-validation="7"></number-input>
-<feedback-message data-content="Godt klaret med at svare på alle spørgsmålene! I den næste øvelse skal du bøje nogle af ordene fra teksten her."></feedback-message>
+<feedback-message data-content="Godt klaret med at svare på alle spørgsmålene!"></feedback-message>
 {% endexerciseItem %}
