@@ -26,7 +26,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: [Nutserut glossering](https://nutserut.gl/gloss)
 - Lektier:
     - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput" (igen)
     - **Skriftlig:** Øvelse 0.4x, 0.5x, 0.6x, 0.7x, 1.1x

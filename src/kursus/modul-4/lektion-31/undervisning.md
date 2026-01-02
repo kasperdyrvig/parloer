@@ -25,7 +25,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: [Grammatik i parlør-app](src\mere\grammatik-intransitiv.html)
 - Lektier:
     - **Mundtlig:** Brug det du har lært til at lave et svar til mødet.
     - **Skriftlig:** Øvelse 1.2x, 1.3x, 1.4x, 1.8T, 1.8A

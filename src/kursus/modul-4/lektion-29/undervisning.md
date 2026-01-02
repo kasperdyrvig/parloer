@@ -36,7 +36,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: Skemaet [Endelser til udsagnsord](src\mere\udsagnsordsendelser.html)
 - Lektier:
     - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
     - **Skriftlig:** Øvelse 1.5T, 1.5A, 1.5x, 1.6x, 0.3.1x, 0.3.2x

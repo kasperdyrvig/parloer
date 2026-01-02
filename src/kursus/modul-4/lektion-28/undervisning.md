@@ -34,7 +34,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: ???
 - Lektier:
     - **Mundtlig:** Lær og brug small-talk (Fx. Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.) (igen)
     - **Skriftlig:** Øvelse 1.6T, 1.6A, 1.7T, 1.7A, 1.7x, 1.8x, 0.2.1x, 0.2.2x

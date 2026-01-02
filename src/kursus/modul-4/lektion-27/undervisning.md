@@ -33,7 +33,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: [Korpus](https://oqaasileriffik.gl/da/sprogteknologi/korpus/)
 - Lektier:
     - **Mundtlig:** Lær og brug small-talk (Fx. Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.)
     - **Skriftlig:** Øvelse 0.6, 0.7, 0.8x, 0.1.1x, 0.1.2x

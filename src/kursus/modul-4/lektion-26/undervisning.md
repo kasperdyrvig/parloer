@@ -35,7 +35,7 @@ onPageTitle: Til læreren
 10 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: 
+- Ugens guldkorn: [Katersat](https://oqaasileriffik.gl/da/ordbog/)
 - Lektier:
     - **Mundtlig:** Brug sætningen "Inuit ima aperisarpakka" i forkyndelsen (igen).
     - **Skriftlig:** Øvelse 1.3T, 1.3A, 0.4T, 0.4A, 0.5T, 0.5A
