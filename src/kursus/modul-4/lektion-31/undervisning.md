@@ -3,18 +3,22 @@ partOfLesson: 31
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Forberede fremlæggelser
+**Formål:** Forstå Tikas video og forberede fremlæggelser
 
 **Plan:**
 
-20 min: **Repetition og lektier.**
+15 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
 - Gennemgå evt. spørgsmål vedr. lektier.
 - Snak om diktaten - hvad er svært/nemt?
 - Bed nogle af eleverne om at lave en af sætningerne fra øvelserne de havde for.
 
-30 min: **Læs og forstå en historie og forbered en præsentation**
+10 min: **Tikas video**
+
+- Afspil videoen med Tika, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
+
+25 min: **Læs og forstå en historie og forbered en præsentation**
 - Kursisterne bliver delt op i grupper af 2-3.
 - De skal vælge en historie i [*Biibilimi oqaluttuat ilinniutikkit*](https://www.jw.org/kl/biibililersaarutit/atuakkat/biibilimi-oqaluttuat-ilinniutigikkit/)
     - Læs og prøv at forstå historien - slå evt ukendte ord og tilhæng op i ordbogen

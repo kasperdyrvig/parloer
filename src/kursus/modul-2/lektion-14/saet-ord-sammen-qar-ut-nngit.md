@@ -5,7 +5,7 @@ partOfLesson: 14
 sortNumber: 2
 previewText: Sæt ordene rigtigt sammen.
 onPageTitle: Øv at sætte -ut, -qar- og -nngit- på ord.
-onPageDescription: Du får vist et billede og et spørgsmål. Vælg det rigtige svar og fuldfør svaret. Brug det nægtende tilhæng (-nngit-) hvis svaret er nej.
+onPageDescription: Du får en stamme, tilhæng og endelse, sæt ordet rigtigt sammen.
 linkText: Start øvelsen
 ---
 
@@ -44,7 +44,7 @@ linkText: Start øvelsen
 
 <single-input data-label="Nutseruk"></single-input>
 
-<feedback-message data-content="Savaateqanngilagut betyder: Vi har får - Hvor blev U i -ut af? Husk lydreglen der siger at alle vokaler efter A bliver til A"></feedback-message>
+<feedback-message data-content="Savaateqanngilagut betyder: Vi har ikke får - Hvor blev U i -ut af? Husk lydreglen der siger at alle vokaler efter A bliver til A"></feedback-message>
 {% endexerciseItem %}
 
 {% exerciseItem %}

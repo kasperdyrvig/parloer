@@ -5,7 +5,7 @@ partOfLesson: 14
 sortNumber: 1
 previewText: Vælg det rigtige svar og fuldfør svaret
 onPageTitle: Svar på spørgsmål
-onPageDescription: Du får en stamme, tilhæng og endelse, sæt ordet rigtigt sammen.
+onPageDescription: Du får vist et billede og et spørgsmål. Vælg det rigtige svar og fuldfør svaret. Brug det nægtende tilhæng (-nngit-) hvis svaret er nej.
 linkText: Start øvelsen
 ---
 

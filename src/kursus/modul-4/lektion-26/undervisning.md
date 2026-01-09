@@ -23,14 +23,14 @@ onPageTitle: Til læreren
 
 - Repetér betydning og hvad der sker med udsagnsmærket ved -ssa-
 
-10 min: **Tilhæng: +galuar-**
+10 min: **Tilhæng: +galuar-, v-v**
 
 - Betydning: Ellers/ganske vidst (med et implicit 'men')
 - Øv at sætte det på eqqaama-, tikip- og ilinniar-
     
 10 min: **Flere tilhæng i ét ord**
 - Hvad er betydningen når der kommer flere tilhæng i ét ord?
-    - Hvad betyder: Eqqaamasariaqaraluarpaannga, sulisassaaq, sulisassagaluarpunga, eqqumiitsuliortuuvoq
+    - Hvad betyder: Eqqaamasariaqaraluarpaannga, sulisassaaq, naapittassagaluarpaat, eqqumiitsuliortuuvoq
 
 10 min: **Opsummering og lektier**
 
@@ -38,5 +38,6 @@ onPageTitle: Til læreren
 - Ugens guldkorn: [Katersat](https://oqaasileriffik.gl/da/ordbog/)
 - Lektier:
     - **Mundtlig:** Brug sætningen "Inuit ima aperisarpakka" i forkyndelsen (igen).
-    - **Skriftlig:** Øvelse 1.3T, 1.3A, 0.4T, 0.4A, 0.5T, 0.5A
+    - **Skriftlig:** Øvelse 0.4T, 0.4A, 0.5T, 0.5A, 0.9x
+        - Hjælp til lektier: forklar øvelse 0.9x
     - Læs intro til næste lektion.
