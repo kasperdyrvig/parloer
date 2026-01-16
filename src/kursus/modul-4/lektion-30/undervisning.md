@@ -3,7 +3,7 @@ partOfLesson: 30
 tags: teachernotes
 onPageTitle: Til læreren
 ---
-**Formål:** Lære mere om participium (navnemåde) og øvelser
+**Formål:** Lære mere om participium (navnemåde), forstå Tikas video og øvelser
 
 **Plan:**
 
@@ -18,7 +18,11 @@ onPageTitle: Til læreren
 - Særligt efter nægtelsen: Endelsen bliver til -tsoq i den intransitive form.
     - Eks: Neriuppunga ajunngitsutit. Isinngitsutit takuakkit. Oqarpoq pisinnaanngitsusi.
 
-20 min: **Øvelse.** Gæt en person
+10 min: **Tikas video**
+
+- Afspil videoen med Tika, sætning for sætning, og få eleverne til at oversætte og gentage hver sætning.
+
+10 min: **Øvelse.** Gæt en person
 
 - En kursist bliver tildelt en kendt person fra Bibelen.
 - De andre kursister skal ved at stille ja/nej spørgsmål (gerne med -u-) prøve at regne ud hvilken person de er.
