@@ -41,4 +41,5 @@ onPageTitle: Til læreren
     - **Mundtlig:** Brug sætningen "Tulliani una eqqartorsinnaavarput"
     - **Skriftlig:** Øvelse 1.5T, 1.5A, 1.5x, 1.6x, 0.3.1x, 0.3.2x
     - Se forelæsning II-1.2
+        - De fleste ting er repetition, han snakker om co-reference, det dykker vi først rigtig ned i, i næste modul.
     - Læs intro til næste lektion.
