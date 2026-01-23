@@ -38,4 +38,5 @@ onPageTitle: Til læreren
 - Lektier:
     - **Mundtlig:** Lær og brug small-talk (Fx. Ajunngi'? Aap, illimmi? Ajunngilanga. Sila nuan' ilaa? osv.) (igen)
     - **Skriftlig:** Øvelse 1.6T, 1.6A, 1.7T, 1.7A, 1.7x, 1.8x, 0.2.1x, 0.2.2x
+        - Tip til lektier: Marta  er dårlig til at udtale -gaqar- (fx i øvelse 1.7x)
     - Læs intro til næste lektion.
