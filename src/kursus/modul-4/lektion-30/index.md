@@ -2,7 +2,7 @@
 layout: lesson
 tags: ['lesson', 'module 4']
 lessonNo: 30
-metaTitle: Lektion 30 - Participium og øvelser
+metaTitle: Lektion 30 - Participium, øvelser og video
 onPageTitle: Lektion 30
 ---
 I løbet af de sidste mange uger har vi lært en masse ord, tilhæng og grammatik for at kunne forstå hvad Tika siger i videoen vi så første gang i lektion 26. I dag skal vi så prøve at se videoen igen og se om det hun siger er blevet nemmere for os at forstå.
