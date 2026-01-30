@@ -23,8 +23,8 @@ onPageTitle: Til læreren
 15 min: **Navnemåde.**
 
 - Underordnet måde. Bruges i 'at'- og 'som'-sætninger hvor grundled ikke er det samme.
-    - Eks: Camilla igasoq takuara. Nalunaajaasut Ilulissaniittut naapippagut. Asagikkit paasivaa.
-- Hvorfor hedder det navnemåde? Minder meget om nomen.
+    - Eks: Camilla igasoq takuara. Oqarpoq Qaqortumut tikissimasoq. Asagikkit paasivaa.
+- Hvorfor hedder det navnemåde? Minder meget om nomen med tilhænget -Toq på.
     - Pas på ikke at blande dem sammen.
         - Fx: atuartoq kan både betyde 'at han læser' og 'elev'. Den ene bøjes som udsagnsord og den anden som nomen.
 
