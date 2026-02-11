@@ -16,6 +16,18 @@ document.querySelectorAll(".audio > button.play-button").forEach(playButton => {
     });
 });
 
+//Listen for clicks on slow play buttons
+document.querySelectorAll(".audio > button.play-slow").forEach(playSlowButton => {
+    playSlowButton.addEventListener("click", event => {
+        const audioElement = playSlowButton.closest("div").querySelector("audio");
+        audioElement.playbackRate = .5;
+        if (audioElement.paused) {
+            audioElement.play();
+            playSlowButton.dataset.playing = "true";
+        }
+    });
+});
+
 //Listen for playback request in phrases
 document.querySelectorAll(".phrase-body:has(.play-button)").forEach(phraseBody => {
     phraseBody.addEventListener("click", event => {
@@ -34,6 +46,8 @@ document.querySelectorAll("audio").forEach(audioElement => {
     audioElement.addEventListener("ended", () => {
         const playButton = audioElement.closest("div").querySelector("button.play-button");
         playButton.dataset.playing = "false";
+        const playSlowButton = audioElement.closest("div").querySelector("button.play-slow");
+        if (playSlowButton) playSlowButton.dataset.playing = "false";
     });
 }, false);
 

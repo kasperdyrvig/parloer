@@ -334,19 +334,35 @@ class customAudioPlayer extends HTMLElement {
     }
 
     connectedCallback() {
+        const enableSlow = this.dataset.enableSlow == "true";
         const wrapper = el("div", "audio");
+
+        const audioEl = document.createElement("audio");
+        audioEl.setAttribute("src", "/assets/audio/" + this.dataset.file);
+        wrapper.appendChild(audioEl);
         
-        const playButton = el("button", "play-button btn btn-white btn-circle");
+        const playButton = el("button", "btn play-button");
         playButton.setAttribute("data-playing", false);
         playButton.setAttribute("title", "Sig højt");
         playButton.setAttribute("type", "button");
         playButton.textContent = "🔊";
-
-        const audioEl = document.createElement("audio");
-        audioEl.setAttribute("src", "/assets/audio/" + this.dataset.file);
-
-        wrapper.appendChild(audioEl);
         wrapper.appendChild(playButton);
+
+        if (enableSlow) {
+            const playSlowButton = el("button", "btn play-button play-slow");
+            playSlowButton.setAttribute("data-playing", false);
+            playSlowButton.setAttribute("title", "Sig langsomt højt");
+            playSlowButton.setAttribute("type", "button");
+            playSlowButton.textContent = "🐢";
+            wrapper.appendChild(playSlowButton);
+        }
+
+        if (this.dataset.label != null && this.dataset.label.length > 0) {
+            const audioLabel = el("div", "play-label");
+            audioLabel.textContent = this.dataset.label;
+            wrapper.appendChild(audioLabel);
+        }
+
         this.appendChild(wrapper);
         this.style.display = "contents";
     }
@@ -354,8 +370,81 @@ class customAudioPlayer extends HTMLElement {
 
 customElements.define("audio-player", customAudioPlayer);
 
+class exerciseWordDissector extends HTMLElement {
+    constructor() {
+        super();
+    }
+
+    connectedCallback() {
+        const wrapper = el("div", "word-dissector");
+        const prompt = this.dataset.prompt;
+        const validation = this.dataset.validation.trim();
+
+        // Word prompt
+        const wordContainer = el("div", "word");
+        wordContainer.textContent = prompt;
+        wrapper.appendChild(wordContainer);
+
+        // Build area and pool
+        const dissectorContainer = el("div", "dissector-board");
+        wrapper.appendChild(dissectorContainer);
+
+        const partsContainer = el("div", "dissected-parts");
+        wrapper.appendChild(partsContainer);
+
+        // Split validation into parts and shuffle
+        const validationArray = validation.split(" ");
+        shuffleArray(validationArray);
+
+        // Create parts
+        validationArray.forEach(function(part) {
+            const partElement = el("span", "wordpart");
+            partElement.textContent = part;
+            partElement.tabIndex = 0;
+            partsContainer.appendChild(partElement);
+        });
+
+        // Hidden input to store the correct validation string
+        const valid = document.createElement("input");
+        valid.type = "hidden";
+        valid.value = validation;
+        wrapper.appendChild(valid);
+
+        // Add the wrapper to this element
+        this.appendChild(wrapper);
+        this.style.display = "contents";
+        
+        // === Add click handler (scoped to this instance) ===
+        // Use event delegation: listen once, act if a .wordpart was clicked.
+        wrapper.addEventListener("click", (event) => {
+            const part = event.target.closest(".wordpart");
+            if (!part || !wrapper.contains(part)) return;
+
+            // Toggle the part between the two containers belonging to THIS instance
+            const isInPool = part.parentElement === partsContainer;
+            if (isInPool) {
+                dissectorContainer.appendChild(part);
+            } else {
+                partsContainer.appendChild(part);
+            }
+        });
+    }
+}
+
+customElements.define("word-dissector", exerciseWordDissector);
+
 function el (type, classes) {
     const newEl = document.createElement(type);
     newEl.setAttribute("class", classes);
     return newEl;
+}
+
+function shuffleArray(array) {
+    let currentIndex = array.length, randomIndex;
+    while (currentIndex !== 0) {
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+        [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+    }
+    return array;
 }

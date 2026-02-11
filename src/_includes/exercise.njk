@@ -5,8 +5,8 @@ hideMainMenu: true
 ---
 <header class="gameheader">
     <progress class="gamepanel-meter" id="gameprogress" title="Fremgang" max="1"></progress>
-    <a href="../" title="Slut øvelsen" class="btn btn-white btn-circle" style="display: flex; align-items: center;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+    <a href="../" title="Slut øvelsen" class="btn-close">
+        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
             <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708"/>
         </svg>
     </a>
@@ -40,6 +40,15 @@ hideMainMenu: true
             <button type="button" class="btn btn-block btn-uppercase btn-red" onclick="nextExerciseItem()">Næste</button>
         </div>
     </div>
+
+    <div class="response fail" id="retry">
+        <p class="response-title">Det var ikke helt rigtigt</p>
+        <p class="response-text"></p>
+        <div class="response-footer">
+            <button type="button" class="btn btn-block btn-uppercase btn-red mb-sm" onclick="retryExerciseItem()">Prøv igen</button>
+            <button type="button" class="btn btn-block btn-uppercase btn-white" onclick="nextExerciseItem()">Gå videre</button>
+        </div>
+    </div>
     
     <div class="response almost" id="almost">
         <p class="response-title">Dit svar er registreret</p>
@@ -61,11 +70,15 @@ hideMainMenu: true
 <section class="gamepanel gameend hidden" id="finish">
     <div class="gamepanel-body">
         <h2 class="gameend-commendation">Godt klaret!</h2>
+        {% if showScore != false %}
         <p class="gameend-score">Du fik X ud af Y points</p>
+        {% endif %}
     </div>
     <div class="gamepanel-footer">
         <a href="../" class="btn btn-block btn-blue btn-uppercase mb-md">Færdig</a>
+        {% if disableSubmit != true %}
         <a href="#" id="shareResult" class="btn btn-block btn-gray">Send resultat til læreren</a>
+        {% endif %}
     </div>
 </section>
 

@@ -22,10 +22,27 @@ function endExercise() {
     localStorage.setItem(document.querySelector("#exercise > .gamepanel-body").dataset.parentId, true);
     
     //Prepare email to send
-    const output = document.getElementById("resultContainer").value + "\n" + document.querySelector(".gameend-score").innerText;
+    let output = document.getElementById("resultContainer").value
+    if (document.querySelector(".gameend-score") != null) {
+        output += "\n" + document.querySelector(".gameend-score").innerText;
+    }
     const emailLink = document.getElementById("shareResult");
-    const pathArray = window.location.pathname.split('/');
-    emailLink.setAttribute("href", "mailto:paasiviuk@gmail.com?subject=" + pathArray[pathArray.length - 2] + "&body=" + encodeURIComponent(output));
+    if (emailLink != null) {
+        const pathArray = window.location.pathname.split('/');
+        emailLink.setAttribute("href", "mailto:paasiviuk@gmail.com?subject=" + pathArray[pathArray.length - 2] + "&body=" + encodeURIComponent(output));
+    }
+}
+
+function retryExerciseItem() {
+    // Reopen the current item to allow the user to try again
+    const exerciseActiveItem = document.querySelector(".exercise-item.active");
+    exerciseActiveItem.inert = false;
+    submitBtn.disabled = false;
+
+    //Reset all responses
+    document.querySelectorAll(".response.open").forEach(openResponse => {
+        openResponse.classList.remove("open");
+    });
 }
 
 function nextExerciseItem() {
@@ -88,8 +105,10 @@ function nextExerciseItem() {
     } else {
         //Display the score
         const finalScore = document.querySelector(".gameend-score");
-        finalScore.innerText = finalScore.innerText.toString().replace("X", score);
-        finalScore.innerText = finalScore.innerText.toString().replace("Y", maxScore);
+        if (finalScore != null) {
+            finalScore.innerText = finalScore.innerText.toString().replace("X", score);
+            finalScore.innerText = finalScore.innerText.toString().replace("Y", maxScore);
+        }
         
         const ros = document.querySelector(".gameend-commendation");
         if(score === 0 && maxScore > 0) {
@@ -186,6 +205,19 @@ function checkAnswers() {
     let numberOfInputs = 0;
     let correctAnswers = 0;
     
+    // Evaliation of word dissector
+    exerciseActiveItem.querySelectorAll("word-dissector").forEach(dissector => {
+        const dissectorContainer = dissector.querySelector(".dissector-board");
+        const validInput = dissector.querySelector("input[type='hidden']").value;
+        numberOfInputs++;
+        if (dissectorContainer.innerText.replace(/\n/g, ' ') == validInput) {
+            dissectorContainer.classList.add("correct");
+            passed = true;
+            correctAnswers++;
+            score++;
+        }
+    });
+
     //Evaluate each form group in the current item
     exerciseActiveItem.querySelectorAll(".form-group").forEach(formGroup => {
         
@@ -323,7 +355,13 @@ function checkAnswers() {
     });
     
     //Calculate if all is correct...
-    if(numberOfInputs == exerciseActiveItem.querySelectorAll(".form-group").length && correctAnswers == numberOfInputs) {
+    if(numberOfInputs == exerciseActiveItem.querySelectorAll("word-dissector").length) {
+        if (correctAnswers == numberOfInputs) {
+            showResponse("right");
+        } else {
+            showResponse("retry");
+        }
+    } else if(numberOfInputs == exerciseActiveItem.querySelectorAll(".form-group").length && correctAnswers == numberOfInputs) {
         showResponse("right");
     } else if(numberOfInputs == exerciseActiveItem.querySelectorAll(".form-group").length && correctAnswers == 0) {
         showResponse("wrong");
@@ -344,12 +382,16 @@ function showResponse(type) {
     const exerciseActiveItem = document.querySelector(".exercise-item.active");
     let responseEl;
     
-    //Accepts right, wrong or almost
+    // Accepts right, wrong, retry, or almost
     if(type == "right") {
         responseEl = document.querySelector(".response#right");
         responseEl.classList.add("open");
     } else if(type == "wrong") {
         responseEl = document.querySelector(".response#wrong");
+        responseEl.classList.add("open");
+    } else if(type == "retry") {
+        // Encourage to try again
+        responseEl = document.querySelector(".response#retry");
         responseEl.classList.add("open");
     } else {
         //Only registering the answers
@@ -433,6 +475,7 @@ function clearLocalStorage() {
 
 // Load saved data when the page loads
 document.addEventListener("DOMContentLoaded", function() {
+    console.log("Looking for data on " + exerciseId);
     if (localStorage.getItem(exerciseId)) {
         loadFromLocalStorage();
         startExercise();
