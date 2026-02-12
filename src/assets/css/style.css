@@ -146,15 +146,19 @@ button, input {font-family: inherit;}
 
 .table{border-collapse: collapse; width: 100%;}
 
-legend {margin: 0; padding: 0;}
+legend {margin: 0 0 .25rem; padding: 0;}
 input[type=checkbox], input[type=radio] {accent-color: var(--color-blue-500); width: var(--size-medium); height: var(--size-medium); margin: 0;}
 label.form-radio, label.form-checkbox {display: inline-flex; gap: var(--spacing-x-small); align-items: center;}
 .form-input {border: 1px solid var(--color-gray-500); border-radius: var(--border-radius); font-size: var(--size-medium); padding: var(--spacing-x-small);}
 textarea.form-input {resize: none;}
 .form-input.has-error{border-color: var(--color-red-500); background-color: var(--color-red-100);}
-.multiple-choise-container {padding: var(--spacing-small) 0; display: flex; flex-direction: column; align-items: flex-start;}
+.multiple-choice-container {padding: var(--spacing-small) 0; display: flex; flex-direction: column; align-items: flex-start;}
+    .multiple-choice-container.btns {display: grid; grid-template-columns: 1fr 1fr; gap: var(--spacing-small);}
 .multiple-choise-option, .form-check {display: flex; align-items: center; height: var(--spacing-2x-large); gap: var(--spacing-small);}
 .multiple-choise-option input[type=radio], .form-check input[type=radio], .form-check input[type=checkbox], .multiple-choise-option input[type=checkbox] {width: var(--size-x-large); height: var(--size-x-large);}
+.btn-check {position: absolute; pointer-events: none; clip: rect(0, 0, 0, 0);}
+    .btn-check:checked + .btn {--btn-bg-color: var(--color-blue-100); --btn-font-color: var(--color-blue-900); --btn-border-color: var(--color-blue-500);}
+.btn-check + .btn { --btn-bg-color: var(--color-white); --btn-border-color: var(--color-gray-300); --btn-font-color: var(--color-gray-900); width: 100%; }
 .view-title {margin: 0; font-weight: 600; font-size: var(--size-medium); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%; color: var(--color-black);}
     .view-title > small {font-weight: normal;}
 .header-btn {display: inline-flex; padding: var(--spacing-medium);}

@@ -50,9 +50,14 @@ Tekstboks
 
 Multiple choice med valgfri validation og valgfri randomizer
 
-- Radio knapper
+- Radio
     ```
     <multi-choice data-label="Hvad vil du svare?" data-type="radio" data-options="Aap, Naamik" data-validation="1" data-random="true"></multi-choice>
+    ```
+
+- Radio men med knaper
+    ```
+    <multi-choice data-label="Hvad vil du svare?" data-type="button" data-options="Aap, Naamik" data-validation="1" data-random="true"></multi-choice>
     ```
 
 - Tjekbokse

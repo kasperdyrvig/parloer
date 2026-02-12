@@ -141,7 +141,20 @@ class exerciseMultiChoice extends HTMLElement {
     
     connectedCallback() {
         const groupName = generateID("exerciseElement");
-        const optionsType = (this.dataset.type.length > 0) ? this.dataset.type.toLowerCase() : "radio";
+        let optionsType;
+        let showOptionsAsButtons = false;
+        switch (this.dataset.type) {
+            case "button":
+                optionsType = "radio";
+                showOptionsAsButtons = true;
+                break;
+            case "checkbox":
+                optionsType = "checkbox";
+                break;
+            default:
+                optionsType = "radio";
+                break;
+        }
         
         const wrapper = el("fieldset", "form-group " + optionsType);
         let y = 0;
@@ -150,7 +163,7 @@ class exerciseMultiChoice extends HTMLElement {
         legend.textContent = this.dataset.label;
         wrapper.appendChild(legend);
         
-        const optionsWrapper = el("div", "multiple-choice-container");
+        const optionsWrapper = (showOptionsAsButtons) ? el("div", "multiple-choice-container btns"): el("div", "multiple-choice-container");
         if (this.dataset.random) optionsWrapper.dataset.random = true;
         wrapper.appendChild(optionsWrapper);
         
@@ -161,7 +174,7 @@ class exerciseMultiChoice extends HTMLElement {
             
             const inputdiv = el("div", "form-check");
             
-            const input = el("input", "form-check-input");
+            const input = (showOptionsAsButtons) ? el("input", "btn-check") : el("input", "form-check-input");
             input.type = optionsType;
             if (optionsType == "radio") {
                 input.required = true;
@@ -171,7 +184,7 @@ class exerciseMultiChoice extends HTMLElement {
             input.setAttribute("id", id);
             inputdiv.appendChild(input)
             
-            const label = el("label", "form-check-label");
+            const label = (showOptionsAsButtons) ? el("label", "btn") : el("label", "form-check-label");
             label.setAttribute("for", id);
             label.textContent = element.trim();
             inputdiv.appendChild(label);
@@ -353,7 +366,7 @@ class customAudioPlayer extends HTMLElement {
             playSlowButton.setAttribute("data-playing", false);
             playSlowButton.setAttribute("title", "Sig langsomt højt");
             playSlowButton.setAttribute("type", "button");
-            playSlowButton.textContent = "🐢";
+            playSlowButton.textContent = "🐌";
             wrapper.appendChild(playSlowButton);
         }
 
