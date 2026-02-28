@@ -403,8 +403,8 @@ details > summary {padding: var(--spacing-medium); margin: calc(var(--spacing-me
 
 .word-dissector {margin-bottom: 2rem;}
 .word-dissector .word {display: inline-block; font-size: var(--size-x-large); border-radius: var(--rounded); background-color: var(--color-blue-100); padding: var(--spacing-small);}
-.word-dissector .dissector-board {display: flex; align-items: flex-start; gap: var(--spacing-x-small); min-height: calc(1lh + var(--spacing-medium) + .45rem); margin: var(--spacing-medium) 0; border-bottom: var(--color-gray-700) 1px dashed;}
-.word-dissector .dissected-parts {display: flex; align-items: flex-start; gap: var(--spacing-x-small); min-height: calc(1lh + var(--spacing-medium) + .3rem); margin: var(--spacing-medium) 0;}
+.word-dissector .dissector-board {display: flex; flex-wrap: wrap; align-items: flex-start; gap: var(--spacing-x-small); min-height: calc(1lh + var(--spacing-medium) + .45rem); margin: var(--spacing-medium) 0; border-bottom: var(--color-gray-700) 1px dashed;}
+.word-dissector .dissected-parts {display: flex; flex-wrap: wrap; align-items: flex-start; gap: var(--spacing-x-small); min-height: calc(1lh + var(--spacing-medium) + .3rem); margin: var(--spacing-medium) 0;}
 .word-dissector .wordpart {appearance: button; min-width: max-content; background: var(--color-white); border: .15rem solid var(--color-gray-500); box-shadow: 0 3px var(--color-gray-500); border-radius: var(--rounded); padding: .4rem .8rem; user-select: none; transition: border-color 200ms, box-shadow 200ms; transform: translateY(0);}
 .word-dissector .wordpart:active {box-shadow: none; transform: translateY(.15rem);}
 
