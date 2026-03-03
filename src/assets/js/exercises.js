@@ -209,6 +209,7 @@ function checkAnswers() {
     exerciseActiveItem.querySelectorAll("word-dissector").forEach(dissector => {
         const dissectorContainer = dissector.querySelector(".dissector-board");
         const validInput = dissector.querySelector("input[type='hidden']").value;
+        alert("Input: " + dissectorContainer.innerText.replace(/\n/g, ' '));
         numberOfInputs++;
         if (dissectorContainer.innerText.replace(/\n/g, ' ') == validInput) {
             dissectorContainer.classList.add("correct");
