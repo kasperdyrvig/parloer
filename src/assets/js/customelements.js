@@ -446,6 +446,175 @@ class exerciseWordDissector extends HTMLElement {
 
 customElements.define("word-dissector", exerciseWordDissector);
 
+class inputSpellcheck extends HTMLElement {
+    constructor() {
+        super();
+        this._input = null;
+        this._required = true;
+        this._validation = null;
+        this._response = null;
+        this._editable = true;
+    }
+
+    connectedCallback() {
+        const id = generateID("exerciseElement");
+        const wrapper = document.createElement("div");
+        wrapper.classList.add("form-group");
+
+        if (this.dataset.label) {
+            const label = document.createElement("label");
+            label.setAttribute("for", id);
+            label.classList.add("form-label");
+            label.textContent = this.dataset.label;
+            wrapper.appendChild(label);
+        }
+
+        const input = document.createElement("div");
+        input.id = id;
+        input.classList.add("form-input");
+        input.setAttribute("contenteditable", (this._editable) ? "plaintext-only" : "false");
+        input.setAttribute("autocorrect", "off");
+        input.setAttribute("writingsuggestions", "false");
+        input.setAttribute("spellcheck", "false");
+        wrapper.appendChild(input);
+        this._input = input;
+
+        const response = document.createElement("div");
+        response.classList.add("response-label");
+        response.setAttribute("aria-live", "polite");
+        wrapper.appendChild(response);
+        this._response = response;
+
+        const validation = this.dataset.validation;
+        if (validation) {
+            this._validation = validation.trim();
+        }
+
+        // Events
+        input.addEventListener("input", () => {
+            this._emit("task-value-changed", { value: this.getValue() });
+            this._emit("task-validity-changed", { valid: this.isValid() });
+        });
+
+        input.addEventListener("blur", () => {
+            this.doSpellcheck();
+        });
+
+        // Add to host
+        this.appendChild(wrapper);
+    }
+
+    // API
+    getValue() {
+        return this._input.innerText.trim();
+    }
+
+    setValue(v) {
+        this._input.innerText = v;
+        this._emit("task-value-changed", { value: this.getValue() });
+        this._emit("task-validity-changed", { valid: this.isValid() });
+    }
+
+    doSpellcheck() {
+        const value = this.getValue().replace(/[^a-zA-Z0-9\s]/g, ""); // Remove all punctuation
+        const valueArray = value.split(" "); // Split input value by space
+        const validation = this._validation.toLowerCase().replace(/[^a-zA-Z0-9\s]/g, ""); // Remove all punctuation from validation
+        const validationArray = validation.split(" "); // Split validation by space
+        this._editable = false; // Disable editing while checking
+
+        if (this.isValid()) {
+            this._input.innerHTML = this.getValue();
+        }
+
+        this._input.innerText = ""; // Clear the input
+        // Check if each word is in the validation string
+        valueArray.forEach(item => {
+            const word = item.toLowerCase();
+            if (validationArray.includes(word)) {
+                // Spelling is correct
+                let passedMarker = document.createElement("span");
+                if (validationArray.indexOf(word) != valueArray.indexOf(item)) {
+                    // Wrong position
+                    passedMarker.classList.add("wrong-position");
+                }
+                passedMarker.innerText = item + " ";
+                this._input.appendChild(passedMarker);
+            } else {
+                // Spelling is incorrect
+                let failedMarker = document.createElement("u");
+                failedMarker.innerText = item + " ";
+                this._input.appendChild(failedMarker);
+            }
+        });
+
+        this._editable = true; // Re-enable editing
+    }
+
+    isValid() {
+        const value = this.getValue().replace(/[^a-zA-Z0-9\s]/g, "");
+        const validation = this._validation.replace(/[^a-zA-Z0-9\s]/g, "");
+        if (this._validation) {
+            return (value.toLowerCase() == validation.toLowerCase()); // Input value and validation match
+        } else if (value.length > 0) {
+            return true; // No validation, only input value
+        } else {
+            return false; // No input value
+        }
+    }
+
+    isComplete() {
+        if (!this._required) return true; // Always true, if not required
+        return !!this.getValue(); // True if has input value
+    }
+
+    reportValid() {
+        const valid = this.isValid();
+        if (valid) {
+            this._clearMessage(); // Reset
+            this._setInvalid(false);
+            return true;
+        }
+        if (!this.isComplete()) {
+            this._setMessage("Dette felt er påkrævet");
+            this._setInvalid(true);
+            return false;
+        }
+        if (!valid) {
+            this._setMessage("Feltet er ikke udfyldt korrekt");
+            this._setInvalid(true);
+            return false;
+        }
+    }
+
+    // Helpers
+    _emit(name, detail) {
+        this.dispatchEvent(new CustomEvent(name, {detail, bubbles: true}));
+    }
+
+    _setInvalid(isInvalid) {
+        if (!this._input) return;
+        this._input.setAttribute("aria-invalid", String(isInvalid));
+        if (isInvalid) {
+            this._input.classList.add("is-invalid");
+        } else {
+            this._input.classList.remove("is-invalid");
+        }
+    }
+
+    _setMessage(msg) {
+        if (!this._response) return;
+        this._response.textContent = msg || "";
+        this._response.hidden = !msg;
+    }
+
+    _clearMessage() {
+        this._setMessage("");
+        this._setInvalid(false);
+    }
+}
+
+customElements.define("input-spellcheck", inputSpellcheck)
+
 function el (type, classes) {
     const newEl = document.createElement(type);
     newEl.setAttribute("class", classes);

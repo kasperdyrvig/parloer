@@ -169,6 +169,7 @@ function resetExercise(exerciseId) {
     localStorage.removeItem(exerciseId + "-step");
     localStorage.removeItem(exerciseId);
     localStorage.removeItem(exerciseId + "-output");
+    localStorage.removeItem(exerciseId + "-order");
     return true;
 }
 

@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: exercise
+partOfLesson: 12
+previewText: Skriv ordet i ental eller flertal
+onPageTitle: Ental/flertal
+onPageDescription: Hvis ordet er i ental, skriv det i flertal. Hvis ordet er i flertal, skriv det i ental.
+linkText: Start øvelsen
+disableSubmit: true
+showScore: false
+randomize: true
+allowRetry: true
+---
+
+{% for prompt in m2l12entalflertal.prompts %}
+{% exerciseItem %}
+    <p>Læs/lyt og forstå ordet, og sig det selv højt:</p>
+    <h2 class="mb-lg">{{prompt.promptKL}}</h2>
+    <input-spellcheck data-label="Skriv ordet i flertal eller ental" data-validation="{{prompt.validationKL}}"></input-spellcheck>
+    <p>Tjek og forstå dit svar. Sig det selv højt</p>
+    {% helpContent "Info" %}"{{prompt.promptKL}}" betyder "{{prompt.promptDA}}"{% endhelpContent %}
+    {% helpContent "Hjælp" %}Svaret er "{{prompt.validationKL}}". På dansk betyder det "{{prompt.validationDA}}"{% endhelpContent %}
+{% endexerciseItem %}
+{% endfor %}

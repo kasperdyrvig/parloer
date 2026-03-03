@@ -22,7 +22,7 @@ hideMainMenu: true
     </div>
 </section>
 
-<section class="gamepanel gamearea hidden" id="exercise">
+<section class="gamepanel gamearea hidden" id="exercise" data-randomize="{{randomize}}" data-loop="{{loop}}" data-retry="{{allowRetry}}">
     <div class="gamepanel-body" id="{{partOfLesson}}-{{page.fileSlug}}" data-parent-id="{{tags}}-{{partOfLesson}}-{{page.fileSlug}}">
         {{content | safe}}
     </div>

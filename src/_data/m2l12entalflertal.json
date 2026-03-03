@@ -1,0 +1,220 @@
+{
+  "prompts": [
+    {
+      "promptKL": "uumasoq",
+      "promptDA": "dyr",
+      "validationKL": "uumasut",
+      "validationDA": "dyr"
+    },
+    {
+      "promptKL": "uumasut",
+      "promptDA": "dyr",
+      "validationKL": "uumasoq",
+      "validationDA": "dyr"
+    },
+    {
+      "promptKL": "ui",
+      "promptDA": "ægtemand",
+      "validationKL": "uiit",
+      "validationDA": "ægtemænd"
+    },
+    {
+      "promptKL": "uiit",
+      "promptDA": "ægtemænd",
+      "validationKL": "ui",
+      "validationDA": "ægtemand"
+    },
+    {
+      "promptKL": "nuliaq",
+      "promptDA": "hustru",
+      "validationKL": "nuliat",
+      "validationDA": "hustruer"
+    },
+    {
+      "promptKL": "nuliat",
+      "promptDA": "hustruer",
+      "validationKL": "nuliaq",
+      "validationDA": "hustru"
+    },
+    {
+      "promptKL": "ateq",
+      "promptDA": "navn",
+      "validationKL": "atit",
+      "validationDA": "navne"
+    },
+    {
+      "promptKL": "atit",
+      "promptDA": "navne",
+      "validationKL": "ateq",
+      "validationDA": "navn"
+    },
+    {
+      "promptKL": "siku",
+      "promptDA": "is",
+      "validationKL": "sikut",
+      "validationDA": "is"
+    },
+    {
+      "promptKL": "sikut",
+      "promptDA": "is",
+      "validationKL": "siku",
+      "validationDA": "is"
+    },
+    {
+      "promptKL": "neqi",
+      "promptDA": "kød",
+      "validationKL": "neqit",
+      "validationDA": "kød"
+    },
+    {
+      "promptKL": "neqit",
+      "promptDA": "kød",
+      "validationKL": "neqi",
+      "validationDA": "kød"
+    },
+    {
+      "promptKL": "immuk",
+      "promptDA": "mælk",
+      "validationKL": "immuit",
+      "validationDA": "mælk"
+    },
+    {
+      "promptKL": "immuit",
+      "promptDA": "mælk",
+      "validationKL": "immuk",
+      "validationDA": "mælk"
+    },
+    {
+      "promptKL": "iffiaq",
+      "promptDA": "brød",
+      "validationKL": "iffiat",
+      "validationDA": "brød"
+    },
+    {
+      "promptKL": "iffiat",
+      "promptDA": "brød",
+      "validationKL": "iffiaq",
+      "validationDA": "brød"
+    },
+    {
+      "promptKL": "erneq",
+      "promptDA": "søn",
+      "validationKL": "ernerit",
+      "validationDA": "sønner"
+    },
+    {
+      "promptKL": "ernerit",
+      "promptDA": "sønner",
+      "validationKL": "erneq",
+      "validationDA": "søn"
+    },
+    {
+      "promptKL": "panik",
+      "promptDA": "datter",
+      "validationKL": "paniit",
+      "validationDA": "døtre"
+    },
+    {
+      "promptKL": "paniit",
+      "promptDA": "døtre",
+      "validationKL": "panik",
+      "validationDA": "datter"
+    },
+    {
+      "promptKL": "pisiniarfik",
+      "promptDA": "butik",
+      "validationKL": "pisiniarfiit",
+      "validationDA": "butikker"
+    },
+    {
+      "promptKL": "pisiniarfiit",
+      "promptDA": "butikker",
+      "validationKL": "pisiniarfik",
+      "validationDA": "butik"
+    },
+    {
+      "promptKL": "illu",
+      "promptDA": "hus",
+      "validationKL": "illut",
+      "validationDA": "huse"
+    },
+    {
+      "promptKL": "illut",
+      "promptDA": "huse",
+      "validationKL": "illu",
+      "validationDA": "hus"
+    },
+    {
+      "promptKL": "tuttu",
+      "promptDA": "rensdyr",
+      "validationKL": "tuttut",
+      "validationDA": "rensdyr"
+    },
+    {
+      "promptKL": "tuttut",
+      "promptDA": "rensdyr",
+      "validationKL": "tuttu",
+      "validationDA": "rensdyr"
+    },
+    {
+      "promptKL": "umimmak",
+      "promptDA": "moskusokse",
+      "validationKL": "umimmaat",
+      "validationDA": "moskusokser"
+    },
+    {
+      "promptKL": "umimmaat",
+      "promptDA": "moskusokser",
+      "validationKL": "umimmak",
+      "validationDA": "moskusokse"
+    },
+    {
+      "promptKL": "angut",
+      "promptDA": "mand",
+      "validationKL": "angutit",
+      "validationDA": "mænd"
+    },
+    {
+      "promptKL": "angutit",
+      "promptDA": "mænd",
+      "validationKL": "angut",
+      "validationDA": "mand"
+    },
+    {
+      "promptKL": "arnaq",
+      "promptDA": "kvinde",
+      "validationKL": "arnat",
+      "validationDA": "kvinder"
+    },
+    {
+      "promptKL": "arnat",
+      "promptDA": "kvinder",
+      "validationKL": "arnaq",
+      "validationDA": "kvinde"
+    },
+    {
+      "promptKL": "qupperneq",
+      "promptDA": "side",
+      "validationKL": "quppernerit",
+      "validationDA": "sider"
+    },
+    {
+      "promptKL": "quppernerit",
+      "promptDA": "sider",
+      "validationKL": "qupperneq",
+      "validationDA": "side"
+    },
+    {
+      "promptKL": "kuanneq",
+      "promptDA": "kvan",
+      "validationKL": "kuannerit",
+      "validationDA": "kvaner"
+    },
+    {
+      "promptKL": "kuannerit",
+      "promptDA": "kvaner",
+      "validationKL": "kuanneq",
+      "validationDA": "kvan"
+    }
+  ]
+}

@@ -115,3 +115,5 @@ Indsæt tekst, billeder og inputs her
 - `showScore` skjuler optællingen af rigtige svar, hvis den er sat til `false`
 - `disableSubmit` skjuler muligheden for at sende svaret til læreren, hvis sat til `true`
 - `externalLink` åbner en ekstern side i stedet for en intern øvelse
+- `loop` kører øvelsen i loop, hvis sat til `true`
+- `randomize` laver en tilfældig visning af øvelsen, hvis sat til `true`
