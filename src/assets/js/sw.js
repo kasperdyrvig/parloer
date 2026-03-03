@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gp20250228-1';
+const CACHE_NAME = 'gp20260303-1';
 const urlsToCache = [
     '.',
     'offline/index.html',

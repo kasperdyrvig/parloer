@@ -209,9 +209,10 @@ function checkAnswers() {
     exerciseActiveItem.querySelectorAll("word-dissector").forEach(dissector => {
         const dissectorContainer = dissector.querySelector(".dissector-board");
         const validInput = dissector.querySelector("input[type='hidden']").value;
-        alert("Input: " + dissectorContainer.innerText.replace(/\n/g, ' '));
+        // Build the user answer from the spans, ensuring exactly one space between words
+        const userAnswer = Array.from(dissectorContainer.querySelectorAll(".wordpart")).map(el => el.textContent.toLowerCase()).join(" ").trim();
         numberOfInputs++;
-        if (dissectorContainer.innerText.replace(/\n/g, ' ') == validInput) {
+        if (userAnswer === validInput.toLowerCase()) {
             dissectorContainer.classList.add("correct");
             passed = true;
             correctAnswers++;
