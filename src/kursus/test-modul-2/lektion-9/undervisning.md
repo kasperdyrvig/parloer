@@ -46,12 +46,11 @@ onPageTitle: Til læreren
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: ordbog.gl.
 - Lektier:
-    - Nævn den **mundtlige** lektie
+    - Nævn den **mundtlige** lektie og at der altid er en intro til næste lektion man kan læse som forberedelse.
     - Tips:
         - Brug feedback-knappen til at stille spørgsmål, og brug info-knappen kun efter du selv har prøvet at forstå sætningen og skal tjekke dig selv.
         - Forklar konceptet med at lave lektier i grupper.
             - Husk at du har et ansvar over for din makker!
-    - Læs intro til næste lektion.
 
 **Links/ressourcer:**
 

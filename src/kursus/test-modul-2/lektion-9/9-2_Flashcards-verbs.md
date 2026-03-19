@@ -10,12 +10,6 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-Flashcards med følgende ord:
-ateqar-	    hedder
-najugaqar-	bor
-ukioqar- 	er år gammel
-tikip-	    ankommer
-ajor-	    er dårlig/i stykker
-oqaluussi-	forkynder
-neri-    	spiser
+Flashcards med ordene fra "Øvelse_9.2_flashcards_verbs.xlsx"
+Ordene skal være grønne.
 {% endexerciseItem %}

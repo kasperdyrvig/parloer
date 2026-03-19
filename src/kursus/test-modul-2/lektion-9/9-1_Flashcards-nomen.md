@@ -10,14 +10,7 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-Flashcards med følgende ord:
-Nalunaajaasoq	Vidne
-asaasartoq	    rengøringsassistent
-sanasoq	        tømrer
-erneq	        søn
-panik	        datter
-ui	            ægtemand
-nuliaq	        hustru
-angut	        mand
-arnaq	        kvinde
+Flashcards med ordene fra "Øvelse_9.1_flashcards-nomen.xlsx"
+Ordene skal være lilla
+
 {% endexerciseItem %}
