@@ -1,0 +1,23 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 12
+previewText: Skriv ordet i ental eller flertal
+onPageTitle: Ental/flertal
+onPageDescription: Hvis ordet er i ental, skriv det i flertal. Hvis ordet er i flertal, skriv det i ental.
+linkText: Start øvelsen
+mode: filled
+randomize: true
+---
+
+{% for prompt in m2l12entalflertal.prompts %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs/lyt og forstå ordet</task-instruction>
+    <task-prompt>{{prompt.promptKL}}</task-prompt>
+    <task-instruction data-number="2">Sig ordet højt</task-instruction>
+    <task-instruction data-number="3">Skriv ordet i flertal eller ental</task-instruction>
+    <text-input data-label="Skriv ordet i flertal eller ental" data-validation="{{prompt.validationKL}}"></text-input>
+    <task-instruction data-number="4">Sig ordet højt</task-instruction>
+    <task-info>"{{prompt.promptKL}}" betyder "{{prompt.promptDA}}". Svaret er <b>{{prompt.validationKL}}</b>. På dansk betyder det: {{prompt.validationDA}}.</task-info>
+{% endtaskStep %}
+{% endfor %}

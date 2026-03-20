@@ -1,0 +1,43 @@
+---
+layout: standard-nomenu
+metaTitle: Øvelse
+hideMainMenu: true
+---
+<task-flow id="{{partOfLesson}}-{{page.fileSlug}}" parentId="{{tags}}-{{partOfLesson}}-{{page.fileSlug}}" mode="{{mode}}" {% if randomize === true %}randomize{% endif %} {% if loop === true %}loop{% endif %}>
+    {# Task flow intro #}
+    <div class="task-intro">
+        <h2>{{onPageTitle}}</h2>
+        <p class="mt-0 mb-lg">{{onPageDescription}}</p>
+        <button type="button" class="btn btn-block btn-uppercase btn-blue" id="task-start">Start</button>
+    </div>
+
+    {# Task flow content #}
+    <div class="task-main">
+        <div class="task-header">
+            {# Task flow progress #}
+            <div class="progress" role="progressbar" aria-label="Øvelse gennemført" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar" style="width: 0%;"></div>
+            </div>
+            <a href="../" title="Gem og gå tilbage" class="task-close-button">❌</a>
+        </div>
+
+        {# Task flow steps #}
+        {{content | safe}}
+
+        {# Next button #}
+        <div class="task-navigation">
+            <button type="button" id="task-info" class="btn btn-white" title="Information og hjælp">🛟</button>
+            <button type="button" id="task-feedback" class="btn btn-white" title="Send spørgsmål og feedback" disabled>❓</button>
+            <button type="button" id="task-next" class="btn btn-block btn-uppercase btn-blue">Næste</button>
+        </div>
+    </div>
+
+    {# Task outro #}
+    <div class="task-outro">
+        <div>🎉</div>
+        <p>Godt klaret!</p>
+        <a href="../" class="btn btn-block btn-blue btn-uppercase">Færdig</a>
+    </div>
+</task-flow>
+
+<script src={{'/assets/js/taskflowelements.js' | url}}></script>

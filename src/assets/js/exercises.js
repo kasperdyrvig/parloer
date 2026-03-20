@@ -1,16 +1,41 @@
 let itemIndex = 0;
 let score = 0;
 let maxScore = 0;
+let itemOrder;
 let firstCard, secondCard, startTimer, endTimer, pairsTotal;
 let hasFlippedCard = false;
 let lockBoard = false;
+let allowRetry = false;
+let loopMode = false;
 const submitBtn = document.querySelector("button[type=submit]");
 const exerciseId = document.querySelector("#exercise > .gamepanel-body").id;
 
 function startExercise() {
     document.getElementById("start").classList.add("hidden");
-    document.getElementById("exercise").classList.remove("hidden");
+    const exerciseWrapper = document.getElementById("exercise");
+    exerciseWrapper.classList.remove("hidden");
+    allowRetry = (exerciseWrapper.dataset.retry == "true") ? true : false;
+    loopMode = (exerciseWrapper.dataset.loop == "true") ? true : false;
+    const numberOfItems = exerciseWrapper.querySelectorAll(".exercise-item").length;
+    const indexes = Array.from({ length: numberOfItems }, (_, index) => index);
+    if (!localStorage.getItem(exerciseId + "-order")) {
+        if (exerciseWrapper.dataset.randomize == "true") {
+            const randomIndexes = shuffleArray(indexes);
+            localStorage.setItem(exerciseId + "-order", randomIndexes);
+        } else {
+            localStorage.setItem(exerciseId + "-order", indexes);
+        }
+    }
+    itemOrder = localStorage.getItem(exerciseId + "-order").split(",").map(Number);
     nextExerciseItem();
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
 }
 
 function endExercise() {
@@ -55,8 +80,9 @@ function nextExerciseItem() {
     
     //Get all exercise items
     const exerciseItems = document.querySelectorAll(".exercise-item");
+    const exerciseCurrentIndex = itemOrder[itemIndex];
     
-    if(itemIndex < exerciseItems.length) {
+    if(itemIndex < itemOrder.length) {
         //Hide previous item (if not the first item)
         if(itemIndex > 0) {
             try {
@@ -69,15 +95,15 @@ function nextExerciseItem() {
         localStorage.setItem(exerciseId + "-step", itemIndex + "," + score + "," + maxScore);
 
         //Display next item
-        exerciseItems[itemIndex].classList.add("active");
-        if(exerciseItems[itemIndex].querySelector("form") !== null) {
+        exerciseItems[exerciseCurrentIndex].classList.add("active");
+        if(exerciseItems[exerciseCurrentIndex].querySelector("form") !== null) {
             //Set form attribute on submit button
-            submitBtn.setAttribute("form", exerciseItems[itemIndex].querySelector("form").id);
+            submitBtn.setAttribute("form", exerciseItems[exerciseCurrentIndex].querySelector("form").id);
             submitBtn.disabled = false;
         }
         
         //If it has pairs
-        if(exerciseItems[itemIndex].querySelector(".pairs") !== null) {
+        if(exerciseItems[exerciseCurrentIndex].querySelector(".pairs") !== null) {
             randomizePairs();
             document.querySelectorAll(".pairitem").forEach(item => item.addEventListener('click', matchPairs));
             startTimer = Date.now();
@@ -86,8 +112,8 @@ function nextExerciseItem() {
         }
         
         //If randomize options
-        if(exerciseItems[itemIndex].querySelector(".multiple-choice-container") !== null) {
-            const radioContainer = exerciseItems[itemIndex].querySelector(".multiple-choice-container");
+        if(exerciseItems[exerciseCurrentIndex].querySelector(".multiple-choice-container") !== null) {
+            const radioContainer = exerciseItems[exerciseCurrentIndex].querySelector(".multiple-choice-container");
             if(radioContainer.dataset.random == "true") {
                 for (var i = radioContainer.children.length; i >= 0; i--) {
                     radioContainer.appendChild(radioContainer.children[Math.random() * i | 0]);
@@ -202,7 +228,8 @@ function checkAnswers() {
     const exerciseActiveItem = document.querySelector(".exercise-item.active");
     exerciseActiveItem.inert = true;
     const output = document.getElementById("resultContainer");
-    let numberOfInputs = 0;
+    let inputsCount = 0;
+    let validatedInputsCount = 0;
     let correctAnswers = 0;
     
     // Evaliation of word dissector
@@ -224,10 +251,11 @@ function checkAnswers() {
     exerciseActiveItem.querySelectorAll(".form-group").forEach(formGroup => {
         
         if(formGroup.classList.contains("radio")) {
+            inputsCount++;
             const radios = document.getElementsByName(formGroup.querySelector("input[type=radio]").getAttribute("name"));
             let passed = false;
             if(formGroup.querySelector("input[type='hidden']")) {
-                numberOfInputs++;
+                validatedInputsCount++;
                 const validInput = formGroup.querySelector("input[type='hidden']").value;
                 const errorMsg = formGroup.querySelector(".response-label");
                 for (var i = 0; i < radios.length; i++) {
@@ -269,9 +297,10 @@ function checkAnswers() {
             output.value += "\n";
             
         } else if(formGroup.classList.contains("checkbox")) {
+            inputsCount++;
             const cb = document.getElementsByName(formGroup.querySelector("input[type=checkbox]").getAttribute("name"));
             if(formGroup.querySelector("input[type='hidden']")) {
-                numberOfInputs++;
+                validatedInputsCount++;
                 let passed = false;
                 const inputArray = [];
                 const validArray = formGroup.querySelector("input[type='hidden']").value.replaceAll(" ", "").split(",");
@@ -314,6 +343,7 @@ function checkAnswers() {
             }
             output.value += "\n";
         } else if(formGroup.classList.contains("textinput")) {
+            inputsCount++;
             let selectedRadioValue = "";
             if(formGroup.querySelector("input[type=radio]") != null) {
                 const radio = formGroup.querySelector("input[type=radio]");
@@ -327,7 +357,7 @@ function checkAnswers() {
             let passed = false;
             output.value += selectedRadioValue + userInput;
             if(formGroup.querySelector("input[type='hidden']")) {
-                numberOfInputs++;
+                validatedInputsCount++;
                 //The input should be validated
                 const validInput = stripString(formGroup.querySelector("input[type='hidden']").value);
                 if(userInput === validInput) {
@@ -357,22 +387,21 @@ function checkAnswers() {
     });
     
     //Calculate if all is correct...
-    if(numberOfInputs == exerciseActiveItem.querySelectorAll("word-dissector").length) {
-        if (correctAnswers == numberOfInputs) {
-            showResponse("right");
-        } else {
+    if (inputsCount == validatedInputsCount && validatedInputsCount == correctAnswers) {
+        showResponse("right"); // Everything is correct
+    } else if (inputsCount == validatedInputsCount && correctAnswers == 0) {
+        // Everything should be correct, but is not
+        if (allowRetry) {
             showResponse("retry");
+        } else {
+            showResponse("wrong");
         }
-    } else if(numberOfInputs == exerciseActiveItem.querySelectorAll(".form-group").length && correctAnswers == numberOfInputs) {
-        showResponse("right");
-    } else if(numberOfInputs == exerciseActiveItem.querySelectorAll(".form-group").length && correctAnswers == 0) {
-        showResponse("wrong");
     } else {
-        showResponse("almost");
+        showResponse("almost"); // Not everything is validated
     }
     
     //Fingure out what the maximum score possible.
-    maxScore = maxScore + numberOfInputs;
+    maxScore = maxScore + validatedInputsCount;
 }
 
 function stripString(str) {
@@ -472,6 +501,7 @@ function clearLocalStorage() {
     localStorage.removeItem(exerciseId + "-step");
     localStorage.removeItem(exerciseId);
     localStorage.removeItem(exerciseId + "-output");
+    localStorage.removeItem(exerciseId + "-order");
 }
 
 

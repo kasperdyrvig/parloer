@@ -115,3 +115,76 @@ Indsæt tekst, billeder og inputs her
 - `showScore` skjuler optællingen af rigtige svar, hvis den er sat til `false`
 - `disableSubmit` skjuler muligheden for at sende svaret til læreren, hvis sat til `true`
 - `externalLink` åbner en ekstern side i stedet for en intern øvelse
+- `loop` kører øvelsen i loop, hvis sat til `true`
+- `randomize` laver en tilfældig visning af øvelsen, hvis sat til `true`
+
+# Nye øvelser
+
+## Indstillinger
+- `tags` er altid `homework`
+- `layout` er altid `taskflow`
+- `partOfLesson` skal have nummeret på lektionen
+- `sortNumber` angiver hvor i rækkefølgen denne øvelse skal være
+- `previewText` er en tekst på oversigten af øvelser i lektionen
+- `onPageTitle` er titlen på øvelsen
+- `onPageDescription` er en tekst som vises i starten af øvelsen
+- `linkText` er tekten på knappen til at åbne øvelsen
+- `mode` er enten `correct` (standard) eller `filled`
+- `loop` kører øvelsen i loop, hvis sat til `true`
+- `randomize` laver en tilfældig visning af øvelsen, hvis sat til `true`
+
+Eksempel på datagenereret øvelse:
+```
+{% for prompt in [navn på json-fil].prompts %}
+    {% taskStep %}
+        [inputelementer her]
+    {% endtaskStep %}
+{% endfor %}
+```
+
+## Elementer
+
+**Instruktioner**
+
+```<task-instruction data-number="1">Tekst.</task-instruction>```
+
+**Prompt**
+
+```<task-prompt>Ord eller sætning.</task-prompt>```
+
+**Information**
+
+```<task-info>Information og hjælp.</task-info>```
+
+- Når denne findes i et step, aktiveres info-knappen.
+
+**Lyd**
+
+```<task-audio data-file="folder/file.mp3" data-label="Ord" enable-slow></task-audio>```
+
+- Afspilleren finder selv audio-mappen.
+- `enable-slow` viser en ekstra knap til langsommere afspilning
+
+## Inputs
+
+Alle inputs har en "Tjek"-knap under sig. Brugeren skal trykke på denne for at validere hvert enkelt svar. Når alle svar er acceptable, kan brugeren gå videre til næste step.
+
+**Tekst**
+
+```<text-input data-label="Skriv et ord" data-validation="Ord"></text-input>```
+
+**Tekstboks**
+
+```<textarea-input data-label="Skriv et historie" data-validation="Historie"></textarea-input>```
+
+**Tekst med stavekontrol**
+
+```<spellcheck-input data-label="Omskriv sætningen" data-validation="Skriv sætningen på en anden måde."></spellcheck-input>```
+
+- Ord som ikke er korrekte vises med en råd bølgestreg
+- Ord som er korrekt skrevet men i forkert rækkefølge vises med blå dobbeltstreg
+
+**Tal**
+
+```<number-input data-label="Skriv et tal" data-validation="1"></number-input>```
+
