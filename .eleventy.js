@@ -33,6 +33,11 @@ module.exports = function (eleventyConfig) {
     return `<div class="exercise-item" id="${id}"><form id="${id}f" action="#" onsubmit="startCheck(event)" class="exercise-inputs" autocomplete="off" spellcheck="off">${exerciseContent}</form></div>`;
   });
 
+  eleventyConfig.addPairedShortcode("taskStep", function (stepContent) {
+    const id = uuidv4();
+    return `<task-step id="${id}">${stepContent}</task-step>`;
+  });
+
   eleventyConfig.addPairedShortcode("helpContent", function (content, label) {
     return `<details class="details-help"><summary>${label}</summary><div class="details-help-content">${content.trim().toString().replace(/\n/g, "<br>")}</div></details>`;
   });
