@@ -238,7 +238,8 @@ function checkAnswers() {
         const validInput = dissector.querySelector("input[type='hidden']").value;
         // Build the user answer from the spans, ensuring exactly one space between words
         const userAnswer = Array.from(dissectorContainer.querySelectorAll(".wordpart")).map(el => el.textContent.toLowerCase()).join(" ").trim();
-        numberOfInputs++;
+        inputsCount++;
+        validatedInputsCount++;
         if (userAnswer === validInput.toLowerCase()) {
             dissectorContainer.classList.add("correct");
             passed = true;
