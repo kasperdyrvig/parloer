@@ -14,7 +14,7 @@ randomize: true
 
 {% for prompt in 10_4_sg_pl %}
 {% taskStep %}
-    <task-instruction data-number="1">Lyt og forstå sætningen</task-instruction>
+    <task-instruction data-number="1">Lyt/læs og forstå sætningen</task-instruction>
     <task-prompt>{{prompt.prompt}}</task-prompt>
     <task-audio data-file="course/lesson-10/{{prompt.lyd}}"></task-audio>
     <task-instruction data-number="2">Gentag det højt</task-instruction>

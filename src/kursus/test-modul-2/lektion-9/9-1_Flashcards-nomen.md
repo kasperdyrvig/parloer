@@ -3,7 +3,7 @@ tags: homework
 layout: exercise
 partOfLesson: 90
 sortNumber: 1
-previewText: Øvelse 9.1 - flashcards (navneord)
+previewText: Virker ikke - Øvelse 9.1 - flashcards (navneord)
 onPageTitle: Øvelse 9.1 - flashcards (navneord)
 onPageDescription: Øv dig på de nye ord med flashcards
 linkText: Start øvelsen
