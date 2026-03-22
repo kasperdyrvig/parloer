@@ -1,0 +1,23 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 90
+sortNumber: 5
+previewText: Øvelse 9.5 - oversæt
+onPageTitle: Øvelse 9.5 - oversæt
+onPageDescription: Se om du kan huske hvordan man staver til de nye ord.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+
+{% for prompt in 9_5_translate %}
+{% taskStep %}
+    <task-prompt>{{prompt.Prompt}}</task-prompt>
+    <task-instruction data-number="1">Skriv det tilsvarende ord på grønlandsk</task-instruction>
+    <text-input data-validation="{{prompt.Svar}}"></text-input>
+    <task-instruction data-number="2">Sig ordet højt</task-instruction>
+    <task-info>"{{prompt.Prompt}}" hedder "{{prompt.Svar}}" på grønlandsk</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}

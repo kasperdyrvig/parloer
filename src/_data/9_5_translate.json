@@ -1,0 +1,77 @@
+[
+	{
+		"Prompt": "hedder",
+		"Svar": "ateqar-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "bor",
+		"Svar": "najugaqar-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "er år gammel",
+		"Svar": "ukioqar-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "ankommer",
+		"Svar": "tikip-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "er dårlig/i stykker",
+		"Svar": "ajor-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "forkynder",
+		"Svar": "oqaluussi-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "spiser",
+		"Svar": "neri-",
+		"Ordklasse": "udsagnsord"
+	},
+	{
+		"Prompt": "rengøringsassistent",
+		"Svar": "asaasartoq",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "tømrer",
+		"Svar": "sanasoq",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "søn",
+		"Svar": "erneq",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "datter",
+		"Svar": "panik",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "ægtemand",
+		"Svar": "ui",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "hustru",
+		"Svar": "nuliaq",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "mand",
+		"Svar": "angut",
+		"Ordklasse": "navneord"
+	},
+	{
+		"Prompt": "kvinde",
+		"Svar": "arnaq",
+		"Ordklasse": "navneord"
+	}
+]

@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 100
+sortNumber: 2
+previewText: Øvelse 10.2 - sæt endelsen på
+onPageTitle: Øvelse 10.2 - sæt endelsen på
+onPageDescription: Prøv at sætte endelsen korrekt på stammen.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+
+{% for prompt in 10_2_correct_ending %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs og forstå ordene</task-instruction>
+    <task-prompt>({{prompt.endelse}}) {{prompt.stamme}}</task-prompt>
+    <task-instruction data-number="2">Skriv ordet med den rigtige endelse</task-instruction>
+    <text-input data-validation="{{prompt.sammensat}}"></text-input>
+    <task-instruction data-number="3">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Det rigtige svar er "{{prompt.sammensat}}", og det betyder "{{prompt.dansk}}</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}

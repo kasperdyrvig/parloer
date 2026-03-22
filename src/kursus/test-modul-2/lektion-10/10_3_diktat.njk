@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 100
+sortNumber: 3
+previewText: Øvelse 10.3 - diktat
+onPageTitle: Øvelse 10.3 - diktat
+onPageDescription: Skriv ned hvad du hører.
+linkText: Start øvelsen
+mode: filled
+loop: true
+randomize: true
+---
+
+{% for prompt in 10_3_diktat %}
+{% taskStep %}
+    <task-instruction data-number="1">Lyt og forstå sætningen</task-instruction>
+    <task-audio data-file="course/lesson-10/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Skriv den ned</task-instruction>
+    <spellcheck-input data-validation="{{prompt.grønlandsk}}"></spellcheck-input>
+    <task-instruction data-number="3">Sig det højt</task-instruction>
+    <task-info>Det staves "{{prompt.grønlandsk}}", og det betyder "{{prompt.dansk}}</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}

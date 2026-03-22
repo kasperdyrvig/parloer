@@ -1,0 +1,578 @@
+[
+	{
+		"grønlandsk": "ateqarpunga",
+		"dansk": "jeg hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "punga",
+		"lyd": "1.mp3"
+	},
+	{
+		"grønlandsk": "ateqarputit",
+		"dansk": "du hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "putit",
+		"lyd": "2.mp3"
+	},
+	{
+		"grønlandsk": "ateqarpoq",
+		"dansk": "han hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "poq",
+		"lyd": "3.mp3"
+	},
+	{
+		"grønlandsk": "ateqarpugut",
+		"dansk": "vi hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "pugut",
+		"lyd": "4.mp3"
+	},
+	{
+		"grønlandsk": "ateqarpusi",
+		"dansk": "I hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "pusi",
+		"lyd": "5.mp3"
+	},
+	{
+		"grønlandsk": "ateqarput",
+		"dansk": "de hedder",
+		"grundled": "",
+		"stamme": "ateqar",
+		"endelse": "put",
+		"lyd": "6.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarpunga",
+		"dansk": "jeg bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "punga",
+		"lyd": "7.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarputit",
+		"dansk": "du bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "putit",
+		"lyd": "8.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarpoq",
+		"dansk": "han bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "poq",
+		"lyd": "9.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarpugut",
+		"dansk": "vi bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "pugut",
+		"lyd": "10.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarpusi",
+		"dansk": "I bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "pusi",
+		"lyd": "11.mp3"
+	},
+	{
+		"grønlandsk": "najugaqarput",
+		"dansk": "de bor",
+		"grundled": "",
+		"stamme": "najugaqar",
+		"endelse": "put",
+		"lyd": "12.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarpunga",
+		"dansk": "jeg er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "punga",
+		"lyd": "13.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarputit",
+		"dansk": "du er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "putit",
+		"lyd": "14.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarpoq",
+		"dansk": "han er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "poq",
+		"lyd": "15.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarpugut",
+		"dansk": "vi er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "pugut",
+		"lyd": "16.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarpusi",
+		"dansk": "I er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "pusi",
+		"lyd": "17.mp3"
+	},
+	{
+		"grønlandsk": "ukioqarput",
+		"dansk": "de er år gammel",
+		"grundled": "",
+		"stamme": "ukioqar",
+		"endelse": "put",
+		"lyd": "18.mp3"
+	},
+	{
+		"grønlandsk": "tikippunga",
+		"dansk": "jeg ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "punga",
+		"lyd": "19.mp3"
+	},
+	{
+		"grønlandsk": "tikipputit",
+		"dansk": "du ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "putit",
+		"lyd": "20.mp3"
+	},
+	{
+		"grønlandsk": "tikippoq",
+		"dansk": "han ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "21.mp3"
+	},
+	{
+		"grønlandsk": "tikippugut",
+		"dansk": "vi ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "pugut",
+		"lyd": "22.mp3"
+	},
+	{
+		"grønlandsk": "tikippusi",
+		"dansk": "I ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "pusi",
+		"lyd": "23.mp3"
+	},
+	{
+		"grønlandsk": "tikipput",
+		"dansk": "de ankommer",
+		"grundled": "",
+		"stamme": "tikip",
+		"endelse": "put",
+		"lyd": "24.mp3"
+	},
+	{
+		"grønlandsk": "ajorpunga",
+		"dansk": "jeg har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "punga",
+		"lyd": "25.mp3"
+	},
+	{
+		"grønlandsk": "ajorputit",
+		"dansk": "du har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "putit",
+		"lyd": "26.mp3"
+	},
+	{
+		"grønlandsk": "ajorpoq",
+		"dansk": "han har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "27.mp3"
+	},
+	{
+		"grønlandsk": "ajorpugut",
+		"dansk": "vi har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "pugut",
+		"lyd": "28.mp3"
+	},
+	{
+		"grønlandsk": "ajorpusi",
+		"dansk": "I har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "pusi",
+		"lyd": "29.mp3"
+	},
+	{
+		"grønlandsk": "ajorput",
+		"dansk": "de har det dårligt",
+		"grundled": "",
+		"stamme": "ajor",
+		"endelse": "put",
+		"lyd": "30.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussivunga",
+		"dansk": "jeg forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "vunga",
+		"lyd": "31.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussivutit",
+		"dansk": "du forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "vutit",
+		"lyd": "32.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussivoq",
+		"dansk": "han forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "33.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussivugut",
+		"dansk": "vi forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "vugut",
+		"lyd": "34.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussivusi",
+		"dansk": "I forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "vusi",
+		"lyd": "35.mp3"
+	},
+	{
+		"grønlandsk": "oqaluussipput",
+		"dansk": "de forkynder",
+		"grundled": "",
+		"stamme": "oqaluussi",
+		"endelse": "pput",
+		"lyd": "36.mp3"
+	},
+	{
+		"grønlandsk": "nerivunga",
+		"dansk": "jeg spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "vunga",
+		"lyd": "37.mp3"
+	},
+	{
+		"grønlandsk": "nerivutit",
+		"dansk": "du spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "vutit",
+		"lyd": "38.mp3"
+	},
+	{
+		"grønlandsk": "nerivoq",
+		"dansk": "han spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "39.mp3"
+	},
+	{
+		"grønlandsk": "nerivugut",
+		"dansk": "vi spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "vugut",
+		"lyd": "40.mp3"
+	},
+	{
+		"grønlandsk": "nerivusi",
+		"dansk": "I spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "vusi",
+		"lyd": "41.mp3"
+	},
+	{
+		"grønlandsk": "neripput",
+		"dansk": "de spiser",
+		"grundled": "",
+		"stamme": "neri",
+		"endelse": "pput",
+		"lyd": "42.mp3"
+	},
+	{
+		"grønlandsk": "nalunaajaasoq tikippoq",
+		"dansk": "vidnet ankommer",
+		"grundled": "nalunaajaasoq",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "43.mp3"
+	},
+	{
+		"grønlandsk": "asaasartoq tikippoq",
+		"dansk": "rengøringsassistenten ankommer",
+		"grundled": "asaasartoq",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "44.mp3"
+	},
+	{
+		"grønlandsk": "sanasoq tikippoq",
+		"dansk": "tømreren ankommer",
+		"grundled": "sanasoq",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "45.mp3"
+	},
+	{
+		"grønlandsk": "erneq tikippoq",
+		"dansk": "sønnen ankommer",
+		"grundled": "erneq",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "46.mp3"
+	},
+	{
+		"grønlandsk": "panik tikippoq",
+		"dansk": "datteren ankommer",
+		"grundled": "panik",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "47.mp3"
+	},
+	{
+		"grønlandsk": "angut tikippoq",
+		"dansk": "manden ankommer",
+		"grundled": "angut",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "48.mp3"
+	},
+	{
+		"grønlandsk": "arnaq tikippoq",
+		"dansk": "kvinden ankommer",
+		"grundled": "arnaq",
+		"stamme": "tikip",
+		"endelse": "poq",
+		"lyd": "49.mp3"
+	},
+	{
+		"grønlandsk": "nalunaajaasoq ajorpoq",
+		"dansk": "vidnet har det dårligt",
+		"grundled": "nalunaajaasoq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "50.mp3"
+	},
+	{
+		"grønlandsk": "asaasartoq ajorpoq",
+		"dansk": "rengøringsassistenten har det dårligt",
+		"grundled": "asaasartoq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "51.mp3"
+	},
+	{
+		"grønlandsk": "sanasoq ajorpoq",
+		"dansk": "tømreren har det dårligt",
+		"grundled": "sanasoq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "52.mp3"
+	},
+	{
+		"grønlandsk": "erneq ajorpoq",
+		"dansk": "sønnen har det dårligt",
+		"grundled": "erneq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "53.mp3"
+	},
+	{
+		"grønlandsk": "panik ajorpoq",
+		"dansk": "datteren har det dårligt",
+		"grundled": "panik",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "54.mp3"
+	},
+	{
+		"grønlandsk": "ui ajorpoq",
+		"dansk": "ægtemanden har det dårligt",
+		"grundled": "ui",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "55.mp3"
+	},
+	{
+		"grønlandsk": "nuliaq ajorpoq",
+		"dansk": "hustruen har det dårligt",
+		"grundled": "nuliaq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "56.mp3"
+	},
+	{
+		"grønlandsk": "angut ajorpoq",
+		"dansk": "manden har det dårligt",
+		"grundled": "angut",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "57.mp3"
+	},
+	{
+		"grønlandsk": "arnaq ajorpoq",
+		"dansk": "kvinden har det dårligt",
+		"grundled": "arnaq",
+		"stamme": "ajor",
+		"endelse": "poq",
+		"lyd": "58.mp3"
+	},
+	{
+		"grønlandsk": "nalunaajaasoq oqaluussivoq",
+		"dansk": "vidnet forkynder",
+		"grundled": "nalunaajaasoq",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "59.mp3"
+	},
+	{
+		"grønlandsk": "asaasartoq oqaluussivoq",
+		"dansk": "rengøringsassistenten forkynder",
+		"grundled": "asaasartoq",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "60.mp3"
+	},
+	{
+		"grønlandsk": "sanasoq oqaluussivoq",
+		"dansk": "tømreren forkynder",
+		"grundled": "sanasoq",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "61.mp3"
+	},
+	{
+		"grønlandsk": "erneq oqaluussivoq",
+		"dansk": "sønnen forkynder",
+		"grundled": "erneq",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "62.mp3"
+	},
+	{
+		"grønlandsk": "panik oqaluussivoq",
+		"dansk": "datteren forkynder",
+		"grundled": "panik",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "63.mp3"
+	},
+	{
+		"grønlandsk": "angut oqaluussivoq",
+		"dansk": "manden forkynder",
+		"grundled": "angut",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "64.mp3"
+	},
+	{
+		"grønlandsk": "arnaq oqaluussivoq",
+		"dansk": "kvinden forkynder",
+		"grundled": "arnaq",
+		"stamme": "oqaluussi",
+		"endelse": "voq",
+		"lyd": "65.mp3"
+	},
+	{
+		"grønlandsk": "nalunaajaasoq nerivoq",
+		"dansk": "vidnet spiser",
+		"grundled": "nalunaajaasoq",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "66.mp3"
+	},
+	{
+		"grønlandsk": "asaasartoq nerivoq",
+		"dansk": "rengøringsassistenten spiser",
+		"grundled": "asaasartoq",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "67.mp3"
+	},
+	{
+		"grønlandsk": "sanasoq nerivoq",
+		"dansk": "tømreren spiser",
+		"grundled": "sanasoq",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "68.mp3"
+	},
+	{
+		"grønlandsk": "erneq nerivoq",
+		"dansk": "sønnen spiser",
+		"grundled": "erneq",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "69.mp3"
+	},
+	{
+		"grønlandsk": "panik nerivoq",
+		"dansk": "datteren spiser",
+		"grundled": "panik",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "70.mp3"
+	},
+	{
+		"grønlandsk": "angut nerivoq",
+		"dansk": "manden spiser",
+		"grundled": "angut",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "71.mp3"
+	},
+	{
+		"grønlandsk": "arnaq nerivoq",
+		"dansk": "kvinden spiser",
+		"grundled": "arnaq",
+		"stamme": "neri",
+		"endelse": "voq",
+		"lyd": "72.mp3"
+	}
+]

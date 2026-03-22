@@ -1,0 +1,422 @@
+[
+	{
+		"prompt": "ateqarpunga",
+		"Stamme": "ateqar",
+		"PromptEndelse": "punga",
+		"lyd": "1.mp3",
+		"PromptBetydning": "jeg hedder",
+		"svar": "ateqarpugut",
+		"SvarEndelse": "pugut",
+		"SvarBetydning": "vi hedder"
+	},
+	{
+		"prompt": "ateqarputit",
+		"Stamme": "ateqar",
+		"PromptEndelse": "putit",
+		"lyd": "2.mp3",
+		"PromptBetydning": "du hedder",
+		"svar": "ateqarpusi",
+		"SvarEndelse": "pusi",
+		"SvarBetydning": "I hedder"
+	},
+	{
+		"prompt": "ateqarpoq",
+		"Stamme": "ateqar",
+		"PromptEndelse": "poq",
+		"lyd": "3.mp3",
+		"PromptBetydning": "han hedder",
+		"svar": "ateqarput",
+		"SvarEndelse": "put",
+		"SvarBetydning": "de hedder"
+	},
+	{
+		"prompt": "ateqarpugut",
+		"Stamme": "ateqar",
+		"PromptEndelse": "pugut",
+		"lyd": "4.mp3",
+		"PromptBetydning": "vi hedder",
+		"svar": "ateqarpunga",
+		"SvarEndelse": "punga",
+		"SvarBetydning": "jeg hedder"
+	},
+	{
+		"prompt": "ateqarpusi",
+		"Stamme": "ateqar",
+		"PromptEndelse": "pusi",
+		"lyd": "5.mp3",
+		"PromptBetydning": "I hedder",
+		"svar": "ateqarputit",
+		"SvarEndelse": "putit",
+		"SvarBetydning": "du hedder"
+	},
+	{
+		"prompt": "ateqarput",
+		"Stamme": "ateqar",
+		"PromptEndelse": "put",
+		"lyd": "6.mp3",
+		"PromptBetydning": "de hedder",
+		"svar": "ateqarpoq",
+		"SvarEndelse": "poq",
+		"SvarBetydning": "han hedder"
+	},
+	{
+		"prompt": "najugaqarpunga",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "punga",
+		"lyd": "7.mp3",
+		"PromptBetydning": "jeg bor",
+		"svar": "najugaqarpugut",
+		"SvarEndelse": "pugut",
+		"SvarBetydning": "vi bor"
+	},
+	{
+		"prompt": "najugaqarputit",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "putit",
+		"lyd": "8.mp3",
+		"PromptBetydning": "du bor",
+		"svar": "najugaqarpusi",
+		"SvarEndelse": "pusi",
+		"SvarBetydning": "I bor"
+	},
+	{
+		"prompt": "najugaqarpoq",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "poq",
+		"lyd": "9.mp3",
+		"PromptBetydning": "han bor",
+		"svar": "najugaqarput",
+		"SvarEndelse": "put",
+		"SvarBetydning": "de bor"
+	},
+	{
+		"prompt": "najugaqarpugut",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "pugut",
+		"lyd": "10.mp3",
+		"PromptBetydning": "vi bor",
+		"svar": "najugaqarpunga",
+		"SvarEndelse": "punga",
+		"SvarBetydning": "jeg bor"
+	},
+	{
+		"prompt": "najugaqarpusi",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "pusi",
+		"lyd": "11.mp3",
+		"PromptBetydning": "I bor",
+		"svar": "najugaqarputit",
+		"SvarEndelse": "putit",
+		"SvarBetydning": "du bor"
+	},
+	{
+		"prompt": "najugaqarput",
+		"Stamme": "najugaqar",
+		"PromptEndelse": "put",
+		"lyd": "12.mp3",
+		"PromptBetydning": "de bor",
+		"svar": "najugaqarpoq",
+		"SvarEndelse": "poq",
+		"SvarBetydning": "han bor"
+	},
+	{
+		"prompt": "ukioqarpunga",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "punga",
+		"lyd": "13.mp3",
+		"PromptBetydning": "jeg er år gammel",
+		"svar": "ukioqarpugut",
+		"SvarEndelse": "pugut",
+		"SvarBetydning": "vi er år gammel"
+	},
+	{
+		"prompt": "ukioqarputit",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "putit",
+		"lyd": "14.mp3",
+		"PromptBetydning": "du er år gammel",
+		"svar": "ukioqarpusi",
+		"SvarEndelse": "pusi",
+		"SvarBetydning": "I er år gammel"
+	},
+	{
+		"prompt": "ukioqarpoq",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "poq",
+		"lyd": "15.mp3",
+		"PromptBetydning": "han er år gammel",
+		"svar": "ukioqarput",
+		"SvarEndelse": "put",
+		"SvarBetydning": "de er år gammel"
+	},
+	{
+		"prompt": "ukioqarpugut",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "pugut",
+		"lyd": "16.mp3",
+		"PromptBetydning": "vi er år gammel",
+		"svar": "ukioqarpunga",
+		"SvarEndelse": "punga",
+		"SvarBetydning": "jeg er år gammel"
+	},
+	{
+		"prompt": "ukioqarpusi",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "pusi",
+		"lyd": "17.mp3",
+		"PromptBetydning": "I er år gammel",
+		"svar": "ukioqarputit",
+		"SvarEndelse": "putit",
+		"SvarBetydning": "du er år gammel"
+	},
+	{
+		"prompt": "ukioqarput",
+		"Stamme": "ukioqar",
+		"PromptEndelse": "put",
+		"lyd": "18.mp3",
+		"PromptBetydning": "de er år gammel",
+		"svar": "ukioqarpoq",
+		"SvarEndelse": "poq",
+		"SvarBetydning": "han er år gammel"
+	},
+	{
+		"prompt": "tikippunga",
+		"Stamme": "tikip",
+		"PromptEndelse": "punga",
+		"lyd": "19.mp3",
+		"PromptBetydning": "jeg ankommer",
+		"svar": "tikippugut",
+		"SvarEndelse": "pugut",
+		"SvarBetydning": "vi ankommer"
+	},
+	{
+		"prompt": "tikipputit",
+		"Stamme": "tikip",
+		"PromptEndelse": "putit",
+		"lyd": "20.mp3",
+		"PromptBetydning": "du ankommer",
+		"svar": "tikippusi",
+		"SvarEndelse": "pusi",
+		"SvarBetydning": "I ankommer"
+	},
+	{
+		"prompt": "tikippoq",
+		"Stamme": "tikip",
+		"PromptEndelse": "poq",
+		"lyd": "21.mp3",
+		"PromptBetydning": "han ankommer",
+		"svar": "tikipput",
+		"SvarEndelse": "put",
+		"SvarBetydning": "de ankommer"
+	},
+	{
+		"prompt": "tikippugut",
+		"Stamme": "tikip",
+		"PromptEndelse": "pugut",
+		"lyd": "22.mp3",
+		"PromptBetydning": "vi ankommer",
+		"svar": "tikippunga",
+		"SvarEndelse": "punga",
+		"SvarBetydning": "jeg ankommer"
+	},
+	{
+		"prompt": "tikippusi",
+		"Stamme": "tikip",
+		"PromptEndelse": "pusi",
+		"lyd": "23.mp3",
+		"PromptBetydning": "I ankommer",
+		"svar": "tikipputit",
+		"SvarEndelse": "putit",
+		"SvarBetydning": "du ankommer"
+	},
+	{
+		"prompt": "tikipput",
+		"Stamme": "tikip",
+		"PromptEndelse": "put",
+		"lyd": "24.mp3",
+		"PromptBetydning": "de ankommer",
+		"svar": "tikippoq",
+		"SvarEndelse": "poq",
+		"SvarBetydning": "han ankommer"
+	},
+	{
+		"prompt": "ajorpunga",
+		"Stamme": "ajor",
+		"PromptEndelse": "punga",
+		"lyd": "25.mp3",
+		"PromptBetydning": "jeg har det dårligt",
+		"svar": "ajorpugut",
+		"SvarEndelse": "pugut",
+		"SvarBetydning": "vi har det dårligt"
+	},
+	{
+		"prompt": "ajorputit",
+		"Stamme": "ajor",
+		"PromptEndelse": "putit",
+		"lyd": "26.mp3",
+		"PromptBetydning": "du har det dårligt",
+		"svar": "ajorpusi",
+		"SvarEndelse": "pusi",
+		"SvarBetydning": "I har det dårligt"
+	},
+	{
+		"prompt": "ajorpoq",
+		"Stamme": "ajor",
+		"PromptEndelse": "poq",
+		"lyd": "27.mp3",
+		"PromptBetydning": "han har det dårligt",
+		"svar": "ajorput",
+		"SvarEndelse": "put",
+		"SvarBetydning": "de har det dårligt"
+	},
+	{
+		"prompt": "ajorpugut",
+		"Stamme": "ajor",
+		"PromptEndelse": "pugut",
+		"lyd": "28.mp3",
+		"PromptBetydning": "vi har det dårligt",
+		"svar": "ajorpunga",
+		"SvarEndelse": "punga",
+		"SvarBetydning": "jeg har det dårligt"
+	},
+	{
+		"prompt": "ajorpusi",
+		"Stamme": "ajor",
+		"PromptEndelse": "pusi",
+		"lyd": "29.mp3",
+		"PromptBetydning": "I har det dårligt",
+		"svar": "ajorputit",
+		"SvarEndelse": "putit",
+		"SvarBetydning": "du har det dårligt"
+	},
+	{
+		"prompt": "ajorput",
+		"Stamme": "ajor",
+		"PromptEndelse": "put",
+		"lyd": "30.mp3",
+		"PromptBetydning": "de har det dårligt",
+		"svar": "ajorpoq",
+		"SvarEndelse": "poq",
+		"SvarBetydning": "han har det dårligt"
+	},
+	{
+		"prompt": "oqaluussivunga",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "vunga",
+		"lyd": "31.mp3",
+		"PromptBetydning": "jeg forkynder",
+		"svar": "oqaluussivugut",
+		"SvarEndelse": "vugut",
+		"SvarBetydning": "vi forkynder"
+	},
+	{
+		"prompt": "oqaluussivutit",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "vutit",
+		"lyd": "32.mp3",
+		"PromptBetydning": "du forkynder",
+		"svar": "oqaluussivusi",
+		"SvarEndelse": "vusi",
+		"SvarBetydning": "I forkynder"
+	},
+	{
+		"prompt": "oqaluussivoq",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "voq",
+		"lyd": "33.mp3",
+		"PromptBetydning": "han forkynder",
+		"svar": "oqaluussipput",
+		"SvarEndelse": "pput",
+		"SvarBetydning": "de forkynder"
+	},
+	{
+		"prompt": "oqaluussivugut",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "vugut",
+		"lyd": "34.mp3",
+		"PromptBetydning": "vi forkynder",
+		"svar": "oqaluussivunga",
+		"SvarEndelse": "vunga",
+		"SvarBetydning": "jeg forkynder"
+	},
+	{
+		"prompt": "oqaluussivusi",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "vusi",
+		"lyd": "35.mp3",
+		"PromptBetydning": "I forkynder",
+		"svar": "oqaluussivutit",
+		"SvarEndelse": "vutit",
+		"SvarBetydning": "du forkynder"
+	},
+	{
+		"prompt": "oqaluussipput",
+		"Stamme": "oqaluussi",
+		"PromptEndelse": "pput",
+		"lyd": "36.mp3",
+		"PromptBetydning": "de forkynder",
+		"svar": "oqaluussivoq",
+		"SvarEndelse": "voq",
+		"SvarBetydning": "han forkynder"
+	},
+	{
+		"prompt": "nerivunga",
+		"Stamme": "neri",
+		"PromptEndelse": "vunga",
+		"lyd": "37.mp3",
+		"PromptBetydning": "jeg spiser",
+		"svar": "nerivugut",
+		"SvarEndelse": "vugut",
+		"SvarBetydning": "vi spiser"
+	},
+	{
+		"prompt": "nerivutit",
+		"Stamme": "neri",
+		"PromptEndelse": "vutit",
+		"lyd": "38.mp3",
+		"PromptBetydning": "du spiser",
+		"svar": "nerivusi",
+		"SvarEndelse": "vusi",
+		"SvarBetydning": "I spiser"
+	},
+	{
+		"prompt": "nerivoq",
+		"Stamme": "neri",
+		"PromptEndelse": "voq",
+		"lyd": "39.mp3",
+		"PromptBetydning": "han spiser",
+		"svar": "neripput",
+		"SvarEndelse": "pput",
+		"SvarBetydning": "de spiser"
+	},
+	{
+		"prompt": "nerivugut",
+		"Stamme": "neri",
+		"PromptEndelse": "vugut",
+		"lyd": "40.mp3",
+		"PromptBetydning": "vi spiser",
+		"svar": "nerivunga",
+		"SvarEndelse": "vunga",
+		"SvarBetydning": "jeg spiser"
+	},
+	{
+		"prompt": "nerivusi",
+		"Stamme": "neri",
+		"PromptEndelse": "vusi",
+		"lyd": "41.mp3",
+		"PromptBetydning": "I spiser",
+		"svar": "nerivutit",
+		"SvarEndelse": "vutit",
+		"SvarBetydning": "du spiser"
+	},
+	{
+		"prompt": "neripput",
+		"Stamme": "neri",
+		"PromptEndelse": "pput",
+		"lyd": "42.mp3",
+		"PromptBetydning": "de spiser",
+		"svar": "nerivoq",
+		"SvarEndelse": "voq",
+		"SvarBetydning": "han spiser"
+	}
+]

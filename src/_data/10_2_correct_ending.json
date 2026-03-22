@@ -1,0 +1,254 @@
+[
+	{
+		"endelse": "uanga",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarpunga",
+		"dansk": "jeg hedder"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarputit",
+		"dansk": "du hedder"
+	},
+	{
+		"endelse": "una",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarpoq",
+		"dansk": "han hedder"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarpugut",
+		"dansk": "vi hedder"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarpusi",
+		"dansk": "I hedder"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "ateqar-",
+		"sammensat": "ateqarput",
+		"dansk": "de hedder"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarpunga",
+		"dansk": "jeg bor"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarputit",
+		"dansk": "du bor"
+	},
+	{
+		"endelse": "una",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarpoq",
+		"dansk": "han bor"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarpugut",
+		"dansk": "vi bor"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarpusi",
+		"dansk": "I bor"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "najugaqar-",
+		"sammensat": "najugaqarput",
+		"dansk": "de bor"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarpunga",
+		"dansk": "jeg er år gammel"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarputit",
+		"dansk": "du er år gammel"
+	},
+	{
+		"endelse": "una",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarpoq",
+		"dansk": "han er år gammel"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarpugut",
+		"dansk": "vi er år gammel"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarpusi",
+		"dansk": "I er år gammel"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "ukioqar-",
+		"sammensat": "ukioqarput",
+		"dansk": "de er år gammel"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "tikip-",
+		"sammensat": "tikippunga",
+		"dansk": "jeg ankommer"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "tikip-",
+		"sammensat": "tikipputit",
+		"dansk": "du ankommer"
+	},
+	{
+		"endelse": "una",
+		"stamme": "tikip-",
+		"sammensat": "tikippoq",
+		"dansk": "han ankommer"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "tikip-",
+		"sammensat": "tikippugut",
+		"dansk": "vi ankommer"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "tikip-",
+		"sammensat": "tikippusi",
+		"dansk": "I ankommer"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "tikip-",
+		"sammensat": "tikipput",
+		"dansk": "de ankommer"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "ajor-",
+		"sammensat": "ajorpunga",
+		"dansk": "jeg har det dårligt"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "ajor-",
+		"sammensat": "ajorputit",
+		"dansk": "du har det dårligt"
+	},
+	{
+		"endelse": "una",
+		"stamme": "ajor-",
+		"sammensat": "ajorpoq",
+		"dansk": "han har det dårligt"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "ajor-",
+		"sammensat": "ajorpugut",
+		"dansk": "vi har det dårligt"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "ajor-",
+		"sammensat": "ajorpusi",
+		"dansk": "I har det dårligt"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "ajor-",
+		"sammensat": "ajorput",
+		"dansk": "de har det dårligt"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussivunga",
+		"dansk": "jeg forkynder"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussivutit",
+		"dansk": "du forkynder"
+	},
+	{
+		"endelse": "una",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussivoq",
+		"dansk": "han forkynder"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussivugut",
+		"dansk": "vi forkynder"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussivusi",
+		"dansk": "I forkynder"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "oqaluussi-",
+		"sammensat": "oqaluussipput",
+		"dansk": "de forkynder"
+	},
+	{
+		"endelse": "uanga",
+		"stamme": "neri-",
+		"sammensat": "nerivunga",
+		"dansk": "jeg spiser"
+	},
+	{
+		"endelse": "illit",
+		"stamme": "neri-",
+		"sammensat": "nerivutit",
+		"dansk": "du spiser"
+	},
+	{
+		"endelse": "una",
+		"stamme": "neri-",
+		"sammensat": "nerivoq",
+		"dansk": "han spiser"
+	},
+	{
+		"endelse": "uagut",
+		"stamme": "neri-",
+		"sammensat": "nerivugut",
+		"dansk": "vi spiser"
+	},
+	{
+		"endelse": "ilissi",
+		"stamme": "neri-",
+		"sammensat": "nerivusi",
+		"dansk": "I spiser"
+	},
+	{
+		"endelse": "uku",
+		"stamme": "neri-",
+		"sammensat": "neripput",
+		"dansk": "de spiser"
+	}
+]

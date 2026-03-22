@@ -12,7 +12,7 @@ linkText: Start øvelsen
 {% exerciseItem %}
 Lav en multiple choice øvelse (der ligner dem fra duolingo) der bruger data fra arket "Øvelse_9.4_multiple_choice.xlsx"
 
-NB: Regn ud hvordan lydfiler også kan bruges! og vil det så give bedre mening enten at lave to øvelser eller at lave øvelsen så den kuntager 10 tilfældige rækker?
+NB: Regn ud hvordan lydfiler også kan bruges! og vil det så give bedre mening enten at lave to øvelser eller at lave øvelsen så den kun tager 10 tilfældige rækker?
 
 Tekst:
 (1) Læs/lyt og vælg det korrekte svar
