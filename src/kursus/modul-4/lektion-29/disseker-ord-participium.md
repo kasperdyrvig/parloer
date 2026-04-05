@@ -46,7 +46,7 @@ Den danske oversættelse er: "jeg skal huske at du godt kan lide at beskæftige 
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Eqqaamanngiliuk uanga Danmarkimi tiilerisariaqassasunga" data-validation="kan du ikke huske at jeg bliver nødt til at skulle beskæftige mig med te i Danmark"></word-dissector>
+<word-dissector data-prompt="Eqqaamanngiliuk uanga Danmarkimi tiilerisariaqassasunga?" data-validation="kan du ikke huske at jeg bliver nødt til at skulle beskæftige mig med te i Danmark"></word-dissector>
 
 {% helpContent "Løsning" %}
 
@@ -57,7 +57,7 @@ Den danske oversættelse er: "kan du ikke huske at jeg bliver nødt til at skull
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Eqqaamassaviuk uanga Upernavimmiuni atilerisariaqartunga" data-validation="vil du huske at jeg skal beskæftige mig med navne hos dem fra Upernavik"></word-dissector>
+<word-dissector data-prompt="Eqqaamassaviuk uanga Upernavimmiuni atilerisariaqartunga?" data-validation="vil du huske at jeg skal beskæftige mig med navne hos dem fra Upernavik"></word-dissector>
 
 {% helpContent "Løsning" %}
 
@@ -68,7 +68,7 @@ Den danske oversættelse er: "vil du huske at jeg skal beskæftige mig med navne
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Isumaqartariaqassagaluarpit Aviaaja Danmarkimiuni ilinniartitsisulerisariaqassagaluartoq" data-validation="bliver du egentlig nødt til at mene at Aviaaja faktisk bør beskæftige sig med lærere hos danskerne"></word-dissector>
+<word-dissector data-prompt="Isumaqartariaqassagaluarpit Aviaaja Danmarkimiuni ilinniartitsisulerisariaqassagaluartoq?" data-validation="bliver du egentlig nødt til at mene at Aviaaja faktisk bør beskæftige sig med lærere hos danskerne"></word-dissector>
 
 {% helpContent "Løsning" %}
 
@@ -79,7 +79,7 @@ Den danske oversættelse er: "bliver du egentlig nødt til at mene at Aviaaja fa
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Eqqaamagaluarpiuk Nuka Tasiilarmiuni Nanortalimmiulerisanngitsoq" data-validation="husker du ellers at Nuka ikke plejer at beskæftige sig med dem fra Nanortalik hos dem fra Tasiilaq"></word-dissector>
+<word-dissector data-prompt="Eqqaamagaluarpiuk Nuka Tasiilarmiuni Nanortalimmiulerisanngitsoq?" data-validation="husker du ellers at Nuka ikke plejer at beskæftige sig med dem fra Nanortalik hos dem fra Tasiilaq"></word-dissector>
 
 {% helpContent "Løsning" %}
 
