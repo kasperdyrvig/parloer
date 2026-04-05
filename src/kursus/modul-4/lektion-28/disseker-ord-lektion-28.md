@@ -101,7 +101,7 @@ Den danske oversættelse er: "sagde du nej tak i går i Paamiut"
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Ippassaq Ilisimatusarfimmi pizzatorusuppit?" data-validation="havde du lyst til at spise pizza i går i universitetet"></word-dissector>
+<word-dissector data-prompt="Ippassaq Ilisimatusarfimmi pizzatorusuppit?" data-validation="havde du lyst til at spise pizza i går på universitetet"></word-dissector>
 
 {% helpContent "Løsning" %}
 
