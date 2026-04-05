@@ -6,6 +6,9 @@ previewText: Find betydningen af ordene
 onPageTitle: Find betydningen
 onPageDescription: Vælg de danske ord i den rigtige rækkefølge så du kan finde betydningen.
 linkText: Start øvelsen
+disableSubmit: true
+showScore: false
+allowRetry: true
 ---
 
 {% exerciseItem %}
