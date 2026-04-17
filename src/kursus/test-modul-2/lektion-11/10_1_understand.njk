@@ -1,0 +1,26 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 100
+sortNumber: 1
+previewText: Virker ikke - Øvelse 10.1 - forstå sætningen
+onPageTitle: Øvelse 10.1 - forstå sætningen
+onPageDescription: Prøv at forstå hvad hele ordet/sætningen betyder.
+linkText: Start øvelsen
+mode: ???
+loop: true
+randomize: true
+---
+
+{% for prompt in 10_1_understand %}
+{% taskStep %}
+    <task-prompt>{{prompt.grønlandsk}}</task-prompt>
+    <task-audio data-file="course/lesson-10/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="1">Læs/lyt</task-instruction>
+    <task-instruction data-number="2">Prøv at regne betydningen ud</task-instruction>
+    <task-instruction data-number="3">Sig det højt</task-instruction>
+    <task-info>{{prompt.grønlandsk}}" betyder "{{prompt.dansk}}". Udsagnsordet kan deles op sådan her: {{prompt.stamme}}|{{prompt.endelse}}</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}
+
+{# Her skal Kasper lave det så knappen "næste" stadig virker, selvom der ikke er noget input #}

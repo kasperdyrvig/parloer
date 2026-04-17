@@ -68,11 +68,11 @@ Den danske oversættelse er: "nej, men jeg vil gerne møde Nuka i morgen i Kange
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Ullumi Nuummit tikissagaluarpugut?" data-validation="skulle vi ellers ankomme til Nuuk i dag"></word-dissector>
+<word-dissector data-prompt="Ullumi Nuummit tikissagaluarpugut?" data-validation="skulle vi ellers ankomme fra Nuuk i dag"></word-dissector>
 
 {% helpContent "Løsning" %}
 
-Den danske oversættelse er: "skulle vi ellers ankomme til Nuuk i dag?"
+Den danske oversættelse er: "skulle vi ellers ankomme fra Nuuk i dag?"
 
 {% endhelpContent %}
 {% endexerciseItem %}
@@ -90,11 +90,11 @@ Den danske oversættelse er: "Er det ikke i dag vi skal rejse fra Danmark? Nej, 
 
 {% exerciseItem %}
 
-<word-dissector data-prompt="Ippassaq Nuummiulerinngikkaluarpit? Aap, ippassaq Nuummiulerinngikkaluarpunga" data-validation="beskæftigede du dig ellers ikke med dem fra Nuuk i går? nej jeg beskæftigede mig ikke med fra Nuuk i går"></word-dissector>
+<word-dissector data-prompt="Ippassaq Nuummiulerinngikkaluarpit? Aap, ippassaq Nuummiulerinngikkaluarpunga" data-validation="beskæftigede du dig ellers ikke med dem fra Nuuk i går? nej jeg beskæftigede mig ikke med dem fra Nuuk i går"></word-dissector>
 
 {% helpContent "Løsning" %}
 
-Den danske oversættelse er: "Beskæftigede du dig ellers ikke med dem fra Nuuk i går? Nej, jeg beskæftigede mig ikke med fra Nuuk i går"
+Den danske oversættelse er: "Beskæftigede du dig ellers ikke med dem fra Nuuk i går? Nej, jeg beskæftigede mig ikke med dem fra Nuuk i går"
 
 {% endhelpContent %}
 {% endexerciseItem %}

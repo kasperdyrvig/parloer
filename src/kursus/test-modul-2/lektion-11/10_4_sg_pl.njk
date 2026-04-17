@@ -1,0 +1,26 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 100
+sortNumber: 4
+previewText: Øvelse 10.4 - ental/flertal
+onPageTitle: Øvelse 10.4 - ental/flertal
+onPageDescription: Lav ordet om til den tilsvarende endelse i flertal/ental.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+
+{% for prompt in 10_4_sg_pl %}
+{% taskStep %}
+    <task-instruction data-number="1">Lyt/læs og forstå sætningen</task-instruction>
+    <task-prompt>{{prompt.prompt}}</task-prompt>
+    <task-audio data-file="course/lesson-10/{{prompt.lyd}}"></task-audio>
+    <task-instruction data-number="2">Gentag det højt</task-instruction>
+    <task-instruction data-number="3">Lav ordet om til ental hvis det er i flertal, eller omvendt</task-instruction>
+    <text-input data-validation="{{prompt.svar}}"></text-input>
+    <task-instruction data-number="4">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>"{{prompt.prompt}}" betyder "{{prompt.PromptBetydning}}". Det rigtige svar er "{{prompt.svar}}", og det betyder "{{prompt.SvarBetydning}}"</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}
