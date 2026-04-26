@@ -10,7 +10,7 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-Flashcards med ordene fra "Øvelse_9.1_flashcards-nomen.xlsx"
+Flashcards med ordene fra "9.1_flashcards-nomen.xlsx"
 Ordene skal være lilla
 
 {% endexerciseItem %}

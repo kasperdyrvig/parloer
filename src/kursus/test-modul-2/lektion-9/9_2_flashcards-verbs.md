@@ -10,6 +10,6 @@ linkText: Start øvelsen
 ---
 
 {% exerciseItem %}
-Flashcards med ordene fra "Øvelse_9.2_flashcards_verbs.xlsx"
+Flashcards med ordene fra "9.2_flashcards_verbs.xlsx"
 Ordene skal være grønne.
 {% endexerciseItem %}

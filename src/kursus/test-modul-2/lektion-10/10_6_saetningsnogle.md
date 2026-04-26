@@ -2,7 +2,7 @@
 tags: homework
 layout: exercise
 partOfLesson: 100
-sortNumber: 7
+sortNumber: 6
 previewText: Virker ikke - Øvelse 10.7 - ordnøgle
 onPageTitle: Øvelse 10.7 - ordnøgle
 onPageDescription: Lav et ord ud fra de mulige valg.

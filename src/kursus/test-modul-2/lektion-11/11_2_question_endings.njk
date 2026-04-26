@@ -1,15 +1,13 @@
 ---
 tags: homework
 layout: taskflow
-partOfLesson: 100
-sortNumber: 1
-previewText: Virker ikke - Øvelse 10.1 - forstå sætningen
-onPageTitle: Øvelse 10.1 - forstå sætningen
-onPageDescription: Prøv at forstå hvad hele ordet/sætningen betyder.
+partOfLesson: 110
+sortNumber: 2
+previewText: Øvelse 11.2 - endelser i spørgemåde
+onPageTitle: Øvelse 11.2 - endelser i spørgemåde
+onPageDescription: Bøj ordet i alle de forskellige personer i spørgemåde.
 linkText: Start øvelsen
-mode: ???
-loop: true
-randomize: true
+mode: correct
 ---
 
 {% for prompt in 10_1_understand %}
@@ -22,5 +20,3 @@ randomize: true
     <task-info>{{prompt.grønlandsk}}" betyder "{{prompt.dansk}}". Udsagnsordet kan deles op sådan her: {{prompt.stamme}}|{{prompt.endelse}}</b>.</task-info>
 {% endtaskStep %}
 {% endfor %}
-
-{# Her skal Kasper lave det så knappen "næste" stadig virker, selvom der ikke er noget input #}

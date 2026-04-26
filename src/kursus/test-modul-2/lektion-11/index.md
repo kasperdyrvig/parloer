@@ -1,10 +1,10 @@
 ---
 layout: lesson
 tags: ['lesson', 'module 20']
-lessonNo: 100
-metaTitle: Lektion 10 - Udsagnsord & endelser
-onPageTitle: Lektion 10
+lessonNo: 110
+metaTitle: Lektion 11 - Spørgemåde
+onPageTitle: Lektion 11
 ---
-Formålet med denne lektion er at du skal få styr på hvordan man laver de mest basale udsagnsord.
+I denne lektion kommer vi til at lære og øve at stille spørgsmål.
 
-Et udsagnsord på grønlandsk har altid en stamme og en endelse. Stammen er den betydningsbærende del af ordet og endelsen viser hvem grundleddet (personen der gør noget) er. Vi kommer til at lære hvilke slags stammer der findes for udsagnsord og de 6 mest basale endelser. Du har allerede lært flere stammer og du kan se endelserne i [skemaet](https://parloer.kasperdyrvig.dk/mere/udsagnsordsendelser/?f=true&d=false&h=false&n=false&l=false&o=false&s=false&b=false&fjerdeperson=false&nngit=all&transitivitet=intransitiv).
+På dansk laver vi om på ordstillingen og bruger nogle gang spørgeord for at stille spørgsmål. Fx: Han har en hund. Har han en hund? På grønlandsk skal man bruge et nyt sæt endelser for at kunne stille spørgsmål Fx: Qimmeqarpoq. Qimmeqarpa? og derudover har vi også spørgeord, som vi lærte om i den sidste lektion. Så vi kommer til at gennemgå 6 nye endelser. Du kan se de nye endelser i [skemaet](https://parloer.kasperdyrvig.dk/mere/udsagnsordsendelser/?f=false&d=false&h=false&n=false&l=false&o=false&s=true&b=false&fjerdeperson=false&nngit=all&transitivitet=intransitiv)

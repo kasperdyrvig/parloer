@@ -1,5 +1,5 @@
 ---
 tags: oral
-partOfLesson: 100
-previewText: Brug "qanoq igaajuk" næste gang du har læst et vers op i forkyndelsen - og så meget som muligt.
+partOfLesson: 110
+previewText: Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?"
 ---

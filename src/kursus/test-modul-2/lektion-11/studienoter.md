@@ -4,20 +4,11 @@ tags: studynotes
 onPageTitle: Til selvstudie
 ---
 
-**Udsagnsord** består altid af en stamme og endelse (tilhæng og efterhæng kan også sættes på). Der er 3 forskellige typer stammer: R, fx *atuar-,* vokal, fx *ani-,* og konsonant, fx *sinip-.*
+Udsagnsord i **spørgemåde** har et nyt sæt endelser. I spørgsmål skal man altid bruge spørgemåde, også når man bruger spørgeord.
 
 **Lær mere:**
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 35 (Stammer)
-- *Oqaluussisa* lektion 1
-
-**Endelser.** Man bruger endelserne der starter med V på vokalstammer, fx anivoq, og dem der starter med P på R- og konsonantstammer, fx atuarpoq og sinippoq.
-
-**Lær mere:**
-- [Udsagnsordsendelser](/mere/udsagnsordsendelser/)
-- *Grønlandsk grammatik* af Stig Bjørnum, s. 52 (Skema 1: Indikativ og interrogativ - fremsætte- og spørgemåde)
-- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 3.2](https://learngreenlandic.com/online/lg2/3.2/): 00:00-02:11
-- *Learn Greenlandic Online,* Grønlandsk for voksne 2
-    - Øvelse 3.1: ([tekst](https://learngreenlandic.com/online/lg2/structure/3.1/t/)) og ([audio](https://learngreenlandic.com/online/lg2/structure/3.1/a/)) (spring dem der slutter på -kka over)
-    - Øvelse 3.2: ([tekst](https://learngreenlandic.com/online/lg2/structure/3.2/t/)) og ([audio](https://learngreenlandic.com/online/lg2/structure/3.2/a/)) (spring dem der slutter på -avut over)
-- *Kalaallisut ilikkarit* - Lær grønlandsk 1 af Bente Marie Meilvang, s. 12- 13 (Fremsættemåde)
+- [Endelser i spørgemåde](https://parloer.kasperdyrvig.dk/mere/udsagnsordsendelser/?f=false&d=false&h=false&n=false&l=false&o=false&s=true&b=false&fjerdeperson=false&nngit=all&transitivitet=intransitiv)
+- *Grønlandsk grammatik* af Stig Bjørnum, s. 39, 52 (Indikativ og interrogativ - fremsætte- og spørgemåde)
+- *Learn Greenlandic Online,* Grønlandsk for voksne 2, [Forelæsning 3.2](https://learngreenlandic.com/online/lg2/3.2/): 02:12-02:55
+- *Kalaallisut ilikkarit* - Lær grønlandsk 1 af Bente Marie Meilvang, s. 14-15 (Spørgemåde)
 - *Oqaluussisa* lektion 1 og 2

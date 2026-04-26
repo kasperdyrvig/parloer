@@ -7,10 +7,12 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-10 min: **Repetition og lektier.**
+15 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
-- Gennemgå evt. spørgsmål vedr. lektier og hvis der er nogle hyppige fejl.
+- Snak om hvordan det er gået med de mundtlige lektier.
+- Gennemgå spørgsmål vedr. lektier.
+- Find en sætning fra noget nyere literatur, der bruger en intransitiv endelse i fremsættemåde, og analysér den sammen.
 
 15 min: **Spørgemåde.**
 - Hvordan stiller man spørgsmål på grønlandsk?
@@ -29,7 +31,7 @@ onPageTitle: Til læreren
 
 5 min: **V mellem U og andre vokaler.** V forsvinder mellem U og A/E/I. Derfor hedder det "qasuit?", ikke "qasuvit?".
 
-15 min: **Samtaleøvelse.**
+10 min: **Samtaleøvelse.**
 
 - Vis listen [Forslag til spørgsmål](/kursus/modul-2/parloer/spoergsmaal).
 - Kursisterne skal bruge den og evt egne spørgsmål til at gå rundt i 10 min og snakke med hinanden og indhente oplysninger.
@@ -40,11 +42,9 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder qass).
+- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder t & o)
 - Lektier:
-    - **Mundtlig:** Lær, og brug sætningen "Kalaallisut qanoq taasarpaat?" (igen)
-    - **Skriftlig:** Besvar spørgsmål og Øv spørgemåde.
-    - Læs intro til næste lektion.
+    - Nævn den **mundtlige** lektie
 
 **Links/ressourcer:**
 

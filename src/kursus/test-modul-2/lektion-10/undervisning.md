@@ -10,7 +10,8 @@ onPageTitle: Til læreren
 10 min: **Repetition og lektier.**
 
 - Kingullermi suna ilikkarparput?
-- Snak om hvordan det er gået med de mundtlige og skriftlige lektier.
+- Snak om hvordan det er gået med de mundtlige lektier.
+- Gennemgå spørgsmål vedr. lektier.
 
 5 min: **Udsagnsord**
 
