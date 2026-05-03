@@ -16,7 +16,7 @@ randomize: true
 {% taskStep %}
     <task-instruction data-number="1">Lyt/læs og forstå sætningen</task-instruction>
     <task-prompt>{{prompt.prompt}}</task-prompt>
-    <task-audio data-file="course/lesson-10/{{prompt.lyd}}"></task-audio>
+    <task-audio data-file="course/lesson-10/{{prompt.lyd}}" enable-slow></task-audio>
     <task-instruction data-number="2">Gentag det højt</task-instruction>
     <task-instruction data-number="3">Lav ordet om til ental hvis det er i flertal, eller omvendt</task-instruction>
     <text-input data-validation="{{prompt.svar}}"></text-input>
