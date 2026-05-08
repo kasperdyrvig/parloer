@@ -1,0 +1,218 @@
+[
+  {
+    "endelse": "illit?",
+    "stamme": "ateqar-",
+    "sammensat_form": "ateqarpit?",
+    "dansk": "Hedder du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "ateqar-",
+    "sammensat_form": "ateqarpa?",
+    "dansk": "Hedder han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "ateqar-",
+    "sammensat_form": "ateqarpisi?",
+    "dansk": "Hedder I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "ateqar-",
+    "sammensat_form": "ateqarpat?",
+    "dansk": "Hedder de?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "najugaqar-",
+    "sammensat_form": "najugaqarpit?",
+    "dansk": "Bor du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "najugaqar-",
+    "sammensat_form": "najugaqarpa?",
+    "dansk": "Bor han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "najugaqar-",
+    "sammensat_form": "najugaqarpisi?",
+    "dansk": "Bor I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "najugaqar-",
+    "sammensat_form": "najugaqarpat?",
+    "dansk": "Bor de?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "ukioqar-",
+    "sammensat_form": "ukioqarpit?",
+    "dansk": "Er du år gammel?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "ukioqar-",
+    "sammensat_form": "ukioqarpa?",
+    "dansk": "Er han år gammel?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "ukioqar-",
+    "sammensat_form": "ukioqarpisi?",
+    "dansk": "Er I år gammel?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "ukioqar-",
+    "sammensat_form": "ukioqarpat?",
+    "dansk": "Er de år gammel?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "tikip-",
+    "sammensat_form": "tikippit?",
+    "dansk": "Ankommer du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "tikip-",
+    "sammensat_form": "tikippa?",
+    "dansk": "Ankommer han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "tikip-",
+    "sammensat_form": "tikippisi?",
+    "dansk": "Ankommer I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "tikip-",
+    "sammensat_form": "tikippat?",
+    "dansk": "Ankommer de?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "ajor-",
+    "sammensat_form": "ajorpit?",
+    "dansk": "Har du det dårligt?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "ajor-",
+    "sammensat_form": "ajorpa?",
+    "dansk": "Har han det dårligt?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "ajor-",
+    "sammensat_form": "ajorpisi?",
+    "dansk": "Har I det dårligt?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "ajor-",
+    "sammensat_form": "ajorpat?",
+    "dansk": "Har de det dårligt?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "oqaluussi-",
+    "sammensat_form": "oqaluussivit?",
+    "dansk": "Forkynder du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "oqaluussi-",
+    "sammensat_form": "oqaluussiva?",
+    "dansk": "Forkynder han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "oqaluussi-",
+    "sammensat_form": "oqaluussivisi?",
+    "dansk": "Forkynder I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "oqaluussi-",
+    "sammensat_form": "oqaluussippat?",
+    "dansk": "Forkynder de?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "neri-",
+    "sammensat_form": "nerivit?",
+    "dansk": "Spiser du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "neri-",
+    "sammensat_form": "neriva?",
+    "dansk": "Spiser han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "neri-",
+    "sammensat_form": "nerivisi?",
+    "dansk": "Spiser I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "neri-",
+    "sammensat_form": "nerippat?",
+    "dansk": "Spiser de?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "qasu-",
+    "sammensat_form": "qasuit?",
+    "dansk": "Er du træt?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "qasu-",
+    "sammensat_form": "qasua?",
+    "dansk": "Er han træt?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "qasu-",
+    "sammensat_form": "qasuisi?",
+    "dansk": "Er I træt?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "qasu-",
+    "sammensat_form": "qasuppat?",
+    "dansk": "Er de trætte?"
+  },
+  {
+    "endelse": "illit?",
+    "stamme": "atuar-",
+    "sammensat_form": "atuarpit?",
+    "dansk": "Læser du?"
+  },
+  {
+    "endelse": "una?",
+    "stamme": "atuar-",
+    "sammensat_form": "atuarpa?",
+    "dansk": "Læser han?"
+  },
+  {
+    "endelse": "ilissi?",
+    "stamme": "atuar-",
+    "sammensat_form": "atuarpisi?",
+    "dansk": "Læser I?"
+  },
+  {
+    "endelse": "uku?",
+    "stamme": "atuar-",
+    "sammensat_form": "atuarpat?",
+    "dansk": "Læser de?"
+  }
+]

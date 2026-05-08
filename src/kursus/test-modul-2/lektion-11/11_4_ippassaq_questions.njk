@@ -1,0 +1,25 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 110
+sortNumber: 4
+previewText: 11.4 - ippassaq-spørgsmål
+onPageTitle: Øvelse 11.4 - ippassaq-spørgsmål
+onPageDescription: Du bliver stillet nogle spørgsmål om hvad der er sket i går. Benægt dem og sig at det skete i dag.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+
+{% for prompt in 11_4_ippassaq_questions %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs/lyt og forstå spørgsmålet</task-instruction>
+    <task-prompt>{{prompt.prompt_grønlandsk}}</task-prompt>
+    <task-audio data-file="course/lesson-11/11_4/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Benægt og forklar at det foregår i dag. Start med "Naamik ..."</task-instruction>
+    <spellcheck-input data-validation="{{prompt.svar_grønlandsk}}"></spellcheck-input>
+    <task-instruction data-number="3">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Spørgsmålet "{{prompt.prompt_grønlandsk}}" betyder "{{prompt.prompt_dansk}}".<br>Det rigtige svar er "{{prompt.svar_grønlandsk}}" som betyder "{{prompt.svar_dansk}}"</b>.</task-info>
+{% endtaskStep %}
+{% endfor %}
