@@ -1,5 +1,5 @@
 ---
 tags: oral
-partOfLesson: 110
+partOfLesson: 120
 previewText: Brug sætningen "Kalaallisut qanoq taasarpaat?"
 ---

@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 110
+sortNumber: 2
+previewText: 11.2 - endelser i spørgemåde
+onPageTitle: Øvelse 11.2 - endelser i spørgemåde
+onPageDescription: Bøj ordet i alle de forskellige personer i spørgemåde.
+linkText: Start øvelsen
+mode: correct
+---
+{% for prompt in 11_2_question_endings %}
+{% taskStep %}
+    <task-prompt>{{prompt.Stamme}}</task-prompt>
+    <task-instruction data-number="1">Læs og prøv at huske hvad stammen betyder</task-instruction>
+    <task-instruction data-number="2">Udfyld alle felterne nedenfor ved at sætte endelser i spørgemåde på stammen</task-instruction>
+    <text-input data-label="Illit" data-validation="{{prompt.illit}}""></text-input>
+    <text-input data-label="Una" data-validation="{{prompt.una}}""></text-input>
+    <text-input data-label="Ilissi" data-validation="{{prompt.ilissi}}""></text-input>
+    <text-input data-label="Uku" data-validation="{{prompt.uku}}""></text-input>
+    <task-instruction data-number="3">Sig dine svar højt</task-instruction>
+    <task-info>{{prompt.Stamme}} betyder "{{prompt.Betydning}}".</b></task-info>
+{% endtaskStep %}
+{% endfor %}

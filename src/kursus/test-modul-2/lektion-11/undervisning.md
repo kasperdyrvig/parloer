@@ -12,7 +12,7 @@ onPageTitle: Til læreren
 - Kingullermi suna ilikkarparput?
 - Snak om hvordan det er gået med de mundtlige lektier.
 - Gennemgå spørgsmål vedr. lektier.
-- Find en sætning fra noget nyere literatur, der bruger en intransitiv endelse i fremsættemåde, og analysér den sammen.
+- Find en sætning fra noget nyere litteratur, der bruger en intransitiv endelse i fremsættemåde, og analysér den sammen.
 
 15 min: **Spørgemåde.**
 - Hvordan stiller man spørgsmål på grønlandsk?
