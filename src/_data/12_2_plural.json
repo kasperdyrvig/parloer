@@ -1,0 +1,173 @@
+[
+  {
+    "ental": "nalunaajaasoq",
+    "betydning_i_ental": "vidne",
+    "endelse": "-t",
+    "flertal": "nalunaajaasut",
+    "betydning_i_flertal": "vidner",
+    "gruppe": "svag",
+    "lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "ental": "asaasartoq",
+    "betydning_i_ental": "rengøringsassistent",
+    "endelse": "-t",
+    "flertal": "asaasartut",
+    "betydning_i_flertal": "rengøringsassistenter",
+    "gruppe": "svag",
+    "lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "ental": "sanasoq",
+    "betydning_i_ental": "tømrer",
+    "endelse": "-t",
+    "flertal": "sanasut",
+    "betydning_i_flertal": "tømrere",
+    "gruppe": "svag",
+    "lyd": "3_sanasoq.mp3"
+  },
+  {
+    "ental": "erneq",
+    "betydning_i_ental": "søn",
+    "endelse": "+it",
+    "flertal": "ernerit",
+    "betydning_i_flertal": "sønner",
+    "gruppe": "stærk",
+    "lyd": "4_erneq.mp3"
+  },
+  {
+    "ental": "panik",
+    "betydning_i_ental": "datter",
+    "endelse": "-it",
+    "flertal": "paniit",
+    "betydning_i_flertal": "døtre",
+    "gruppe": "stærk",
+    "lyd": "5_panik.mp3"
+  },
+  {
+    "ental": "ui",
+    "betydning_i_ental": "ægtemand",
+    "endelse": "-it",
+    "flertal": "uiit",
+    "betydning_i_flertal": "ægtemænd",
+    "gruppe": "stærk",
+    "lyd": "6_ui.mp3"
+  },
+  {
+    "ental": "nuliaq",
+    "betydning_i_ental": "hustru",
+    "endelse": "-t",
+    "flertal": "nuliat",
+    "betydning_i_flertal": "hustruer",
+    "gruppe": "svag",
+    "lyd": "7_nuliaq.mp3"
+  },
+  {
+    "ental": "angut",
+    "betydning_i_ental": "mand",
+    "endelse": "-t",
+    "flertal": "angutit",
+    "betydning_i_flertal": "mænd",
+    "gruppe": "svag",
+    "lyd": "8_angut.mp3"
+  },
+  {
+    "ental": "arnaq",
+    "betydning_i_ental": "kvinde",
+    "endelse": "-t",
+    "flertal": "arnat",
+    "betydning_i_flertal": "kvinder",
+    "gruppe": "svag",
+    "lyd": "9_arnaq.mp3"
+  },
+  {
+    "ental": "ataata",
+    "betydning_i_ental": "far",
+    "endelse": "-t",
+    "flertal": "ataatat",
+    "betydning_i_flertal": "fædre",
+    "gruppe": "svag",
+    "lyd": "10_ataata.mp3"
+  },
+  {
+    "ental": "anaana",
+    "betydning_i_ental": "mor",
+    "endelse": "-t",
+    "flertal": "anaanat",
+    "betydning_i_flertal": "mødre",
+    "gruppe": "svag",
+    "lyd": "11_anaana.mp3"
+  },
+  {
+    "ental": "qatanngut",
+    "betydning_i_ental": "bror/søster",
+    "endelse": "-t",
+    "flertal": "qatanngutit",
+    "betydning_i_flertal": "søskende",
+    "gruppe": "svag",
+    "lyd": "12_qatanngut.mp3"
+  },
+  {
+    "ental": "sinittarfik",
+    "betydning_i_ental": "seng",
+    "endelse": "-it",
+    "flertal": "sinittarfiit",
+    "betydning_i_flertal": "senge",
+    "gruppe": "stærk",
+    "lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "ental": "igaffik",
+    "betydning_i_ental": "køkken",
+    "endelse": "-it",
+    "flertal": "igaffiit",
+    "betydning_i_flertal": "køkkener",
+    "gruppe": "stærk",
+    "lyd": "14_igaffik.mp3"
+  },
+  {
+    "ental": "issiavik",
+    "betydning_i_ental": "stol",
+    "endelse": "-it",
+    "flertal": "issiaviit",
+    "betydning_i_flertal": "stole",
+    "gruppe": "stærk",
+    "lyd": "15_issiavik.mp3"
+  },
+  {
+    "ental": "nerrivik",
+    "betydning_i_ental": "bord",
+    "endelse": "-it",
+    "flertal": "nerriviit",
+    "betydning_i_flertal": "borde",
+    "gruppe": "stærk",
+    "lyd": "16_nerrivik.mp3"
+  },
+  {
+    "ental": "siku",
+    "betydning_i_ental": "is",
+    "endelse": "-t",
+    "flertal": "sikut",
+    "betydning_i_flertal": "is",
+    "gruppe": "svag",
+    "lyd": "17_siku.mp3"
+  },
+  {
+    "ental": "tuttu",
+    "betydning_i_ental": "rensdyr",
+    "endelse": "-t",
+    "flertal": "tuttut",
+    "betydning_i_flertal": "rensdyr",
+    "gruppe": "svag",
+    "lyd": "18_tuttu.mp3"
+  },
+  {
+    "ental": "umimmak",
+    "betydning_i_ental": "moskusokse",
+    "endelse": "-it",
+    "flertal": "umimmaat",
+    "betydning_i_flertal": "moskusokser",
+    "gruppe": "stærk",
+    "lyd": "19_umimmak.mp3"
+  }
+]

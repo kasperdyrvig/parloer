@@ -36,9 +36,11 @@ onPageTitle: Til læreren
 10 min: **Nomen i flertal**
 
 - Endelsen -t på svage stammer og ±it på stærke stammer (+ efter Q og - efter K).
+    - Ui er en undtagelse, den opfører sig som hvis den havde heddet uik (altså bliver den bøjet som en stærk stamme)
     - T-stammer er særlige: selvom de er svage bruger de endelsen +it. Forklaring følger i et senere modul.
     - Se video: [Ental/flertal 1](/mere/videoer/ental-flertal-1)
 - Øv at sætte de eksempler kursisterne kom med i flertal.
+
 
 10 min: **Ballonøvelse.**
 
@@ -50,7 +52,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier.**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder t & o)
+- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder qass)
 - Lektier:
     - Nævn at den **mundtlige** lektie fortsætter.
 
