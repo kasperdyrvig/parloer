@@ -1,0 +1,23 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 120
+sortNumber: 3
+previewText: 12.3 - ret fejlen
+onPageTitle: Øvelse 12.3 - ret fejlen
+onPageDescription: Find fejlen i sætningen og ret den
+linkText: Start øvelsen
+mode: filled
+loop: true
+randomize: true
+---
+{% for prompt in 12_3_ret_fejlen %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs og forstå hvert ord</task-instruction>
+    <task-prompt>{{prompt.Fejl}}</task-prompt>
+    <task-instruction data-number="2">Ret fejlen ved at skrive en korrekt sætning</task-instruction>
+    <text-input></text-input>
+    <task-instruction data-number="3">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Sætningen "{{prompt.Fejl}}" er forkert, fordi grundledet står i {{prompt.grundled}}, men udsagnsordet står i {{prompt.Verb}}. Der er to korrekte løsninger, enten kan man rette efter grundledet og skrive "{{prompt.Ret_grundled}}" (som betyder "{{prompt.Ret_grundled_da}}"), eller man kan rette efter udsagnsordet og skrive "{{prompt.Ret_verbum}}" (som betyder "{{prompt.Ret_verbum_da}}").</b></task-info>
+{% endtaskStep %}
+{% endfor %}
