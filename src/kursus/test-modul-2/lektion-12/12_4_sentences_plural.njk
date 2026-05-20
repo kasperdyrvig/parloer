@@ -3,7 +3,7 @@ tags: homework
 layout: taskflow
 partOfLesson: 120
 sortNumber: 4
-previewText: 12.4 - sætninger i ental/flertal
+previewText: Mangler lyd - 12.4 - sætninger i ental/flertal
 onPageTitle: Øvelse 12.3 - sætninger i ental/flertal
 onPageDescription: Lav sætningen om til ental eller flertal, alt efter hvad den var i forvejen.
 linkText: Start øvelsen
@@ -16,9 +16,9 @@ randomize: true
     <task-instruction data-number="1">Læs/lyt og forstå sætningen</task-instruction>
     <task-prompt>{{prompt.prompt}}</task-prompt>
     <task-audio data-file="course/lesson-12/12_4/{{prompt.lyd}}" enable-slow></task-audio>
-    <task-instruction data-number="2">Lav sætningen om til </task-instruction>
-    <text-input></text-input>
+    <task-instruction data-number="2">Lav sætningen om til {{prompt.svar_flertal}}</task-instruction>
+    <spellcheck-input data-validation="{{prompt.svar}}"></spellcheck-input>
     <task-instruction data-number="3">Forstå dit svar og sig det højt</task-instruction>
-    <task-info>Sætningen "{{prompt.Fejl}}" er forkert, fordi grundledet står i {{prompt.grundled}}, men udsagnsordet står i {{prompt.Verb}}. Der er to korrekte løsninger, enten kan man rette efter grundledet og skrive "{{prompt.Ret_grundled}}" (som betyder "{{prompt.Ret_grundled_da}}"), eller man kan rette efter udsagnsordet og skrive "{{prompt.Ret_verbum}}" (som betyder "{{prompt.Ret_verbum_da}}").</b></task-info>
+    <task-info>Sætningen "{{prompt.prompt}}" betyder "{{prompt.Dansk_prompt}}". Det korrekte svar er "{{prompt.svar}}", som betyder "{{prompt.Dansk_svar}}".</b></task-info>
 {% endtaskStep %}
 {% endfor %}
