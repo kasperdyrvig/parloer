@@ -306,7 +306,7 @@ class taskInfo extends HTMLElement {
     constructor() {
         super();
         const shadow = this.attachShadow({mode: "open"});
-        shadow.innerHTML = `<div part="info"><button type="button" title="Luk info">❌</button><p><slot /></p></div>`;
+        shadow.innerHTML = `<div part="info"><p><slot /></p><button type="button" part="button">Luk</button></div>`;
     }
 
     connectedCallback() {

@@ -760,8 +760,11 @@ metaTitle: Skema over endelser til udsagnsord
 </div>
 
 <script>
+    const filterForm = document.getElementById("tableFilter");
+    const storageKey = "udsagnordsskema";
+
     function updateTable() {
-        const form = document.getElementById("tableFilter").elements;
+        const form = filterForm.elements;
         form["f"].checked ? showRow("fremsaette") : hideRow("fremsaette");
         form["d"].checked ? showRow("dafordi") : hideRow("dafordi");
         form["h"].checked ? showRow("naarhvis") : hideRow("naarhvis");
@@ -771,7 +774,6 @@ metaTitle: Skema over endelser til udsagnsord
         form["s"].checked ? showRow("spoerge") : hideRow("spoerge");
         form["b"].checked ? showRow("byde") : hideRow("byde");
         form["fjerdeperson"].checked ? showRow("p4") : hideRow("p4");
-
         switch (form["nngit"].value) {
             case "negative":
                 document.querySelector(".skema").classList.remove("d-endelser");
@@ -782,7 +784,6 @@ metaTitle: Skema over endelser til udsagnsord
                 document.querySelector(".skema").classList.remove("d-nngit");
                 break;
         }
-
         switch (form["transitivitet"].value) {
             case "intransitiv":
                 document.querySelector(".skema").classList.remove("d-transitiv");
@@ -797,6 +798,7 @@ metaTitle: Skema over endelser til udsagnsord
                 document.querySelector(".skema").classList.add("d-intransitiv");
                 break;
         }
+        saveConfig();
     }
 
     function hideRow(row) {
@@ -808,8 +810,7 @@ metaTitle: Skema over endelser til udsagnsord
     }
 
     function shareConfig() {
-        const form = document.getElementById("tableFilter").elements;
-        
+        const form = filterForm.elements;
         const shareUrl = location.protocol + '//' + location.host + location.pathname
             + "?f=" + form["f"].checked
             + "&d=" + form["d"].checked
@@ -822,7 +823,6 @@ metaTitle: Skema over endelser til udsagnsord
             + "&fjerdeperson=" + form["fjerdeperson"].checked
             + "&nngit=" + form["nngit"].value
             + "&transitivitet=" + form["transitivitet"].value;
-
         navigator.clipboard.writeText(shareUrl).then(() => {
             console.log("Copied url");
         }).catch(err => {
@@ -830,16 +830,41 @@ metaTitle: Skema over endelser til udsagnsord
         });
     }
 
+    function saveConfig() {
+        const state = {};
+        Array.from(filterForm.querySelectorAll("input")).forEach(element => {
+            if (!element.name) return;
+            if (element.type === "checkbox") {
+                state[element.name] = element.checked;
+            } else {
+                if (element.checked) state[element.name] = element.value;
+            }
+        });
+        localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
     window.addEventListener('DOMContentLoaded', (event) => {
         const startUrl = new URLSearchParams(window.location.href.substring(window.location.href.indexOf("?")));
         if(startUrl.has("f")) {
             console.log("Getting configuration");
-            const form = document.getElementById("tableFilter").elements;
             startUrl.forEach((value, key) => {
                 if(key == "nngit" || key == "transitivitet") {
-                    form[key].value = value;
+                    filterForm[key].value = value;
                 } else {
-                    form[key].checked = (value.toLocaleLowerCase() === "true");
+                    filterForm[key].checked = (value.toLocaleLowerCase() === "true");
+                }
+            });
+            updateTable();
+        } else if (localStorage.getItem(storageKey)) {
+            const savedData = localStorage.getItem(storageKey);
+            const state = JSON.parse(savedData);
+            Object.entries(state).forEach(([key, value]) => {
+                if (filterForm[key]) {
+                    if(filterForm[key].type === "checkbox") {
+                        filterForm[key].checked = value;
+                    } else {
+                        filterForm[key].value = value;
+                    }
                 }
             });
             updateTable();

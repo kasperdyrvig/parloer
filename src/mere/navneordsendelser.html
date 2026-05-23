@@ -190,14 +190,18 @@ metaTitle: Skema over endelser til navneord
 </div>
 
 <script>
+    const filterForm = document.getElementById("tableFilter");
+    const storageKey = "navneordsskema";
+
     function updateTable() {
-        const form = document.getElementById("tableFilter").elements;
+        const form = filterForm.elements;
         form["pe"].checked ? showRow("personendelser") : hideRow("personendelser");
         form["af"].checked ? showRow("afhaengefald") : hideRow("afhaengefald");
         form["mn"].checked ? showRow("mn") : hideRow("mn");
         form["kk"].checked ? showRow("kkuttigut") : hideRow("kkuttigut");
         form["tu"].checked ? showRow("tutsut") : hideRow("tutsut");
         form["fjerdeperson"].checked ? showRow("p4") : hideRow("p4");
+        saveConfig();
     }
 
     function hideRow(row) {
@@ -209,8 +213,7 @@ metaTitle: Skema over endelser til navneord
     }
 
     function shareConfig() {
-        const form = document.getElementById("tableFilter").elements;
-        
+        const form = filterForm.elements;
         const shareUrl = location.protocol + '//' + location.host + location.pathname
             + "?pe=" + form["pe"].checked
             + "&af=" + form["af"].checked
@@ -218,7 +221,6 @@ metaTitle: Skema over endelser til navneord
             + "&kk=" + form["kk"].checked
             + "&tu=" + form["tu"].checked
             + "&fjerdeperson=" + form["fjerdeperson"].checked;
-
         navigator.clipboard.writeText(shareUrl).then(() => {
             console.log("Copied url");
         }).catch(err => {
@@ -226,13 +228,39 @@ metaTitle: Skema over endelser til navneord
         });
     }
 
+    function saveConfig() {
+        const state = {};
+        Array.from(filterForm.querySelectorAll("input")).forEach(element => {
+            if (!element.name) return;
+            if (element.type === "checkbox") {
+                state[element.name] = element.checked;
+            } else {
+                if (element.checked) state[element.name] = element.value;
+            }
+        });
+        localStorage.setItem(storageKey, JSON.stringify(state));
+    }
+
     window.addEventListener('DOMContentLoaded', (event) => {
         const startUrl = new URLSearchParams(window.location.href.substring(window.location.href.indexOf("?")));
         if(startUrl.has("pe")) {
             console.log("Getting configuration");
-            const form = document.getElementById("tableFilter").elements;
+            const form = filterForm.elements;
             startUrl.forEach((value, key) => {
                 form[key].checked = (value.toLocaleLowerCase() === "true");
+            });
+            updateTable();
+        } else if (localStorage.getItem(storageKey)) {
+            const savedData = localStorage.getItem(storageKey);
+            const state = JSON.parse(savedData);
+            Object.entries(state).forEach(([key, value]) => {
+                if (filterForm[key]) {
+                    if(filterForm[key].type === "checkbox") {
+                        filterForm[key].checked = value;
+                    } else {
+                        filterForm[key].value = value;
+                    }
+                }
             });
             updateTable();
         }
