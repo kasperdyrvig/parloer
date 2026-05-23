@@ -1,0 +1,22 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 120
+sortNumber: 5
+previewText: 12.5 - konstruér sætninger
+onPageTitle: Øvelse 12.4 - konstruér sætninger
+onPageDescription: Lav sætningen ud fra de stammer og endelser du får præsenteret.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+{% for prompt in 12_5_construct_sentences %}
+{% taskStep %}
+    <task-prompt>{{prompt.Smaaord}} {{prompt.NG1}}({{prompt.grundled}}) {{prompt.V1}}-({{prompt.VE_navn}})</task-prompt>
+    <task-instruction data-number="1">Skriv den færdige grønlandske sætning</task-instruction>
+    <spellcheck-input data-validation="{{prompt.Sentence}}"></spellcheck-input>
+    <task-instruction data-number="2">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Sætningen "{{prompt.Sentence}}" betyder "{{prompt.Betydning}}". Nomenet kan splittes op på denne måde: {{prompt.NG1}}|{{prompt.NG1_end}} og udsagnsordet: {{prompt.V1}}-{{prompt.VB1}}.</b></task-info>
+{% endtaskStep %}
+{% endfor %}
