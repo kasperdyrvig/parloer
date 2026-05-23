@@ -514,6 +514,8 @@ body:has([stage=outro]) {background-color: var(--color-blue-900); color: var(--c
 task-instruction::part(instruction) {margin-block: var(--spacing-medium); display: flex; gap: var(--spacing-small);}
 task-instruction::part(number) {font-weight: bold;}
 task-prompt::part(container) {font-size: calc(var(--base-font-size) * 2); padding: var(--spacing-small); background-color: var(--color-blue-100); display: inline-block; border-radius: var(--border-radius);}
+task-info::part(info) {background-color: var(--color-white); padding: var(--spacing-medium); position: fixed; bottom: 0; left: auto; right: auto; width: 100%; max-width: var(--app-max-width);}
+task-info[open] {animation: fadein 0.5s;}
 task-info:not([open]) {display: none;}
 .task-outro {height: calc(90vh - 2rem); place-content: center; text-align: center; font-size: calc(var(--base-font-size) * 2);}
 .task-intro {height: calc(90vh - 2rem); place-content: center;}
