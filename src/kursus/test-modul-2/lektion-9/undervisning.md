@@ -7,7 +7,7 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-15 min: **Velkomst.**
+15 min: **Velkomst**
 
 - Har kursisterne lært noget nyt siden sidste modul?
 - Byd velkommen til evt. nye elever.
@@ -21,14 +21,14 @@ onPageTitle: Til læreren
     - Tag videoen sætning for sætning og lad kursisterne gætte sig frem til hvad de betyder.
     - Vi skal forstå alt hvad der sker med ordene, så vi tager det lidt efterhånden.
 
-10 min: **Ordklasser.**
+10 min: **Ordklasser**
 
 - Udsagnsord
 - Navneord
 - Småord
 - Få kursisterne til at komme med eksempler på hver type. 
 
-15 min: **Ordenes opbygning.**
+15 min: **Ordenes opbygning**
 
 - Tal om hvad stamme, tilhæng, endelse, efterhæng betyder og giv eksempler.
 - Hav kursisterne til at gætte hvilken rækkefølge de skal stå i et ord. 
@@ -41,7 +41,7 @@ onPageTitle: Til læreren
 - Nævn forskellige sammenhænge det kan bruges i.
     - Fx: Siunnersuut una qanoq igaajuk?
 
-5 min: **Opsummering og lektier.**
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: ordbog.gl.

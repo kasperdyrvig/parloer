@@ -1,0 +1,26 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 130
+sortNumber: 1
+previewText: Virker ikke - 12.2 - øv flertal
+onPageTitle: Øvelse 12.2 - øv flertal
+onPageDescription: Vælg om stammen er stærk eller svag og lav det om til flertal.
+linkText: Start øvelsen
+mode: correct
+randomize: true
+---
+{% for prompt in 12_2_plural %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs/lyt og prøv at huske hvad ordet betyder</task-instruction>
+    <task-prompt>{{prompt.ental}}</task-prompt>
+    <task-audio data-file="course/Nomen/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Gentag ordet højt</task-instruction>
+    <task-instruction data-number="3">Vælg om stammen er stærk eller svag</task-instruction>
+{# Her skal Kasper lave en mulighed for multiple choice #}
+    <task-instruction data-number="4">Lav ordet om til flertal</task-instruction>
+    <text-input data-validation="{{prompt.flertal}}"></text-input>
+    <task-instruction data-number="5">Sig dit svar højt</task-instruction>
+    <task-info>Ordet "{{prompt.ental}}" er en {{prompt.gruppe}} stamme og betyder "{{prompt.betydning_i_ental}}". I flertal hedder ordet "{{prompt.flertal}}" og kan deles op sådan her: {{prompt.ental}}|{{prompt.endelse}}.</b></task-info>
+{% endtaskStep %}
+{% endfor %}
