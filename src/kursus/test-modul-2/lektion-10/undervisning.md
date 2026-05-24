@@ -7,10 +7,9 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-10 min: **Repetition og lektier.**
+10 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
-- Snak om hvordan det er gået med de mundtlige lektier.
 - Gennemgå spørgsmål vedr. lektier.
 
 5 min: **Udsagnsord**
@@ -21,7 +20,7 @@ onPageTitle: Til læreren
     - Hvad er en stamme? Betydningsbærende del af ordet, det at…
         - Skriv følgende ord på tavlen og hjælp kursisterne til at kende forskel på stamme og endelse: oqaluussivoq, nerivoq, ateqarpunga, ajorpunga.
 
-20 min: **Endelser.**
+20 min: **Endelser**
 
 - Gennemgå hvad de 6 'personer' (1., 2., 3. person i ental og flertal) hedder på dansk og grønlandsk (sæt fx et skema op: jeg - uanga osv.).
 - Gennemgå alle 6 personendelser.
@@ -29,14 +28,14 @@ onPageTitle: Til læreren
     - Hvordan ser endelserne ud på vokal-, konsonant- og r/q-stammer? (p eller v) neri-, tikip-, ajor-.
         - Hvordan kender man forskel på de forskellige stammer?
 
-20 min: **Øvelse.**
+20 min: **Øvelse**
 
 - Hav et A4-ark for hver personendelse.
     - Øv endelserne ved at sige en stamme (brug de ord kursisterne allerede kender) og vis et af arkene og lad kursisterne sige hele ordet.
 - Eller: Giv hver af kursisterne et af A4-arkene.
     - Sig forskellige ord og lad dem række skiltet op hvis det er 'deres endelse'.
 
-5 min: **Opsummering og lektier.**
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Filtreringsmuligheder på ordbog.gl.

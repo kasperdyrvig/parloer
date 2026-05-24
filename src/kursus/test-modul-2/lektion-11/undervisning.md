@@ -7,14 +7,14 @@ onPageTitle: Til læreren
 
 **Plan:**
 
-15 min: **Repetition og lektier.**
+15 min: **Repetition og lektier**
 
 - Kingullermi suna ilikkarparput?
 - Snak om hvordan det er gået med de mundtlige lektier.
 - Gennemgå spørgsmål vedr. lektier.
 - Find en sætning fra noget nyere litteratur, der bruger en intransitiv endelse i fremsættemåde, og analysér den sammen.
 
-15 min: **Spørgemåde.**
+15 min: **Spørgemåde**
 - Hvordan stiller man spørgsmål på grønlandsk?
 - Gennemgå de 6 endelser i spørgemåde og skriv dem på skemaet med personer fra lektion 10, som du har gjort klar på forhånd.
 - Arbejd sammen om at sætte de forskellige endelser på sinip-.
@@ -23,15 +23,15 @@ onPageTitle: Til læreren
 - Eller: Giv hver af kursisterne et af A4-arkene.
     - Sig forskellige ord og lad dem række skiltet op hvis det er 'deres endelse'.
 
-5 min: **Sang.** Kulloq illit. (Fremhæv spørgemåden '-pit' + svaret: Aajuna)
+5 min: **Sang** Kulloq illit. (Fremhæv spørgemåden '-pit' + svaret: Aajuna)
 
-5 min: **Lydregler.**
+5 min: **Lydregler**
 - Hvad er lydregler og hvad bruger vi dem til?
     - Lydregler bliver brugt hele tiden på grønlandsk.
 
-5 min: **V mellem U og andre vokaler.** V forsvinder mellem U og A/E/I. Derfor hedder det "qasuit?", ikke "qasuvit?".
+5 min: **V mellem U og andre vokaler** V forsvinder mellem U og A/E/I. Derfor hedder det "qasuit?", ikke "qasuvit?".
 
-10 min: **Samtaleøvelse.**
+10 min: **Samtaleøvelse**
 
 - Vis listen [Forslag til spørgsmål](/kursus/modul-2/parloer/spoergsmaal).
 - Kursisterne skal bruge den og evt egne spørgsmål til at gå rundt i 10 min og snakke med hinanden og indhente oplysninger.
@@ -39,7 +39,7 @@ onPageTitle: Til læreren
 - Lyt til de forskellige samtaler og hold øje med hvem der snakker med hinanden.
 - Efter de 10 min. spørger du ind til det kursisterne har fundet ud af. (Fx: Rebekkamut qanoq aperivit?)
 
-5 min: **Opsummering og lektier.**
+5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
 - Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder t & o)
