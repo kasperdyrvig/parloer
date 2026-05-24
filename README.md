@@ -173,14 +173,19 @@ Alle inputs har en "Tjek"-knap under sig. Brugeren skal trykke på denne for at 
 
 ```<text-input data-label="Skriv et ord" data-validation="Ord"></text-input>```
 
+- Tilføj `data-validate-punctuation` hvis tegnsætning skal valideres.
+
 **Tekstboks**
 
 ```<textarea-input data-label="Skriv et historie" data-validation="Historie"></textarea-input>```
+
+- Tilføj `data-validate-punctuation` hvis tegnsætning skal valideres.
 
 **Tekst med stavekontrol**
 
 ```<spellcheck-input data-label="Omskriv sætningen" data-validation="Skriv sætningen på en anden måde."></spellcheck-input>```
 
+- Tegnsætning og store/små bogstaver valideres ikke
 - Ord som ikke er korrekte vises med en råd bølgestreg
 - Ord som er korrekt skrevet men i forkert rækkefølge vises med blå dobbeltstreg
 

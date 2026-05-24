@@ -394,6 +394,7 @@ class textInput extends HTMLElement {
         this._input = null;
         this._required = true;
         this._validation = null;
+        this._ignorePunctuation = !this.hasAttribute("data-validate-punctuation");
         this._response = null;
     }
 
@@ -497,8 +498,8 @@ class textInput extends HTMLElement {
     }
 
     isValid() {
-        const value = this.getValue();
-        const validation = this._validation;
+        const value = this._ignorePunctuation ? this.getValue().replace(/[^a-zA-Z0-9\s]/g, "") : this.getValue();
+        const validation = this._ignorePunctuation ? this._validation.replace(/[^a-zA-Z0-9\s]/g, "") : this._validation;
         if (this._validation) {
             return (value.toLowerCase() == validation.toLowerCase()); // Input value and validation match
         } else if (value.length > 0) {
@@ -736,6 +737,7 @@ class textareaInput extends HTMLElement {
         this._input = null;
         this._required = true;
         this._validation = null;
+        this._ignorePunctuation = !this.hasAttribute("data-validate-punctuation");
         this._response = null;
     }
 
@@ -838,8 +840,8 @@ class textareaInput extends HTMLElement {
     }
 
     isValid() {
-        const value = this.getValue();
-        const validation = this._validation;
+        const value = this._ignorePunctuation ? this.getValue().replace(/[^a-zA-Z0-9\s]/g, "") : this.getValue();
+        const validation = this._ignorePunctuation ? this._validation.replace(/[^a-zA-Z0-9\s]/g, "") : this._validation;
         if (this._validation) {
             return (value.toLowerCase() == validation.toLowerCase()); // Input value and validation match
         } else if (value.length > 0) {
