@@ -1,0 +1,1274 @@
+[
+  {
+    "navneord_grundord": "nalunaajaasoq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "nalunaajaasumit",
+    "Dansk": "fra vidnet",
+    "Lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartoq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "asaasartumit",
+    "Dansk": "fra rengøringsassistenten",
+    "Lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "navneord_grundord": "sanasoq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "sanasumit",
+    "Dansk": "fra tømreren",
+    "Lyd": "3_sanasoq.mp3"
+  },
+  {
+    "navneord_grundord": "erneq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "ernermit",
+    "Dansk": "fra sønnen",
+    "Lyd": "4_erneq.mp3"
+  },
+  {
+    "navneord_grundord": "panik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "panimmit",
+    "Dansk": "fra datteren",
+    "Lyd": "5_panik.mp3"
+  },
+  {
+    "navneord_grundord": "angut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "angummit",
+    "Dansk": "fra manden",
+    "Lyd": "8_angut.mp3"
+  },
+  {
+    "navneord_grundord": "arnaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "arnamit",
+    "Dansk": "fra kvinden",
+    "Lyd": "9_arnaq.mp3"
+  },
+  {
+    "navneord_grundord": "ataata",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "ataatamit",
+    "Dansk": "fra faren",
+    "Lyd": "10_ataata.mp3"
+  },
+  {
+    "navneord_grundord": "anaana",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "anaanamit",
+    "Dansk": "fra moren",
+    "Lyd": "11_anaana.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "qatanngummit",
+    "Dansk": "fra søskendet",
+    "Lyd": "12_qatanngut.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "sinittarfimmit",
+    "Dansk": "fra sengen",
+    "Lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "navneord_grundord": "igaffik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "igaffimmit",
+    "Dansk": "fra køkkenet",
+    "Lyd": "14_igaffik.mp3"
+  },
+  {
+    "navneord_grundord": "issiavik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "issiavimmit",
+    "Dansk": "fra stolen",
+    "Lyd": "15_issiavik.mp3"
+  },
+  {
+    "navneord_grundord": "nerrivik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "nerrivimmit",
+    "Dansk": "fra bordet",
+    "Lyd": "16_nerrivik.mp3"
+  },
+  {
+    "navneord_grundord": "siku",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "sikumit",
+    "Dansk": "fra isen",
+    "Lyd": "17_siku.mp3"
+  },
+  {
+    "navneord_grundord": "tuttu",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "tuttumit",
+    "Dansk": "fra rensdyret",
+    "Lyd": "18_tuttu.mp3"
+  },
+  {
+    "navneord_grundord": "umimmak",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "umimmammit",
+    "Dansk": "fra moskusoksen",
+    "Lyd": "19_umimmak.mp3"
+  },
+  {
+    "navneord_grundord": "illu",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "illumit",
+    "Dansk": "fra huset",
+    "Lyd": "20_illu.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "pisiniarfimmit",
+    "Dansk": "fra butikken",
+    "Lyd": "21_pisiniarfik.mp3"
+  },
+  {
+    "navneord_grundord": "Qaanaaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Qaanaamit",
+    "Dansk": "fra Qaanaaq",
+    "Lyd": "22_Qaanaaq.mp3"
+  },
+  {
+    "navneord_grundord": "Maniitsoq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Maniitsumit",
+    "Dansk": "fra Maniitsoq",
+    "Lyd": "23_Maniitsoq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Narsamit",
+    "Dansk": "fra Narsaq",
+    "Lyd": "24_Narsaq.mp3"
+  },
+  {
+    "navneord_grundord": "Qaqortoq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Qaqortumit",
+    "Dansk": "fra Qaqortoq",
+    "Lyd": "25_Qaqortoq.mp3"
+  },
+  {
+    "navneord_grundord": "Tasiilaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Tasiilamit",
+    "Dansk": "fra Tasiilaq",
+    "Lyd": "26_Tasiilaq.mp3"
+  },
+  {
+    "navneord_grundord": "Uummannaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Uummannamit",
+    "Dansk": "fra Uummannaq",
+    "Lyd": "27_Uummannaq.mp3"
+  },
+  {
+    "navneord_grundord": "Kangerlussuaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Kangerlussuarmit",
+    "Dansk": "fra Kangerlussuaq",
+    "Lyd": "28_Kangerlussuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsarsuaq",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Narsarsuarmit",
+    "Dansk": "fra Narsarsuaq",
+    "Lyd": "29_Narsarsuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Nuuk",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Nuummit",
+    "Dansk": "fra Nuuk",
+    "Lyd": "30_Nuuk.mp3"
+  },
+  {
+    "navneord_grundord": "Nanortalik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Nanortalimmit",
+    "Dansk": "fra Nanortalik",
+    "Lyd": "31_Nanortalik.mp3"
+  },
+  {
+    "navneord_grundord": "Pituffik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Pituffimmit",
+    "Dansk": "fra Pituffik",
+    "Lyd": "32_Pituffik.mp3"
+  },
+  {
+    "navneord_grundord": "Upernavik",
+    "navneordsendelse": "mit",
+    "ental_flertal": "ental",
+    "resultat": "Upernavimmit",
+    "Dansk": "fra Upernavik",
+    "Lyd": "33_Upernavik.mp3"
+  },
+  {
+    "navneord_grundord": "Paamiut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "Paamiunit",
+    "Dansk": "fra Paamiut",
+    "Lyd": "34_Paamiut.mp3"
+  },
+  {
+    "navneord_grundord": "Aasiaat",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "Aasiannit",
+    "Dansk": "fra Aasiaat",
+    "Lyd": "35_Aasiaat.mp3"
+  },
+  {
+    "navneord_grundord": "Sisimiut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "Sisimiunit",
+    "Dansk": "fra Sisimiut",
+    "Lyd": "36_Sisimiut.mp3"
+  },
+  {
+    "navneord_grundord": "nalunaajaasoq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "nalunaajaasumut",
+    "Dansk": "til vidnet",
+    "Lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartoq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "asaasartumut",
+    "Dansk": "til rengøringsassistenten",
+    "Lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "navneord_grundord": "sanasoq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "sanasumut",
+    "Dansk": "til tømreren",
+    "Lyd": "3_sanasoq.mp3"
+  },
+  {
+    "navneord_grundord": "erneq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "ernermut",
+    "Dansk": "til sønnen",
+    "Lyd": "4_erneq.mp3"
+  },
+  {
+    "navneord_grundord": "panik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "panimmut",
+    "Dansk": "til datteren",
+    "Lyd": "5_panik.mp3"
+  },
+  {
+    "navneord_grundord": "angut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "angummut",
+    "Dansk": "til manden",
+    "Lyd": "8_angut.mp3"
+  },
+  {
+    "navneord_grundord": "arnaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "arnamut",
+    "Dansk": "til kvinden",
+    "Lyd": "9_arnaq.mp3"
+  },
+  {
+    "navneord_grundord": "ataata",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "ataatamut",
+    "Dansk": "til faren",
+    "Lyd": "10_ataata.mp3"
+  },
+  {
+    "navneord_grundord": "anaana",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "anaanamut",
+    "Dansk": "til moren",
+    "Lyd": "11_anaana.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "qatanngummut",
+    "Dansk": "til søskendet",
+    "Lyd": "12_qatanngut.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "sinittarfimmut",
+    "Dansk": "til sengen",
+    "Lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "navneord_grundord": "igaffik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "igaffimmut",
+    "Dansk": "til køkkenet",
+    "Lyd": "14_igaffik.mp3"
+  },
+  {
+    "navneord_grundord": "issiavik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "issiavimmut",
+    "Dansk": "til stolen",
+    "Lyd": "15_issiavik.mp3"
+  },
+  {
+    "navneord_grundord": "nerrivik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "nerrivimmut",
+    "Dansk": "til bordet",
+    "Lyd": "16_nerrivik.mp3"
+  },
+  {
+    "navneord_grundord": "siku",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "sikumut",
+    "Dansk": "til isen",
+    "Lyd": "17_siku.mp3"
+  },
+  {
+    "navneord_grundord": "tuttu",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "tuttumut",
+    "Dansk": "til rensdyret",
+    "Lyd": "18_tuttu.mp3"
+  },
+  {
+    "navneord_grundord": "umimmak",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "umimmammut",
+    "Dansk": "til moskusoksen",
+    "Lyd": "19_umimmak.mp3"
+  },
+  {
+    "navneord_grundord": "illu",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "illumut",
+    "Dansk": "til huset",
+    "Lyd": "20_illu.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "pisiniarfimmut",
+    "Dansk": "til butikken",
+    "Lyd": "21_pisiniarfik.mp3"
+  },
+  {
+    "navneord_grundord": "Qaanaaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Qaanaamut",
+    "Dansk": "til Qaanaaq",
+    "Lyd": "22_Qaanaaq.mp3"
+  },
+  {
+    "navneord_grundord": "Maniitsoq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Maniitsumut",
+    "Dansk": "til Maniitsoq",
+    "Lyd": "23_Maniitsoq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Narsamut",
+    "Dansk": "til Narsaq",
+    "Lyd": "24_Narsaq.mp3"
+  },
+  {
+    "navneord_grundord": "Qaqortoq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Qaqortumut",
+    "Dansk": "til Qaqortoq",
+    "Lyd": "25_Qaqortoq.mp3"
+  },
+  {
+    "navneord_grundord": "Tasiilaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Tasiilamut",
+    "Dansk": "til Tasiilaq",
+    "Lyd": "26_Tasiilaq.mp3"
+  },
+  {
+    "navneord_grundord": "Uummannaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Uummannamut",
+    "Dansk": "til Uummannaq",
+    "Lyd": "27_Uummannaq.mp3"
+  },
+  {
+    "navneord_grundord": "Kangerlussuaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Kangerlussuarmut",
+    "Dansk": "til Kangerlussuaq",
+    "Lyd": "28_Kangerlussuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsarsuaq",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Narsarsuarmut",
+    "Dansk": "til Narsarsuaq",
+    "Lyd": "29_Narsarsuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Nuuk",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Nuummut",
+    "Dansk": "til Nuuk",
+    "Lyd": "30_Nuuk.mp3"
+  },
+  {
+    "navneord_grundord": "Nanortalik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Nanortalimmut",
+    "Dansk": "til Nanortalik",
+    "Lyd": "31_Nanortalik.mp3"
+  },
+  {
+    "navneord_grundord": "Pituffik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Pituffimmut",
+    "Dansk": "til Pituffik",
+    "Lyd": "32_Pituffik.mp3"
+  },
+  {
+    "navneord_grundord": "Upernavik",
+    "navneordsendelse": "mut",
+    "ental_flertal": "ental",
+    "resultat": "Upernavimmut",
+    "Dansk": "til Upernavik",
+    "Lyd": "33_Upernavik.mp3"
+  },
+  {
+    "navneord_grundord": "Paamiut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "Paamiunut",
+    "Dansk": "til Paamiut",
+    "Lyd": "34_Paamiut.mp3"
+  },
+  {
+    "navneord_grundord": "Aasiaat",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "Aasiannut",
+    "Dansk": "til Aasiaat",
+    "Lyd": "35_Aasiaat.mp3"
+  },
+  {
+    "navneord_grundord": "Sisimiut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "Sisimiunut",
+    "Dansk": "til Sisimiut",
+    "Lyd": "36_Sisimiut.mp3"
+  },
+  {
+    "navneord_grundord": "nalunaajaasoq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "nalunaajaasumi",
+    "Dansk": "hos vidnet",
+    "Lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartoq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "asaasartumi",
+    "Dansk": "hos rengøringsassistenten",
+    "Lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "navneord_grundord": "sanasoq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "sanasumi",
+    "Dansk": "hos tømreren",
+    "Lyd": "3_sanasoq.mp3"
+  },
+  {
+    "navneord_grundord": "erneq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "ernermi",
+    "Dansk": "hos sønnen",
+    "Lyd": "4_erneq.mp3"
+  },
+  {
+    "navneord_grundord": "panik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "panimmi",
+    "Dansk": "hos datteren",
+    "Lyd": "5_panik.mp3"
+  },
+  {
+    "navneord_grundord": "angut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "angummi",
+    "Dansk": "hos manden",
+    "Lyd": "8_angut.mp3"
+  },
+  {
+    "navneord_grundord": "arnaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "arnami",
+    "Dansk": "hos kvinden",
+    "Lyd": "9_arnaq.mp3"
+  },
+  {
+    "navneord_grundord": "ataata",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "ataatami",
+    "Dansk": "hos faren",
+    "Lyd": "10_ataata.mp3"
+  },
+  {
+    "navneord_grundord": "anaana",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "anaanami",
+    "Dansk": "hos moren",
+    "Lyd": "11_anaana.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "qatanngummi",
+    "Dansk": "hos søskendet",
+    "Lyd": "12_qatanngut.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "sinittarfimmi",
+    "Dansk": "i sengen",
+    "Lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "navneord_grundord": "igaffik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "igaffimmi",
+    "Dansk": "i køkkenet",
+    "Lyd": "14_igaffik.mp3"
+  },
+  {
+    "navneord_grundord": "issiavik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "issiavimmi",
+    "Dansk": "på stolen",
+    "Lyd": "15_issiavik.mp3"
+  },
+  {
+    "navneord_grundord": "nerrivik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "nerrivimmi",
+    "Dansk": "på bordet",
+    "Lyd": "16_nerrivik.mp3"
+  },
+  {
+    "navneord_grundord": "siku",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "sikumi",
+    "Dansk": "på isen",
+    "Lyd": "17_siku.mp3"
+  },
+  {
+    "navneord_grundord": "tuttu",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "tuttumi",
+    "Dansk": "på rensdyret",
+    "Lyd": "18_tuttu.mp3"
+  },
+  {
+    "navneord_grundord": "umimmak",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "umimmammi",
+    "Dansk": "på moskusoksen",
+    "Lyd": "19_umimmak.mp3"
+  },
+  {
+    "navneord_grundord": "illu",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "illumi",
+    "Dansk": "i huset",
+    "Lyd": "20_illu.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "pisiniarfimmi",
+    "Dansk": "i butikken",
+    "Lyd": "21_pisiniarfik.mp3"
+  },
+  {
+    "navneord_grundord": "Qaanaaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Qaanaami",
+    "Dansk": "i Qaanaaq",
+    "Lyd": "22_Qaanaaq.mp3"
+  },
+  {
+    "navneord_grundord": "Maniitsoq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Maniitsumi",
+    "Dansk": "i Maniitsoq",
+    "Lyd": "23_Maniitsoq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Narsami",
+    "Dansk": "i Narsaq",
+    "Lyd": "24_Narsaq.mp3"
+  },
+  {
+    "navneord_grundord": "Qaqortoq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Qaqortumi",
+    "Dansk": "i Qaqortoq",
+    "Lyd": "25_Qaqortoq.mp3"
+  },
+  {
+    "navneord_grundord": "Tasiilaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Tasiilami",
+    "Dansk": "i Tasiilaq",
+    "Lyd": "26_Tasiilaq.mp3"
+  },
+  {
+    "navneord_grundord": "Uummannaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Uummannami",
+    "Dansk": "i Uummannaq",
+    "Lyd": "27_Uummannaq.mp3"
+  },
+  {
+    "navneord_grundord": "Kangerlussuaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Kangerlussuarmi",
+    "Dansk": "i Kangerlussuaq",
+    "Lyd": "28_Kangerlussuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsarsuaq",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Narsarsuarmi",
+    "Dansk": "i Narsarsuaq",
+    "Lyd": "29_Narsarsuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Nuuk",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Nuummi",
+    "Dansk": "i Nuuk",
+    "Lyd": "30_Nuuk.mp3"
+  },
+  {
+    "navneord_grundord": "Nanortalik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Nanortalimmi",
+    "Dansk": "i Nanortalik",
+    "Lyd": "31_Nanortalik.mp3"
+  },
+  {
+    "navneord_grundord": "Pituffik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Pituffimmi",
+    "Dansk": "i Pituffik",
+    "Lyd": "32_Pituffik.mp3"
+  },
+  {
+    "navneord_grundord": "Upernavik",
+    "navneordsendelse": "mi",
+    "ental_flertal": "ental",
+    "resultat": "Upernavimmi",
+    "Dansk": "i Upernavik",
+    "Lyd": "33_Upernavik.mp3"
+  },
+  {
+    "navneord_grundord": "Paamiut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "Paamiuni",
+    "Dansk": "i Paamiut",
+    "Lyd": "34_Paamiut.mp3"
+  },
+  {
+    "navneord_grundord": "Aasiaat",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "Aasianni",
+    "Dansk": "i Aasiaat",
+    "Lyd": "35_Aasiaat.mp3"
+  },
+  {
+    "navneord_grundord": "Sisimiut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "Sisimiuni",
+    "Dansk": "i Sisimiut",
+    "Lyd": "36_Sisimiut.mp3"
+  },
+  {
+    "navneord_grundord": "nalunaajaasut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "nalunaajaasuni",
+    "Dansk": "hos vidnerne",
+    "Lyd": "1_nalunaajaasut.mp3"
+  },
+  {
+    "navneord_grundord": "nalunaajaasut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "nalunaajaasunit",
+    "Dansk": "fra vidnerne",
+    "Lyd": "1_nalunaajaasut.mp3"
+  },
+  {
+    "navneord_grundord": "nalunaajaasut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "nalunaajaasunut",
+    "Dansk": "til vidnerne",
+    "Lyd": "1_nalunaajaasut.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "asaasartuni",
+    "Dansk": "hos rengøringsassistenterne",
+    "Lyd": "2_asaasartut.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "asaasartunit",
+    "Dansk": "fra rengøringsassistenterne",
+    "Lyd": "2_asaasartut.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "asaasartunut",
+    "Dansk": "til rengøringsassistenterne",
+    "Lyd": "2_asaasartut.mp3"
+  },
+  {
+    "navneord_grundord": "sanasut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "sanasuni",
+    "Dansk": "hos tømrerene",
+    "Lyd": "3_sanasut.mp3"
+  },
+  {
+    "navneord_grundord": "sanasut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "sanasunit",
+    "Dansk": "fra tømrerene",
+    "Lyd": "3_sanasut.mp3"
+  },
+  {
+    "navneord_grundord": "sanasut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "sanasunut",
+    "Dansk": "til tømrerene",
+    "Lyd": "3_sanasut.mp3"
+  },
+  {
+    "navneord_grundord": "ernerit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "ernerni",
+    "Dansk": "hos sønnerne",
+    "Lyd": "4_ernerit.mp3"
+  },
+  {
+    "navneord_grundord": "ernerit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "ernernit",
+    "Dansk": "fra sønnerne",
+    "Lyd": "4_ernerit.mp3"
+  },
+  {
+    "navneord_grundord": "ernerit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "ernernut",
+    "Dansk": "til sønnerne",
+    "Lyd": "4_ernerit.mp3"
+  },
+  {
+    "navneord_grundord": "paniit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "paninni",
+    "Dansk": "hos døtrene",
+    "Lyd": "5_paniit.mp3"
+  },
+  {
+    "navneord_grundord": "paniit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "paninnit",
+    "Dansk": "fra døtrene",
+    "Lyd": "5_paniit.mp3"
+  },
+  {
+    "navneord_grundord": "paniit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "paninnut",
+    "Dansk": "til døtrene",
+    "Lyd": "5_paniit.mp3"
+  },
+  {
+    "navneord_grundord": "angutit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "angutini",
+    "Dansk": "hos mændne",
+    "Lyd": "8_angutit.mp3"
+  },
+  {
+    "navneord_grundord": "angutit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "angutinit",
+    "Dansk": "fra mændne",
+    "Lyd": "8_angutit.mp3"
+  },
+  {
+    "navneord_grundord": "angutit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "angutinut",
+    "Dansk": "til mændne",
+    "Lyd": "8_angutit.mp3"
+  },
+  {
+    "navneord_grundord": "arnat",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "arnani",
+    "Dansk": "hos kvinderne",
+    "Lyd": "9_arnat.mp3"
+  },
+  {
+    "navneord_grundord": "arnat",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "arnanit",
+    "Dansk": "fra kvinderne",
+    "Lyd": "9_arnat.mp3"
+  },
+  {
+    "navneord_grundord": "arnat",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "arnanut",
+    "Dansk": "til kvinderne",
+    "Lyd": "9_arnat.mp3"
+  },
+  {
+    "navneord_grundord": "ataatat",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "ataatani",
+    "Dansk": "hos fædrene",
+    "Lyd": "10_ataatat.mp3"
+  },
+  {
+    "navneord_grundord": "ataatat",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "ataatanit",
+    "Dansk": "fra fædrene",
+    "Lyd": "10_ataatat.mp3"
+  },
+  {
+    "navneord_grundord": "ataatat",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "ataatanut",
+    "Dansk": "til fædrene",
+    "Lyd": "10_ataatat.mp3"
+  },
+  {
+    "navneord_grundord": "anaanat",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "anaanani",
+    "Dansk": "hos mødrene",
+    "Lyd": "11_anaanat.mp3"
+  },
+  {
+    "navneord_grundord": "anaanat",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "anaananit",
+    "Dansk": "fra mødrene",
+    "Lyd": "11_anaanat.mp3"
+  },
+  {
+    "navneord_grundord": "anaanat",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "anaananut",
+    "Dansk": "til mødrene",
+    "Lyd": "11_anaanat.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngutit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "qatanngutini",
+    "Dansk": "hos søskendene",
+    "Lyd": "12_qatanngutit.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngutit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "qatanngutinit",
+    "Dansk": "fra søskendene",
+    "Lyd": "12_qatanngutit.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngutit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "qatanngutinut",
+    "Dansk": "til søskendene",
+    "Lyd": "12_qatanngutit.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfiit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "sinittarfinni",
+    "Dansk": "i sengene",
+    "Lyd": "13_sinittarfiit.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfiit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "sinittarfinnit",
+    "Dansk": "fra sengene",
+    "Lyd": "13_sinittarfiit.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfiit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "sinittarfinnut",
+    "Dansk": "til sengene",
+    "Lyd": "13_sinittarfiit.mp3"
+  },
+  {
+    "navneord_grundord": "igaffiit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "igaffinni",
+    "Dansk": "i køkkenerne",
+    "Lyd": "14_igaffiit.mp3"
+  },
+  {
+    "navneord_grundord": "igaffiit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "igaffinnit",
+    "Dansk": "fra køkkenerne",
+    "Lyd": "14_igaffiit.mp3"
+  },
+  {
+    "navneord_grundord": "igaffiit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "igaffinnut",
+    "Dansk": "til køkkenerne",
+    "Lyd": "14_igaffiit.mp3"
+  },
+  {
+    "navneord_grundord": "issiaviit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "issiavinni",
+    "Dansk": "på stolene",
+    "Lyd": "15_issiaviit.mp3"
+  },
+  {
+    "navneord_grundord": "issiaviit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "issiavinnit",
+    "Dansk": "fra stolene",
+    "Lyd": "15_issiaviit.mp3"
+  },
+  {
+    "navneord_grundord": "issiaviit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "issiavinnut",
+    "Dansk": "til stolene",
+    "Lyd": "15_issiaviit.mp3"
+  },
+  {
+    "navneord_grundord": "nerriviit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "nerrivinni",
+    "Dansk": "på bordene",
+    "Lyd": "16_nerriviit.mp3"
+  },
+  {
+    "navneord_grundord": "nerriviit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "nerrivinnit",
+    "Dansk": "fra bordene",
+    "Lyd": "16_nerriviit.mp3"
+  },
+  {
+    "navneord_grundord": "nerriviit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "nerrivinnut",
+    "Dansk": "til bordene",
+    "Lyd": "16_nerriviit.mp3"
+  },
+  {
+    "navneord_grundord": "sikut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "sikuni",
+    "Dansk": "i isene",
+    "Lyd": "17_sikut.mp3"
+  },
+  {
+    "navneord_grundord": "sikut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "sikunit",
+    "Dansk": "fra isene",
+    "Lyd": "17_sikut.mp3"
+  },
+  {
+    "navneord_grundord": "sikut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "sikunut",
+    "Dansk": "til isene",
+    "Lyd": "17_sikut.mp3"
+  },
+  {
+    "navneord_grundord": "tuttut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "tuttuni",
+    "Dansk": "ved rensdyrene",
+    "Lyd": "18_tuttut.mp3"
+  },
+  {
+    "navneord_grundord": "tuttut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "tuttunit",
+    "Dansk": "fra rensdyrene",
+    "Lyd": "18_tuttut.mp3"
+  },
+  {
+    "navneord_grundord": "tuttut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "tuttunut",
+    "Dansk": "til rensdyrene",
+    "Lyd": "18_tuttut.mp3"
+  },
+  {
+    "navneord_grundord": "umimmaat",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "umimmanni",
+    "Dansk": "ved moskusokserne",
+    "Lyd": "19_umimmaat.mp3"
+  },
+  {
+    "navneord_grundord": "umimmaat",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "umimmannit",
+    "Dansk": "fra moskusokserne",
+    "Lyd": "19_umimmaat.mp3"
+  },
+  {
+    "navneord_grundord": "umimmaat",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "umimmannut",
+    "Dansk": "til moskusokserne",
+    "Lyd": "19_umimmaat.mp3"
+  },
+  {
+    "navneord_grundord": "illut",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "illuni",
+    "Dansk": "i husene",
+    "Lyd": "20_illut.mp3"
+  },
+  {
+    "navneord_grundord": "illut",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "illunit",
+    "Dansk": "fra husene",
+    "Lyd": "20_illut.mp3"
+  },
+  {
+    "navneord_grundord": "illut",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "illunut",
+    "Dansk": "til husene",
+    "Lyd": "20_illut.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfiit",
+    "navneordsendelse": "mi",
+    "ental_flertal": "flertal",
+    "resultat": "pisiniarfinni",
+    "Dansk": "i butikkerne",
+    "Lyd": "21_pisiniarfiit.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfiit",
+    "navneordsendelse": "mit",
+    "ental_flertal": "flertal",
+    "resultat": "pisiniarfinnit",
+    "Dansk": "fra butikkerne",
+    "Lyd": "21_pisiniarfiit.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfiit",
+    "navneordsendelse": "mut",
+    "ental_flertal": "flertal",
+    "resultat": "pisiniarfinnut",
+    "Dansk": "til butikkerne",
+    "Lyd": "21_pisiniarfiit.mp3"
+  }
+]

@@ -1,27 +1,5 @@
 [
   {
-    "Sentence": "nalunaajaasut ateqarput",
-    "Smaaord": "",
-    "NG1": "nalunaajaasoq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "put",
-    "VE_navn": "uku",
-    "Betydning": "vidnerne hedder"
-  },
-  {
-    "Sentence": "nalunaajaasut ateqarpat?",
-    "Smaaord": "",
-    "NG1": "nalunaajaasoq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hedder vidnerne?"
-  },
-  {
     "Sentence": "nalunaajaasoq ateqarpoq",
     "Smaaord": "",
     "NG1": "nalunaajaasoq",
@@ -462,28 +440,6 @@
     "Betydning": "bor rengøringsassistenterne?"
   },
   {
-    "Sentence": "asaasartoq najugaqarpoq",
-    "Smaaord": "",
-    "NG1": "asaasartoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "najugaqar",
-    "VB1": "poq",
-    "VE_navn": "una",
-    "Betydning": "rengøringsassistenten bor"
-  },
-  {
-    "Sentence": "asaasartoq najugaqarpa?",
-    "Smaaord": "",
-    "NG1": "asaasartoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "najugaqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "bor rengøringsassistenten?"
-  },
-  {
     "Sentence": "asaasartut ukioqarput",
     "Smaaord": "",
     "NG1": "asaasartoq",
@@ -671,28 +627,6 @@
     "Betydning": "rengøringsassistenterne spiser"
   },
   {
-    "Sentence": "asaasartut nerippat?",
-    "Smaaord": "",
-    "NG1": "asaasartoq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "spiser rengøringsassistenterne?"
-  },
-  {
-    "Sentence": "asaasartoq nerivoq",
-    "Smaaord": "",
-    "NG1": "asaasartoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "voq",
-    "VE_navn": "una",
-    "Betydning": "rengøringsassistenten spiser"
-  },
-  {
     "Sentence": "asaasartoq neriva?",
     "Smaaord": "",
     "NG1": "asaasartoq",
@@ -790,28 +724,6 @@
     "VB1": "pa?",
     "VE_navn": "una?",
     "Betydning": "læser rengøringsassistenten?"
-  },
-  {
-    "Sentence": "sanasut ateqarput",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "put",
-    "VE_navn": "uku",
-    "Betydning": "tømrerne hedder"
-  },
-  {
-    "Sentence": "sanasut ateqarpat?",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hedder tømrerne?"
   },
   {
     "Sentence": "sanasoq ateqarpoq",
@@ -1034,28 +946,6 @@
     "Betydning": "forkynder tømrerne?"
   },
   {
-    "Sentence": "sanasoq oqaluussivoq",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "voq",
-    "VE_navn": "una",
-    "Betydning": "tømreren forkynder"
-  },
-  {
-    "Sentence": "sanasoq oqaluussiva?",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "forkynder tømreren?"
-  },
-  {
     "Sentence": "sanasut neripput",
     "Smaaord": "",
     "NG1": "sanasoq",
@@ -1076,28 +966,6 @@
     "VB1": "ppat?",
     "VE_navn": "uku?",
     "Betydning": "spiser tømrerne?"
-  },
-  {
-    "Sentence": "sanasoq nerivoq",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "voq",
-    "VE_navn": "una",
-    "Betydning": "tømreren spiser"
-  },
-  {
-    "Sentence": "sanasoq neriva?",
-    "Smaaord": "",
-    "NG1": "sanasoq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "spiser tømreren?"
   },
   {
     "Sentence": "sanasut qasupput",
@@ -1716,28 +1584,6 @@
     "Betydning": "er datteren år gammel?"
   },
   {
-    "Sentence": "paniit tikipput",
-    "Smaaord": "",
-    "NG1": "panik",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "put",
-    "VE_navn": "uku",
-    "Betydning": "døtrene ankommer"
-  },
-  {
-    "Sentence": "paniit tikippat?",
-    "Smaaord": "",
-    "NG1": "panik",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "ankommer døtrene?"
-  },
-  {
     "Sentence": "panik tikippoq",
     "Smaaord": "",
     "NG1": "panik",
@@ -1956,28 +1802,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "læser døtrene?"
-  },
-  {
-    "Sentence": "panik atuarpoq",
-    "Smaaord": "",
-    "NG1": "panik",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "poq",
-    "VE_navn": "una",
-    "Betydning": "datteren læser"
-  },
-  {
-    "Sentence": "panik atuarpa?",
-    "Smaaord": "",
-    "NG1": "panik",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "læser datteren?"
   },
   {
     "Sentence": "angutit ateqarput",
@@ -2299,28 +2123,6 @@
     "Betydning": "mændene er trætte"
   },
   {
-    "Sentence": "angutit qasuppat?",
-    "Smaaord": "",
-    "NG1": "angut",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "er mændene trætte?"
-  },
-  {
-    "Sentence": "angut qasuvoq",
-    "Smaaord": "",
-    "NG1": "angut",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "voq",
-    "VE_navn": "una",
-    "Betydning": "manden er træt"
-  },
-  {
     "Sentence": "angut qasua?",
     "Smaaord": "",
     "NG1": "angut",
@@ -2550,28 +2352,6 @@
     "VB1": "pa?",
     "VE_navn": "una?",
     "Betydning": "ankommer kvinden?"
-  },
-  {
-    "Sentence": "arnat ajorput",
-    "Smaaord": "",
-    "NG1": "arnaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "put",
-    "VE_navn": "uku",
-    "Betydning": "kvinderne har det dårligt"
-  },
-  {
-    "Sentence": "arnat ajorpat?",
-    "Smaaord": "",
-    "NG1": "arnaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "har kvinderne det dårligt?"
   },
   {
     "Sentence": "arnaq ajorpoq",
@@ -2814,50 +2594,6 @@
     "VB1": "pa?",
     "VE_navn": "una?",
     "Betydning": "hedder faren?"
-  },
-  {
-    "Sentence": "ataatat najugaqarput",
-    "Smaaord": "",
-    "NG1": "ataata",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "najugaqar",
-    "VB1": "put",
-    "VE_navn": "uku",
-    "Betydning": "fædrene bor"
-  },
-  {
-    "Sentence": "ataatat najugaqarpat?",
-    "Smaaord": "",
-    "NG1": "ataata",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "najugaqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "bor fædrene?"
-  },
-  {
-    "Sentence": "ataata najugaqarpoq",
-    "Smaaord": "",
-    "NG1": "ataata",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "najugaqar",
-    "VB1": "poq",
-    "VE_navn": "una",
-    "Betydning": "faren bor"
-  },
-  {
-    "Sentence": "ataata najugaqarpa?",
-    "Smaaord": "",
-    "NG1": "ataata",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "najugaqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "bor faren?"
   },
   {
     "Sentence": "ataatat ukioqarput",
@@ -4774,50 +4510,6 @@
     "Betydning": "hvad hedder døtrene?"
   },
   {
-    "Sentence": "ui qanoq ateqarpa?",
-    "Smaaord": "qanoq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ateqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvad hedder ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qanoq ateqarpat?",
-    "Smaaord": "qanoq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvad hedder ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qanoq ateqarpa?",
-    "Smaaord": "qanoq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ateqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvad hedder hustruen?"
-  },
-  {
-    "Sentence": "nuliat qanoq ateqarpat?",
-    "Smaaord": "qanoq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvad hedder hustruerne?"
-  },
-  {
     "Sentence": "angut qanoq ateqarpa?",
     "Smaaord": "qanoq",
     "NG1": "angut",
@@ -5124,50 +4816,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "hvor gamle er døtrene?"
-  },
-  {
-    "Sentence": "ui qassinik ukioqarpa?",
-    "Smaaord": "qassinik",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ukioqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvor gammel er ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qassinik ukioqarpat?",
-    "Smaaord": "qassinik",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "ukioqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvor gamle er ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qassinik ukioqarpa?",
-    "Smaaord": "qassinik",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ukioqar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvor gammel er hustruen?"
-  },
-  {
-    "Sentence": "nuliat qassinik ukioqarpat?",
-    "Smaaord": "qassinik",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ukioqar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvor gamle er hustruerne?"
   },
   {
     "Sentence": "angut qassinik ukioqarpa?",
@@ -5500,50 +5148,6 @@
     "Betydning": "hvornår ankom døtrene?"
   },
   {
-    "Sentence": "ui qanga tikippa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår ankom ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qanga tikippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår ankom ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qanga tikippa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår ankom hustruen?"
-  },
-  {
-    "Sentence": "nuliat qanga tikippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår ankom hustruerne?"
-  },
-  {
     "Sentence": "angut qanga tikippa?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -5806,50 +5410,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor ankommer døtrene?"
-  },
-  {
-    "Sentence": "ui sooq tikippa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor ankommer ægtemanden?"
-  },
-  {
-    "Sentence": "uiit sooq tikippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor ankommer ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq sooq tikippa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor ankommer hustruen?"
-  },
-  {
-    "Sentence": "nuliat sooq tikippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor ankommer hustruerne?"
   },
   {
     "Sentence": "angut sooq tikippa?",
@@ -6136,50 +5696,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "hvornår havde døtrene det dårligt?"
-  },
-  {
-    "Sentence": "ui qanga ajorpa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår havde ægtemanden det dårligt?"
-  },
-  {
-    "Sentence": "uiit qanga ajorpat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår havde ægtemændene det dårligt?"
-  },
-  {
-    "Sentence": "nuliaq qanga ajorpa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår havde hustruen det dårligt?"
-  },
-  {
-    "Sentence": "nuliat qanga ajorpat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår havde hustruerne det dårligt?"
   },
   {
     "Sentence": "angut qanga ajorpa?",
@@ -6598,50 +6114,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor har døtrene det dårligt?"
-  },
-  {
-    "Sentence": "ui sooq ajorpa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor har ægtemanden det dårligt?"
-  },
-  {
-    "Sentence": "uiit sooq ajorpat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor har ægtemændene det dårligt?"
-  },
-  {
-    "Sentence": "nuliaq sooq ajorpa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor har hustruen det dårligt?"
-  },
-  {
-    "Sentence": "nuliat sooq ajorpat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor har hustruerne det dårligt?"
   },
   {
     "Sentence": "angut sooq ajorpa?",
@@ -7084,50 +6556,6 @@
     "Betydning": "hvornår forkyndte døtrene?"
   },
   {
-    "Sentence": "ui qanga oqaluussiva?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår forkyndte ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qanga oqaluussippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår forkyndte ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qanga oqaluussiva?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår forkyndte hustruen?"
-  },
-  {
-    "Sentence": "nuliat qanga oqaluussippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår forkyndte hustruerne?"
-  },
-  {
     "Sentence": "angut qanga oqaluussiva?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -7390,50 +6818,6 @@
     "VB1": "ppat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor forkynder døtrene?"
-  },
-  {
-    "Sentence": "ui sooq oqaluussiva?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor forkynder ægtemanden?"
-  },
-  {
-    "Sentence": "uiit sooq oqaluussippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor forkynder ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq sooq oqaluussiva?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor forkynder hustruen?"
-  },
-  {
-    "Sentence": "nuliat sooq oqaluussippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor forkynder hustruerne?"
   },
   {
     "Sentence": "angut sooq oqaluussiva?",
@@ -7720,50 +7104,6 @@
     "VB1": "ppat?",
     "VE_navn": "uku?",
     "Betydning": "hvornår spiste døtrene?"
-  },
-  {
-    "Sentence": "ui qanga neriva?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår spiste ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qanga nerippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår spiste ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qanga neriva?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår spiste hustruen?"
-  },
-  {
-    "Sentence": "nuliat qanga nerippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår spiste hustruerne?"
   },
   {
     "Sentence": "angut qanga neriva?",
@@ -8072,50 +7412,6 @@
     "VB1": "ppat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor spiser døtrene?"
-  },
-  {
-    "Sentence": "ui sooq neriva?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor spiser ægtemanden?"
-  },
-  {
-    "Sentence": "uiit sooq nerippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor spiser ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq sooq neriva?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor spiser hustruen?"
-  },
-  {
-    "Sentence": "nuliat sooq nerippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor spiser hustruerne?"
   },
   {
     "Sentence": "angut sooq neriva?",
@@ -8448,50 +7744,6 @@
     "Betydning": "hvornår var døtrene træt?"
   },
   {
-    "Sentence": "ui qanga qasua?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår var ægtemanden træt?"
-  },
-  {
-    "Sentence": "uiit qanga qasuppat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår var ægtemændene træt?"
-  },
-  {
-    "Sentence": "nuliaq qanga qasua?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår var hustruen træt?"
-  },
-  {
-    "Sentence": "nuliat qanga qasuppat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår var hustruerne træt?"
-  },
-  {
     "Sentence": "angut qanga qasua?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -8798,50 +8050,6 @@
     "VB1": "ppat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor er døtrene træt?"
-  },
-  {
-    "Sentence": "ui sooq qasua?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor er ægtemanden træt?"
-  },
-  {
-    "Sentence": "uiit sooq qasuppat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor er ægtemændene træt?"
-  },
-  {
-    "Sentence": "nuliaq sooq qasua?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor er hustruen træt?"
-  },
-  {
-    "Sentence": "nuliat sooq qasuppat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor er hustruerne træt?"
   },
   {
     "Sentence": "angut sooq qasua?",
@@ -9174,50 +8382,6 @@
     "Betydning": "hvornår læste døtrene?"
   },
   {
-    "Sentence": "ui qanga atuarpa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår læste ægtemanden?"
-  },
-  {
-    "Sentence": "uiit qanga atuarpat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår læste ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq qanga atuarpa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvornår læste hustruen?"
-  },
-  {
-    "Sentence": "nuliat qanga atuarpat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvornår læste hustruerne?"
-  },
-  {
     "Sentence": "angut qanga atuarpa?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -9480,50 +8644,6 @@
     "VB1": "pat?",
     "VE_navn": "uku?",
     "Betydning": "hvorfor læser døtrene?"
-  },
-  {
-    "Sentence": "ui sooq atuarpa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor læser ægtemanden?"
-  },
-  {
-    "Sentence": "uiit sooq atuarpat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "grundled": "flertal",
-    "NG1_end": "-it",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor læser ægtemændene?"
-  },
-  {
-    "Sentence": "nuliaq sooq atuarpa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "ental",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "VE_navn": "una?",
-    "Betydning": "hvorfor læser hustruen?"
-  },
-  {
-    "Sentence": "nuliat sooq atuarpat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "grundled": "flertal",
-    "NG1_end": "-t",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "VE_navn": "uku?",
-    "Betydning": "hvorfor læser hustruerne?"
   },
   {
     "Sentence": "angut sooq atuarpa?",

@@ -5,9 +5,9 @@ onPageTitle: Til selvstudie
 ---
 
 **Forholdsendelser**
-±mi/±ni = i / på / hos / ved
-±mut/±nut = til / ind i / hen på
-±mit/±nit = fra / ud af / end
+<br>±mi/±ni = i / på / hos / ved
+<br>±mut/±nut = til / ind i / hen på
+<br>±mit/±nit = fra / ud af / end
 
 Endelserne kan kun sættes på navneord (nomen). De sættes på entalsordet. Et ord med en forholdsendelse kan aldrig fungere som grundled eller genstandsled i en sætning.
 + ved stærke stammer og - ved svage stammer. (Undtagelse for T-stammer: Hvis endelsen starter med m, bliver det til en plusendelse - det hedder fx angummut)

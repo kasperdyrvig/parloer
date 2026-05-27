@@ -4340,46 +4340,6 @@
     "Lyd": "434.mp3"
   },
   {
-    "Sentence": "ui qanoq ateqarpa?",
-    "Smaaord": "qanoq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "ateqar",
-    "VB1": "pa?",
-    "Betydning": "hvad hedder ægtemanden?",
-    "Lyd": "435.mp3"
-  },
-  {
-    "Sentence": "uiit qanoq ateqarpat?",
-    "Smaaord": "qanoq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "Betydning": "hvad hedder ægtemændene?",
-    "Lyd": "436.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanoq ateqarpa?",
-    "Smaaord": "qanoq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "ateqar",
-    "VB1": "pa?",
-    "Betydning": "hvad hedder hustruen?",
-    "Lyd": "437.mp3"
-  },
-  {
-    "Sentence": "nuliat qanoq ateqarpat?",
-    "Smaaord": "qanoq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "ateqar",
-    "VB1": "pat?",
-    "Betydning": "hvad hedder hustruerne?",
-    "Lyd": "438.mp3"
-  },
-  {
     "Sentence": "angut qanoq ateqarpa?",
     "Smaaord": "qanoq",
     "NG1": "angut",
@@ -4658,46 +4618,6 @@
     "VB1": "pat?",
     "Betydning": "hvor gamle er døtrene?",
     "Lyd": "466.mp3"
-  },
-  {
-    "Sentence": "ui qassinik ukioqarpa?",
-    "Smaaord": "qassinik",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "ukioqar",
-    "VB1": "pa?",
-    "Betydning": "hvor gammel er ægtemanden?",
-    "Lyd": "467.mp3"
-  },
-  {
-    "Sentence": "uiit qassinik ukioqarpat?",
-    "Smaaord": "qassinik",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "ukioqar",
-    "VB1": "pat?",
-    "Betydning": "hvor gamle er ægtemændene?",
-    "Lyd": "468.mp3"
-  },
-  {
-    "Sentence": "nuliaq qassinik ukioqarpa?",
-    "Smaaord": "qassinik",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "ukioqar",
-    "VB1": "pa?",
-    "Betydning": "hvor gammel er hustruen?",
-    "Lyd": "469.mp3"
-  },
-  {
-    "Sentence": "nuliat qassinik ukioqarpat?",
-    "Smaaord": "qassinik",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "ukioqar",
-    "VB1": "pat?",
-    "Betydning": "hvor gamle er hustruerne?",
-    "Lyd": "470.mp3"
   },
   {
     "Sentence": "angut qassinik ukioqarpa?",
@@ -5000,46 +4920,6 @@
     "Lyd": "500.mp3"
   },
   {
-    "Sentence": "ui qanga tikippa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "Betydning": "hvornår ankom ægtemanden?",
-    "Lyd": "501.mp3"
-  },
-  {
-    "Sentence": "uiit qanga tikippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "Betydning": "hvornår ankom ægtemændene?",
-    "Lyd": "502.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga tikippa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "Betydning": "hvornår ankom hustruen?",
-    "Lyd": "503.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga tikippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "Betydning": "hvornår ankom hustruerne?",
-    "Lyd": "504.mp3"
-  },
-  {
     "Sentence": "angut qanga tikippa?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -5278,46 +5158,6 @@
     "VB1": "pat?",
     "Betydning": "hvorfor ankommer døtrene?",
     "Lyd": "528.mp3"
-  },
-  {
-    "Sentence": "ui sooq tikippa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "Betydning": "hvorfor ankommer ægtemanden?",
-    "Lyd": "529.mp3"
-  },
-  {
-    "Sentence": "uiit sooq tikippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "Betydning": "hvorfor ankommer ægtemændene?",
-    "Lyd": "530.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq tikippa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "tikip",
-    "VB1": "pa?",
-    "Betydning": "hvorfor ankommer hustruen?",
-    "Lyd": "531.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq tikippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "tikip",
-    "VB1": "pat?",
-    "Betydning": "hvorfor ankommer hustruerne?",
-    "Lyd": "532.mp3"
   },
   {
     "Sentence": "angut sooq tikippa?",
@@ -5578,46 +5418,6 @@
     "VB1": "pat?",
     "Betydning": "hvornår havde døtrene det dårligt?",
     "Lyd": "558.mp3"
-  },
-  {
-    "Sentence": "ui qanga ajorpa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "Betydning": "hvornår havde ægtemanden det dårligt?",
-    "Lyd": "559.mp3"
-  },
-  {
-    "Sentence": "uiit qanga ajorpat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "Betydning": "hvornår havde ægtemændene det dårligt?",
-    "Lyd": "560.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga ajorpa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "Betydning": "hvornår havde hustruen det dårligt?",
-    "Lyd": "561.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga ajorpat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "Betydning": "hvornår havde hustruerne det dårligt?",
-    "Lyd": "562.mp3"
   },
   {
     "Sentence": "angut qanga ajorpa?",
@@ -5998,46 +5798,6 @@
     "VB1": "pat?",
     "Betydning": "hvorfor har døtrene det dårligt?",
     "Lyd": "600.mp3"
-  },
-  {
-    "Sentence": "ui sooq ajorpa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "Betydning": "hvorfor har ægtemanden det dårligt?",
-    "Lyd": "601.mp3"
-  },
-  {
-    "Sentence": "uiit sooq ajorpat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "Betydning": "hvorfor har ægtemændene det dårligt?",
-    "Lyd": "602.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq ajorpa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "ajor",
-    "VB1": "pa?",
-    "Betydning": "hvorfor har hustruen det dårligt?",
-    "Lyd": "603.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq ajorpat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "ajor",
-    "VB1": "pat?",
-    "Betydning": "hvorfor har hustruerne det dårligt?",
-    "Lyd": "604.mp3"
   },
   {
     "Sentence": "angut sooq ajorpa?",
@@ -6440,46 +6200,6 @@
     "Lyd": "644.mp3"
   },
   {
-    "Sentence": "ui qanga oqaluussiva?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "Betydning": "hvornår forkyndte ægtemanden?",
-    "Lyd": "645.mp3"
-  },
-  {
-    "Sentence": "uiit qanga oqaluussippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "Betydning": "hvornår forkyndte ægtemændene?",
-    "Lyd": "646.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga oqaluussiva?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "Betydning": "hvornår forkyndte hustruen?",
-    "Lyd": "647.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga oqaluussippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "Betydning": "hvornår forkyndte hustruerne?",
-    "Lyd": "648.mp3"
-  },
-  {
     "Sentence": "angut qanga oqaluussiva?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -6718,46 +6438,6 @@
     "VB1": "ppat?",
     "Betydning": "hvorfor forkynder døtrene?",
     "Lyd": "672.mp3"
-  },
-  {
-    "Sentence": "ui sooq oqaluussiva?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "Betydning": "hvorfor forkynder ægtemanden?",
-    "Lyd": "673.mp3"
-  },
-  {
-    "Sentence": "uiit sooq oqaluussippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor forkynder ægtemændene?",
-    "Lyd": "674.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq oqaluussiva?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "oqaluussi",
-    "VB1": "va?",
-    "Betydning": "hvorfor forkynder hustruen?",
-    "Lyd": "675.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq oqaluussippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "oqaluussi",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor forkynder hustruerne?",
-    "Lyd": "676.mp3"
   },
   {
     "Sentence": "angut sooq oqaluussiva?",
@@ -7018,46 +6698,6 @@
     "VB1": "ppat?",
     "Betydning": "hvornår spiste døtrene?",
     "Lyd": "702.mp3"
-  },
-  {
-    "Sentence": "ui qanga neriva?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "Betydning": "hvornår spiste ægtemanden?",
-    "Lyd": "703.mp3"
-  },
-  {
-    "Sentence": "uiit qanga nerippat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "Betydning": "hvornår spiste ægtemændene?",
-    "Lyd": "704.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga neriva?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "Betydning": "hvornår spiste hustruen?",
-    "Lyd": "705.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga nerippat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "Betydning": "hvornår spiste hustruerne?",
-    "Lyd": "706.mp3"
   },
   {
     "Sentence": "angut qanga neriva?",
@@ -7338,46 +6978,6 @@
     "VB1": "ppat?",
     "Betydning": "hvorfor spiser døtrene?",
     "Lyd": "734.mp3"
-  },
-  {
-    "Sentence": "ui sooq neriva?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "Betydning": "hvorfor spiser ægtemanden?",
-    "Lyd": "735.mp3"
-  },
-  {
-    "Sentence": "uiit sooq nerippat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor spiser ægtemændene?",
-    "Lyd": "736.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq neriva?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "neri",
-    "VB1": "va?",
-    "Betydning": "hvorfor spiser hustruen?",
-    "Lyd": "737.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq nerippat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "neri",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor spiser hustruerne?",
-    "Lyd": "738.mp3"
   },
   {
     "Sentence": "angut sooq neriva?",
@@ -7680,46 +7280,6 @@
     "Lyd": "768.mp3"
   },
   {
-    "Sentence": "ui qanga qasua?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "Betydning": "hvornår var ægtemanden træt?",
-    "Lyd": "769.mp3"
-  },
-  {
-    "Sentence": "uiit qanga qasuppat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "Betydning": "hvornår var ægtemændene træt?",
-    "Lyd": "770.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga qasua?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "Betydning": "hvornår var hustruen træt?",
-    "Lyd": "771.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga qasuppat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "Betydning": "hvornår var hustruerne træt?",
-    "Lyd": "772.mp3"
-  },
-  {
     "Sentence": "angut qanga qasua?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -7998,46 +7558,6 @@
     "VB1": "ppat?",
     "Betydning": "hvorfor er døtrene træt?",
     "Lyd": "800.mp3"
-  },
-  {
-    "Sentence": "ui sooq qasua?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "Betydning": "hvorfor er ægtemanden træt?",
-    "Lyd": "801.mp3"
-  },
-  {
-    "Sentence": "uiit sooq qasuppat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor er ægtemændene træt?",
-    "Lyd": "802.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq qasua?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "qasu",
-    "VB1": "va?",
-    "Betydning": "hvorfor er hustruen træt?",
-    "Lyd": "803.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq qasuppat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "qasu",
-    "VB1": "ppat?",
-    "Betydning": "hvorfor er hustruerne træt?",
-    "Lyd": "804.mp3"
   },
   {
     "Sentence": "angut sooq qasua?",
@@ -8340,46 +7860,6 @@
     "Lyd": "834.mp3"
   },
   {
-    "Sentence": "ui qanga atuarpa?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "Betydning": "hvornår læste ægtemanden?",
-    "Lyd": "835.mp3"
-  },
-  {
-    "Sentence": "uiit qanga atuarpat?",
-    "Smaaord": "qanga",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "Betydning": "hvornår læste ægtemændene?",
-    "Lyd": "836.mp3"
-  },
-  {
-    "Sentence": "nuliaq qanga atuarpa?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "Betydning": "hvornår læste hustruen?",
-    "Lyd": "837.mp3"
-  },
-  {
-    "Sentence": "nuliat qanga atuarpat?",
-    "Smaaord": "qanga",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "Betydning": "hvornår læste hustruerne?",
-    "Lyd": "838.mp3"
-  },
-  {
     "Sentence": "angut qanga atuarpa?",
     "Smaaord": "qanga",
     "NG1": "angut",
@@ -8618,46 +8098,6 @@
     "VB1": "pat?",
     "Betydning": "hvorfor læser døtrene?",
     "Lyd": "862.mp3"
-  },
-  {
-    "Sentence": "ui sooq atuarpa?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "Betydning": "hvorfor læser ægtemanden?",
-    "Lyd": "863.mp3"
-  },
-  {
-    "Sentence": "uiit sooq atuarpat?",
-    "Smaaord": "sooq",
-    "NG1": "ui",
-    "NG1_end": "-it",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "Betydning": "hvorfor læser ægtemændene?",
-    "Lyd": "864.mp3"
-  },
-  {
-    "Sentence": "nuliaq sooq atuarpa?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "",
-    "V1": "atuar",
-    "VB1": "pa?",
-    "Betydning": "hvorfor læser hustruen?",
-    "Lyd": "865.mp3"
-  },
-  {
-    "Sentence": "nuliat sooq atuarpat?",
-    "Smaaord": "sooq",
-    "NG1": "nuliaq",
-    "NG1_end": "-t",
-    "V1": "atuar",
-    "VB1": "pat?",
-    "Betydning": "hvorfor læser hustruerne?",
-    "Lyd": "866.mp3"
   },
   {
     "Sentence": "angut sooq atuarpa?",

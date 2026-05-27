@@ -1,0 +1,274 @@
+[
+  {
+    "navneord_grundord": "nalunaajaasoq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "nalunaajaasumut",
+    "Dansk": "til vidnet",
+    "Lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "navneord_grundord": "asaasartoq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "asaasartumut",
+    "Dansk": "til rengøringsassistenten",
+    "Lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "navneord_grundord": "sanasoq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "sanasumut",
+    "Dansk": "til tømreren",
+    "Lyd": "3_sanasoq.mp3"
+  },
+  {
+    "navneord_grundord": "erneq",
+    "navneordsendelse": "rmut",
+    "Gruppe": "Stærk",
+    "resultat": "ernermut",
+    "Dansk": "til sønnen",
+    "Lyd": "4_erneq.mp3"
+  },
+  {
+    "navneord_grundord": "panik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "panimmut",
+    "Dansk": "til datteren",
+    "Lyd": "5_panik.mp3"
+  },
+  {
+    "navneord_grundord": "angut",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Svag",
+    "resultat": "angummut",
+    "Dansk": "til manden",
+    "Lyd": "8_angut.mp3"
+  },
+  {
+    "navneord_grundord": "arnaq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "arnamut",
+    "Dansk": "til kvinden",
+    "Lyd": "9_arnaq.mp3"
+  },
+  {
+    "navneord_grundord": "ataata",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "ataatamut",
+    "Dansk": "til faren",
+    "Lyd": "10_ataata.mp3"
+  },
+  {
+    "navneord_grundord": "anaana",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "anaanamut",
+    "Dansk": "til moren",
+    "Lyd": "11_anaana.mp3"
+  },
+  {
+    "navneord_grundord": "qatanngut",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Svag",
+    "resultat": "qatanngummut",
+    "Dansk": "til søskendet",
+    "Lyd": "12_qatanngut.mp3"
+  },
+  {
+    "navneord_grundord": "sinittarfik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "sinittarfimmut",
+    "Dansk": "til sengen",
+    "Lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "navneord_grundord": "igaffik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "igaffimmut",
+    "Dansk": "til køkkenet",
+    "Lyd": "14_igaffik.mp3"
+  },
+  {
+    "navneord_grundord": "issiavik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "issiavimmut",
+    "Dansk": "til stolen",
+    "Lyd": "15_issiavik.mp3"
+  },
+  {
+    "navneord_grundord": "nerrivik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "nerrivimmut",
+    "Dansk": "til bordet",
+    "Lyd": "16_nerrivik.mp3"
+  },
+  {
+    "navneord_grundord": "siku",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "sikumut",
+    "Dansk": "til isen",
+    "Lyd": "17_siku.mp3"
+  },
+  {
+    "navneord_grundord": "tuttu",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "tuttumut",
+    "Dansk": "til rensdyret",
+    "Lyd": "18_tuttu.mp3"
+  },
+  {
+    "navneord_grundord": "umimmak",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "umimmammut",
+    "Dansk": "til moskusoksen",
+    "Lyd": "19_umimmak.mp3"
+  },
+  {
+    "navneord_grundord": "illu",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "illumut",
+    "Dansk": "til huset",
+    "Lyd": "20_illu.mp3"
+  },
+  {
+    "navneord_grundord": "pisiniarfik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "pisiniarfimmut",
+    "Dansk": "til butikken",
+    "Lyd": "21_pisiniarfik.mp3"
+  },
+  {
+    "navneord_grundord": "Qaanaaq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Qaanaamut",
+    "Dansk": "til Qaanaaq",
+    "Lyd": "22_Qaanaaq.mp3"
+  },
+  {
+    "navneord_grundord": "Maniitsoq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Maniitsumut",
+    "Dansk": "til Maniitsoq",
+    "Lyd": "23_Maniitsoq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsaq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Narsamut",
+    "Dansk": "til Narsaq",
+    "Lyd": "24_Narsaq.mp3"
+  },
+  {
+    "navneord_grundord": "Qaqortoq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Qaqortumut",
+    "Dansk": "til Qaqortoq",
+    "Lyd": "25_Qaqortoq.mp3"
+  },
+  {
+    "navneord_grundord": "Tasiilaq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Tasiilamut",
+    "Dansk": "til Tasiilaq",
+    "Lyd": "26_Tasiilaq.mp3"
+  },
+  {
+    "navneord_grundord": "Uummannaq",
+    "navneordsendelse": "mut",
+    "Gruppe": "Svag",
+    "resultat": "Uummannamut",
+    "Dansk": "til Uummannaq",
+    "Lyd": "27_Uummannaq.mp3"
+  },
+  {
+    "navneord_grundord": "Kangerlussuaq",
+    "navneordsendelse": "rmut",
+    "Gruppe": "Stærk",
+    "resultat": "Kangerlussuarmut",
+    "Dansk": "til Kangerlussuaq",
+    "Lyd": "28_Kangerlussuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Narsarsuaq",
+    "navneordsendelse": "rmut",
+    "Gruppe": "Stærk",
+    "resultat": "Narsarsuarmut",
+    "Dansk": "til Narsarsuaq",
+    "Lyd": "29_Narsarsuaq.mp3"
+  },
+  {
+    "navneord_grundord": "Nuuk",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "Nuummut",
+    "Dansk": "til Nuuk",
+    "Lyd": "30_Nuuk.mp3"
+  },
+  {
+    "navneord_grundord": "Nanortalik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "Nanortalimmut",
+    "Dansk": "til Nanortalik",
+    "Lyd": "31_Nanortalik.mp3"
+  },
+  {
+    "navneord_grundord": "Pituffik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "Pituffimmut",
+    "Dansk": "til Pituffik",
+    "Lyd": "32_Pituffik.mp3"
+  },
+  {
+    "navneord_grundord": "Upernavik",
+    "navneordsendelse": "mmut",
+    "Gruppe": "Stærk",
+    "resultat": "Upernavimmut",
+    "Dansk": "til Upernavik",
+    "Lyd": "33_Upernavik.mp3"
+  },
+  {
+    "navneord_grundord": "Paamiut",
+    "navneordsendelse": "nut",
+    "Gruppe": "Svag",
+    "resultat": "Paamiunut",
+    "Dansk": "til Paamiut",
+    "Lyd": "34_Paamiut.mp3"
+  },
+  {
+    "navneord_grundord": "Aasiaat",
+    "navneordsendelse": "nnut",
+    "Gruppe": "Stærk",
+    "resultat": "Aasiannut",
+    "Dansk": "til Aasiaat",
+    "Lyd": "35_Aasiaat.mp3"
+  },
+  {
+    "navneord_grundord": "Sisimiut",
+    "navneordsendelse": "nut",
+    "Gruppe": "Svag",
+    "resultat": "Sisimiunut",
+    "Dansk": "til Sisimiut",
+    "Lyd": "36_Sisimiut.mp3"
+  }
+]

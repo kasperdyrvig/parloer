@@ -1,0 +1,274 @@
+[
+  {
+    "Grundord": "nalunaajaasoq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "nalunaajaasumi",
+    "Dansk": "hos vidnet",
+    "Lyd": "1_nalunaajaasoq.mp3"
+  },
+  {
+    "Grundord": "asaasartoq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "asaasartumi",
+    "Dansk": "hos rengøringsassistenten",
+    "Lyd": "2_asaasartoq.mp3"
+  },
+  {
+    "Grundord": "sanasoq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "sanasumi",
+    "Dansk": "hos tømreren",
+    "Lyd": "3_sanasoq.mp3"
+  },
+  {
+    "Grundord": "erneq",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "ernermi",
+    "Dansk": "hos sønnen",
+    "Lyd": "4_erneq.mp3"
+  },
+  {
+    "Grundord": "panik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "panimmi",
+    "Dansk": "hos datteren",
+    "Lyd": "5_panik.mp3"
+  },
+  {
+    "Grundord": "angut",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "angummi",
+    "Dansk": "hos manden",
+    "Lyd": "8_angut.mp3"
+  },
+  {
+    "Grundord": "arnaq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "arnami",
+    "Dansk": "hos kvinden",
+    "Lyd": "9_arnaq.mp3"
+  },
+  {
+    "Grundord": "ataata",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "ataatami",
+    "Dansk": "hos faren",
+    "Lyd": "10_ataata.mp3"
+  },
+  {
+    "Grundord": "anaana",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "anaanami",
+    "Dansk": "hos moren",
+    "Lyd": "11_anaana.mp3"
+  },
+  {
+    "Grundord": "qatanngut",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "qatanngummi",
+    "Dansk": "hos søskendet",
+    "Lyd": "12_qatanngut.mp3"
+  },
+  {
+    "Grundord": "sinittarfik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "sinittarfimmi",
+    "Dansk": "i sengen",
+    "Lyd": "13_sinittarfik.mp3"
+  },
+  {
+    "Grundord": "igaffik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "igaffimmi",
+    "Dansk": "i køkkenet",
+    "Lyd": "14_igaffik.mp3"
+  },
+  {
+    "Grundord": "issiavik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "issiavimmi",
+    "Dansk": "på stolen",
+    "Lyd": "15_issiavik.mp3"
+  },
+  {
+    "Grundord": "nerrivik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "nerrivimmi",
+    "Dansk": "på bordet",
+    "Lyd": "16_nerrivik.mp3"
+  },
+  {
+    "Grundord": "siku",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "sikumi",
+    "Dansk": "på isen",
+    "Lyd": "17_siku.mp3"
+  },
+  {
+    "Grundord": "tuttu",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "tuttumi",
+    "Dansk": "på rensdyret",
+    "Lyd": "18_tuttu.mp3"
+  },
+  {
+    "Grundord": "umimmak",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "umimmammi",
+    "Dansk": "på moskusoksen",
+    "Lyd": "19_umimmak.mp3"
+  },
+  {
+    "Grundord": "illu",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "illumi",
+    "Dansk": "i huset",
+    "Lyd": "20_illu.mp3"
+  },
+  {
+    "Grundord": "pisiniarfik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "pisiniarfimmi",
+    "Dansk": "i butikken",
+    "Lyd": "21_pisiniarfik.mp3"
+  },
+  {
+    "Grundord": "Qaanaaq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Qaanaami",
+    "Dansk": "i Qaanaaq",
+    "Lyd": "22_Qaanaaq.mp3"
+  },
+  {
+    "Grundord": "Maniitsoq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Maniitsumi",
+    "Dansk": "i Maniitsoq",
+    "Lyd": "23_Maniitsoq.mp3"
+  },
+  {
+    "Grundord": "Narsaq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Narsami",
+    "Dansk": "i Narsaq",
+    "Lyd": "24_Narsaq.mp3"
+  },
+  {
+    "Grundord": "Qaqortoq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Qaqortumi",
+    "Dansk": "i Qaqortoq",
+    "Lyd": "25_Qaqortoq.mp3"
+  },
+  {
+    "Grundord": "Tasiilaq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Tasiilami",
+    "Dansk": "i Tasiilaq",
+    "Lyd": "26_Tasiilaq.mp3"
+  },
+  {
+    "Grundord": "Uummannaq",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Uummannami",
+    "Dansk": "i Uummannaq",
+    "Lyd": "27_Uummannaq.mp3"
+  },
+  {
+    "Grundord": "Kangerlussuaq",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Kangerlussuarmi",
+    "Dansk": "i Kangerlussuaq",
+    "Lyd": "28_Kangerlussuaq.mp3"
+  },
+  {
+    "Grundord": "Narsarsuaq",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Narsarsuarmi",
+    "Dansk": "i Narsarsuaq",
+    "Lyd": "29_Narsarsuaq.mp3"
+  },
+  {
+    "Grundord": "Nuuk",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Nuummi",
+    "Dansk": "i Nuuk",
+    "Lyd": "30_Nuuk.mp3"
+  },
+  {
+    "Grundord": "Nanortalik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Nanortalimmi",
+    "Dansk": "i Nanortalik",
+    "Lyd": "31_Nanortalik.mp3"
+  },
+  {
+    "Grundord": "Pituffik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Pituffimmi",
+    "Dansk": "i Pituffik",
+    "Lyd": "32_Pituffik.mp3"
+  },
+  {
+    "Grundord": "Upernavik",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Upernavimmi",
+    "Dansk": "i Upernavik",
+    "Lyd": "33_Upernavik.mp3"
+  },
+  {
+    "Grundord": "Paamiut",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Paamiuni",
+    "Dansk": "i Paamiut",
+    "Lyd": "34_Paamiut.mp3"
+  },
+  {
+    "Grundord": "Aasiaat",
+    "Endelse": "mi",
+    "Gruppe": "Stærk",
+    "Resultat": "Aasianni",
+    "Dansk": "i Aasiaat",
+    "Lyd": "35_Aasiaat.mp3"
+  },
+  {
+    "Grundord": "Sisimiut",
+    "Endelse": "mi",
+    "Gruppe": "Svag",
+    "Resultat": "Sisimiuni",
+    "Dansk": "i Sisimiut",
+    "Lyd": "36_Sisimiut.mp3"
+  }
+]
