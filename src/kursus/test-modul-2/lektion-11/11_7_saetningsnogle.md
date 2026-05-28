@@ -3,8 +3,8 @@ tags: homework
 layout: exercise
 partOfLesson: 110
 sortNumber: 7
-previewText: Virker ikke - 10.7 - ordnøgle
-onPageTitle: Øvelse 10.7 - ordnøgle
+previewText: Virker ikke - 11.7 - ordnøgle
+onPageTitle: Øvelse 11.7 - ordnøgle
 onPageDescription: Lav et ord ud fra de mulige valg.
 linkText: Start øvelsen
 ---
