@@ -1,0 +1,478 @@
+[
+  {
+    "prompt": "vidne",
+    "svar": "nalunaajaasoq",
+    "valg1": "asaasartoq",
+    "valg2": "sanasoq",
+    "valg3": "erneq"
+  },
+  {
+    "prompt": "nalunaajaasoq",
+    "svar": "vidne",
+    "valg1": "rengøringsassistent",
+    "valg2": "tømrer",
+    "valg3": "søn"
+  },
+  {
+    "prompt": "rengøringsassistent",
+    "svar": "asaasartoq",
+    "valg1": "sanasoq",
+    "valg2": "erneq",
+    "valg3": "panik"
+  },
+  {
+    "prompt": "asaasartoq",
+    "svar": "rengøringsassistent",
+    "valg1": "tømrer",
+    "valg2": "søn",
+    "valg3": "datter"
+  },
+  {
+    "prompt": "tømrer",
+    "svar": "sanasoq",
+    "valg1": "erneq",
+    "valg2": "panik",
+    "valg3": "ui"
+  },
+  {
+    "prompt": "sanasoq",
+    "svar": "tømrer",
+    "valg1": "søn",
+    "valg2": "datter",
+    "valg3": "ægtemand"
+  },
+  {
+    "prompt": "søn",
+    "svar": "erneq",
+    "valg1": "panik",
+    "valg2": "ui",
+    "valg3": "nuliaq"
+  },
+  {
+    "prompt": "erneq",
+    "svar": "søn",
+    "valg1": "datter",
+    "valg2": "ægtemand",
+    "valg3": "hustru"
+  },
+  {
+    "prompt": "datter",
+    "svar": "panik",
+    "valg1": "ui",
+    "valg2": "nuliaq",
+    "valg3": "angut"
+  },
+  {
+    "prompt": "panik",
+    "svar": "datter",
+    "valg1": "ægtemand",
+    "valg2": "hustru",
+    "valg3": "mand"
+  },
+  {
+    "prompt": "ægtemand",
+    "svar": "ui",
+    "valg1": "nuliaq",
+    "valg2": "angut",
+    "valg3": "arnaq"
+  },
+  {
+    "prompt": "ui",
+    "svar": "ægtemand",
+    "valg1": "hustru",
+    "valg2": "mand",
+    "valg3": "kvinde"
+  },
+  {
+    "prompt": "hustru",
+    "svar": "nuliaq",
+    "valg1": "angut",
+    "valg2": "arnaq",
+    "valg3": "ataata"
+  },
+  {
+    "prompt": "nuliaq",
+    "svar": "hustru",
+    "valg1": "mand",
+    "valg2": "kvinde",
+    "valg3": "far"
+  },
+  {
+    "prompt": "mand",
+    "svar": "angut",
+    "valg1": "arnaq",
+    "valg2": "ataata",
+    "valg3": "anaana"
+  },
+  {
+    "prompt": "angut",
+    "svar": "mand",
+    "valg1": "kvinde",
+    "valg2": "far",
+    "valg3": "mor"
+  },
+  {
+    "prompt": "kvinde",
+    "svar": "arnaq",
+    "valg1": "ataata",
+    "valg2": "anaana",
+    "valg3": "qatanngut"
+  },
+  {
+    "prompt": "arnaq",
+    "svar": "kvinde",
+    "valg1": "far",
+    "valg2": "mor",
+    "valg3": "bror/søster"
+  },
+  {
+    "prompt": "far",
+    "svar": "ataata",
+    "valg1": "anaana",
+    "valg2": "qatanngut",
+    "valg3": "sinittarfik"
+  },
+  {
+    "prompt": "ataata",
+    "svar": "far",
+    "valg1": "mor",
+    "valg2": "bror/søster",
+    "valg3": "seng"
+  },
+  {
+    "prompt": "mor",
+    "svar": "anaana",
+    "valg1": "qatanngut",
+    "valg2": "sinittarfik",
+    "valg3": "igaffik"
+  },
+  {
+    "prompt": "anaana",
+    "svar": "mor",
+    "valg1": "bror/søster",
+    "valg2": "seng",
+    "valg3": "køkken"
+  },
+  {
+    "prompt": "bror/søster",
+    "svar": "qatanngut",
+    "valg1": "sinittarfik",
+    "valg2": "igaffik",
+    "valg3": "issiavik"
+  },
+  {
+    "prompt": "qatanngut",
+    "svar": "bror/søster",
+    "valg1": "seng",
+    "valg2": "køkken",
+    "valg3": "stol"
+  },
+  {
+    "prompt": "seng",
+    "svar": "sinittarfik",
+    "valg1": "igaffik",
+    "valg2": "issiavik",
+    "valg3": "nerrivik"
+  },
+  {
+    "prompt": "sinittarfik",
+    "svar": "seng",
+    "valg1": "køkken",
+    "valg2": "stol",
+    "valg3": "bord"
+  },
+  {
+    "prompt": "køkken",
+    "svar": "igaffik",
+    "valg1": "issiavik",
+    "valg2": "nerrivik",
+    "valg3": "siku"
+  },
+  {
+    "prompt": "igaffik",
+    "svar": "køkken",
+    "valg1": "stol",
+    "valg2": "bord",
+    "valg3": "is"
+  },
+  {
+    "prompt": "stol",
+    "svar": "issiavik",
+    "valg1": "nerrivik",
+    "valg2": "siku",
+    "valg3": "tuttu"
+  },
+  {
+    "prompt": "issiavik",
+    "svar": "stol",
+    "valg1": "bord",
+    "valg2": "is",
+    "valg3": "rensdyr"
+  },
+  {
+    "prompt": "bord",
+    "svar": "nerrivik",
+    "valg1": "siku",
+    "valg2": "tuttu",
+    "valg3": "umimmak"
+  },
+  {
+    "prompt": "nerrivik",
+    "svar": "bord",
+    "valg1": "is",
+    "valg2": "rensdyr",
+    "valg3": "moskusokse"
+  },
+  {
+    "prompt": "is",
+    "svar": "siku",
+    "valg1": "tuttu",
+    "valg2": "umimmak",
+    "valg3": "illu"
+  },
+  {
+    "prompt": "siku",
+    "svar": "is",
+    "valg1": "rensdyr",
+    "valg2": "moskusokse",
+    "valg3": "hus"
+  },
+  {
+    "prompt": "rensdyr",
+    "svar": "tuttu",
+    "valg1": "umimmak",
+    "valg2": "illu",
+    "valg3": "pisiniarfik"
+  },
+  {
+    "prompt": "tuttu",
+    "svar": "rensdyr",
+    "valg1": "moskusokse",
+    "valg2": "hus",
+    "valg3": "butik"
+  },
+  {
+    "prompt": "moskusokse",
+    "svar": "umimmak",
+    "valg1": "illu",
+    "valg2": "pisiniarfik",
+    "valg3": "nalunaajaasoq"
+  },
+  {
+    "prompt": "umimmak",
+    "svar": "moskusokse",
+    "valg1": "hus",
+    "valg2": "butik",
+    "valg3": "vidne"
+  },
+  {
+    "prompt": "hus",
+    "svar": "illu",
+    "valg1": "pisiniarfik",
+    "valg2": "nalunaajaasoq",
+    "valg3": "asaasartoq"
+  },
+  {
+    "prompt": "illu",
+    "svar": "hus",
+    "valg1": "butik",
+    "valg2": "vidne",
+    "valg3": "rengøringsassistent"
+  },
+  {
+    "prompt": "butik",
+    "svar": "pisiniarfik",
+    "valg1": "nalunaajaasoq",
+    "valg2": "asaasartoq",
+    "valg3": "sanasoq"
+  },
+  {
+    "prompt": "pisiniarfik",
+    "svar": "butik",
+    "valg1": "vidne",
+    "valg2": "rengøringsassistent",
+    "valg3": "tømrer"
+  },
+  {
+    "prompt": "hedder",
+    "svar": "ateqar-",
+    "valg1": "najugaqar-",
+    "valg2": "ukioqar-",
+    "valg3": "tikip-"
+  },
+  {
+    "prompt": "ateqar-",
+    "svar": "hedder",
+    "valg1": "bor",
+    "valg2": "er år gammel",
+    "valg3": "ankommer"
+  },
+  {
+    "prompt": "bor",
+    "svar": "najugaqar-",
+    "valg1": "ukioqar-",
+    "valg2": "tikip-",
+    "valg3": "ajor-"
+  },
+  {
+    "prompt": "najugaqar-",
+    "svar": "bor",
+    "valg1": "er år gammel",
+    "valg2": "ankommer",
+    "valg3": "er dårlig/i stykker"
+  },
+  {
+    "prompt": "er år gammel",
+    "svar": "ukioqar-",
+    "valg1": "tikip-",
+    "valg2": "ajor-",
+    "valg3": "oqaluussi-"
+  },
+  {
+    "prompt": "ukioqar-",
+    "svar": "er år gammel",
+    "valg1": "ankommer",
+    "valg2": "er dårlig/i stykker",
+    "valg3": "forkynder"
+  },
+  {
+    "prompt": "ankommer",
+    "svar": "tikip-",
+    "valg1": "ajor-",
+    "valg2": "oqaluussi-",
+    "valg3": "neri-"
+  },
+  {
+    "prompt": "tikip-",
+    "svar": "ankommer",
+    "valg1": "er dårlig/i stykker",
+    "valg2": "forkynder",
+    "valg3": "spiser"
+  },
+  {
+    "prompt": "er dårlig/i stykker",
+    "svar": "ajor-",
+    "valg1": "oqaluussi-",
+    "valg2": "neri-",
+    "valg3": "qasu-"
+  },
+  {
+    "prompt": "ajor-",
+    "svar": "er dårlig/i stykker",
+    "valg1": "forkynder",
+    "valg2": "spiser",
+    "valg3": "er træt"
+  },
+  {
+    "prompt": "forkynder",
+    "svar": "oqaluussi-",
+    "valg1": "neri-",
+    "valg2": "qasu-",
+    "valg3": "atuar-"
+  },
+  {
+    "prompt": "oqaluussi-",
+    "svar": "forkynder",
+    "valg1": "spiser",
+    "valg2": "er træt",
+    "valg3": "læser"
+  },
+  {
+    "prompt": "spiser",
+    "svar": "neri-",
+    "valg1": "qasu-",
+    "valg2": "atuar-",
+    "valg3": "aallar-"
+  },
+  {
+    "prompt": "neri-",
+    "svar": "spiser",
+    "valg1": "er træt",
+    "valg2": "læser",
+    "valg3": "rejser"
+  },
+  {
+    "prompt": "er træt",
+    "svar": "qasu-",
+    "valg1": "atuar-",
+    "valg2": "aallar-",
+    "valg3": "arpap-"
+  },
+  {
+    "prompt": "qasu-",
+    "svar": "er træt",
+    "valg1": "læser",
+    "valg2": "rejser",
+    "valg3": "løber"
+  },
+  {
+    "prompt": "læser",
+    "svar": "atuar-",
+    "valg1": "aallar-",
+    "valg2": "arpap-",
+    "valg3": "ungasip-"
+  },
+  {
+    "prompt": "atuar-",
+    "svar": "læser",
+    "valg1": "rejser",
+    "valg2": "løber",
+    "valg3": "er langt væk"
+  },
+  {
+    "prompt": "rejser",
+    "svar": "aallar-",
+    "valg1": "arpap-",
+    "valg2": "ungasip-",
+    "valg3": "qanip-"
+  },
+  {
+    "prompt": "aallar-",
+    "svar": "rejser",
+    "valg1": "løber",
+    "valg2": "er langt væk",
+    "valg3": "er tæt på"
+  },
+  {
+    "prompt": "løber",
+    "svar": "arpap-",
+    "valg1": "ungasip-",
+    "valg2": "qanip-",
+    "valg3": "ateqar-"
+  },
+  {
+    "prompt": "arpap-",
+    "svar": "løber",
+    "valg1": "er langt væk",
+    "valg2": "er tæt på",
+    "valg3": "hedder"
+  },
+  {
+    "prompt": "er langt væk",
+    "svar": "ungasip-",
+    "valg1": "qanip-",
+    "valg2": "ateqar-",
+    "valg3": "najugaqar-"
+  },
+  {
+    "prompt": "ungasip-",
+    "svar": "er langt væk",
+    "valg1": "er tæt på",
+    "valg2": "hedder",
+    "valg3": "bor"
+  },
+  {
+    "prompt": "er tæt på",
+    "svar": "qanip-",
+    "valg1": "ateqar-",
+    "valg2": "najugaqar-",
+    "valg3": "ukioqar-"
+  },
+  {
+    "prompt": "qanip-",
+    "svar": "er tæt på",
+    "valg1": "hedder",
+    "valg2": "bor",
+    "valg3": "er år gammel"
+  }
+]

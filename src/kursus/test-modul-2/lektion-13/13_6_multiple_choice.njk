@@ -1,0 +1,19 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 130
+sortNumber: 6
+previewText: Virker ikke - 13.6 - øv termer
+onPageTitle: Øvelse 13.6 - øv termer
+onPageDescription: Øv dig på alle de ord vi har lært indtil nu.
+linkText: Start øvelsen
+mode: ???
+randomize: true
+---
+{# Her skal Kasper lave en mulighed for multiple choice #}
+{% for prompt in 13_6_multiple_choice %}
+{% taskStep %}
+    <task-instruction data-number="1">Vælg den korrekte oversættelse</task-instruction>
+    <task-instruction data-number="2">sig det grønlandske ord højt</task-instruction>
+{% endtaskStep %}
+{% endfor %}
