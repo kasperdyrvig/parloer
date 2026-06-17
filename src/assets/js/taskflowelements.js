@@ -393,7 +393,7 @@ class textInput extends HTMLElement {
         super();
         this._input = null;
         this._required = true;
-        this._validation = null;
+        this._validation = "";
         this._ignorePunctuation = !this.hasAttribute("data-validate-punctuation");
         this._response = null;
     }
@@ -565,7 +565,7 @@ class numberInput extends HTMLElement {
         super();
         this._input = null;
         this._required = true;
-        this._validation = null;
+        this._validation = "";
         this._response = null;
     }
 
@@ -736,7 +736,7 @@ class textareaInput extends HTMLElement {
         super();
         this._input = null;
         this._required = true;
-        this._validation = null;
+        this._validation = "";
         this._ignorePunctuation = !this.hasAttribute("data-validate-punctuation");
         this._response = null;
     }
@@ -908,7 +908,7 @@ class spellcheckInput extends HTMLElement {
         super();
         this._input = null;
         this._required = true;
-        this._validation = null;
+        this._validation = "";
         this._response = null;
         this._editable = true;
     }
