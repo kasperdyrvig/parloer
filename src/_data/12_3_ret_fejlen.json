@@ -6133,8 +6133,8 @@
     "NG2_end": "",
     "V2": "ajor",
     "VB2": "poq",
-    "Ret_grundled_da": "sengene er i stykker",
-    "Ret_verbum_da": "sengen er i stykker"
+    "Ret_grundled_da": "soveværelserne er i stykker",
+    "Ret_verbum_da": "soveværelset er i stykker"
   },
   {
     "Fejl": "sinittarfiit ajorpa?",
@@ -6150,8 +6150,8 @@
     "NG2_end": "",
     "V2": "ajor",
     "VB2": "pa?",
-    "Ret_grundled_da": "er sengene i stykker?",
-    "Ret_verbum_da": "er sengen i stykker?"
+    "Ret_grundled_da": "er soveværelserne i stykker?",
+    "Ret_verbum_da": "er soveværelset i stykker?"
   },
   {
     "Fejl": "sinittarfik ajorput",
@@ -6167,8 +6167,8 @@
     "NG2_end": "-it",
     "V2": "ajor",
     "VB2": "put",
-    "Ret_grundled_da": "sengen er i stykker",
-    "Ret_verbum_da": "sengene er i stykker"
+    "Ret_grundled_da": "soveværelset er i stykker",
+    "Ret_verbum_da": "soveværelserne er i stykker"
   },
   {
     "Fejl": "sinittarfik ajorpat?",
@@ -6184,8 +6184,8 @@
     "NG2_end": "-it",
     "V2": "ajor",
     "VB2": "pat?",
-    "Ret_grundled_da": "er sengen i stykker?",
-    "Ret_verbum_da": "er sengene i stykker?"
+    "Ret_grundled_da": "er soveværelset i stykker?",
+    "Ret_verbum_da": "er soveværelserne i stykker?"
   },
   {
     "Fejl": "igaffiit ajorpoq",

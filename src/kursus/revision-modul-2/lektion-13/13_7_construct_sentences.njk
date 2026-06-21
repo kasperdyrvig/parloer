@@ -1,0 +1,22 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 130
+sortNumber: 7
+previewText: 13.7 - konstruér sætninger
+onPageTitle: Øvelse 13.7 - konstruér sætninger
+onPageDescription: Lav sætningen ud fra de stammer og endelser du får præsenteret.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+{% for prompt in 13_7_9_construct_sentences %}
+{% taskStep %}
+    <task-prompt>{{prompt.Ord1_stamme}}{{prompt.Ord1_endelse}} {{prompt.Ord2_stamme}}{{prompt.Ord2_endelse}} {{prompt.Verbum_stamme}}{{prompt.Verbum_endelse}}</task-prompt>
+    <task-instruction data-number="1">Skriv den færdige grønlandske sætning</task-instruction>
+    <spellcheck-input data-validation="{{prompt.Samlet}}"></spellcheck-input>
+    <task-instruction data-number="2">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Sætningen "{{prompt.Samlet}}" betyder "{{prompt.Betydning}}".</b></task-info>
+{% endtaskStep %}
+{% endfor %}

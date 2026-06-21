@@ -137,7 +137,7 @@
     "svar": "far",
     "valg1": "mor",
     "valg2": "bror/søster",
-    "valg3": "seng"
+    "valg3": "soveværelse"
   },
   {
     "prompt": "mor",
@@ -150,7 +150,7 @@
     "prompt": "anaana",
     "svar": "mor",
     "valg1": "bror/søster",
-    "valg2": "seng",
+    "valg2": "soveværelse",
     "valg3": "køkken"
   },
   {
@@ -163,12 +163,12 @@
   {
     "prompt": "qatanngut",
     "svar": "bror/søster",
-    "valg1": "seng",
+    "valg1": "soveværelse",
     "valg2": "køkken",
     "valg3": "stol"
   },
   {
-    "prompt": "seng",
+    "prompt": "soveværelse",
     "svar": "sinittarfik",
     "valg1": "igaffik",
     "valg2": "issiavik",
@@ -176,7 +176,7 @@
   },
   {
     "prompt": "sinittarfik",
-    "svar": "seng",
+    "svar": "soveværelse",
     "valg1": "køkken",
     "valg2": "stol",
     "valg3": "bord"

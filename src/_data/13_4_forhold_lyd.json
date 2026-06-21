@@ -84,7 +84,7 @@
     "navneordsendelse": "mit",
     "ental_flertal": "ental",
     "resultat": "sinittarfimmit",
-    "Dansk": "fra sengen",
+    "Dansk": "fra soveværelset",
     "Lyd": "13_sinittarfik.mp3"
   },
   {
@@ -356,7 +356,7 @@
     "navneordsendelse": "mut",
     "ental_flertal": "ental",
     "resultat": "sinittarfimmut",
-    "Dansk": "til sengen",
+    "Dansk": "til soveværelset",
     "Lyd": "13_sinittarfik.mp3"
   },
   {
@@ -628,7 +628,7 @@
     "navneordsendelse": "mi",
     "ental_flertal": "ental",
     "resultat": "sinittarfimmi",
-    "Dansk": "i sengen",
+    "Dansk": "i soveværelset",
     "Lyd": "13_sinittarfik.mp3"
   },
   {
@@ -1060,7 +1060,7 @@
     "navneordsendelse": "mi",
     "ental_flertal": "flertal",
     "resultat": "sinittarfinni",
-    "Dansk": "i sengene",
+    "Dansk": "i soveværelserne",
     "Lyd": "13_sinittarfiit.mp3"
   },
   {
@@ -1068,7 +1068,7 @@
     "navneordsendelse": "mit",
     "ental_flertal": "flertal",
     "resultat": "sinittarfinnit",
-    "Dansk": "fra sengene",
+    "Dansk": "fra soveværelserne",
     "Lyd": "13_sinittarfiit.mp3"
   },
   {
@@ -1076,7 +1076,7 @@
     "navneordsendelse": "mut",
     "ental_flertal": "flertal",
     "resultat": "sinittarfinnut",
-    "Dansk": "til sengene",
+    "Dansk": "til soveværelserne",
     "Lyd": "13_sinittarfiit.mp3"
   },
   {

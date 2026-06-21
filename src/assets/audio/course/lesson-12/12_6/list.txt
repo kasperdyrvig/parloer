@@ -1,3 +1,0 @@
-file 'C:\Users\rebek\Downloads\TEMP\lyd\12_qatanngutit.mp3'
-file 'C:\Users\rebek\Downloads\TEMP\lyd\sooq.mp3'
-file 'C:\Users\rebek\Downloads\TEMP\lyd\9_atuarpa.mp3'

@@ -3704,7 +3704,7 @@
     "V1": "ajor",
     "VB1": "put",
     "VE_navn": "uku",
-    "Betydning": "sengene er i stykker"
+    "Betydning": "soveværelserne er i stykker"
   },
   {
     "Sentence": "sinittarfiit ajorpat?",
@@ -3715,7 +3715,7 @@
     "V1": "ajor",
     "VB1": "pat?",
     "VE_navn": "uku?",
-    "Betydning": "er sengene i stykker?"
+    "Betydning": "er soveværelserne i stykker?"
   },
   {
     "Sentence": "sinittarfik ajorpoq",
@@ -3726,7 +3726,7 @@
     "V1": "ajor",
     "VB1": "poq",
     "VE_navn": "una",
-    "Betydning": "sengen er i stykker"
+    "Betydning": "soveværelset er i stykker"
   },
   {
     "Sentence": "sinittarfik ajorpa?",
@@ -3737,7 +3737,7 @@
     "V1": "ajor",
     "VB1": "pa?",
     "VE_navn": "una?",
-    "Betydning": "er sengen i stykker?"
+    "Betydning": "er soveværelset i stykker?"
   },
   {
     "Sentence": "igaffiit ajorput",
@@ -5816,7 +5816,7 @@
     "V1": "ajor",
     "VB1": "pa?",
     "VE_navn": "una?",
-    "Betydning": "hvornår var sengen i stykker?"
+    "Betydning": "hvornår var soveværelset i stykker?"
   },
   {
     "Sentence": "sinittarfiit qanga ajorpat?",
@@ -5827,7 +5827,7 @@
     "V1": "ajor",
     "VB1": "pat?",
     "VE_navn": "uku?",
-    "Betydning": "hvornår var sengene i stykker?"
+    "Betydning": "hvornår var soveværelserne i stykker?"
   },
   {
     "Sentence": "igaffik qanga ajorpa?",
@@ -6234,7 +6234,7 @@
     "V1": "ajor",
     "VB1": "pa?",
     "VE_navn": "una?",
-    "Betydning": "hvorfor er sengen i stykker?"
+    "Betydning": "hvorfor er soveværelset i stykker?"
   },
   {
     "Sentence": "sinittarfiit sooq ajorpat?",
@@ -6245,7 +6245,7 @@
     "V1": "ajor",
     "VB1": "pat?",
     "VE_navn": "uku?",
-    "Betydning": "hvorfor er sengene i stykker?"
+    "Betydning": "hvorfor er soveværelserne i stykker?"
   },
   {
     "Sentence": "igaffik sooq ajorpa?",
