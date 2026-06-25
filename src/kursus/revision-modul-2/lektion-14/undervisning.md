@@ -26,7 +26,7 @@ onPageTitle: Til læreren
 
 5 min: **Lydregel: T/S.** Mange tilhæng og endelser starter med enten T eller S - T efter konsonant og S efter vokal.
 
-- Vis eksempel fra tilhængsliste på 'sar-/tar-'.
+- Vis eksempel fra tilhængsliste på '-sar-/tar-'.
     - (Eks på tilhæng hvor reglen ikke gælder: -sinnaa- / -sima-)
 
 10 min: **Tilhæng: +Toq, v-n**

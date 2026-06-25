@@ -1,0 +1,22 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 140
+sortNumber: 1
+previewText: 14.1 - +Toq
+onPageTitle: Øvelse 14.1 - +Toq
+onPageDescription: Sæt +Toq på de udsagnsordsstammer du allerede kender.
+linkText: Start øvelsen
+mode: correct
+randomize: true
+---
+{% for prompt in 14_1_Toq %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs og prøv at huske hvad stammen betyder</task-instruction>
+    <task-prompt>{{prompt.stamme}}</task-prompt>
+    <task-instruction data-number="4">Sæt +Toq på stammen</task-instruction>
+    <text-input data-validation="{{prompt.ord}}"></text-input>
+    <task-instruction data-number="5">Sig dit svar højt</task-instruction>
+    <task-info>Når man sætter +Toq på stammen hedder det "{{prompt.ord}}" og betyder "{{prompt.betydning}}".</b></task-info>
+{% endtaskStep %}
+{% endfor %}

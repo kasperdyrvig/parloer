@@ -1,273 +1,273 @@
 [
   {
     "navneord_grundord": "nalunaajaasoq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "nalunaajaasumit",
+    "resultat": "nalunaajaasumiit",
     "Dansk": "fra vidnet",
     "Lyd": "1_nalunaajaasoq.mp3"
   },
   {
     "navneord_grundord": "asaasartoq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "asaasartumit",
+    "resultat": "asaasartumiit",
     "Dansk": "fra rengøringsassistenten",
     "Lyd": "2_asaasartoq.mp3"
   },
   {
     "navneord_grundord": "sanasoq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "sanasumit",
+    "resultat": "sanasumiit",
     "Dansk": "fra tømreren",
     "Lyd": "3_sanasoq.mp3"
   },
   {
     "navneord_grundord": "erneq",
-    "navneordsendelse": "rmit",
+    "navneordsendelse": "rmiit",
     "Gruppe": "Stærk",
-    "resultat": "ernermit",
+    "resultat": "ernermiit",
     "Dansk": "fra sønnen",
     "Lyd": "4_erneq.mp3"
   },
   {
     "navneord_grundord": "panik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "panimmit",
+    "resultat": "panimmiit",
     "Dansk": "fra datteren",
     "Lyd": "5_panik.mp3"
   },
   {
     "navneord_grundord": "angut",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Svag",
-    "resultat": "angummit",
+    "resultat": "angummiit",
     "Dansk": "fra manden",
     "Lyd": "8_angut.mp3"
   },
   {
     "navneord_grundord": "arnaq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "arnamit",
+    "resultat": "arnamiit",
     "Dansk": "fra kvinden",
     "Lyd": "9_arnaq.mp3"
   },
   {
     "navneord_grundord": "ataata",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "ataatamit",
+    "resultat": "ataatamiit",
     "Dansk": "fra faren",
     "Lyd": "10_ataata.mp3"
   },
   {
     "navneord_grundord": "anaana",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "anaanamit",
+    "resultat": "anaanamiit",
     "Dansk": "fra moren",
     "Lyd": "11_anaana.mp3"
   },
   {
     "navneord_grundord": "qatanngut",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Svag",
-    "resultat": "qatanngummit",
+    "resultat": "qatanngummiit",
     "Dansk": "fra søskendet",
     "Lyd": "12_qatanngut.mp3"
   },
   {
-    "navneord_grundord": "sinittarfik",
-    "navneordsendelse": "mmit",
+    "navneord_grundord": "siniittarfik",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "sinittarfimmit",
+    "resultat": "siniittarfimmiit",
     "Dansk": "fra soveværelset",
-    "Lyd": "13_sinittarfik.mp3"
+    "Lyd": "13_siniittarfik.mp3"
   },
   {
     "navneord_grundord": "igaffik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "igaffimmit",
+    "resultat": "igaffimmiit",
     "Dansk": "fra køkkenet",
     "Lyd": "14_igaffik.mp3"
   },
   {
     "navneord_grundord": "issiavik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "issiavimmit",
+    "resultat": "issiavimmiit",
     "Dansk": "fra stolen",
     "Lyd": "15_issiavik.mp3"
   },
   {
     "navneord_grundord": "nerrivik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "nerrivimmit",
+    "resultat": "nerrivimmiit",
     "Dansk": "fra bordet",
     "Lyd": "16_nerrivik.mp3"
   },
   {
     "navneord_grundord": "siku",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "sikumit",
+    "resultat": "sikumiit",
     "Dansk": "fra isen",
     "Lyd": "17_siku.mp3"
   },
   {
     "navneord_grundord": "tuttu",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "tuttumit",
+    "resultat": "tuttumiit",
     "Dansk": "fra rensdyret",
     "Lyd": "18_tuttu.mp3"
   },
   {
     "navneord_grundord": "umimmak",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "umimmammit",
+    "resultat": "umimmammiit",
     "Dansk": "fra moskusoksen",
     "Lyd": "19_umimmak.mp3"
   },
   {
     "navneord_grundord": "illu",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "illumit",
+    "resultat": "illumiit",
     "Dansk": "fra huset",
     "Lyd": "20_illu.mp3"
   },
   {
     "navneord_grundord": "pisiniarfik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "pisiniarfimmit",
+    "resultat": "pisiniarfimmiit",
     "Dansk": "fra butikken",
     "Lyd": "21_pisiniarfik.mp3"
   },
   {
     "navneord_grundord": "Qaanaaq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Qaanaamit",
+    "resultat": "Qaanaamiit",
     "Dansk": "fra Qaanaaq",
     "Lyd": "22_Qaanaaq.mp3"
   },
   {
     "navneord_grundord": "Maniitsoq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Maniitsumit",
+    "resultat": "Maniitsumiit",
     "Dansk": "fra Maniitsoq",
     "Lyd": "23_Maniitsoq.mp3"
   },
   {
     "navneord_grundord": "Narsaq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Narsamit",
+    "resultat": "Narsamiit",
     "Dansk": "fra Narsaq",
     "Lyd": "24_Narsaq.mp3"
   },
   {
     "navneord_grundord": "Qaqortoq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Qaqortumit",
+    "resultat": "Qaqortumiit",
     "Dansk": "fra Qaqortoq",
     "Lyd": "25_Qaqortoq.mp3"
   },
   {
     "navneord_grundord": "Tasiilaq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Tasiilamit",
+    "resultat": "Tasiilamiit",
     "Dansk": "fra Tasiilaq",
     "Lyd": "26_Tasiilaq.mp3"
   },
   {
     "navneord_grundord": "Uummannaq",
-    "navneordsendelse": "mit",
+    "navneordsendelse": "miit",
     "Gruppe": "Svag",
-    "resultat": "Uummannamit",
+    "resultat": "Uummannamiit",
     "Dansk": "fra Uummannaq",
     "Lyd": "27_Uummannaq.mp3"
   },
   {
     "navneord_grundord": "Kangerlussuaq",
-    "navneordsendelse": "rmit",
+    "navneordsendelse": "rmiit",
     "Gruppe": "Stærk",
-    "resultat": "Kangerlussuarmit",
+    "resultat": "Kangerlussuarmiit",
     "Dansk": "fra Kangerlussuaq",
     "Lyd": "28_Kangerlussuaq.mp3"
   },
   {
     "navneord_grundord": "Narsarsuaq",
-    "navneordsendelse": "rmit",
+    "navneordsendelse": "rmiit",
     "Gruppe": "Stærk",
-    "resultat": "Narsarsuarmit",
+    "resultat": "Narsarsuarmiit",
     "Dansk": "fra Narsarsuaq",
     "Lyd": "29_Narsarsuaq.mp3"
   },
   {
     "navneord_grundord": "Nuuk",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "Nuummit",
+    "resultat": "Nuummiit",
     "Dansk": "fra Nuuk",
     "Lyd": "30_Nuuk.mp3"
   },
   {
     "navneord_grundord": "Nanortalik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "Nanortalimmit",
+    "resultat": "Nanortalimmiit",
     "Dansk": "fra Nanortalik",
     "Lyd": "31_Nanortalik.mp3"
   },
   {
     "navneord_grundord": "Pituffik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "Pituffimmit",
+    "resultat": "Pituffimmiit",
     "Dansk": "fra Pituffik",
     "Lyd": "32_Pituffik.mp3"
   },
   {
     "navneord_grundord": "Upernavik",
-    "navneordsendelse": "mmit",
+    "navneordsendelse": "mmiit",
     "Gruppe": "Stærk",
-    "resultat": "Upernavimmit",
+    "resultat": "Upernavimmiit",
     "Dansk": "fra Upernavik",
     "Lyd": "33_Upernavik.mp3"
   },
   {
     "navneord_grundord": "Paamiut",
-    "navneordsendelse": "nit",
+    "navneordsendelse": "niit",
     "Gruppe": "Svag",
-    "resultat": "Paamiunit",
+    "resultat": "Paamiuniit",
     "Dansk": "fra Paamiut",
     "Lyd": "34_Paamiut.mp3"
   },
   {
     "navneord_grundord": "Aasiaat",
-    "navneordsendelse": "nnit",
+    "navneordsendelse": "nniit",
     "Gruppe": "Stærk",
-    "resultat": "Aasiannit",
+    "resultat": "Aasianniit",
     "Dansk": "fra Aasiaat",
     "Lyd": "35_Aasiaat.mp3"
   },
   {
     "navneord_grundord": "Sisimiut",
-    "navneordsendelse": "nit",
+    "navneordsendelse": "niit",
     "Gruppe": "Svag",
-    "resultat": "Sisimiunit",
+    "resultat": "Sisimiuniit",
     "Dansk": "fra Sisimiut",
     "Lyd": "36_Sisimiut.mp3"
   }
