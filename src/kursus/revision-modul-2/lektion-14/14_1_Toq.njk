@@ -14,9 +14,9 @@ randomize: true
 {% taskStep %}
     <task-instruction data-number="1">Læs og prøv at huske hvad stammen betyder</task-instruction>
     <task-prompt>{{prompt.stamme}}</task-prompt>
-    <task-instruction data-number="4">Sæt +Toq på stammen</task-instruction>
+    <task-instruction data-number="2">Sæt +Toq på stammen</task-instruction>
     <text-input data-validation="{{prompt.ord}}"></text-input>
-    <task-instruction data-number="5">Sig dit svar højt</task-instruction>
+    <task-instruction data-number="3">Sig dit svar højt</task-instruction>
     <task-info>Når man sætter +Toq på stammen hedder det "{{prompt.ord}}" og betyder "{{prompt.betydning}}".</b></task-info>
 {% endtaskStep %}
 {% endfor %}
