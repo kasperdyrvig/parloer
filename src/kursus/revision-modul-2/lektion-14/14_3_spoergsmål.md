@@ -12,14 +12,14 @@ linkText: Start øvelsen
 {% exerciseItem %}
 Lav en øvelse ved at bruge de her sætninger:
 
-Kikkunnut oqaluussiva? Arpattunut
-Kimit ungasippit? Oqaluussisumiit
-Kikkunniit ungasippat? Atuartuniit
-Kimut qanippa? Nerisumut
-Kikkunnut qanippa? Arpattunut
-Kimit arpappat? Ajortumiit
-Kimut arpappat? Qasusumut
-Kikkunnut arpappa? Atuartunut
+<br>Kikkunnut oqaluussiva? Arpattunut
+<br>Kimit ungasippit? Oqaluussisumiit
+<br>Kikkunniit ungasippat? Atuartuniit
+<br>Kimut qanippa? Nerisumut
+<br>Kikkunnut qanippa? Arpattunut
+<br>Kimit arpappat? Ajortumiit
+<br>Kimut arpappat? Qasusumut
+<br>Kikkunnut arpappa? Atuartunut
 
 Der skal også laves tegninger til
 
