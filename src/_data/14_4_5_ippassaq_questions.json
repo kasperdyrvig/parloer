@@ -1,0 +1,2613 @@
+[
+  {
+    "prompt": "Sinittarfinni qasusoq ippassaq arpappa?",
+    "prompt_betydning": "løb den trætte i soveværelserne i går?",
+    "svar": "Naamik, sinittarfinni qasusoq ullumi arpappoq",
+    "svar_betydning": "nej, den trætte i sovesalene løber i dag",
+    "lyd": "1.mp3"
+  },
+  {
+    "prompt": "Nuummi najugaqartut ippassaq tikippat?",
+    "prompt_betydning": "ankom beboerne i Nuuk i går?",
+    "svar": "Naamik, Nuummi najugaqartut ullumi tikipput",
+    "svar_betydning": "nej, beboerne i Nuuk ankommer i dag",
+    "lyd": "2.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi qasusoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den trætte i Narsarsuaq i går?",
+    "svar": "Naamik, Narsarsuarmi qasusoq ullumi atuarpoq",
+    "svar_betydning": "nej, den trætte i Narsarsuaq læser i dag",
+    "lyd": "3.mp3"
+  },
+  {
+    "prompt": "Uummannami qasusut ippassaq tikippat?",
+    "prompt_betydning": "ankom de trætte i Uummannaq i går?",
+    "svar": "Naamik, Uummannami qasusut ullumi tikipput",
+    "svar_betydning": "nej, de trætte i Uummannaq ankommer i dag",
+    "lyd": "4.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi najugaqartoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den der bor i Kangerlussuaq i går?",
+    "svar": "Naamik, Kangerlussuarmi najugaqartoq ullumi atuarpoq",
+    "svar_betydning": "nej, den der bor i Kangerlussuaq læser i dag",
+    "lyd": "5.mp3"
+  },
+  {
+    "prompt": "Paamiuni oqaluussisut ippassaq tikippat?",
+    "prompt_betydning": "ankom talerne i Paamiut i går?",
+    "svar": "Naamik, Paamiuni oqaluussisut ullumi tikipput",
+    "svar_betydning": "nej, talerne i Paamiut ankommer i dag",
+    "lyd": "6.mp3"
+  },
+  {
+    "prompt": "Ernernut qanittoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der er tæt på sønnen i går?",
+    "svar": "Naamik, ernernut qanittoq ullumi tikippoq",
+    "svar_betydning": "nej, den der er tæt på sønnen ankommer i dag",
+    "lyd": "7.mp3"
+  },
+  {
+    "prompt": "Uummannami oqaluussisut ippassaq nerippat?",
+    "prompt_betydning": "spiste talerne i Uummannaq i går?",
+    "svar": "Naamik, Uummannami oqaluussisut ullumi neripput",
+    "svar_betydning": "nej, talerne i Uummannaq spiser i dag",
+    "lyd": "8.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi ajortoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den dårlige i Kangerlussuaq i går?",
+    "svar": "Naamik, Kangerlussuarmi ajortoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den dårlige i Kangerlussuaq taler i dag",
+    "lyd": "9.mp3"
+  },
+  {
+    "prompt": "Pituffimmut tikittut ippassaq nerippat?",
+    "prompt_betydning": "spiste de der ankom til pituffik i går?",
+    "svar": "Naamik, Pituffimmut tikittut ullumi neripput",
+    "svar_betydning": "nej, de der ankommer til pituffik spiser i dag",
+    "lyd": "10.mp3"
+  },
+  {
+    "prompt": "Ernerniit ungasittut ippassaq qasuppat?",
+    "prompt_betydning": "blev de der er langt fra sønnen trætte i går?",
+    "svar": "Naamik, ernerniit ungasittut ullumi qasupput",
+    "svar_betydning": "nej, de der er langt fra sønnen bliver trætte i dag",
+    "lyd": "11.mp3"
+  },
+  {
+    "prompt": "Uummannamiit arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb fra Uummannaq i går?",
+    "svar": "Naamik, Uummannamiit arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber fra Uummannaq taler i dag",
+    "lyd": "12.mp3"
+  },
+  {
+    "prompt": "Qatanngummut qanittoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der er tæt på søskende i går?",
+    "svar": "Naamik, qatanngummut qanittoq ullumi tikippoq",
+    "svar_betydning": "nej, den der er tæt på søskende ankommer i dag",
+    "lyd": "13.mp3"
+  },
+  {
+    "prompt": "Paamiuni qasusut ippassaq tikippat?",
+    "prompt_betydning": "ankom de trætte i Paamiut i går?",
+    "svar": "Naamik, Paamiuni qasusut ullumi tikipput",
+    "svar_betydning": "nej, de trætte i Paamiut ankommer i dag",
+    "lyd": "14.mp3"
+  },
+  {
+    "prompt": "Ataataniit arpattoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der løb fra far i går?",
+    "svar": "Naamik, ataataniit arpattoq ullumi tikippoq",
+    "svar_betydning": "nej, den der løber fra far ankommer i dag",
+    "lyd": "15.mp3"
+  },
+  {
+    "prompt": "Sanasunut oqaluussisoq ippassaq qasua?",
+    "prompt_betydning": "blev taleren for håndværkerne træt i går?",
+    "svar": "Naamik, sanasunut oqaluussisoq ullumi qasuvoq",
+    "svar_betydning": "nej, taleren for håndværkerne bliver træt i dag",
+    "lyd": "16.mp3"
+  },
+  {
+    "prompt": "Uimmut qanittoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der er tæt på ægtemand i går?",
+    "svar": "Naamik, uimmut qanittoq ullumi tikippoq",
+    "svar_betydning": "nej, den der er tæt på ægtemand ankommer i dag",
+    "lyd": "17.mp3"
+  },
+  {
+    "prompt": "Sanasumut oqaluussisoq ippassaq tikippa?",
+    "prompt_betydning": "ankom taleren for håndværkeren i går?",
+    "svar": "Naamik, sanasumut oqaluussisoq ullumi tikippoq",
+    "svar_betydning": "nej, taleren for håndværkeren ankommer i dag",
+    "lyd": "18.mp3"
+  },
+  {
+    "prompt": "Qaqortumi ajortoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den dårlige i Qaqortoq i går?",
+    "svar": "Naamik, Qaqortumi ajortoq ullumi tikippoq",
+    "svar_betydning": "nej, den dårlige i Qaqortoq ankommer i dag",
+    "lyd": "19.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit aallartoq ippassaq neriva?",
+    "prompt_betydning": "spiste den der rejste fra Sisimiut i går?",
+    "svar": "Naamik, Sisimiuniit aallartoq ullumi nerivoq",
+    "svar_betydning": "nej, den der rejser fra Sisimiut spiser i dag",
+    "lyd": "20.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmut tikittoq ippassaq arpappa?",
+    "prompt_betydning": "løb den der ankom til Kangerlussuaq i går?",
+    "svar": "Naamik, Kangerlussuarmut tikittoq ullumi arpappoq",
+    "svar_betydning": "nej, den der ankommer til Kangerlussuaq løber i dag",
+    "lyd": "21.mp3"
+  },
+  {
+    "prompt": "Ernermut oqaluussisoq ippassaq ajorpa?",
+    "prompt_betydning": "var taleren for sønnen dårlig i går?",
+    "svar": "Naamik, ernermut oqaluussisoq ullumi ajorpoq",
+    "svar_betydning": "nej, taleren for sønnen er dårlig i dag",
+    "lyd": "22.mp3"
+  },
+  {
+    "prompt": "Aasiannut arpattut ippassaq nerippat?",
+    "prompt_betydning": "spiste de der løb til Aasiaat i går?",
+    "svar": "Naamik, Aasiannut arpattut ullumi neripput",
+    "svar_betydning": "nej, de der løber til Aasiaat spiser i dag",
+    "lyd": "23.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmut aallartoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der rejste til Narsarsuaq i går?",
+    "svar": "Naamik, Narsarsuarmut aallartoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der rejser til Narsarsuaq taler i dag",
+    "lyd": "24.mp3"
+  },
+  {
+    "prompt": "Pituffimmi ajortoq ippassaq aallarpa?",
+    "prompt_betydning": "rejste den dårlige i pituffik i går?",
+    "svar": "Naamik, Pituffimmi ajortoq ullumi aallarpoq",
+    "svar_betydning": "nej, den dårlige i pituffik rejser i dag",
+    "lyd": "25.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit arpattut ippassaq ajorpat?",
+    "prompt_betydning": "var de der løb fra pituffik dårlige i går?",
+    "svar": "Naamik, Pituffimmiit arpattut ullumi ajorput",
+    "svar_betydning": "nej, de der løber fra pituffik er dårlige i dag",
+    "lyd": "26.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit arpattut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der løb fra Nanortalik i går?",
+    "svar": "Naamik, Nanortalimmiit arpattut ullumi aallarput",
+    "svar_betydning": "nej, de der løber fra Nanortalik rejser i dag",
+    "lyd": "27.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb fra Upernavik i går?",
+    "svar": "Naamik, Upernavimmiit arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber fra Upernavik taler i dag",
+    "lyd": "28.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit aallartut ippassaq ajorpat?",
+    "prompt_betydning": "var de der rejste fra Narsarsuaq dårlige i går?",
+    "svar": "Naamik, Narsarsuarmiit aallartut ullumi ajorput",
+    "svar_betydning": "nej, de der rejser fra Narsarsuaq er dårlige i dag",
+    "lyd": "29.mp3"
+  },
+  {
+    "prompt": "Sinittarfinni qasusut ippassaq tikippat?",
+    "prompt_betydning": "ankom de trætte i soveværelserne i går?",
+    "svar": "Naamik, sinittarfinni qasusut ullumi tikipput",
+    "svar_betydning": "nej, de trætte i sovesalene ankommer i dag",
+    "lyd": "30.mp3"
+  },
+  {
+    "prompt": "Maniitsumi oqaluussisut ippassaq atuarpat?",
+    "prompt_betydning": "læste talerne i Maniitsoq i går?",
+    "svar": "Naamik, Maniitsumi oqaluussisut ullumi atuarput",
+    "svar_betydning": "nej, talerne i Maniitsoq læser i dag",
+    "lyd": "31.mp3"
+  },
+  {
+    "prompt": "Sinittarfinni nerisoq ippassaq aallarpa?",
+    "prompt_betydning": "rejste den der spiste i soveværelserne i går?",
+    "svar": "Naamik, sinittarfinni nerisoq ullumi aallarpoq",
+    "svar_betydning": "nej, den der spiser i sovesalene rejser i dag",
+    "lyd": "32.mp3"
+  },
+  {
+    "prompt": "Sinittarfimmi oqaluussisoq ippassaq atuarpa?",
+    "prompt_betydning": "læste taleren i soveværelset i går?",
+    "svar": "Naamik, sinittarfimmi oqaluussisoq ullumi atuarpoq",
+    "svar_betydning": "nej, taleren i sovesalen læser i dag",
+    "lyd": "33.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi atuartut ippassaq nerippat?",
+    "prompt_betydning": "spiste eleverne i Nanortalik i går?",
+    "svar": "Naamik, Nanortalimmi atuartut ullumi neripput",
+    "svar_betydning": "nej, eleverne i Nanortalik spiser i dag",
+    "lyd": "34.mp3"
+  },
+  {
+    "prompt": "Paninniit arpattoq ippassaq ajorpa?",
+    "prompt_betydning": "var den der løb fra min datter dårlig i går?",
+    "svar": "Naamik, paninniit arpattoq ullumi ajorpoq",
+    "svar_betydning": "nej, den der løber fra min datter er dårlig i dag",
+    "lyd": "35.mp3"
+  },
+  {
+    "prompt": "Qatanngutiniit ungasittoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der er langt fra sine søskende i går?",
+    "svar": "Naamik, qatanngutiniit ungasittoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der er langt fra sine søskende taler i dag",
+    "lyd": "36.mp3"
+  },
+  {
+    "prompt": "Asaasartuniit ungasittoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den der er langt fra sine kære i går?",
+    "svar": "Naamik, asaasartuniit ungasittoq ullumi atuarpoq",
+    "svar_betydning": "nej, den der er langt fra sine kære læser i dag",
+    "lyd": "37.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi qasusoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den trætte i Nanortalik i går?",
+    "svar": "Naamik, Nanortalimmi qasusoq ullumi atuarpoq",
+    "svar_betydning": "nej, den trætte i Nanortalik læser i dag",
+    "lyd": "38.mp3"
+  },
+  {
+    "prompt": "Uimmut oqaluussisoq ippassaq tikippa?",
+    "prompt_betydning": "ankom taleren for ægtemand i går?",
+    "svar": "Naamik, uimmut oqaluussisoq ullumi tikippoq",
+    "svar_betydning": "nej, taleren for ægtemand ankommer i dag",
+    "lyd": "39.mp3"
+  },
+  {
+    "prompt": "Ataatamiit ungasittut ippassaq nerippat?",
+    "prompt_betydning": "spiste de der er langt fra deres far i går?",
+    "svar": "Naamik, ataatamiit ungasittut ullumi neripput",
+    "svar_betydning": "nej, de der er langt fra deres far spiser i dag",
+    "lyd": "40.mp3"
+  },
+  {
+    "prompt": "Illumi qasusoq ippassaq ajorpa?",
+    "prompt_betydning": "var den trætte i huset dårlig i går?",
+    "svar": "Naamik, illumi qasusoq ullumi ajorpoq",
+    "svar_betydning": "nej, den trætte i huset er dårlig i dag",
+    "lyd": "41.mp3"
+  },
+  {
+    "prompt": "Anaananiit arpattoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der løb fra sin mor i går?",
+    "svar": "Naamik, anaananiit arpattoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der løber fra sin mor taler i dag",
+    "lyd": "42.mp3"
+  },
+  {
+    "prompt": "Qatanngutiniit ungasittut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der er langt fra deres søskende i går?",
+    "svar": "Naamik, qatanngutiniit ungasittut ullumi aallarput",
+    "svar_betydning": "nej, de der er langt fra deres søskende rejser i dag",
+    "lyd": "43.mp3"
+  },
+  {
+    "prompt": "Igaffinni nerisoq ippassaq ajorpa?",
+    "prompt_betydning": "var den der spiste i køkkenerne dårlig i går?",
+    "svar": "Naamik, igaffinni nerisoq ullumi ajorpoq",
+    "svar_betydning": "nej, den der spiser i køkkenerne er dårlig i dag",
+    "lyd": "44.mp3"
+  },
+  {
+    "prompt": "Anaanamiit arpattut ippassaq tikippat?",
+    "prompt_betydning": "ankom de der løb fra deres mor i går?",
+    "svar": "Naamik, anaanamiit arpattut ullumi tikipput",
+    "svar_betydning": "nej, de der løber fra deres mor ankommer i dag",
+    "lyd": "45.mp3"
+  },
+  {
+    "prompt": "Angutinut qanittoq ippassaq ajorpa?",
+    "prompt_betydning": "var den der er tæt på mænd dårlig i går?",
+    "svar": "Naamik, angutinut qanittoq ullumi ajorpoq",
+    "svar_betydning": "nej, den der er tæt på mænd er dårlig i dag",
+    "lyd": "46.mp3"
+  },
+  {
+    "prompt": "Qaqortumut aallartoq ippassaq neriva?",
+    "prompt_betydning": "spiste den der rejste til Qaqortoq i går?",
+    "svar": "Naamik, Qaqortumut aallartoq ullumi nerivoq",
+    "svar_betydning": "nej, den der rejser til Qaqortoq spiser i dag",
+    "lyd": "47.mp3"
+  },
+  {
+    "prompt": "Tasiilami nerisoq ippassaq ajorpa?",
+    "prompt_betydning": "var den der spiste i Tasiilaq dårlig i går?",
+    "svar": "Naamik, Tasiilami nerisoq ullumi ajorpoq",
+    "svar_betydning": "nej, den der spiser i Tasiilaq er dårlig i dag",
+    "lyd": "48.mp3"
+  },
+  {
+    "prompt": "Arnanut qanittoq ippassaq qasua?",
+    "prompt_betydning": "blev den der er tæt på kvinder træt i går?",
+    "svar": "Naamik, arnanut qanittoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der er tæt på kvinder bliver træt i dag",
+    "lyd": "49.mp3"
+  },
+  {
+    "prompt": "Illuniit arpattoq ippassaq oqaluussiva?",
+    "prompt_betydning": "løb den der løb fra huset i går og talte?",
+    "svar": "Naamik, illuniit arpattoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der løber fra huset taler i dag",
+    "lyd": "50.mp3"
+  },
+  {
+    "prompt": "Ataatanut oqaluussisoq ippassaq arpappa?",
+    "prompt_betydning": "løb den der talte til far i går?",
+    "svar": "Naamik, ataatanut oqaluussisoq ullumi arpappoq",
+    "svar_betydning": "nej, den der taler til far løber i dag",
+    "lyd": "51.mp3"
+  },
+  {
+    "prompt": "Narsamiit arpattut ippassaq qasuppat?",
+    "prompt_betydning": "blev de der løb fra Narsaq trætte i går?",
+    "svar": "Naamik, Narsamiit arpattut ullumi qasupput",
+    "svar_betydning": "nej, de der løber fra Narsaq bliver trætte i dag",
+    "lyd": "52.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit aallartut ippassaq tikippat?",
+    "prompt_betydning": "ankom de der rejste fra Upernavik i går?",
+    "svar": "Naamik, Upernavimmiit aallartut ullumi tikipput",
+    "svar_betydning": "nej, de der rejser fra Upernavik ankommer i dag",
+    "lyd": "53.mp3"
+  },
+  {
+    "prompt": "Nuummut aallartoq ippassaq qasua?",
+    "prompt_betydning": "blev den der rejste til Nuuk træt i går?",
+    "svar": "Naamik, Nuummut aallartoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der rejser til Nuuk bliver træt i dag",
+    "lyd": "54.mp3"
+  },
+  {
+    "prompt": "Igaffimmi ajortoq ippassaq qasua?",
+    "prompt_betydning": "blev den dårlige i køkkenet træt i går?",
+    "svar": "Naamik, igaffimmi ajortoq ullumi qasuvoq",
+    "svar_betydning": "nej, den dårlige i køkkenet bliver træt i dag",
+    "lyd": "55.mp3"
+  },
+  {
+    "prompt": "Qaqortumi nerisoq ippassaq aallarpa?",
+    "prompt_betydning": "rejste den der spiste i Qaqortoq i går?",
+    "svar": "Naamik, Qaqortumi nerisoq ullumi aallarpoq",
+    "svar_betydning": "nej, den der spiser i Qaqortoq rejser i dag",
+    "lyd": "56.mp3"
+  },
+  {
+    "prompt": "Uinniit ungasittoq ippassaq arpappa?",
+    "prompt_betydning": "løb den der er langt fra ægtemand i går?",
+    "svar": "Naamik, uinniit ungasittoq ullumi arpappoq",
+    "svar_betydning": "nej, den der er langt fra ægtemand løber i dag",
+    "lyd": "57.mp3"
+  },
+  {
+    "prompt": "Igaffinnut arpattut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der løb til køkkenerne i går?",
+    "svar": "Naamik, igaffinnut arpattut ullumi aallarput",
+    "svar_betydning": "nej, de der løber til køkkenerne rejser i dag",
+    "lyd": "58.mp3"
+  },
+  {
+    "prompt": "Qaqortumut arpattut ippassaq qasuppat?",
+    "prompt_betydning": "blev de der løb til Qaqortoq trætte i går?",
+    "svar": "Naamik, Qaqortumut arpattut ullumi qasupput",
+    "svar_betydning": "nej, de der løber til Qaqortoq bliver trætte i dag",
+    "lyd": "59.mp3"
+  },
+  {
+    "prompt": "Narsamut arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb til Narsaq i går?",
+    "svar": "Naamik, Narsamut arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber til Narsaq taler i dag",
+    "lyd": "60.mp3"
+  },
+  {
+    "prompt": "Paamiuni ajortoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den dårlige i Paamiut i går?",
+    "svar": "Naamik, Paamiuni ajortoq ullumi atuarpoq",
+    "svar_betydning": "nej, den dårlige i Paamiut læser i dag",
+    "lyd": "61.mp3"
+  },
+  {
+    "prompt": "Pisiniarfimmi arpattoq ippassaq ajorpa?",
+    "prompt_betydning": "var den der løb i butikken dårlig i går?",
+    "svar": "Naamik, pisiniarfimmi arpattoq ullumi ajorpoq",
+    "svar_betydning": "nej, den der løber i butikken er dårlig i dag",
+    "lyd": "62.mp3"
+  },
+  {
+    "prompt": "Qaanaami qasusut ippassaq nerippat?",
+    "prompt_betydning": "spiste de trætte i Qaanaaq i går?",
+    "svar": "Naamik, Qaanaami qasusut ullumi neripput",
+    "svar_betydning": "nej, de trætte i Qaanaaq spiser i dag",
+    "lyd": "63.mp3"
+  },
+  {
+    "prompt": "Maniitsumi qasusut ippassaq arpappat?",
+    "prompt_betydning": "løb de trætte i Maniitsoq i går?",
+    "svar": "Naamik, Maniitsumi qasusut ullumi arpapput",
+    "svar_betydning": "nej, de trætte i Maniitsoq løber i dag",
+    "lyd": "64.mp3"
+  },
+  {
+    "prompt": "Nuliamiit ungasittut ippassaq atuarpat?",
+    "prompt_betydning": "læste de der er langt fra deres kone i går?",
+    "svar": "Naamik, nuliamiit ungasittut ullumi atuarput",
+    "svar_betydning": "nej, de der er langt fra deres kone læser i dag",
+    "lyd": "65.mp3"
+  },
+  {
+    "prompt": "Ernermiit ungasittut ippassaq tikippat?",
+    "prompt_betydning": "ankom de der er langt fra deres søn i går?",
+    "svar": "Naamik, ernermiit ungasittut ullumi tikipput",
+    "svar_betydning": "nej, de der er langt fra deres søn ankommer i dag",
+    "lyd": "66.mp3"
+  },
+  {
+    "prompt": "Upernavimmi qasusut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de trætte i Upernavik i går?",
+    "svar": "Naamik, Upernavimmi qasusut ullumi oqaluussipput",
+    "svar_betydning": "nej, de trætte i Upernavik taler i dag",
+    "lyd": "67.mp3"
+  },
+  {
+    "prompt": "Nuummi najugaqartut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte beboerne i Nuuk i går?",
+    "svar": "Naamik, Nuummi najugaqartut ullumi oqaluussipput",
+    "svar_betydning": "nej, beboerne i Nuuk taler i dag",
+    "lyd": "68.mp3"
+  },
+  {
+    "prompt": "Narsamiit aallartut ippassaq ajorpat?",
+    "prompt_betydning": "var de der rejste fra Narsaq dårlige i går?",
+    "svar": "Naamik, Narsamiit aallartut ullumi ajorput",
+    "svar_betydning": "nej, de der rejser fra Narsaq er dårlige i dag",
+    "lyd": "69.mp3"
+  },
+  {
+    "prompt": "Asaasartuniit ungasittoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der er langt fra sine kære i går?",
+    "svar": "Naamik, asaasartuniit ungasittoq ullumi tikippoq",
+    "svar_betydning": "nej, den der er langt fra sine kære ankommer i dag",
+    "lyd": "70.mp3"
+  },
+  {
+    "prompt": "Qatanngutiniit ungasittut ippassaq arpappat?",
+    "prompt_betydning": "løb de der er langt fra deres søskende i går?",
+    "svar": "Naamik, qatanngutiniit ungasittut ullumi arpapput",
+    "svar_betydning": "nej, de der er langt fra deres søskende løber i dag",
+    "lyd": "71.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasumut oqaluussisut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der talte til tolken i går?",
+    "svar": "Naamik, nalunaajaasumut oqaluussisut ullumi aallarput",
+    "svar_betydning": "nej, de der taler til tolken rejser i dag",
+    "lyd": "72.mp3"
+  },
+  {
+    "prompt": "Nuummi atuartut ippassaq arpappat?",
+    "prompt_betydning": "løb eleverne i Nuuk i går?",
+    "svar": "Naamik, Nuummi atuartut ullumi arpapput",
+    "svar_betydning": "nej, eleverne i Nuuk løber i dag",
+    "lyd": "73.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi qasusoq ippassaq neriva?",
+    "prompt_betydning": "spiste den trætte i Narsarsuaq i går?",
+    "svar": "Naamik, Narsarsuarmi qasusoq ullumi nerivoq",
+    "svar_betydning": "nej, den trætte i Narsarsuaq spiser i dag",
+    "lyd": "74.mp3"
+  },
+  {
+    "prompt": "Sisimiuni ajortoq ippassaq neriva?",
+    "prompt_betydning": "spiste den dårlige i Sisimiut i går?",
+    "svar": "Naamik, Sisimiuni ajortoq ullumi nerivoq",
+    "svar_betydning": "nej, den dårlige i Sisimiut spiser i dag",
+    "lyd": "75.mp3"
+  },
+  {
+    "prompt": "Angutinut oqaluussisoq ippassaq qasua?",
+    "prompt_betydning": "blev den der talte til mænd træt i går?",
+    "svar": "Naamik, angutinut oqaluussisoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der taler til mænd bliver træt i dag",
+    "lyd": "76.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasumut arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb til tolken i går?",
+    "svar": "Naamik, nalunaajaasumut arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber til tolken taler i dag",
+    "lyd": "77.mp3"
+  },
+  {
+    "prompt": "Sanasunut arpattut ippassaq atuarpat?",
+    "prompt_betydning": "læste de der løb til håndværkerne i går?",
+    "svar": "Naamik, sanasunut arpattut ullumi atuarput",
+    "svar_betydning": "nej, de der løber til håndværkerne læser i dag",
+    "lyd": "78.mp3"
+  },
+  {
+    "prompt": "Panimmut oqaluussisut ippassaq ajorpat?",
+    "prompt_betydning": "var de der talte til datteren dårlige i går?",
+    "svar": "Naamik, panimmut oqaluussisut ullumi ajorput",
+    "svar_betydning": "nej, de der taler til datteren er dårlige i dag",
+    "lyd": "79.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb fra Qaqortoq i går?",
+    "svar": "Naamik, Qaqortumiit arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber fra Qaqortoq taler i dag",
+    "lyd": "80.mp3"
+  },
+  {
+    "prompt": "Illuni oqaluussisoq ippassaq neriva?",
+    "prompt_betydning": "spiste taleren i huset i går?",
+    "svar": "Naamik, illuni oqaluussisoq ullumi nerivoq",
+    "svar_betydning": "nej, taleren i huset spiser i dag",
+    "lyd": "81.mp3"
+  },
+  {
+    "prompt": "Tasiilami atuartut ippassaq nerippat?",
+    "prompt_betydning": "spiste eleverne i Tasiilaq i går?",
+    "svar": "Naamik, Tasiilami atuartut ullumi neripput",
+    "svar_betydning": "nej, eleverne i Tasiilaq spiser i dag",
+    "lyd": "82.mp3"
+  },
+  {
+    "prompt": "Qaqortumut tikittut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der ankom til Qaqortoq i går?",
+    "svar": "Naamik, Qaqortumut tikittut ullumi aallarput",
+    "svar_betydning": "nej, de der ankommer til Qaqortoq rejser i dag",
+    "lyd": "83.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit tikittut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der ankom fra Tasiilaq i går?",
+    "svar": "Naamik, Tasiilamiit tikittut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der ankommer fra Tasiilaq taler i dag",
+    "lyd": "84.mp3"
+  },
+  {
+    "prompt": "Aasianni nerisut ippassaq atuarpat?",
+    "prompt_betydning": "læste de der spiste i Aasiaat i går?",
+    "svar": "Naamik, Aasianni nerisut ullumi atuarput",
+    "svar_betydning": "nej, de der spiser i Aasiaat læser i dag",
+    "lyd": "85.mp3"
+  },
+  {
+    "prompt": "Aasianni najugaqartut ippassaq atuarpat?",
+    "prompt_betydning": "læste beboerne i Aasiaat i går?",
+    "svar": "Naamik, Aasianni najugaqartut ullumi atuarput",
+    "svar_betydning": "nej, beboerne i Aasiaat læser i dag",
+    "lyd": "86.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit aallartut ippassaq atuarpat?",
+    "prompt_betydning": "læste de der rejste fra Qaanaaq i går?",
+    "svar": "Naamik, Qaanaamiit aallartut ullumi atuarput",
+    "svar_betydning": "nej, de der rejser fra Qaanaaq læser i dag",
+    "lyd": "87.mp3"
+  },
+  {
+    "prompt": "Sanasumiit ungasittut ippassaq aallarpat?",
+    "prompt_betydning": "rejste de der er langt fra håndværkeren i går?",
+    "svar": "Naamik, sanasumiit ungasittut ullumi aallarput",
+    "svar_betydning": "nej, de der er langt fra håndværkeren rejser i dag",
+    "lyd": "88.mp3"
+  },
+  {
+    "prompt": "Uinnut qanittoq ippassaq arpappa?",
+    "prompt_betydning": "løb den der er tæt på ægtemand i går?",
+    "svar": "Naamik, uinnut qanittoq ullumi arpappoq",
+    "svar_betydning": "nej, den der er tæt på ægtemand løber i dag",
+    "lyd": "89.mp3"
+  },
+  {
+    "prompt": "Maniitsumiit tikittoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der ankom fra Maniitsoq i går?",
+    "svar": "Naamik, Maniitsumiit tikittoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der ankommer fra Maniitsoq taler i dag",
+    "lyd": "90.mp3"
+  },
+  {
+    "prompt": "Paninnut arpattoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der løb til datterne i går?",
+    "svar": "Naamik, paninnut arpattoq ullumi tikippoq",
+    "svar_betydning": "nej, den der løber til datterne ankommer i dag",
+    "lyd": "91.mp3"
+  },
+  {
+    "prompt": "Pisiniarfinnut arpattoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der løb til butikkerne i går?",
+    "svar": "Naamik, pisiniarfinnut arpattoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der løber til butikkerne taler i dag",
+    "lyd": "92.mp3"
+  },
+  {
+    "prompt": "Upernavimmi ajortoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den dårlige i Upernavik i går?",
+    "svar": "Naamik, Upernavimmi ajortoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den dårlige i Upernavik taler i dag",
+    "lyd": "93.mp3"
+  },
+  {
+    "prompt": "Sisimiuni nerisoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der spiste i Sisimiut i går?",
+    "svar": "Naamik, Sisimiuni nerisoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der spiser i Sisimiut taler i dag",
+    "lyd": "94.mp3"
+  },
+  {
+    "prompt": "Sinittarfinnut arpattut ippassaq qasuppat?",
+    "prompt_betydning": "blev de der løb til soveværelserne trætte i går?",
+    "svar": "Naamik, sinittarfinnut arpattut ullumi qasupput",
+    "svar_betydning": "nej, de der løber til sovesalene bliver trætte i dag",
+    "lyd": "95.mp3"
+  },
+  {
+    "prompt": "Uimmut arpattoq ippassaq qasua?",
+    "prompt_betydning": "blev den der løb til ægtemand træt i går?",
+    "svar": "Naamik, uimmut arpattoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der løber til ægtemand bliver træt i dag",
+    "lyd": "96.mp3"
+  },
+  {
+    "prompt": "Illumiit arpattoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den der løb fra huset i går?",
+    "svar": "Naamik, illumiit arpattoq ullumi atuarpoq",
+    "svar_betydning": "nej, den der løber fra huset læser i dag",
+    "lyd": "97.mp3"
+  },
+  {
+    "prompt": "Uummannamiit arpattoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der løb fra Uummannaq i går?",
+    "svar": "Naamik, Uummannamiit arpattoq ullumi tikippoq",
+    "svar_betydning": "nej, den der løber fra Uummannaq ankommer i dag",
+    "lyd": "98.mp3"
+  },
+  {
+    "prompt": "Nuliamut oqaluussisut ippassaq arpappat?",
+    "prompt_betydning": "løb de der talte til konen i går?",
+    "svar": "Naamik, nuliamut oqaluussisut ullumi arpapput",
+    "svar_betydning": "nej, de der taler til konen løber i dag",
+    "lyd": "99.mp3"
+  },
+  {
+    "prompt": "Sanasumut oqaluussisut ippassaq qasuppat?",
+    "prompt_betydning": "blev de der talte til håndværkeren trætte i går?",
+    "svar": "Naamik, sanasumut oqaluussisut ullumi qasupput",
+    "svar_betydning": "nej, de der taler til håndværkeren bliver trætte i dag",
+    "lyd": "100.mp3"
+  },
+  {
+    "prompt": "Arnamiit ungasittut ippassaq nerippat?",
+    "prompt_betydning": "spiste de der er langt fra kvinden i går?",
+    "svar": "Naamik, arnamiit ungasittut ullumi neripput",
+    "svar_betydning": "nej, de der er langt fra kvinden spiser i dag",
+    "lyd": "101.mp3"
+  },
+  {
+    "prompt": "Asaasartumut oqaluussisoq ippassaq tikippa?",
+    "prompt_betydning": "ankom taleren til den kære i går?",
+    "svar": "Naamik, asaasartumut oqaluussisoq ullumi tikippoq",
+    "svar_betydning": "nej, taleren til den kære ankommer i dag",
+    "lyd": "102.mp3"
+  },
+  {
+    "prompt": "Nuliamut arpattut ippassaq tikippat?",
+    "prompt_betydning": "ankom de der løb til konen i går?",
+    "svar": "Naamik, nuliamut arpattut ullumi tikipput",
+    "svar_betydning": "nej, de der løber til konen ankommer i dag",
+    "lyd": "103.mp3"
+  },
+  {
+    "prompt": "Anaananut oqaluussisoq ippassaq qasua?",
+    "prompt_betydning": "blev den der talte til sin mor træt i går?",
+    "svar": "Naamik, anaananut oqaluussisoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der taler til sin mor bliver træt i dag",
+    "lyd": "104.mp3"
+  },
+  {
+    "prompt": "Pisiniarfimmi ajortut ippassaq arpappat?",
+    "prompt_betydning": "løb de dårlige i butikken i går?",
+    "svar": "Naamik, pisiniarfimmi ajortut ullumi arpapput",
+    "svar_betydning": "nej, de dårlige i butikken løber i dag",
+    "lyd": "105.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit arpattoq ippassaq atuarpa?",
+    "prompt_betydning": "læste den der løb fra Sisimiut i går?",
+    "svar": "Naamik, Sisimiuniit arpattoq ullumi atuarpoq",
+    "svar_betydning": "nej, den der løber fra Sisimiut læser i dag",
+    "lyd": "106.mp3"
+  },
+  {
+    "prompt": "Angutinut qanittut ippassaq nerippat?",
+    "prompt_betydning": "spiste de der er tæt på mænd i går?",
+    "svar": "Naamik, angutinut qanittut ullumi neripput",
+    "svar_betydning": "nej, de der er tæt på mænd spiser i dag",
+    "lyd": "107.mp3"
+  },
+  {
+    "prompt": "Maniitsumiit aallartut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der rejste fra Maniitsoq i går?",
+    "svar": "Naamik, Maniitsumiit aallartut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der rejser fra Maniitsoq taler i dag",
+    "lyd": "108.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasunut arpattut ippassaq tikippat?",
+    "prompt_betydning": "ankom de der løb til tolke i går?",
+    "svar": "Naamik, nalunaajaasunut arpattut ullumi tikipput",
+    "svar_betydning": "nej, de der løber til tolke ankommer i dag",
+    "lyd": "109.mp3"
+  },
+  {
+    "prompt": "Arnamut qanittut ippassaq arpappat?",
+    "prompt_betydning": "løb de der er tæt på kvinden i går?",
+    "svar": "Naamik, arnamut qanittut ullumi arpapput",
+    "svar_betydning": "nej, de der er tæt på kvinden løber i dag",
+    "lyd": "110.mp3"
+  },
+  {
+    "prompt": "Qaanaamut aallartut ippassaq atuarpat?",
+    "prompt_betydning": "læste de der rejste til Qaanaaq i går?",
+    "svar": "Naamik, Qaanaamut aallartut ullumi atuarput",
+    "svar_betydning": "nej, de der rejser til Qaanaaq læser i dag",
+    "lyd": "111.mp3"
+  },
+  {
+    "prompt": "Tasiilami oqaluussisut ippassaq tikippat?",
+    "prompt_betydning": "ankom talerne i Tasiilaq i går?",
+    "svar": "Naamik, Tasiilami oqaluussisut ullumi tikipput",
+    "svar_betydning": "nej, talerne i Tasiilaq ankommer i dag",
+    "lyd": "112.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit tikittut ippassaq ajorpat?",
+    "prompt_betydning": "var de der ankom fra Kangerlussuaq dårlige i går?",
+    "svar": "Naamik, Kangerlussuarmiit tikittut ullumi ajorput",
+    "svar_betydning": "nej, de der ankommer fra Kangerlussuaq er dårlige i dag",
+    "lyd": "113.mp3"
+  },
+  {
+    "prompt": "Nuummut tikittoq ippassaq oqaluussiva?",
+    "prompt_betydning": "talte den der ankom til Nuuk i går?",
+    "svar": "Naamik, Nuummut tikittoq ullumi oqaluussivoq",
+    "svar_betydning": "nej, den der ankommer til Nuuk taler i dag",
+    "lyd": "114.mp3"
+  },
+  {
+    "prompt": "Ernerniit arpattoq ippassaq tikippa?",
+    "prompt_betydning": "ankom den der løb fra sønnen i går?",
+    "svar": "Naamik, ernerniit arpattoq ullumi tikippoq",
+    "svar_betydning": "nej, den der løber fra sønnen ankommer i dag",
+    "lyd": "115.mp3"
+  },
+  {
+    "prompt": "Angutiniit ungasittoq ippassaq qasua?",
+    "prompt_betydning": "blev den der er langt fra manden træt i går?",
+    "svar": "Naamik, angutiniit ungasittoq ullumi qasuvoq",
+    "svar_betydning": "nej, den der er langt fra manden bliver træt i dag",
+    "lyd": "116.mp3"
+  },
+  {
+    "prompt": "Maniitsumi qasusoq ippassaq ajorpa?",
+    "prompt_betydning": "var den trætte i Maniitsoq dårlig i går?",
+    "svar": "Naamik, Maniitsumi qasusoq ullumi ajorpoq",
+    "svar_betydning": "nej, den trætte i Maniitsoq er dårlig i dag",
+    "lyd": "117.mp3"
+  },
+  {
+    "prompt": "Sinittarfinni ajortut ippassaq qasuppat?",
+    "prompt_betydning": "blev de dårlige i soveværelserne trætte i går?",
+    "svar": "Naamik, sinittarfinni ajortut ullumi qasupput",
+    "svar_betydning": "nej, de dårlige i sovesalene bliver trætte i dag",
+    "lyd": "118.mp3"
+  },
+  {
+    "prompt": "Panimmiit ungasittut ippassaq ajorpat?",
+    "prompt_betydning": "var de der er langt fra datteren dårlige i går?",
+    "svar": "Naamik, panimmiit ungasittut ullumi ajorput",
+    "svar_betydning": "nej, de der er langt fra datteren er dårlige i dag",
+    "lyd": "119.mp3"
+  },
+  {
+    "prompt": "Narsamiit arpattut ippassaq oqaluussippat?",
+    "prompt_betydning": "talte de der løb fra Narsaq i går?",
+    "svar": "Naamik, Narsamiit arpattut ullumi oqaluussipput",
+    "svar_betydning": "nej, de der løber fra Narsaq taler i dag",
+    "lyd": "120.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Narsami ajorpa?",
+    "prompt_betydning": "Var far syg i Narsaq i går?",
+    "svar": "Naamik, ataata ullumi Narsami ajorpoq",
+    "svar_betydning": "Nej, far er syg i Narsaq i dag.",
+    "lyd": "121.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Narsami ajorpa?",
+    "prompt_betydning": "Var vidnet syg i Narsaq i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Narsami ajorpoq",
+    "svar_betydning": "Nej, vidnet er syg i Narsaq i dag.",
+    "lyd": "122.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Pituffimmi ajorpa?",
+    "prompt_betydning": "Var vidnet syg i Pituffik i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Pituffimmi ajorpoq",
+    "svar_betydning": "Nej, vidnet er syg i Pituffik i dag.",
+    "lyd": "123.mp3"
+  },
+  {
+    "prompt": "Sinittarfik ippassaq Tasiilami ajorpa?",
+    "prompt_betydning": "Var sovesalen i stykker i Tasiilaq i går?",
+    "svar": "Naamik, sinittarfik ullumi Tasiilami ajorpoq",
+    "svar_betydning": "Nej, sovesalen er i stykker i Tasiilaq i dag.",
+    "lyd": "124.mp3"
+  },
+  {
+    "prompt": "Tuttu ippassaq Qaqortumi ajorpa?",
+    "prompt_betydning": "Var rensdyret sygt i Qaqortoq i går?",
+    "svar": "Naamik, tuttu ullumi Qaqortumi ajorpoq",
+    "svar_betydning": "Nej, rensdyret er sygt i Qaqortoq i dag.",
+    "lyd": "125.mp3"
+  },
+  {
+    "prompt": "Umimmak ippassaq Uummannami ajorpa?",
+    "prompt_betydning": "Var moskusoksen syg i Uummannaq i går?",
+    "svar": "Naamik, umimmak ullumi Uummannami ajorpoq",
+    "svar_betydning": "Nej, moskusoksen er syg i Uummannaq i dag.",
+    "lyd": "126.mp3"
+  },
+  {
+    "prompt": "Angutit ippassaq Upernavimmi ajorpat?",
+    "prompt_betydning": "Var mændene syge i Upernavik i går?",
+    "svar": "Naamik, angutit ullumi Upernavimmi ajorput",
+    "svar_betydning": "Nej, mændene er syge i Upernavik i dag.",
+    "lyd": "127.mp3"
+  },
+  {
+    "prompt": "Igaffik ippassaq Aasianni ajorpat?",
+    "prompt_betydning": "Var køkkenet i stykker i Aasiaat i går?",
+    "svar": "Naamik, igaffik ullumi Aasianni ajorput",
+    "svar_betydning": "Nej, køkkenet er i stykker i Aasiaat i dag.",
+    "lyd": "128.mp3"
+  },
+  {
+    "prompt": "Issiavik ippassaq Sisimiuni ajorpat?",
+    "prompt_betydning": "Var stolen i stykker i Sisimiut i går?",
+    "svar": "Naamik, issiavik ullumi Sisimiuni ajorput",
+    "svar_betydning": "Nej, stolen er i stykker i Sisimiut i dag.",
+    "lyd": "129.mp3"
+  },
+  {
+    "prompt": "Nerrivik ippassaq Pituffimmi ajorpat?",
+    "prompt_betydning": "Var bordet i stykker i Pituffik i går?",
+    "svar": "Naamik, nerrivik ullumi Pituffimmi ajorput",
+    "svar_betydning": "Nej, bordet er i stykker i Pituffik i dag.",
+    "lyd": "130.mp3"
+  },
+  {
+    "prompt": "Tuttu ippassaq Paamiuni ajorpat?",
+    "prompt_betydning": "Var rensdyret sygt i Paamiut i går?",
+    "svar": "Naamik, tuttu ullumi Paamiuni ajorput",
+    "svar_betydning": "Nej, rensdyret er sygt i Paamiut i dag.",
+    "lyd": "131.mp3"
+  },
+  {
+    "prompt": "Angut ippassaq qatanngummut arpappa?",
+    "prompt_betydning": "Løb manden til broren/søsteren i går?",
+    "svar": "Naamik, angut ullumi qatanngummut arpappoq",
+    "svar_betydning": "Nej, manden løber til broren/søsteren i dag.",
+    "lyd": "132.mp3"
+  },
+  {
+    "prompt": "Angut ippassaq Tasiilami arpappa?",
+    "prompt_betydning": "Løb manden i Tasiilaq i går?",
+    "svar": "Naamik, angut ullumi Tasiilami arpappoq",
+    "svar_betydning": "Nej, manden løber i Tasiilaq i dag.",
+    "lyd": "133.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Nanortalimmut arpappa?",
+    "prompt_betydning": "Løb mor til Nanortalik i går?",
+    "svar": "Naamik, anaana ullumi Nanortalimmut arpappoq",
+    "svar_betydning": "Nej, mor løber til Nanortalik i dag.",
+    "lyd": "134.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Narsami arpappa?",
+    "prompt_betydning": "Løb mor i Narsaq i går?",
+    "svar": "Naamik, anaana ullumi Narsami arpappoq",
+    "svar_betydning": "Nej, mor løber i Narsaq i dag.",
+    "lyd": "135.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq panimmut arpappa?",
+    "prompt_betydning": "Løb mor til datteren i går?",
+    "svar": "Naamik, anaana ullumi panimmut arpappoq",
+    "svar_betydning": "Nej, mor løber til datteren i dag.",
+    "lyd": "136.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Pituffimmut arpappa?",
+    "prompt_betydning": "Løb mor til Pituffik i går?",
+    "svar": "Naamik, anaana ullumi Pituffimmut arpappoq",
+    "svar_betydning": "Nej, mor løber til Pituffik i dag.",
+    "lyd": "137.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq anaananut arpappa?",
+    "prompt_betydning": "Løb far til mødrene i går?",
+    "svar": "Naamik, ataata ullumi anaananut arpappoq",
+    "svar_betydning": "Nej, far løber til mødrene i dag.",
+    "lyd": "138.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq asaasartumut arpappa?",
+    "prompt_betydning": "Løb far til rengøringsassistenten i går?",
+    "svar": "Naamik, ataata ullumi asaasartumut arpappoq",
+    "svar_betydning": "Nej, far løber til rengøringsassistenten i dag.",
+    "lyd": "139.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Nuummut arpappa?",
+    "prompt_betydning": "Løb far til Nuuk i går?",
+    "svar": "Naamik, ataata ullumi Nuummut arpappoq",
+    "svar_betydning": "Nej, far løber til Nuuk i dag.",
+    "lyd": "140.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Paamiunut arpappa?",
+    "prompt_betydning": "Løb far til Paamiut i går?",
+    "svar": "Naamik, ataata ullumi Paamiunut arpappoq",
+    "svar_betydning": "Nej, far løber til Paamiut i dag.",
+    "lyd": "141.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Qaanaamiit arpappa?",
+    "prompt_betydning": "Løb far fra Qaanaaq i går?",
+    "svar": "Naamik, ataata ullumi Qaanaamiit arpappoq",
+    "svar_betydning": "Nej, far løber fra Qaanaaq i dag.",
+    "lyd": "142.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq asaasartumut arpappa?",
+    "prompt_betydning": "Løb sønnen til rengøringsassistenten i går?",
+    "svar": "Naamik, erneq ullumi asaasartumut arpappoq",
+    "svar_betydning": "Nej, sønnen løber til rengøringsassistenten i dag.",
+    "lyd": "143.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Kangerlussuarmi arpappa?",
+    "prompt_betydning": "Løb sønnen i Kangerlussuaq i går?",
+    "svar": "Naamik, erneq ullumi Kangerlussuarmi arpappoq",
+    "svar_betydning": "Nej, sønnen løber i Kangerlussuaq i dag.",
+    "lyd": "144.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq Nuummut arpappa?",
+    "prompt_betydning": "Løb datteren til Nuuk i går?",
+    "svar": "Naamik, panik ullumi Nuummut arpappoq",
+    "svar_betydning": "Nej, datteren løber til Nuuk i dag.",
+    "lyd": "145.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq Upernavimmi arpappa?",
+    "prompt_betydning": "Løb datteren i Upernavik i går?",
+    "svar": "Naamik, panik ullumi Upernavimmi arpappoq",
+    "svar_betydning": "Nej, datteren løber i Upernavik i dag.",
+    "lyd": "146.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq Narsarsuarmi arpappa?",
+    "prompt_betydning": "Løb broren/søsteren i Narsarsuaq i går?",
+    "svar": "Naamik, qatanngut ullumi Narsarsuarmi arpappoq",
+    "svar_betydning": "Nej, broren/søsteren løber i Narsarsuaq i dag.",
+    "lyd": "147.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq panimmiit arpappa?",
+    "prompt_betydning": "Løb broren/søsteren fra datteren i går?",
+    "svar": "Naamik, qatanngut ullumi panimmiit arpappoq",
+    "svar_betydning": "Nej, broren/søsteren løber fra datteren i dag.",
+    "lyd": "148.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Kangerlussuarmi arpappa?",
+    "prompt_betydning": "Løb håndværkeren i Kangerlussuaq i går?",
+    "svar": "Naamik, sanasoq ullumi Kangerlussuarmi arpappoq",
+    "svar_betydning": "Nej, håndværkeren løber i Kangerlussuaq i dag.",
+    "lyd": "149.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Pituffimmut arpappa?",
+    "prompt_betydning": "Løb håndværkeren til Pituffik i går?",
+    "svar": "Naamik, sanasoq ullumi Pituffimmut arpappoq",
+    "svar_betydning": "Nej, håndværkeren løber til Pituffik i dag.",
+    "lyd": "150.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Tasiilamut arpappa?",
+    "prompt_betydning": "Løb håndværkeren til Tasiilaq i går?",
+    "svar": "Naamik, sanasoq ullumi Tasiilamut arpappoq",
+    "svar_betydning": "Nej, håndværkeren løber til Tasiilaq i dag.",
+    "lyd": "151.mp3"
+  },
+  {
+    "prompt": "Angutit ippassaq anaananiit arpappat?",
+    "prompt_betydning": "Løb mændene fra deres mor i går?",
+    "svar": "Naamik, angutit ullumi anaananiit arpapput",
+    "svar_betydning": "Nej, mændene løber fra deres mor i dag.",
+    "lyd": "152.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Pituffimmut arpappat?",
+    "prompt_betydning": "Løb mor til Pituffik i går?",
+    "svar": "Naamik, anaana ullumi Pituffimmut arpapput",
+    "svar_betydning": "Nej, mor løber til Pituffik i dag.",
+    "lyd": "153.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq sanasumut arpappat?",
+    "prompt_betydning": "Løb mor til håndværkeren i går?",
+    "svar": "Naamik, anaana ullumi sanasumut arpapput",
+    "svar_betydning": "Nej, mor løber til håndværkeren i dag.",
+    "lyd": "154.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq Narsarsuarmut arpappat?",
+    "prompt_betydning": "Løb kvinden til Narsarsuaq i går?",
+    "svar": "Naamik, arnaq ullumi Narsarsuarmut arpapput",
+    "svar_betydning": "Nej, kvinden løber til Narsarsuaq i dag.",
+    "lyd": "155.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq sanasunut arpappat?",
+    "prompt_betydning": "Løb kvinden til håndværkerne i går?",
+    "svar": "Naamik, arnaq ullumi sanasunut arpapput",
+    "svar_betydning": "Nej, kvinden løber til håndværkerne i dag.",
+    "lyd": "156.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq Aasianniit arpappat?",
+    "prompt_betydning": "Løb kvinden fra Aasiaat i går?",
+    "svar": "Naamik, arnaq ullumi Aasianniit arpapput",
+    "svar_betydning": "Nej, kvinden løber fra Aasiaat i dag.",
+    "lyd": "157.mp3"
+  },
+  {
+    "prompt": "Ataatat ippassaq Narsami arpappat?",
+    "prompt_betydning": "Løb fædrene i Narsaq i går?",
+    "svar": "Naamik, ataatat ullumi Narsami arpapput",
+    "svar_betydning": "Nej, fædrene løber i Narsaq i dag.",
+    "lyd": "158.mp3"
+  },
+  {
+    "prompt": "Ataatat ippassaq Qaqortumut arpappat?",
+    "prompt_betydning": "Løb fædrene til Qaqortoq i går?",
+    "svar": "Naamik, ataatat ullumi Qaqortumut arpapput",
+    "svar_betydning": "Nej, fædrene løber til Qaqortoq i dag.",
+    "lyd": "159.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Nanortalimmiit arpappat?",
+    "prompt_betydning": "Løb sønnen fra Nanortalik i går?",
+    "svar": "Naamik, erneq ullumi Nanortalimmiit arpapput",
+    "svar_betydning": "Nej, sønnen løber fra Nanortalik i dag.",
+    "lyd": "160.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Qaqortumi arpappat?",
+    "prompt_betydning": "Løb sønnen i Qaqortoq i går?",
+    "svar": "Naamik, erneq ullumi Qaqortumi arpapput",
+    "svar_betydning": "Nej, sønnen løber i Qaqortoq i dag.",
+    "lyd": "161.mp3"
+  },
+  {
+    "prompt": "Ernerit ippassaq qatanngutiniit arpappat?",
+    "prompt_betydning": "Løb sønnerne fra deres brødrene/søstrene i går?",
+    "svar": "Naamik, ernerit ullumi qatanngutiniit arpapput",
+    "svar_betydning": "Nej, sønnerne løber fra deres brødrene/søstrene i dag.",
+    "lyd": "162.mp3"
+  },
+  {
+    "prompt": "Ernerit ippassaq Qaanaamut arpappat?",
+    "prompt_betydning": "Løb sønnerne til Qaanaaq i går?",
+    "svar": "Naamik, ernerit ullumi Qaanaamut arpapput",
+    "svar_betydning": "Nej, sønnerne løber til Qaanaaq i dag.",
+    "lyd": "163.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq anaanamut arpappat?",
+    "prompt_betydning": "Løb broren/søsteren til moren i går?",
+    "svar": "Naamik, qatanngut ullumi anaanamut arpapput",
+    "svar_betydning": "Nej, broren/søsteren løber til moren i dag.",
+    "lyd": "164.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq ataataniit arpappat?",
+    "prompt_betydning": "Løb broren/søsteren fra faren i går?",
+    "svar": "Naamik, qatanngut ullumi ataataniit arpapput",
+    "svar_betydning": "Nej, broren/søsteren løber fra faren i dag.",
+    "lyd": "165.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq Narsarsuarmut arpappat?",
+    "prompt_betydning": "Løb broren/søsteren til Narsarsuaq i går?",
+    "svar": "Naamik, qatanngut ullumi Narsarsuarmut arpapput",
+    "svar_betydning": "Nej, broren/søsteren løber til Narsarsuaq i dag.",
+    "lyd": "166.mp3"
+  },
+  {
+    "prompt": "Qatanngutit ippassaq Narsamiit arpappat?",
+    "prompt_betydning": "Løb brødrene/søstrenene fra Narsaq i går?",
+    "svar": "Naamik, qatanngutit ullumi Narsamiit arpapput",
+    "svar_betydning": "Nej, brødrene/søstrenene løber fra Narsaq i dag.",
+    "lyd": "167.mp3"
+  },
+  {
+    "prompt": "Qatanngutit ippassaq Paamiuni arpappat?",
+    "prompt_betydning": "Løb brødrene/søstrenene i Paamiut i går?",
+    "svar": "Naamik, qatanngutit ullumi Paamiuni arpapput",
+    "svar_betydning": "Nej, brødrene/søstrenene løber i Paamiut i dag.",
+    "lyd": "168.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ippassaq Qaanaami atuarpa?",
+    "prompt_betydning": "Læste rengøringsassistenten i Qaanaaq i går?",
+    "svar": "Naamik, asaasartoq ullumi Qaanaami atuarpoq",
+    "svar_betydning": "Nej, rengøringsassistenten læser i Qaanaaq i dag.",
+    "lyd": "169.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Nanortalimmi atuarpa?",
+    "prompt_betydning": "Læste håndværkeren i Nanortalik i går?",
+    "svar": "Naamik, sanasoq ullumi Nanortalimmi atuarpoq",
+    "svar_betydning": "Nej, håndværkeren læser i Nanortalik i dag.",
+    "lyd": "170.mp3"
+  },
+  {
+    "prompt": "Angut ippassaq Paamiuni atuarpat?",
+    "prompt_betydning": "Læste manden i Paamiut i går?",
+    "svar": "Naamik, angut ullumi Paamiuni atuarput",
+    "svar_betydning": "Nej, manden læser i Paamiut i dag.",
+    "lyd": "171.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut ippassaq Upernavimmi atuarpat?",
+    "prompt_betydning": "Læste vidnerne i Upernavik i går?",
+    "svar": "Naamik, nalunaajaasut ullumi Upernavimmi atuarput",
+    "svar_betydning": "Nej, vidnerne læser i Upernavik i dag.",
+    "lyd": "172.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut ippassaq Uummannami atuarpat?",
+    "prompt_betydning": "Læste vidnerne i Uummannaq i går?",
+    "svar": "Naamik, nalunaajaasut ullumi Uummannami atuarput",
+    "svar_betydning": "Nej, vidnerne læser i Uummannaq i dag.",
+    "lyd": "173.mp3"
+  },
+  {
+    "prompt": "Qatanngutit ippassaq Pituffimmi atuarpat?",
+    "prompt_betydning": "Læste brødrene/søstrenene i Pituffik i går?",
+    "svar": "Naamik, qatanngutit ullumi Pituffimmi atuarput",
+    "svar_betydning": "Nej, brødrene/søstrenene læser i Pituffik i dag.",
+    "lyd": "174.mp3"
+  },
+  {
+    "prompt": "Qatanngutit ippassaq Qaanaami atuarpat?",
+    "prompt_betydning": "Læste brødrene/søstrenene i Qaanaaq i går?",
+    "svar": "Naamik, qatanngutit ullumi Qaanaami atuarput",
+    "svar_betydning": "Nej, brødrene/søstrenene læser i Qaanaaq i dag.",
+    "lyd": "175.mp3"
+  },
+  {
+    "prompt": "Sanasut ippassaq Narsarsuarmi atuarpat?",
+    "prompt_betydning": "Læste håndværkerne i Narsarsuaq i går?",
+    "svar": "Naamik, sanasut ullumi Narsarsuarmi atuarput",
+    "svar_betydning": "Nej, håndværkerne læser i Narsarsuaq i dag.",
+    "lyd": "176.mp3"
+  },
+  {
+    "prompt": "Anaanat ippassaq Qaqortumi nerippat?",
+    "prompt_betydning": "Spiste mødrene i Qaqortoq i går?",
+    "svar": "Naamik, anaanat ullumi Qaqortumi neripput",
+    "svar_betydning": "Nej, mødrene spiser i Qaqortoq i dag.",
+    "lyd": "177.mp3"
+  },
+  {
+    "prompt": "Arnat ippassaq Qaanaami nerippat?",
+    "prompt_betydning": "Spiste kvinderne i Qaanaaq i går?",
+    "svar": "Naamik, arnat ullumi Qaanaami neripput",
+    "svar_betydning": "Nej, kvinderne spiser i Qaanaaq i dag.",
+    "lyd": "178.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ippassaq Narsami nerippat?",
+    "prompt_betydning": "Spiste rengøringsassistenten i Narsaq i går?",
+    "svar": "Naamik, asaasartoq ullumi Narsami neripput",
+    "svar_betydning": "Nej, rengøringsassistenten spiser i Narsaq i dag.",
+    "lyd": "179.mp3"
+  },
+  {
+    "prompt": "Paniit ippassaq Tasiilami nerippat?",
+    "prompt_betydning": "Spiste døtrene i Tasiilaq i går?",
+    "svar": "Naamik, paniit ullumi Tasiilami neripput",
+    "svar_betydning": "Nej, døtrene spiser i Tasiilaq i dag.",
+    "lyd": "180.mp3"
+  },
+  {
+    "prompt": "Qatanngutit ippassaq Nuummi nerippat?",
+    "prompt_betydning": "Spiste brødrene/søstrenene i Nuuk i går?",
+    "svar": "Naamik, qatanngutit ullumi Nuummi neripput",
+    "svar_betydning": "Nej, brødrene/søstrenene spiser i Nuuk i dag.",
+    "lyd": "181.mp3"
+  },
+  {
+    "prompt": "Sanasut ippassaq Qaqortumi nerippat?",
+    "prompt_betydning": "Spiste håndværkerne i Qaqortoq i går?",
+    "svar": "Naamik, sanasut ullumi Qaqortumi neripput",
+    "svar_betydning": "Nej, håndværkerne spiser i Qaqortoq i dag.",
+    "lyd": "182.mp3"
+  },
+  {
+    "prompt": "Tuttu ippassaq Nuummi nerippat?",
+    "prompt_betydning": "Spiste rensdyret i Nuuk i går?",
+    "svar": "Naamik, tuttu ullumi Nuummi neripput",
+    "svar_betydning": "Nej, rensdyret spiser i Nuuk i dag.",
+    "lyd": "183.mp3"
+  },
+  {
+    "prompt": "Tuttut ippassaq Nanortalimmi nerippat?",
+    "prompt_betydning": "Spiste rensdyrene i Nanortalik i går?",
+    "svar": "Naamik, tuttut ullumi Nanortalimmi neripput",
+    "svar_betydning": "Nej, rensdyrene spiser i Nanortalik i dag.",
+    "lyd": "184.mp3"
+  },
+  {
+    "prompt": "Umimmak ippassaq Nanortalimmi nerippat?",
+    "prompt_betydning": "Spiste moskusoksen i Nanortalik i går?",
+    "svar": "Naamik, umimmak ullumi Nanortalimmi neripput",
+    "svar_betydning": "Nej, moskusoksen spiser i Nanortalik i dag.",
+    "lyd": "185.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Upernavimmi neriva?",
+    "prompt_betydning": "Spiste far i Upernavik i går?",
+    "svar": "Naamik, ataata ullumi Upernavimmi nerivoq",
+    "svar_betydning": "Nej, far spiser i Upernavik i dag.",
+    "lyd": "186.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq Uummannami neriva?",
+    "prompt_betydning": "Spiste datteren i Uummannaq i går?",
+    "svar": "Naamik, panik ullumi Uummannami nerivoq",
+    "svar_betydning": "Nej, datteren spiser i Uummannaq i dag.",
+    "lyd": "187.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq Nanortalimmi neriva?",
+    "prompt_betydning": "Spiste broren/søsteren i Nanortalik i går?",
+    "svar": "Naamik, qatanngut ullumi Nanortalimmi nerivoq",
+    "svar_betydning": "Nej, broren/søsteren spiser i Nanortalik i dag.",
+    "lyd": "188.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Tasiilami neriva?",
+    "prompt_betydning": "Spiste håndværkeren i Tasiilaq i går?",
+    "svar": "Naamik, sanasoq ullumi Tasiilami nerivoq",
+    "svar_betydning": "Nej, håndværkeren spiser i Tasiilaq i dag.",
+    "lyd": "189.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq nalunaajaasumut oqaluussippat?",
+    "prompt_betydning": "Forkyndte kvinden for vidnet i går?",
+    "svar": "Naamik, arnaq ullumi nalunaajaasumut oqaluussipput",
+    "svar_betydning": "Nej, kvinden forkynder for vidnet i dag.",
+    "lyd": "190.mp3"
+  },
+  {
+    "prompt": "Asaasartut ippassaq angutinut oqaluussippat?",
+    "prompt_betydning": "Forkyndte rengøringsassistenterne til mændene i går?",
+    "svar": "Naamik, asaasartut ullumi angutinut oqaluussipput",
+    "svar_betydning": "Nej, rengøringsassistenterne forkynder til mændene i dag.",
+    "lyd": "191.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Qaqortumi oqaluussippat?",
+    "prompt_betydning": "Forkyndte vidnet i Qaqortoq i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Qaqortumi oqaluussipput",
+    "svar_betydning": "Nej, vidnet forkynder i Qaqortoq i dag.",
+    "lyd": "192.mp3"
+  },
+  {
+    "prompt": "Paniit ippassaq ataatamut oqaluussippat?",
+    "prompt_betydning": "Forkyndte døtrene for faren i går?",
+    "svar": "Naamik, paniit ullumi ataatamut oqaluussipput",
+    "svar_betydning": "Nej, døtrene forkynder for faren i dag.",
+    "lyd": "193.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq nalunaajaasumut oqaluussippat?",
+    "prompt_betydning": "Forkyndte datteren for vidnet i går?",
+    "svar": "Naamik, panik ullumi nalunaajaasumut oqaluussipput",
+    "svar_betydning": "Nej, datteren forkynder for vidnet i dag.",
+    "lyd": "194.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Kangerlussuarmi oqaluussippat?",
+    "prompt_betydning": "Forkyndte håndværkeren i Kangerlussuaq i går?",
+    "svar": "Naamik, sanasoq ullumi Kangerlussuarmi oqaluussipput",
+    "svar_betydning": "Nej, håndværkeren forkynder i Kangerlussuaq i dag.",
+    "lyd": "195.mp3"
+  },
+  {
+    "prompt": "Angut ippassaq arnanut oqaluussiva?",
+    "prompt_betydning": "Forkyndte manden til kvinderne i går?",
+    "svar": "Naamik, angut ullumi arnanut oqaluussivoq",
+    "svar_betydning": "Nej, manden forkynder til kvinderne i dag.",
+    "lyd": "196.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq angutinut oqaluussiva?",
+    "prompt_betydning": "Forkyndte mor til mændene i går?",
+    "svar": "Naamik, anaana ullumi angutinut oqaluussivoq",
+    "svar_betydning": "Nej, mor forkynder til mændene i dag.",
+    "lyd": "197.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq angutinut oqaluussiva?",
+    "prompt_betydning": "Forkyndte kvinden til mændene i går?",
+    "svar": "Naamik, arnaq ullumi angutinut oqaluussivoq",
+    "svar_betydning": "Nej, kvinden forkynder til mændene i dag.",
+    "lyd": "198.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq qatanngutinut oqaluussiva?",
+    "prompt_betydning": "Forkyndte far for brødrene/søstrene i går?",
+    "svar": "Naamik, ataata ullumi qatanngutinut oqaluussivoq",
+    "svar_betydning": "Nej, far forkynder for brødrene/søstrene i dag.",
+    "lyd": "199.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq qatanngummut oqaluussiva?",
+    "prompt_betydning": "Forkyndte sønnen for broren/søsteren i går?",
+    "svar": "Naamik, erneq ullumi qatanngummut oqaluussivoq",
+    "svar_betydning": "Nej, sønnen forkynder for broren/søsteren i dag.",
+    "lyd": "200.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq anaananut oqaluussiva?",
+    "prompt_betydning": "Forkyndte vidnet til mødrene i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi anaananut oqaluussivoq",
+    "svar_betydning": "Nej, vidnet forkynder til mødrene i dag.",
+    "lyd": "201.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq sanasumut oqaluussiva?",
+    "prompt_betydning": "Forkyndte vidnet for håndværkeren i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi sanasumut oqaluussivoq",
+    "svar_betydning": "Nej, vidnet forkynder for håndværkeren i dag.",
+    "lyd": "202.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq arnanut oqaluussiva?",
+    "prompt_betydning": "Forkyndte broren/søsteren til kvinderne i går?",
+    "svar": "Naamik, qatanngut ullumi arnanut oqaluussivoq",
+    "svar_betydning": "Nej, broren/søsteren forkynder til kvinderne i dag.",
+    "lyd": "203.mp3"
+  },
+  {
+    "prompt": "Angut ippassaq ataatamut qanippa?",
+    "prompt_betydning": "Var manden tæt på faren i går?",
+    "svar": "Naamik, angut ullumi ataatamut qanippoq",
+    "svar_betydning": "Nej, manden er tæt på faren i dag.",
+    "lyd": "204.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq ataatanut qanippa?",
+    "prompt_betydning": "Var sønnen tæt på fædrene i går?",
+    "svar": "Naamik, erneq ullumi ataatanut qanippoq",
+    "svar_betydning": "Nej, sønnen er tæt på fædrene i dag.",
+    "lyd": "205.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq qatanngummut qanippa?",
+    "prompt_betydning": "Var håndværkeren tæt på broren/søsteren i går?",
+    "svar": "Naamik, sanasoq ullumi qatanngummut qanippoq",
+    "svar_betydning": "Nej, håndværkeren er tæt på broren/søsteren i dag.",
+    "lyd": "206.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq angummut qanippat?",
+    "prompt_betydning": "Var mor tæt på manden i går?",
+    "svar": "Naamik, anaana ullumi angummut qanipput",
+    "svar_betydning": "Nej, mor er tæt på manden i dag.",
+    "lyd": "207.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq sanasunut qanippat?",
+    "prompt_betydning": "Var far tæt på håndværkerne i går?",
+    "svar": "Naamik, ataata ullumi sanasunut qanipput",
+    "svar_betydning": "Nej, far er tæt på håndværkerne i dag.",
+    "lyd": "208.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq paninnut qanippat?",
+    "prompt_betydning": "Var sønnen tæt på børnene i går?",
+    "svar": "Naamik, erneq ullumi paninnut qanipput",
+    "svar_betydning": "Nej, sønnen er tæt på børnene i dag.",
+    "lyd": "209.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ippassaq Qaqortumi qasua?",
+    "prompt_betydning": "Var rengøringsassistenten træt i Qaqortoq i går?",
+    "svar": "Naamik, asaasartoq ullumi Qaqortumi qasuvoq",
+    "svar_betydning": "Nej, rengøringsassistenten er træt i Qaqortoq i dag.",
+    "lyd": "210.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Kangerlussuarmi qasua?",
+    "prompt_betydning": "Var far træt i Kangerlussuaq i går?",
+    "svar": "Naamik, ataata ullumi Kangerlussuarmi qasuvoq",
+    "svar_betydning": "Nej, far er træt i Kangerlussuaq i dag.",
+    "lyd": "211.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq Narsarsuarmi qasua?",
+    "prompt_betydning": "Var datteren træt i Narsarsuaq i går?",
+    "svar": "Naamik, panik ullumi Narsarsuarmi qasuvoq",
+    "svar_betydning": "Nej, datteren er træt i Narsarsuaq i dag.",
+    "lyd": "212.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Tasiilami qasua?",
+    "prompt_betydning": "Var håndværkeren træt i Tasiilaq i går?",
+    "svar": "Naamik, sanasoq ullumi Tasiilami qasuvoq",
+    "svar_betydning": "Nej, håndværkeren er træt i Tasiilaq i dag.",
+    "lyd": "213.mp3"
+  },
+  {
+    "prompt": "Ernerit ippassaq Qaanaami qasuppat?",
+    "prompt_betydning": "Var sønnerne trætte i Qaanaaq i går?",
+    "svar": "Naamik, ernerit ullumi Qaanaami qasupput",
+    "svar_betydning": "Nej, sønnerne er trætte i Qaanaaq i dag.",
+    "lyd": "214.mp3"
+  },
+  {
+    "prompt": "Tuttut ippassaq Kangerlussuarmi qasuppat?",
+    "prompt_betydning": "Var rensdyrene trætte i Kangerlussuaq i går?",
+    "svar": "Naamik, tuttut ullumi Kangerlussuarmi qasupput",
+    "svar_betydning": "Nej, rensdyrene er trætte i Kangerlussuaq i dag.",
+    "lyd": "215.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Qaqortumiit tikippa?",
+    "prompt_betydning": "Ankom mor fra Qaqortoq i går?",
+    "svar": "Naamik, anaana ullumi Qaqortumiit tikippoq",
+    "svar_betydning": "Nej, mor ankommer fra Qaqortoq i dag.",
+    "lyd": "216.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ippassaq Sisimiunut tikippa?",
+    "prompt_betydning": "Ankom rengøringsassistenten til Sisimiut i går?",
+    "svar": "Naamik, asaasartoq ullumi Sisimiunut tikippoq",
+    "svar_betydning": "Nej, rengøringsassistenten ankommer til Sisimiut i dag.",
+    "lyd": "217.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Paamiunut tikippa?",
+    "prompt_betydning": "Ankom vidnet til Paamiut i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Paamiunut tikippoq",
+    "svar_betydning": "Nej, vidnet ankommer til Paamiut i dag.",
+    "lyd": "218.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq Paamiuniit tikippa?",
+    "prompt_betydning": "Ankom broren/søsteren fra Paamiut i går?",
+    "svar": "Naamik, qatanngut ullumi Paamiuniit tikippoq",
+    "svar_betydning": "Nej, broren/søsteren ankommer fra Paamiut i dag.",
+    "lyd": "219.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Pituffimmiit tikippa?",
+    "prompt_betydning": "Ankom håndværkeren fra Pituffik i går?",
+    "svar": "Naamik, sanasoq ullumi Pituffimmiit tikippoq",
+    "svar_betydning": "Nej, håndværkeren ankommer fra Pituffik i dag.",
+    "lyd": "220.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Uummannamiit tikippat?",
+    "prompt_betydning": "Ankom mor fra Uummannaq i går?",
+    "svar": "Naamik, anaana ullumi Uummannamiit tikipput",
+    "svar_betydning": "Nej, mor ankommer fra Uummannaq i dag.",
+    "lyd": "221.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Aasianniit tikippat?",
+    "prompt_betydning": "Ankom mor fra Aasiaat i går?",
+    "svar": "Naamik, anaana ullumi Aasianniit tikipput",
+    "svar_betydning": "Nej, mor ankommer fra Aasiaat i dag.",
+    "lyd": "222.mp3"
+  },
+  {
+    "prompt": "Anaanat ippassaq Uummannamiit tikippat?",
+    "prompt_betydning": "Ankom mødrene fra Uummannaq i går?",
+    "svar": "Naamik, anaanat ullumi Uummannamiit tikipput",
+    "svar_betydning": "Nej, mødrene ankommer fra Uummannaq i dag.",
+    "lyd": "223.mp3"
+  },
+  {
+    "prompt": "Anaanat ippassaq Aasiannut tikippat?",
+    "prompt_betydning": "Ankom mødrene til Aasiaat i går?",
+    "svar": "Naamik, anaanat ullumi Aasiannut tikipput",
+    "svar_betydning": "Nej, mødrene ankommer til Aasiaat i dag.",
+    "lyd": "224.mp3"
+  },
+  {
+    "prompt": "Asaasartut ippassaq Maniitsumut tikippat?",
+    "prompt_betydning": "Ankom rengøringsassistenterne til Maniitsoq i går?",
+    "svar": "Naamik, asaasartut ullumi Maniitsumut tikipput",
+    "svar_betydning": "Nej, rengøringsassistenterne ankommer til Maniitsoq i dag.",
+    "lyd": "225.mp3"
+  },
+  {
+    "prompt": "Ataatat ippassaq Qaqortumiit tikippat?",
+    "prompt_betydning": "Ankom fædrene fra Qaqortoq i går?",
+    "svar": "Naamik, ataatat ullumi Qaqortumiit tikipput",
+    "svar_betydning": "Nej, fædrene ankommer fra Qaqortoq i dag.",
+    "lyd": "226.mp3"
+  },
+  {
+    "prompt": "Ataatat ippassaq Upernavimmut tikippat?",
+    "prompt_betydning": "Ankom fædrene til Upernavik i går?",
+    "svar": "Naamik, ataatat ullumi Upernavimmut tikipput",
+    "svar_betydning": "Nej, fædrene ankommer til Upernavik i dag.",
+    "lyd": "227.mp3"
+  },
+  {
+    "prompt": "Ernerit ippassaq Qaanaamut tikippat?",
+    "prompt_betydning": "Ankom sønnerne til Qaanaaq i går?",
+    "svar": "Naamik, ernerit ullumi Qaanaamut tikipput",
+    "svar_betydning": "Nej, sønnerne ankommer til Qaanaaq i dag.",
+    "lyd": "228.mp3"
+  },
+  {
+    "prompt": "Panik ippassaq Pituffimmiit tikippat?",
+    "prompt_betydning": "Ankom datteren fra Pituffik i går?",
+    "svar": "Naamik, panik ullumi Pituffimmiit tikipput",
+    "svar_betydning": "Nej, datteren ankommer fra Pituffik i dag.",
+    "lyd": "229.mp3"
+  },
+  {
+    "prompt": "Qatanngut ippassaq Pituffimmiit tikippat?",
+    "prompt_betydning": "Ankom broren/søsteren fra Pituffik i går?",
+    "svar": "Naamik, qatanngut ullumi Pituffimmiit tikipput",
+    "svar_betydning": "Nej, broren/søsteren ankommer fra Pituffik i dag.",
+    "lyd": "230.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq qatanngutiniit ungasippa?",
+    "prompt_betydning": "Var far langt fra sit brødrene/søstrene i går?",
+    "svar": "Naamik, ataata ullumi qatanngutiniit ungasippoq",
+    "svar_betydning": "Nej, far er langt fra sit brødrene/søstrene i dag.",
+    "lyd": "231.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq nalunaajaasuniit ungasippat?",
+    "prompt_betydning": "Var mor langt fra vidnerne i går?",
+    "svar": "Naamik, anaana ullumi nalunaajaasuniit ungasipput",
+    "svar_betydning": "Nej, mor er langt fra vidnerne i dag.",
+    "lyd": "232.mp3"
+  },
+  {
+    "prompt": "Anaanat ippassaq nalunaajaasuniit ungasippat?",
+    "prompt_betydning": "Var mødrene langt fra vidnerne i går?",
+    "svar": "Naamik, anaanat ullumi nalunaajaasuniit ungasipput",
+    "svar_betydning": "Nej, mødrene er langt fra vidnerne i dag.",
+    "lyd": "233.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq angutiniit ungasippat?",
+    "prompt_betydning": "Var vidnet langt fra manden i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi angutiniit ungasipput",
+    "svar_betydning": "Nej, vidnet er langt fra manden i dag.",
+    "lyd": "234.mp3"
+  },
+  {
+    "prompt": "Paniit ippassaq sanasuniit ungasippat?",
+    "prompt_betydning": "Var døtrene langt fra håndværkerne i går?",
+    "svar": "Naamik, paniit ullumi sanasuniit ungasipput",
+    "svar_betydning": "Nej, døtrene er langt fra håndværkerne i dag.",
+    "lyd": "235.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq Maniitsumiit aallarpa?",
+    "prompt_betydning": "Rejste kvinden fra Maniitsoq i går?",
+    "svar": "Naamik, arnaq ullumi Maniitsumiit aallarpoq",
+    "svar_betydning": "Nej, kvinden rejser fra Maniitsoq i dag.",
+    "lyd": "236.mp3"
+  },
+  {
+    "prompt": "Arnaq ippassaq Tasiilamut aallarpa?",
+    "prompt_betydning": "Rejste kvinden til Tasiilaq i går?",
+    "svar": "Naamik, arnaq ullumi Tasiilamut aallarpoq",
+    "svar_betydning": "Nej, kvinden rejser til Tasiilaq i dag.",
+    "lyd": "237.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Nuummut aallarpa?",
+    "prompt_betydning": "Rejste sønnen til Nuuk i går?",
+    "svar": "Naamik, erneq ullumi Nuummut aallarpoq",
+    "svar_betydning": "Nej, sønnen rejser til Nuuk i dag.",
+    "lyd": "238.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Tasiilamiit aallarpa?",
+    "prompt_betydning": "Rejste vidnet fra Tasiilaq i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Tasiilamiit aallarpoq",
+    "svar_betydning": "Nej, vidnet rejser fra Tasiilaq i dag.",
+    "lyd": "239.mp3"
+  },
+  {
+    "prompt": "Sanasoq ippassaq Maniitsumiit aallarpa?",
+    "prompt_betydning": "Rejste håndværkeren fra Maniitsoq i går?",
+    "svar": "Naamik, sanasoq ullumi Maniitsumiit aallarpoq",
+    "svar_betydning": "Nej, håndværkeren rejser fra Maniitsoq i dag.",
+    "lyd": "240.mp3"
+  },
+  {
+    "prompt": "Anaana ippassaq Qaanaamiit aallarpat?",
+    "prompt_betydning": "Rejste mor fra Qaanaaq i går?",
+    "svar": "Naamik, anaana ullumi Qaanaamiit aallarput",
+    "svar_betydning": "Nej, mor rejser fra Qaanaaq i dag.",
+    "lyd": "241.mp3"
+  },
+  {
+    "prompt": "Asaasartut ippassaq Narsamut aallarpat?",
+    "prompt_betydning": "Rejste rengøringsassistenterne til Narsaq i går?",
+    "svar": "Naamik, asaasartut ullumi Narsamut aallarput",
+    "svar_betydning": "Nej, rengøringsassistenterne rejser til Narsaq i dag.",
+    "lyd": "242.mp3"
+  },
+  {
+    "prompt": "Ataata ippassaq Paamiunut aallarpat?",
+    "prompt_betydning": "Rejste far til Paamiut i går?",
+    "svar": "Naamik, ataata ullumi Paamiunut aallarput",
+    "svar_betydning": "Nej, far rejser til Paamiut i dag.",
+    "lyd": "243.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Nanortalimmut aallarpat?",
+    "prompt_betydning": "Rejste sønnen til Nanortalik i går?",
+    "svar": "Naamik, erneq ullumi Nanortalimmut aallarput",
+    "svar_betydning": "Nej, sønnen rejser til Nanortalik i dag.",
+    "lyd": "244.mp3"
+  },
+  {
+    "prompt": "Erneq ippassaq Tasiilamut aallarpat?",
+    "prompt_betydning": "Rejste sønnen til Tasiilaq i går?",
+    "svar": "Naamik, erneq ullumi Tasiilamut aallarput",
+    "svar_betydning": "Nej, sønnen rejser til Tasiilaq i dag.",
+    "lyd": "245.mp3"
+  },
+  {
+    "prompt": "Ernerit ippassaq Pituffimmut aallarpat?",
+    "prompt_betydning": "Rejste sønnerne til Pituffik i går?",
+    "svar": "Naamik, ernerit ullumi Pituffimmut aallarput",
+    "svar_betydning": "Nej, sønnerne rejser til Pituffik i dag.",
+    "lyd": "246.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq ippassaq Maniitsumut aallarpat?",
+    "prompt_betydning": "Rejste vidnet til Maniitsoq i går?",
+    "svar": "Naamik, nalunaajaasoq ullumi Maniitsumut aallarput",
+    "svar_betydning": "Nej, vidnet rejser til Maniitsoq i dag.",
+    "lyd": "247.mp3"
+  },
+  {
+    "prompt": "Paniit ippassaq Kangerlussuarmut aallarpat?",
+    "prompt_betydning": "Rejste døtrene til Kangerlussuaq i går?",
+    "svar": "Naamik, paniit ullumi Kangerlussuarmut aallarput",
+    "svar_betydning": "Nej, døtrene rejser til Kangerlussuaq i dag.",
+    "lyd": "248.mp3"
+  },
+  {
+    "prompt": "Paniit ippassaq Uummannamut aallarpat?",
+    "prompt_betydning": "Rejste døtrene til Uummannaq i går?",
+    "svar": "Naamik, paniit ullumi Uummannamut aallarput",
+    "svar_betydning": "Nej, døtrene rejser til Uummannaq i dag.",
+    "lyd": "249.mp3"
+  },
+  {
+    "prompt": "Ippassaq angummut arpappat?",
+    "prompt_betydning": "Løb de til manden i går?",
+    "svar": "Naamik, ullumi angummut arpapput",
+    "svar_betydning": "Nej, i dag løber de til manden.",
+    "lyd": "250.mp3"
+  },
+  {
+    "prompt": "Ippassaq angummut arpappat?",
+    "prompt_betydning": "Løb de til manden i går?",
+    "svar": "Naamik, ullumi angummut arpapput",
+    "svar_betydning": "Nej, i dag løber de til manden.",
+    "lyd": "251.mp3"
+  },
+  {
+    "prompt": "Ippassaq angutiniit ungasippa?",
+    "prompt_betydning": "Var han langt fra manden i går?",
+    "svar": "Naamik, ullumi angutiniit ungasippoq",
+    "svar_betydning": "Nej, i dag er han langt fra manden.",
+    "lyd": "252.mp3"
+  },
+  {
+    "prompt": "Ippassaq angutinut qanippa?",
+    "prompt_betydning": "Var han tæt på mændene i går?",
+    "svar": "Naamik, ullumi angutinut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på mændene.",
+    "lyd": "253.mp3"
+  },
+  {
+    "prompt": "Ippassaq angutinut qanippit?",
+    "prompt_betydning": "Var du tæt på mændene i går?",
+    "svar": "Naamik, ullumi angutinut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på mændene.",
+    "lyd": "254.mp3"
+  },
+  {
+    "prompt": "Ippassaq anaanamiit ungasippit?",
+    "prompt_betydning": "Var du langt fra din mor i går?",
+    "svar": "Naamik, ullumi anaanamiit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra min mor.",
+    "lyd": "255.mp3"
+  },
+  {
+    "prompt": "Ippassaq anaananiit ungasippa?",
+    "prompt_betydning": "Var han langt fra moren i går?",
+    "svar": "Naamik, ullumi anaananiit ungasippoq",
+    "svar_betydning": "Nej, i dag er han langt fra moren.",
+    "lyd": "256.mp3"
+  },
+  {
+    "prompt": "Ippassaq anaananut oqaluussiva?",
+    "prompt_betydning": "Forkyndte hun for mødrene i går?",
+    "svar": "Naamik, ullumi anaananut oqaluussivoq",
+    "svar_betydning": "Nej, i dag forkynder hun for mødrene.",
+    "lyd": "257.mp3"
+  },
+  {
+    "prompt": "Ippassaq arnamut arpappat?",
+    "prompt_betydning": "Løb de til kvinden i går?",
+    "svar": "Naamik, ullumi arnamut arpapput",
+    "svar_betydning": "Nej, i dag løber de til kvinden.",
+    "lyd": "258.mp3"
+  },
+  {
+    "prompt": "Ippassaq arnamut oqaluussippat?",
+    "prompt_betydning": "Forkyndte de for kvinden i går?",
+    "svar": "Naamik, ullumi arnamut oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de for kvinden.",
+    "lyd": "259.mp3"
+  },
+  {
+    "prompt": "Ippassaq arnanut qanippa?",
+    "prompt_betydning": "Var han tæt på kvinderne i går?",
+    "svar": "Naamik, ullumi arnanut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på kvinderne.",
+    "lyd": "260.mp3"
+  },
+  {
+    "prompt": "Ippassaq arpattunut oqaluussivit?",
+    "prompt_betydning": "Forkyndte du for dem, der løb, i går?",
+    "svar": "Naamik, ullumi arpattunut oqaluussivunga",
+    "svar_betydning": "Nej, i dag forkynder jeg for dem, der løber.",
+    "lyd": "261.mp3"
+  },
+  {
+    "prompt": "Ippassaq asaasartumut arpappat?",
+    "prompt_betydning": "Løb de til rengøringsassistenten i går?",
+    "svar": "Naamik, ullumi asaasartumut arpapput",
+    "svar_betydning": "Nej, i dag løber de til rengøringsassistenten.",
+    "lyd": "262.mp3"
+  },
+  {
+    "prompt": "Ippassaq asaasartumut qanippat?",
+    "prompt_betydning": "Var han tæt på rengøringsassistenten i går?",
+    "svar": "Naamik, ullumi asaasartumut qanipput",
+    "svar_betydning": "Nej, i dag er han tæt på rengøringsassistenten.",
+    "lyd": "263.mp3"
+  },
+  {
+    "prompt": "Ippassaq asaasartumut qanippisi?",
+    "prompt_betydning": "Var I tæt på rengøringsassistenten i går?",
+    "svar": "Naamik, ullumi asaasartumut qanippugut",
+    "svar_betydning": "Nej, i dag er vi tæt på rengøringsassistenten.",
+    "lyd": "264.mp3"
+  },
+  {
+    "prompt": "Ippassaq atuartumiit ungasippit?",
+    "prompt_betydning": "Var du langt fra eleven i går?",
+    "svar": "Naamik, ullumi atuartumiit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra eleven.",
+    "lyd": "265.mp3"
+  },
+  {
+    "prompt": "Ippassaq ataatamiit ungasippa?",
+    "prompt_betydning": "Var han langt fra sin far i går?",
+    "svar": "Naamik, ullumi ataatamiit ungasippoq",
+    "svar_betydning": "Nej, i dag er han langt fra sin far.",
+    "lyd": "266.mp3"
+  },
+  {
+    "prompt": "Ippassaq ataatamut qanippisi?",
+    "prompt_betydning": "Var I tæt på faren i går?",
+    "svar": "Naamik, ullumi ataatamut qanippugut",
+    "svar_betydning": "Nej, i dag er vi tæt på faren.",
+    "lyd": "267.mp3"
+  },
+  {
+    "prompt": "Ippassaq ataatanut qanippat?",
+    "prompt_betydning": "Var de tæt på fædrene i går?",
+    "svar": "Naamik, ullumi ataatanut qanipput",
+    "svar_betydning": "Nej, i dag er de tæt på fædrene.",
+    "lyd": "268.mp3"
+  },
+  {
+    "prompt": "Ippassaq ernermut arpappa?",
+    "prompt_betydning": "Løb han til sønnen i går?",
+    "svar": "Naamik, ullumi ernermut arpappoq",
+    "svar_betydning": "Nej, i dag løber han til sønnen.",
+    "lyd": "269.mp3"
+  },
+  {
+    "prompt": "Ippassaq ernermut oqaluussippat?",
+    "prompt_betydning": "Forkyndte de for sønnen i går?",
+    "svar": "Naamik, ullumi ernermut oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de for sønnen.",
+    "lyd": "270.mp3"
+  },
+  {
+    "prompt": "Ippassaq ernerniit ungasippisi?",
+    "prompt_betydning": "Var I langt fra sønnerne i går?",
+    "svar": "Naamik, ullumi ernerniit ungasippugut",
+    "svar_betydning": "Nej, i dag er vi langt fra sønnerne.",
+    "lyd": "271.mp3"
+  },
+  {
+    "prompt": "Ippassaq igaffimmi arpappat?",
+    "prompt_betydning": "Løb de i køkkenet i går?",
+    "svar": "Naamik, ullumi igaffimmi arpapput",
+    "svar_betydning": "Nej, i dag løber de i køkkenet.",
+    "lyd": "272.mp3"
+  },
+  {
+    "prompt": "Ippassaq igaffimmi qasuppat?",
+    "prompt_betydning": "Var de trætte i køkkenet i går?",
+    "svar": "Naamik, ullumi igaffimmi qasupput",
+    "svar_betydning": "Nej, i dag er de trætte i køkkenet.",
+    "lyd": "273.mp3"
+  },
+  {
+    "prompt": "Ippassaq igaffimmiit arpappat?",
+    "prompt_betydning": "Løb de fra køkkenet i går?",
+    "svar": "Naamik, ullumi igaffimmiit arpapput",
+    "svar_betydning": "Nej, i dag løber de fra køkkenet.",
+    "lyd": "274.mp3"
+  },
+  {
+    "prompt": "Ippassaq igaffimmiit arpappit?",
+    "prompt_betydning": "Løb du fra køkkenet i går?",
+    "svar": "Naamik, ullumi igaffimmiit arpappunga",
+    "svar_betydning": "Nej, i dag løber jeg fra køkkenet.",
+    "lyd": "275.mp3"
+  },
+  {
+    "prompt": "Ippassaq igaffimmiit ungasippat?",
+    "prompt_betydning": "Var den langt fra køkkenet i går?",
+    "svar": "Naamik, ullumi igaffimmiit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra køkkenet.",
+    "lyd": "276.mp3"
+  },
+  {
+    "prompt": "Ippassaq illumi atuarpat?",
+    "prompt_betydning": "Læste de i huset i går?",
+    "svar": "Naamik, ullumi illumi atuarput",
+    "svar_betydning": "Nej, i dag læser de i huset.",
+    "lyd": "277.mp3"
+  },
+  {
+    "prompt": "Ippassaq illuniit ungasippat?",
+    "prompt_betydning": "Var de langt fra husene i går?",
+    "svar": "Naamik, ullumi illuniit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra husene.",
+    "lyd": "278.mp3"
+  },
+  {
+    "prompt": "Ippassaq illuniit ungasippisi?",
+    "prompt_betydning": "Var I langt fra husene i går?",
+    "svar": "Naamik, ullumi illuniit ungasippugut",
+    "svar_betydning": "Nej, i dag er vi langt fra husene.",
+    "lyd": "279.mp3"
+  },
+  {
+    "prompt": "Ippassaq illunut qanippisi?",
+    "prompt_betydning": "Var I tæt på husene i går?",
+    "svar": "Naamik, ullumi illunut qanippugut",
+    "svar_betydning": "Nej, i dag er vi tæt på husene.",
+    "lyd": "280.mp3"
+  },
+  {
+    "prompt": "Ippassaq issiavimmiit ungasippat?",
+    "prompt_betydning": "Var den langt fra stolen i går?",
+    "svar": "Naamik, ullumi issiavimmiit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra stolen.",
+    "lyd": "281.mp3"
+  },
+  {
+    "prompt": "Ippassaq issiavimmiit ungasippit?",
+    "prompt_betydning": "Var du langt fra stolen i går?",
+    "svar": "Naamik, ullumi issiavimmiit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra stolen.",
+    "lyd": "282.mp3"
+  },
+  {
+    "prompt": "Ippassaq issiavinniit ungasippat?",
+    "prompt_betydning": "Var de langt fra stolene i går?",
+    "svar": "Naamik, ullumi issiavinniit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra stolene.",
+    "lyd": "283.mp3"
+  },
+  {
+    "prompt": "Ippassaq Kangerlussuarmi qasua?",
+    "prompt_betydning": "Var han træt i Kangerlussuaq i går?",
+    "svar": "Naamik, ullumi Kangerlussuarmi qasuvoq",
+    "svar_betydning": "Nej, i dag er han træt i Kangerlussuaq.",
+    "lyd": "284.mp3"
+  },
+  {
+    "prompt": "Ippassaq Kangerlussuarmut qanippat?",
+    "prompt_betydning": "Var han tæt på Kangerlussuaq i går?",
+    "svar": "Naamik, ullumi Kangerlussuarmut qanipput",
+    "svar_betydning": "Nej, i dag er de tæt på Kangerlussuaq.",
+    "lyd": "285.mp3"
+  },
+  {
+    "prompt": "Ippassaq Kangerlussuarmut tikippa?",
+    "prompt_betydning": "Ankom han til Kangerlussuaq i går?",
+    "svar": "Naamik, ullumi Kangerlussuarmut tikippoq",
+    "svar_betydning": "Nej, i dag ankommer han til Kangerlussuaq.",
+    "lyd": "286.mp3"
+  },
+  {
+    "prompt": "Ippassaq Kangerlussuarmut aallarpisi?",
+    "prompt_betydning": "Rejste I til Kangerlussuaq i går?",
+    "svar": "Naamik, ullumi Kangerlussuarmut aallarpugut",
+    "svar_betydning": "Nej, i dag rejser vi til Kangerlussuaq.",
+    "lyd": "287.mp3"
+  },
+  {
+    "prompt": "Ippassaq Maniitsumi atuarpat?",
+    "prompt_betydning": "Læste de i Maniitsoq i går?",
+    "svar": "Naamik, ullumi Maniitsumi atuarput",
+    "svar_betydning": "Nej, i dag læser de i Maniitsoq.",
+    "lyd": "288.mp3"
+  },
+  {
+    "prompt": "Ippassaq Maniitsumiit tikippisi?",
+    "prompt_betydning": "Ankom I fra Maniitsoq i går?",
+    "svar": "Naamik, ullumi Maniitsumiit tikippugut",
+    "svar_betydning": "Nej, i dag ankommer vi fra Maniitsoq.",
+    "lyd": "289.mp3"
+  },
+  {
+    "prompt": "Ippassaq Maniitsumiit ungasippit?",
+    "prompt_betydning": "Var du langt fra Maniitsoq i går?",
+    "svar": "Naamik, ullumi Maniitsumiit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra Maniitsoq.",
+    "lyd": "290.mp3"
+  },
+  {
+    "prompt": "Ippassaq najugaqartunut arpappat?",
+    "prompt_betydning": "Løb de til beboerne i går?",
+    "svar": "Naamik, ullumi najugaqartunut arpapput",
+    "svar_betydning": "Nej, i dag løber de til dem, der bor der.",
+    "lyd": "291.mp3"
+  },
+  {
+    "prompt": "Ippassaq najugaqartunut oqaluussivit?",
+    "prompt_betydning": "Forkyndte du for beboerne i går?",
+    "svar": "Naamik, ullumi najugaqartunut oqaluussivunga",
+    "svar_betydning": "Nej, i dag forkynder jeg for beboerne.",
+    "lyd": "292.mp3"
+  },
+  {
+    "prompt": "Ippassaq nalunaajaasumiit ungasippisi?",
+    "prompt_betydning": "Var I langt fra vidnet i går?",
+    "svar": "Naamik, ullumi nalunaajaasumiit ungasippugut",
+    "svar_betydning": "Nej, i dag er vi langt fra vidnet.",
+    "lyd": "293.mp3"
+  },
+  {
+    "prompt": "Ippassaq nalunaajaasunut arpappat?",
+    "prompt_betydning": "Løb de til vidnerne i går?",
+    "svar": "Naamik, ullumi nalunaajaasunut arpapput",
+    "svar_betydning": "Nej, i dag løber de til vidnerne.",
+    "lyd": "294.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nanortalimmi ajorpisi?",
+    "prompt_betydning": "Havde I det dårligt i Nanortalik i går?",
+    "svar": "Naamik, ullumi Nanortalimmi ajorpugut",
+    "svar_betydning": "Nej, i dag har vi det dårligt i Nanortalik.",
+    "lyd": "295.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nanortalimmi oqaluussiva?",
+    "prompt_betydning": "Forkyndte hun i Nanortalik i går?",
+    "svar": "Naamik, ullumi Nanortalimmi oqaluussivoq",
+    "svar_betydning": "Nej, i dag forkynder hun i Nanortalik.",
+    "lyd": "296.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nanortalimmut qanippa?",
+    "prompt_betydning": "Var han tæt på Nanortalik i går?",
+    "svar": "Naamik, ullumi Nanortalimmut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på Nanortalik.",
+    "lyd": "297.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsami atuarpisi?",
+    "prompt_betydning": "Læste I i Narsaq i går?",
+    "svar": "Naamik, ullumi Narsami atuarpugut",
+    "svar_betydning": "Nej, i dag læser vi i Narsaq.",
+    "lyd": "298.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsami oqaluussivit?",
+    "prompt_betydning": "Forkyndte du i Narsaq i går?",
+    "svar": "Naamik, ullumi Narsami oqaluussivunga",
+    "svar_betydning": "Nej, i dag forkynder jeg i Narsaq.",
+    "lyd": "299.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsami qasuppat?",
+    "prompt_betydning": "Var de trætte i Narsaq i går?",
+    "svar": "Naamik, ullumi Narsami qasupput",
+    "svar_betydning": "Nej, i dag er de trætte i Narsaq.",
+    "lyd": "300.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsarsuarmiit tikippisi?",
+    "prompt_betydning": "Ankom I fra Narsarsuaq i går?",
+    "svar": "Naamik, ullumi Narsarsuarmiit tikippugut",
+    "svar_betydning": "Nej, i dag ankommer vi fra Narsarsuaq.",
+    "lyd": "301.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsarsuarmut tikippat?",
+    "prompt_betydning": "Ankom de til Narsarsuaq i går?",
+    "svar": "Naamik, ullumi Narsarsuarmut tikipput",
+    "svar_betydning": "Nej, i dag ankommer de til Narsarsuaq.",
+    "lyd": "302.mp3"
+  },
+  {
+    "prompt": "Ippassaq Narsarsuarmut tikippit?",
+    "prompt_betydning": "Ankom du til Narsarsuaq i går?",
+    "svar": "Naamik, ullumi Narsarsuarmut tikippunga",
+    "svar_betydning": "Nej, i dag ankommer jeg til Narsarsuaq.",
+    "lyd": "303.mp3"
+  },
+  {
+    "prompt": "Ippassaq nerrivimmiit ungasippisi?",
+    "prompt_betydning": "Var I langt fra bordet i går?",
+    "svar": "Naamik, ullumi nerrivimmiit ungasippugut",
+    "svar_betydning": "Nej, i dag er vi langt fra bordet.",
+    "lyd": "304.mp3"
+  },
+  {
+    "prompt": "Ippassaq nerrivimmut qanippat?",
+    "prompt_betydning": "Var de tæt på bordet i går?",
+    "svar": "Naamik, ullumi nerrivimmut qanipput",
+    "svar_betydning": "Nej, i dag er de tæt på bordet.",
+    "lyd": "305.mp3"
+  },
+  {
+    "prompt": "Ippassaq nerrivimmut qanippit?",
+    "prompt_betydning": "Var du tæt på bordet i går?",
+    "svar": "Naamik, ullumi nerrivimmut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på bordet.",
+    "lyd": "306.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nuummi ajorpisi?",
+    "prompt_betydning": "Havde I det dårligt i Nuuk i går?",
+    "svar": "Naamik, ullumi Nuummi ajorpugut",
+    "svar_betydning": "Nej, i dag har vi det dårligt i Nuuk.",
+    "lyd": "307.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nuummi arpappit?",
+    "prompt_betydning": "Løb du i Nuuk i går?",
+    "svar": "Naamik, ullumi Nuummi arpappunga",
+    "svar_betydning": "Nej, i dag løber jeg i Nuuk.",
+    "lyd": "308.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nuummi atuarpa?",
+    "prompt_betydning": "Læste hun i Nuuk i går?",
+    "svar": "Naamik, ullumi Nuummi atuarpoq",
+    "svar_betydning": "Nej, i dag læser hun i Nuuk.",
+    "lyd": "309.mp3"
+  },
+  {
+    "prompt": "Ippassaq Nuummut arpappat?",
+    "prompt_betydning": "Løb de til Nuuk i går?",
+    "svar": "Naamik, ullumi Nuummut arpapput",
+    "svar_betydning": "Nej, i dag løber de til Nuuk.",
+    "lyd": "310.mp3"
+  },
+  {
+    "prompt": "Ippassaq panimmiit ungasippat?",
+    "prompt_betydning": "Var de langt fra datteren i går?",
+    "svar": "Naamik, ullumi panimmiit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra datteren.",
+    "lyd": "311.mp3"
+  },
+  {
+    "prompt": "Ippassaq panimmiit ungasippat?",
+    "prompt_betydning": "Var de langt fra datteren i går?",
+    "svar": "Naamik, ullumi panimmiit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra datteren.",
+    "lyd": "312.mp3"
+  },
+  {
+    "prompt": "Ippassaq paninniit arpappat?",
+    "prompt_betydning": "Løb de fra datteren i går?",
+    "svar": "Naamik, ullumi paninniit arpapput",
+    "svar_betydning": "Nej, i dag løber de fra datteren.",
+    "lyd": "313.mp3"
+  },
+  {
+    "prompt": "Ippassaq pisiniarfimmi atuarpa?",
+    "prompt_betydning": "Læste han i butikken i går?",
+    "svar": "Naamik, ullumi pisiniarfimmi atuarpoq",
+    "svar_betydning": "Nej, i dag læser han i butikken.",
+    "lyd": "314.mp3"
+  },
+  {
+    "prompt": "Ippassaq pisiniarfinni atuarpa?",
+    "prompt_betydning": "Læste han i butikkerne i går?",
+    "svar": "Naamik, ullumi pisiniarfinni atuarpoq",
+    "svar_betydning": "Nej, i dag læser han i butikkerne.",
+    "lyd": "315.mp3"
+  },
+  {
+    "prompt": "Ippassaq pisiniarfinni nerivit?",
+    "prompt_betydning": "Spiste du i butikkerne i går?",
+    "svar": "Naamik, ullumi pisiniarfinni nerivunga",
+    "svar_betydning": "Nej, i dag spiser jeg i butikkerne.",
+    "lyd": "316.mp3"
+  },
+  {
+    "prompt": "Ippassaq pisiniarfinniit arpappa?",
+    "prompt_betydning": "Løb han fra butikkerne i går?",
+    "svar": "Naamik, ullumi pisiniarfinniit arpappoq",
+    "svar_betydning": "Nej, i dag løber han fra butikkerne.",
+    "lyd": "317.mp3"
+  },
+  {
+    "prompt": "Ippassaq Pituffimmi arpappa?",
+    "prompt_betydning": "Løb han i Pituffik i går?",
+    "svar": "Naamik, ullumi Pituffimmi arpappoq",
+    "svar_betydning": "Nej, i dag løber han i Pituffik.",
+    "lyd": "318.mp3"
+  },
+  {
+    "prompt": "Ippassaq Pituffimmiit aallarpa?",
+    "prompt_betydning": "Rejste han fra Pituffik i går?",
+    "svar": "Naamik, ullumi Pituffimmiit aallarpoq",
+    "svar_betydning": "Nej, i dag rejser han fra Pituffik.",
+    "lyd": "319.mp3"
+  },
+  {
+    "prompt": "Ippassaq Pituffimmiit aallarpat?",
+    "prompt_betydning": "Rejste de fra Pituffik i går?",
+    "svar": "Naamik, ullumi Pituffimmiit aallarput",
+    "svar_betydning": "Nej, i dag rejser de fra Pituffik.",
+    "lyd": "320.mp3"
+  },
+  {
+    "prompt": "Ippassaq Paamiuni ajorpa?",
+    "prompt_betydning": "Havde han det dårligt i Paamiut i går?",
+    "svar": "Naamik, ullumi Paamiuni ajorpoq",
+    "svar_betydning": "Nej, i dag har han det dårligt i Paamiut.",
+    "lyd": "321.mp3"
+  },
+  {
+    "prompt": "Ippassaq Paamiuni ajorpit?",
+    "prompt_betydning": "Havde du det dårligt i Paamiut i går?",
+    "svar": "Naamik, ullumi Paamiuni ajorpunga",
+    "svar_betydning": "Nej, i dag har jeg det dårligt i Paamiut.",
+    "lyd": "322.mp3"
+  },
+  {
+    "prompt": "Ippassaq Paamiunut arpappisi?",
+    "prompt_betydning": "Løb I til Paamiut i går?",
+    "svar": "Naamik, ullumi Paamiunut arpappugut",
+    "svar_betydning": "Nej, i dag løber vi til Paamiut.",
+    "lyd": "323.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaqortumi ajorpa?",
+    "prompt_betydning": "Havde han det dårligt i Qaqortoq i går?",
+    "svar": "Naamik, ullumi Qaqortumi ajorpoq",
+    "svar_betydning": "Nej, i dag har han det dårligt i Qaqortoq.",
+    "lyd": "324.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaqortumi atuarpisi?",
+    "prompt_betydning": "Læste I i Qaqortoq i går?",
+    "svar": "Naamik, ullumi Qaqortumi atuarpugut",
+    "svar_betydning": "Nej, i dag læser vi i Qaqortoq.",
+    "lyd": "325.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaqortumi oqaluussippat?",
+    "prompt_betydning": "Forkyndte de i Qaqortoq i går?",
+    "svar": "Naamik, ullumi Qaqortumi oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de i Qaqortoq.",
+    "lyd": "326.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaqortumut aallarpisi?",
+    "prompt_betydning": "Rejste I til Qaqortoq i går?",
+    "svar": "Naamik, ullumi Qaqortumut aallarpugut",
+    "svar_betydning": "Nej, i dag rejser vi til Qaqortoq.",
+    "lyd": "327.mp3"
+  },
+  {
+    "prompt": "Ippassaq qasusunut oqaluussivit?",
+    "prompt_betydning": "Forkyndte du for de trætte i går?",
+    "svar": "Naamik, ullumi qasusunut oqaluussivunga",
+    "svar_betydning": "Nej, i dag forkynder jeg for de trætte.",
+    "lyd": "328.mp3"
+  },
+  {
+    "prompt": "Ippassaq qatanngummiit arpappat?",
+    "prompt_betydning": "Løb de fra broren/søsteren i går?",
+    "svar": "Naamik, ullumi qatanngummiit arpapput",
+    "svar_betydning": "Nej, i dag løber de fra broren/søsteren.",
+    "lyd": "329.mp3"
+  },
+  {
+    "prompt": "Ippassaq qatanngummut oqaluussippat?",
+    "prompt_betydning": "Forkyndte de for broren/søsteren i går?",
+    "svar": "Naamik, ullumi qatanngummut oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de for broren/søsteren.",
+    "lyd": "330.mp3"
+  },
+  {
+    "prompt": "Ippassaq qatanngutinut oqaluussippat?",
+    "prompt_betydning": "Forkyndte de for brødrene/søstrenene i går?",
+    "svar": "Naamik, ullumi qatanngutinut oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de for brødrene/søstrenene.",
+    "lyd": "331.mp3"
+  },
+  {
+    "prompt": "Ippassaq qatanngutinut oqaluussiva?",
+    "prompt_betydning": "Forkyndte hun for brødrene/søstrenene i går?",
+    "svar": "Naamik, ullumi qatanngutinut oqaluussivoq",
+    "svar_betydning": "Nej, i dag forkynder hun for brødrene/søstrenene.",
+    "lyd": "332.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaanaami nerivit?",
+    "prompt_betydning": "Spiste du i Qaanaaq i går?",
+    "svar": "Naamik, ullumi Qaanaami nerivunga",
+    "svar_betydning": "Nej, i dag spiser jeg i Qaanaaq.",
+    "lyd": "333.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaanaami oqaluussippat?",
+    "prompt_betydning": "Forkyndte de i Qaanaaq i går?",
+    "svar": "Naamik, ullumi Qaanaami oqaluussipput",
+    "svar_betydning": "Nej, i dag forkynder de i Qaanaaq.",
+    "lyd": "334.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaanaamiit aallarpisi?",
+    "prompt_betydning": "Rejste I fra Qaanaaq i går?",
+    "svar": "Naamik, ullumi Qaanaamiit aallarpugut",
+    "svar_betydning": "Nej, i dag rejser vi fra Qaanaaq.",
+    "lyd": "335.mp3"
+  },
+  {
+    "prompt": "Ippassaq Qaanaamut aallarpa?",
+    "prompt_betydning": "Rejste hun til Qaanaaq i går?",
+    "svar": "Naamik, ullumi Qaanaamut aallarpoq",
+    "svar_betydning": "Nej, i dag rejser hun til Qaanaaq.",
+    "lyd": "336.mp3"
+  },
+  {
+    "prompt": "Ippassaq sanasumiit ungasippit?",
+    "prompt_betydning": "Var du langt fra håndværkeren i går?",
+    "svar": "Naamik, ullumi sanasumiit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra håndværkeren.",
+    "lyd": "337.mp3"
+  },
+  {
+    "prompt": "Ippassaq sanasumut arpappisi?",
+    "prompt_betydning": "Løb I til håndværkeren i går?",
+    "svar": "Naamik, ullumi sanasumut arpappugut",
+    "svar_betydning": "Nej, i dag løber vi til håndværkeren.",
+    "lyd": "338.mp3"
+  },
+  {
+    "prompt": "Ippassaq sanasuniit ungasippat?",
+    "prompt_betydning": "Var de langt fra håndværkerne i går?",
+    "svar": "Naamik, ullumi sanasuniit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra håndværkerne.",
+    "lyd": "339.mp3"
+  },
+  {
+    "prompt": "Ippassaq sikumut qanippit?",
+    "prompt_betydning": "Var du tæt på isen i går?",
+    "svar": "Naamik, ullumi sikumut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på isen.",
+    "lyd": "340.mp3"
+  },
+  {
+    "prompt": "Ippassaq sikuniit ungasippa?",
+    "prompt_betydning": "Var han langt fra isen i går?",
+    "svar": "Naamik, ullumi sikuniit ungasippoq",
+    "svar_betydning": "Nej, i dag er han langt fra isen.",
+    "lyd": "341.mp3"
+  },
+  {
+    "prompt": "Ippassaq sikunut qanippit?",
+    "prompt_betydning": "Var du tæt på isen i går?",
+    "svar": "Naamik, ullumi sikunut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på isen.",
+    "lyd": "342.mp3"
+  },
+  {
+    "prompt": "Ippassaq sinittarfimmut arpappisi?",
+    "prompt_betydning": "Løb I til soveværelset i går?",
+    "svar": "Naamik, ullumi sinittarfimmut arpappugut",
+    "svar_betydning": "Nej, i dag løber vi til soveværelset.",
+    "lyd": "343.mp3"
+  },
+  {
+    "prompt": "Ippassaq sinittarfimmut qanippa?",
+    "prompt_betydning": "Var han tæt på soveværelset i går?",
+    "svar": "Naamik, ullumi sinittarfimmut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på soveværelset.",
+    "lyd": "344.mp3"
+  },
+  {
+    "prompt": "Ippassaq sinittarfinnut qanippit?",
+    "prompt_betydning": "Var du tæt på soveværelserne i går?",
+    "svar": "Naamik, ullumi sinittarfinnut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på soveværelserne.",
+    "lyd": "345.mp3"
+  },
+  {
+    "prompt": "Ippassaq Sisimiunut tikippat?",
+    "prompt_betydning": "Ankom de til Sisimiut i går?",
+    "svar": "Naamik, ullumi Sisimiunut tikipput",
+    "svar_betydning": "Nej, i dag ankommer de til Sisimiut.",
+    "lyd": "346.mp3"
+  },
+  {
+    "prompt": "Ippassaq Sisimiunut aallarpat?",
+    "prompt_betydning": "Rejste de til Sisimiut i går?",
+    "svar": "Naamik, ullumi Sisimiunut aallarput",
+    "svar_betydning": "Nej, i dag rejser de til Sisimiut.",
+    "lyd": "347.mp3"
+  },
+  {
+    "prompt": "Ippassaq Tasiilami ajorpisi?",
+    "prompt_betydning": "Havde I det dårligt i Tasiilaq i går?",
+    "svar": "Naamik, ullumi Tasiilami ajorpugut",
+    "svar_betydning": "Nej, i dag har vi det dårligt i Tasiilaq.",
+    "lyd": "348.mp3"
+  },
+  {
+    "prompt": "Ippassaq Tasiilamut arpappit?",
+    "prompt_betydning": "Løb du til Tasiilaq i går?",
+    "svar": "Naamik, ullumi Tasiilamut arpappunga",
+    "svar_betydning": "Nej, i dag løber jeg til Tasiilaq.",
+    "lyd": "349.mp3"
+  },
+  {
+    "prompt": "Ippassaq Tasiilamut aallarpit?",
+    "prompt_betydning": "Rejste du til Tasiilaq i går?",
+    "svar": "Naamik, ullumi Tasiilamut aallarpunga",
+    "svar_betydning": "Nej, i dag rejser jeg til Tasiilaq.",
+    "lyd": "350.mp3"
+  },
+  {
+    "prompt": "Ippassaq tuttumiit ungasippa?",
+    "prompt_betydning": "Var han langt fra rensdyret i går?",
+    "svar": "Naamik, ullumi tuttumiit ungasippoq",
+    "svar_betydning": "Nej, i dag er han langt fra rensdyret.",
+    "lyd": "351.mp3"
+  },
+  {
+    "prompt": "Ippassaq tuttumiit ungasippisi?",
+    "prompt_betydning": "Var I langt fra rensdyret i går?",
+    "svar": "Naamik, ullumi tuttumiit ungasippugut",
+    "svar_betydning": "Nej, i dag er vi langt fra rensdyret.",
+    "lyd": "352.mp3"
+  },
+  {
+    "prompt": "Ippassaq tuttumut qanippa?",
+    "prompt_betydning": "Var han tæt på rensdyret i går?",
+    "svar": "Naamik, ullumi tuttumut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på rensdyret.",
+    "lyd": "353.mp3"
+  },
+  {
+    "prompt": "Ippassaq tuttuniit ungasippat?",
+    "prompt_betydning": "Var de langt fra rensdyrene i går?",
+    "svar": "Naamik, ullumi tuttuniit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra rensdyrene.",
+    "lyd": "354.mp3"
+  },
+  {
+    "prompt": "Ippassaq umimmammut qanippa?",
+    "prompt_betydning": "Var han tæt på moskusoksen i går?",
+    "svar": "Naamik, ullumi umimmammut qanippoq",
+    "svar_betydning": "Nej, i dag er han tæt på moskusoksen.",
+    "lyd": "355.mp3"
+  },
+  {
+    "prompt": "Ippassaq umimmammut qanippit?",
+    "prompt_betydning": "Var du tæt på moskusoksen i går?",
+    "svar": "Naamik, ullumi umimmammut qanippunga",
+    "svar_betydning": "Nej, i dag er jeg tæt på moskusoksen.",
+    "lyd": "356.mp3"
+  },
+  {
+    "prompt": "Ippassaq umimmanniit ungasippat?",
+    "prompt_betydning": "Var den langt fra moskusoksen i går?",
+    "svar": "Naamik, ullumi umimmanniit ungasipput",
+    "svar_betydning": "Nej, i dag er de langt fra moskusoksen.",
+    "lyd": "357.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmi ajorpat?",
+    "prompt_betydning": "Havde de det dårligt i Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmi ajorput",
+    "svar_betydning": "Nej, i dag har de det dårligt i Upernavik.",
+    "lyd": "358.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmi arpappisi?",
+    "prompt_betydning": "Løb I i Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmi arpappugut",
+    "svar_betydning": "Nej, i dag løber vi i Upernavik.",
+    "lyd": "359.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmi nerivisi?",
+    "prompt_betydning": "Spiste I i Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmi nerivugut",
+    "svar_betydning": "Nej, i dag spiser vi i Upernavik.",
+    "lyd": "360.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmi qasuisi?",
+    "prompt_betydning": "Var I trætte i Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmi qasuvugut",
+    "svar_betydning": "Nej, i dag er vi trætte i Upernavik.",
+    "lyd": "361.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmiit aallarpisi?",
+    "prompt_betydning": "Rejste I fra Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmiit aallarpugut",
+    "svar_betydning": "Nej, i dag rejser vi fra Upernavik.",
+    "lyd": "362.mp3"
+  },
+  {
+    "prompt": "Ippassaq Upernavimmut tikippa?",
+    "prompt_betydning": "Ankom han til Upernavik i går?",
+    "svar": "Naamik, ullumi Upernavimmut tikippoq",
+    "svar_betydning": "Nej, i dag ankommer han til Upernavik.",
+    "lyd": "363.mp3"
+  },
+  {
+    "prompt": "Ippassaq Uummannami arpappisi?",
+    "prompt_betydning": "Løb I i Uummannaq i går?",
+    "svar": "Naamik, ullumi Uummannami arpappugut",
+    "svar_betydning": "Nej, i dag løber vi i Uummannaq.",
+    "lyd": "364.mp3"
+  },
+  {
+    "prompt": "Ippassaq Uummannamiit arpappa?",
+    "prompt_betydning": "Løb han fra Uummannaq i går?",
+    "svar": "Naamik, ullumi Uummannamiit arpappoq",
+    "svar_betydning": "Nej, i dag løber han fra Uummannaq.",
+    "lyd": "365.mp3"
+  },
+  {
+    "prompt": "Ippassaq Uummannamiit aallarpit?",
+    "prompt_betydning": "Rejste du fra Uummannaq i går?",
+    "svar": "Naamik, ullumi Uummannamiit aallarpunga",
+    "svar_betydning": "Nej, i dag rejser jeg fra Uummannaq.",
+    "lyd": "366.mp3"
+  },
+  {
+    "prompt": "Ippassaq Uummannamut arpappit?",
+    "prompt_betydning": "Løb du til Uummannaq i går?",
+    "svar": "Naamik, ullumi Uummannamut arpappunga",
+    "svar_betydning": "Nej, i dag løber jeg til Uummannaq.",
+    "lyd": "367.mp3"
+  },
+  {
+    "prompt": "Ippassaq aallartuniit ungasippit?",
+    "prompt_betydning": "Var du langt fra dem, der rejste, i går?",
+    "svar": "Naamik, ullumi aallartuniit ungasippunga",
+    "svar_betydning": "Nej, i dag er jeg langt fra dem, der rejser.",
+    "lyd": "368.mp3"
+  },
+  {
+    "prompt": "Ippassaq Aasianni atuarpat?",
+    "prompt_betydning": "Læste de i Aasiaat i går?",
+    "svar": "Naamik, ullumi Aasianni atuarput",
+    "svar_betydning": "Nej, i dag læser de i Aasiaat.",
+    "lyd": "369.mp3"
+  },
+  {
+    "prompt": "Ippassaq Aasianni neriva?",
+    "prompt_betydning": "Spiste hun i Aasiaat i går?",
+    "svar": "Naamik, ullumi Aasianni nerivoq",
+    "svar_betydning": "Nej, i dag spiser han i Aasiaat.",
+    "lyd": "370.mp3"
+  },
+  {
+    "prompt": "Ippassaq Aasianni nerivisi?",
+    "prompt_betydning": "Spiste I i Aasiaat i går?",
+    "svar": "Naamik, ullumi Aasianni nerivugut",
+    "svar_betydning": "Nej, i dag spiser vi i Aasiaat.",
+    "lyd": "371.mp3"
+  },
+  {
+    "prompt": "Ippassaq Aasianni qasuppat?",
+    "prompt_betydning": "Var de trætte i Aasiaat i går?",
+    "svar": "Naamik, ullumi Aasianni qasupput",
+    "svar_betydning": "Nej, i dag er de trætte i Aasiaat.",
+    "lyd": "372.mp3"
+  },
+  {
+    "prompt": "Ippassaq Aasianniit aallarpit?",
+    "prompt_betydning": "Rejste du fra Aasiaat i går?",
+    "svar": "Naamik, ullumi Aasianniit aallarpunga",
+    "svar_betydning": "Nej, i dag rejser jeg fra Aasiaat.",
+    "lyd": "373.mp3"
+  }
+]
