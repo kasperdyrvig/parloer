@@ -44,7 +44,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: ordbog.gl.
+- Ugens guldkorn
 - Lektier:
     - Nævn den **mundtlige** lektie og at der altid er en intro til næste lektion man kan læse som forberedelse.
     - Tips:

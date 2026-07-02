@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 150
+sortNumber: 1
+previewText: Mangler lyd - 15.1 - nngit
+onPageTitle: Øvelse 15.1 - nngit
+onPageDescription: Sæt -nngit- på de udsagnsordsstammer du allerede kender.
+linkText: Start øvelsen
+mode: correct
+randomize: true
+loop: true
+---
+{% for prompt in 15_1_nngit %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs/lyt og forstå ordet</task-instruction>
+    <task-prompt>{{prompt.prompt}}</task-prompt>
+    <task-audio data-file="course/lesson-15/15_1/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Sæt -nngit- på ordet</task-instruction>
+    <text-input data-validation="{{prompt.svar}}"></text-input>
+    <task-instruction data-number="3">Sig dit svar højt</task-instruction>
+    <task-info>Ordet "{{prompt.prompt}}" betyder "{{prompt.prompt_betydning}}". Når man sætter -nngit- på ordet hedder det "{{prompt.svar}}" og betyder "{{prompt.svar_betydning}}". Husk at -nngit- er et minustilhæng, så hvis stammen slutter på en konsonant skal den fjernes, før man sætter tilhænget på.</b></task-info>
+{% endtaskStep %}
+{% endfor %}

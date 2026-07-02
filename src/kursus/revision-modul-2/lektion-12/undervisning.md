@@ -52,7 +52,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder qass)
+- Ugens guldkorn
 - Lektier:
     - Nævn at den **mundtlige** lektie fortsætter.
 

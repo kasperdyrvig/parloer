@@ -1,0 +1,77 @@
+[
+  {
+    "prompt": "angut Nuummut ippassaq tikittoq illumi qasuvoq",
+    "svar": "manden der ankom fra Nuuk i går er træt inde i huset",
+    "lyd": "1.mp3"
+  },
+  {
+    "prompt": "angut tuttuniit arpattoq qassinik ukioqarpa?",
+    "svar": "hvor gammel er manden der løb væk fra rensdyrene",
+    "lyd": "2.mp3"
+  },
+  {
+    "prompt": "angutit sinittarfimmi atuartut sooq ajorpat?",
+    "svar": "hvorfor har mændene der læser i soveværelset det dårligt",
+    "lyd": "3.mp3"
+  },
+  {
+    "prompt": "anaana issiavimmut arpattoq ippassaq Aasianniit tikippoq",
+    "svar": "moren der løber hen til stolen ankom i går fra Aasiaat",
+    "lyd": "4.mp3"
+  },
+  {
+    "prompt": "arnat sanasumut oqaluussisut qanoq ateqarpat?",
+    "svar": "hvad hedder kvinderne der forkynder for håndværkeren",
+    "lyd": "5.mp3"
+  },
+  {
+    "prompt": "asaasartoq ippassaq igaffimmi nerisoq ullumi sumut aallarpa?",
+    "svar": "hvortil rejste rengøringsassistenten der spiste i køkkenet i går",
+    "lyd": "6.mp3"
+  },
+  {
+    "prompt": "ataata Qaanaami najugaqartoq pisiniarfimmi atuarpoq",
+    "svar": "faren der bor i Qaanaaq læser i butikken",
+    "lyd": "7.mp3"
+  },
+  {
+    "prompt": "ernerit qasusut sumit tikippat?",
+    "svar": "hvor ankommer de trætte sønner fra",
+    "lyd": "8.mp3"
+  },
+  {
+    "prompt": "igaffik sinittarfimmit ungasittoq ajorpoq",
+    "svar": "køkkenet der ligger langt fra soveværelset er i stykker",
+    "lyd": "9.mp3"
+  },
+  {
+    "prompt": "nalunaajaasoq Maniitsumi ataatamut oqaluussisoq qanga tikippa?",
+    "svar": "hvornår ankom vidnet der forkyndte for faren i Maniitsoq",
+    "lyd": "10.mp3"
+  },
+  {
+    "prompt": "panik ernermut oqaluussisoq ullumi Qaqortumut aallarpoq",
+    "svar": "datteren der forkyndte for sønnen rejser til Qaqortoq i dag",
+    "lyd": "11.mp3"
+  },
+  {
+    "prompt": "qatanngut anaanamut arpattoq ullumi Tasiilamiit tikippa?",
+    "svar": "ankom broren/søsteren der løb til moren fra Tasiilaq i dag",
+    "lyd": "12.mp3"
+  },
+  {
+    "prompt": "sanasoq Sisimiuni najugaqartoq Uummannami kikkunnut oqaluussiva?",
+    "svar": "hvem forkyndte tømreren der bor i Sisimiut for i Uummannaq",
+    "lyd": "13.mp3"
+  },
+  {
+    "prompt": "umimmak tuttumut qanittoq nerivoq",
+    "svar": "moskusoksen der er tæt på rensdyret spiser",
+    "lyd": "14.mp3"
+  },
+  {
+    "prompt": "Upernavimmi illu pisiniarfimmiit ungasittoq ajorpa?",
+    "svar": "er huset der er langt fra butikken i Upernavik dårligt",
+    "lyd": "15.mp3"
+  }
+]

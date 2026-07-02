@@ -42,7 +42,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbog: Oqaatsit (hvad betyder t & o)
+- Ugens guldkorn
 - Lektier:
     - Nævn den **mundtlige** lektie
 

@@ -37,7 +37,7 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbogen (2003) (udsagnsord: kig efter endelser - eks: glad)
+- Ugens guldkorn
 - Lektier:
     - Nævn den **mundtlige** lektie
 

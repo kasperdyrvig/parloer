@@ -42,6 +42,6 @@ onPageTitle: Til læreren
 5 min: **Opsummering og lektier**
 
 - Ullumi suna ilikkarparput?
-- Ugens guldkorn: Ordbog: Greenlandic-English Dictionary (2018)
+- Ugens guldkorn
 - Lektier:
     - Nævn at den **mundtlige** lektie fortsætter.

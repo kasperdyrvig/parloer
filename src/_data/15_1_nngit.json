@@ -1,0 +1,912 @@
+[
+  {
+    "prompt": "ajorpa?",
+    "lyd": "1.mp3",
+    "prompt_betydning": "har han/hun det dårligt?",
+    "svar": "ajunngila?",
+    "svar_betydning": "har han/hun det godt?"
+  },
+  {
+    "prompt": "ajorpat?",
+    "lyd": "2.mp3",
+    "prompt_betydning": "har de det dårligt?",
+    "svar": "ajunngillat?",
+    "svar_betydning": "har de det godt?"
+  },
+  {
+    "prompt": "ajorpisi?",
+    "lyd": "3.mp3",
+    "prompt_betydning": "har I det dårligt?",
+    "svar": "ajunngilasi?",
+    "svar_betydning": "har I det godt?"
+  },
+  {
+    "prompt": "ajorpit?",
+    "lyd": "4.mp3",
+    "prompt_betydning": "har du det dårligt?",
+    "svar": "ajunngilatit?",
+    "svar_betydning": "har du det godt?"
+  },
+  {
+    "prompt": "ajorpoq",
+    "lyd": "5.mp3",
+    "prompt_betydning": "han/hun har det dårligt",
+    "svar": "ajunngilaq",
+    "svar_betydning": "han/hun har det godt"
+  },
+  {
+    "prompt": "ajorpugut",
+    "lyd": "6.mp3",
+    "prompt_betydning": "vi har det dårligt",
+    "svar": "ajunngilagut",
+    "svar_betydning": "vi har det godt"
+  },
+  {
+    "prompt": "ajorpunga",
+    "lyd": "7.mp3",
+    "prompt_betydning": "jeg har det dårligt",
+    "svar": "ajunngilanga",
+    "svar_betydning": "jeg har det godt"
+  },
+  {
+    "prompt": "ajorpusi",
+    "lyd": "8.mp3",
+    "prompt_betydning": "I har det dårligt",
+    "svar": "ajunngilasi",
+    "svar_betydning": "I har det godt"
+  },
+  {
+    "prompt": "ajorput",
+    "lyd": "9.mp3",
+    "prompt_betydning": "de har det dårligt",
+    "svar": "ajunngillat",
+    "svar_betydning": "de har det godt"
+  },
+  {
+    "prompt": "ajorputit",
+    "lyd": "10.mp3",
+    "prompt_betydning": "du har det dårligt",
+    "svar": "ajunngilatit",
+    "svar_betydning": "du har det godt"
+  },
+  {
+    "prompt": "arpappa?",
+    "lyd": "11.mp3",
+    "prompt_betydning": "løber han/hun?",
+    "svar": "arpanngila?",
+    "svar_betydning": "løber han/hun ikke?"
+  },
+  {
+    "prompt": "arpappat?",
+    "lyd": "12.mp3",
+    "prompt_betydning": "løber de?",
+    "svar": "arpanngillat?",
+    "svar_betydning": "løber de ikke?"
+  },
+  {
+    "prompt": "arpappisi?",
+    "lyd": "13.mp3",
+    "prompt_betydning": "løber I?",
+    "svar": "arpanngilasi?",
+    "svar_betydning": "løber I ikke?"
+  },
+  {
+    "prompt": "arpappit?",
+    "lyd": "14.mp3",
+    "prompt_betydning": "løber du?",
+    "svar": "arpanngilatit?",
+    "svar_betydning": "løber du ikke?"
+  },
+  {
+    "prompt": "arpappoq",
+    "lyd": "15.mp3",
+    "prompt_betydning": "han/hun løber",
+    "svar": "arpanngilaq",
+    "svar_betydning": "han/hun løber ikke"
+  },
+  {
+    "prompt": "arpappugut",
+    "lyd": "16.mp3",
+    "prompt_betydning": "vi løber",
+    "svar": "arpanngilagut",
+    "svar_betydning": "vi løber ikke"
+  },
+  {
+    "prompt": "arpappunga",
+    "lyd": "17.mp3",
+    "prompt_betydning": "jeg løber",
+    "svar": "arpanngilanga",
+    "svar_betydning": "jeg løber ikke"
+  },
+  {
+    "prompt": "arpappusi",
+    "lyd": "18.mp3",
+    "prompt_betydning": "I løber",
+    "svar": "arpanngilasi",
+    "svar_betydning": "I løber ikke"
+  },
+  {
+    "prompt": "arpapput",
+    "lyd": "19.mp3",
+    "prompt_betydning": "de løber",
+    "svar": "arpanngillat",
+    "svar_betydning": "de løber ikke"
+  },
+  {
+    "prompt": "arpapputit",
+    "lyd": "20.mp3",
+    "prompt_betydning": "du løber",
+    "svar": "arpanngilatit",
+    "svar_betydning": "du løber ikke"
+  },
+  {
+    "prompt": "ateqarpa?",
+    "lyd": "21.mp3",
+    "prompt_betydning": "har han/hun et navn?",
+    "svar": "ateqanngila?",
+    "svar_betydning": "har han/hun ikke et navn?"
+  },
+  {
+    "prompt": "ateqarpat?",
+    "lyd": "22.mp3",
+    "prompt_betydning": "har de et navn?",
+    "svar": "ateqanngillat?",
+    "svar_betydning": "har de ikke et navn?"
+  },
+  {
+    "prompt": "ateqarpisi?",
+    "lyd": "23.mp3",
+    "prompt_betydning": "har I et navn?",
+    "svar": "ateqanngilasi?",
+    "svar_betydning": "har I ikke et navn?"
+  },
+  {
+    "prompt": "ateqarpit?",
+    "lyd": "24.mp3",
+    "prompt_betydning": "har du et navn?",
+    "svar": "ateqanngilatit?",
+    "svar_betydning": "har du ikke et navn?"
+  },
+  {
+    "prompt": "ateqarpoq",
+    "lyd": "25.mp3",
+    "prompt_betydning": "han/hun har et navn",
+    "svar": "ateqanngilaq",
+    "svar_betydning": "han/hun har ikke et navn"
+  },
+  {
+    "prompt": "ateqarpugut",
+    "lyd": "26.mp3",
+    "prompt_betydning": "vi har et navn",
+    "svar": "ateqanngilagut",
+    "svar_betydning": "vi har ikke et navn"
+  },
+  {
+    "prompt": "ateqarpunga",
+    "lyd": "27.mp3",
+    "prompt_betydning": "jeg har et navn",
+    "svar": "ateqanngilanga",
+    "svar_betydning": "jeg har ikke et navn"
+  },
+  {
+    "prompt": "ateqarpusi",
+    "lyd": "28.mp3",
+    "prompt_betydning": "I har et navn",
+    "svar": "ateqanngilasi",
+    "svar_betydning": "I har ikke et navn"
+  },
+  {
+    "prompt": "ateqarput",
+    "lyd": "29.mp3",
+    "prompt_betydning": "de har et navn",
+    "svar": "ateqanngillat",
+    "svar_betydning": "de har ikke et navn"
+  },
+  {
+    "prompt": "ateqarputit",
+    "lyd": "30.mp3",
+    "prompt_betydning": "du har et navn",
+    "svar": "ateqanngilatit",
+    "svar_betydning": "du har ikke et navn"
+  },
+  {
+    "prompt": "atuarpa?",
+    "lyd": "31.mp3",
+    "prompt_betydning": "læser han/hun?",
+    "svar": "atuanngila?",
+    "svar_betydning": "læser han/hun ikke?"
+  },
+  {
+    "prompt": "atuarpat?",
+    "lyd": "32.mp3",
+    "prompt_betydning": "læser de?",
+    "svar": "atuanngillat?",
+    "svar_betydning": "læser de ikke?"
+  },
+  {
+    "prompt": "atuarpisi?",
+    "lyd": "33.mp3",
+    "prompt_betydning": "læser I?",
+    "svar": "atuanngilasi?",
+    "svar_betydning": "læser I ikke?"
+  },
+  {
+    "prompt": "atuarpit?",
+    "lyd": "34.mp3",
+    "prompt_betydning": "læser du?",
+    "svar": "atuanngilatit?",
+    "svar_betydning": "læser du ikke?"
+  },
+  {
+    "prompt": "atuarpoq",
+    "lyd": "35.mp3",
+    "prompt_betydning": "han/hun læser",
+    "svar": "atuanngilaq",
+    "svar_betydning": "han/hun læser ikke"
+  },
+  {
+    "prompt": "atuarpugut",
+    "lyd": "36.mp3",
+    "prompt_betydning": "vi læser",
+    "svar": "atuanngilagut",
+    "svar_betydning": "vi læser ikke"
+  },
+  {
+    "prompt": "atuarpunga",
+    "lyd": "37.mp3",
+    "prompt_betydning": "jeg læser",
+    "svar": "atuanngilanga",
+    "svar_betydning": "jeg læser ikke"
+  },
+  {
+    "prompt": "atuarpusi",
+    "lyd": "38.mp3",
+    "prompt_betydning": "I læser",
+    "svar": "atuanngilasi",
+    "svar_betydning": "I læser ikke"
+  },
+  {
+    "prompt": "atuarput",
+    "lyd": "39.mp3",
+    "prompt_betydning": "de læser",
+    "svar": "atuanngillat",
+    "svar_betydning": "de læser ikke"
+  },
+  {
+    "prompt": "atuarputit",
+    "lyd": "40.mp3",
+    "prompt_betydning": "du læser",
+    "svar": "atuanngilatit",
+    "svar_betydning": "du læser ikke"
+  },
+  {
+    "prompt": "najugaqarpa?",
+    "lyd": "41.mp3",
+    "prompt_betydning": "bor han/hun?",
+    "svar": "najugaqanngila?",
+    "svar_betydning": "bor han/hun ikke?"
+  },
+  {
+    "prompt": "najugaqarpat?",
+    "lyd": "42.mp3",
+    "prompt_betydning": "bor de?",
+    "svar": "najugaqanngillat?",
+    "svar_betydning": "bor de ikke?"
+  },
+  {
+    "prompt": "najugaqarpisi?",
+    "lyd": "43.mp3",
+    "prompt_betydning": "bor I?",
+    "svar": "najugaqanngilasi?",
+    "svar_betydning": "bor I ikke?"
+  },
+  {
+    "prompt": "najugaqarpit?",
+    "lyd": "44.mp3",
+    "prompt_betydning": "bor du?",
+    "svar": "najugaqanngilatit?",
+    "svar_betydning": "bor du ikke?"
+  },
+  {
+    "prompt": "najugaqarpoq",
+    "lyd": "45.mp3",
+    "prompt_betydning": "han/hun bor",
+    "svar": "najugaqanngilaq",
+    "svar_betydning": "han/hun bor ikke"
+  },
+  {
+    "prompt": "najugaqarpugut",
+    "lyd": "46.mp3",
+    "prompt_betydning": "vi bor",
+    "svar": "najugaqanngilagut",
+    "svar_betydning": "vi bor ikke"
+  },
+  {
+    "prompt": "najugaqarpunga",
+    "lyd": "47.mp3",
+    "prompt_betydning": "jeg bor",
+    "svar": "najugaqanngilanga",
+    "svar_betydning": "jeg bor ikke"
+  },
+  {
+    "prompt": "najugaqarpusi",
+    "lyd": "48.mp3",
+    "prompt_betydning": "I bor",
+    "svar": "najugaqanngilasi",
+    "svar_betydning": "I bor ikke"
+  },
+  {
+    "prompt": "najugaqarput",
+    "lyd": "49.mp3",
+    "prompt_betydning": "de bor",
+    "svar": "najugaqanngillat",
+    "svar_betydning": "de bor ikke"
+  },
+  {
+    "prompt": "najugaqarputit",
+    "lyd": "50.mp3",
+    "prompt_betydning": "du bor",
+    "svar": "najugaqanngilatit",
+    "svar_betydning": "du bor ikke"
+  },
+  {
+    "prompt": "nerippat?",
+    "lyd": "51.mp3",
+    "prompt_betydning": "spiser de?",
+    "svar": "nerinngillat?",
+    "svar_betydning": "spiser de ikke?"
+  },
+  {
+    "prompt": "neripput",
+    "lyd": "52.mp3",
+    "prompt_betydning": "de spiser",
+    "svar": "nerinngillat",
+    "svar_betydning": "de spiser ikke"
+  },
+  {
+    "prompt": "neriva?",
+    "lyd": "53.mp3",
+    "prompt_betydning": "spiser han/hun?",
+    "svar": "nerinngila?",
+    "svar_betydning": "spiser han/hun ikke?"
+  },
+  {
+    "prompt": "nerivisi?",
+    "lyd": "54.mp3",
+    "prompt_betydning": "spiser I?",
+    "svar": "nerinngilasi?",
+    "svar_betydning": "spiser I ikke?"
+  },
+  {
+    "prompt": "nerivit?",
+    "lyd": "55.mp3",
+    "prompt_betydning": "spiser du?",
+    "svar": "nerinngilatit?",
+    "svar_betydning": "spiser du ikke?"
+  },
+  {
+    "prompt": "nerivoq",
+    "lyd": "56.mp3",
+    "prompt_betydning": "han/hun spiser",
+    "svar": "nerinngilaq",
+    "svar_betydning": "han/hun spiser ikke"
+  },
+  {
+    "prompt": "nerivugut",
+    "lyd": "57.mp3",
+    "prompt_betydning": "vi spiser",
+    "svar": "nerinngilagut",
+    "svar_betydning": "vi spiser ikke"
+  },
+  {
+    "prompt": "nerivunga",
+    "lyd": "58.mp3",
+    "prompt_betydning": "jeg spiser",
+    "svar": "nerinngilanga",
+    "svar_betydning": "jeg spiser ikke"
+  },
+  {
+    "prompt": "nerivusi",
+    "lyd": "59.mp3",
+    "prompt_betydning": "I spiser",
+    "svar": "nerinngilasi",
+    "svar_betydning": "I spiser ikke"
+  },
+  {
+    "prompt": "nerivutit",
+    "lyd": "60.mp3",
+    "prompt_betydning": "du spiser",
+    "svar": "nerinngilatit",
+    "svar_betydning": "du spiser ikke"
+  },
+  {
+    "prompt": "oqaluussippat?",
+    "lyd": "61.mp3",
+    "prompt_betydning": "forkynder de?",
+    "svar": "oqaluussinngillat?",
+    "svar_betydning": "forkynder de ikke?"
+  },
+  {
+    "prompt": "oqaluussipput",
+    "lyd": "62.mp3",
+    "prompt_betydning": "de forkynder",
+    "svar": "oqaluussinngillat",
+    "svar_betydning": "de forkynder ikke"
+  },
+  {
+    "prompt": "oqaluussiva?",
+    "lyd": "63.mp3",
+    "prompt_betydning": "forkynder han/hun?",
+    "svar": "oqaluussinngila?",
+    "svar_betydning": "forkynder han/hun ikke?"
+  },
+  {
+    "prompt": "oqaluussivisi?",
+    "lyd": "64.mp3",
+    "prompt_betydning": "forkynder I?",
+    "svar": "oqaluussinngilasi?",
+    "svar_betydning": "forkynder I ikke?"
+  },
+  {
+    "prompt": "oqaluussivit?",
+    "lyd": "65.mp3",
+    "prompt_betydning": "forkynder du?",
+    "svar": "oqaluussinngilatit?",
+    "svar_betydning": "forkynder du ikke?"
+  },
+  {
+    "prompt": "oqaluussivoq",
+    "lyd": "66.mp3",
+    "prompt_betydning": "han/hun forkynder",
+    "svar": "oqaluussinngilaq",
+    "svar_betydning": "han/hun forkynder ikke"
+  },
+  {
+    "prompt": "oqaluussivugut",
+    "lyd": "67.mp3",
+    "prompt_betydning": "vi forkynder",
+    "svar": "oqaluussinngilagut",
+    "svar_betydning": "vi forkynder ikke"
+  },
+  {
+    "prompt": "oqaluussivunga",
+    "lyd": "68.mp3",
+    "prompt_betydning": "jeg forkynder",
+    "svar": "oqaluussinngilanga",
+    "svar_betydning": "jeg forkynder ikke"
+  },
+  {
+    "prompt": "oqaluussivusi",
+    "lyd": "69.mp3",
+    "prompt_betydning": "I forkynder",
+    "svar": "oqaluussinngilasi",
+    "svar_betydning": "I forkynder ikke"
+  },
+  {
+    "prompt": "oqaluussivutit",
+    "lyd": "70.mp3",
+    "prompt_betydning": "du forkynder",
+    "svar": "oqaluussinngilatit",
+    "svar_betydning": "du forkynder ikke"
+  },
+  {
+    "prompt": "qanippa?",
+    "lyd": "71.mp3",
+    "prompt_betydning": "er han/hun nær?",
+    "svar": "qaninngila?",
+    "svar_betydning": "er han/hun ikke nær?"
+  },
+  {
+    "prompt": "qanippat?",
+    "lyd": "72.mp3",
+    "prompt_betydning": "er de nær?",
+    "svar": "qaninngillat?",
+    "svar_betydning": "er de ikke nær?"
+  },
+  {
+    "prompt": "qanippisi?",
+    "lyd": "73.mp3",
+    "prompt_betydning": "er I nær?",
+    "svar": "qaninngilasi?",
+    "svar_betydning": "er I ikke nær?"
+  },
+  {
+    "prompt": "qanippit?",
+    "lyd": "74.mp3",
+    "prompt_betydning": "er du nær?",
+    "svar": "qaninngilatit?",
+    "svar_betydning": "er du ikke nær?"
+  },
+  {
+    "prompt": "qanippoq",
+    "lyd": "75.mp3",
+    "prompt_betydning": "han/hun er nær",
+    "svar": "qaninngilaq",
+    "svar_betydning": "han/hun er ikke nær"
+  },
+  {
+    "prompt": "qanippugut",
+    "lyd": "76.mp3",
+    "prompt_betydning": "vi er nær",
+    "svar": "qaninngilagut",
+    "svar_betydning": "vi er ikke nær"
+  },
+  {
+    "prompt": "qanippunga",
+    "lyd": "77.mp3",
+    "prompt_betydning": "jeg er nær",
+    "svar": "qaninngilanga",
+    "svar_betydning": "jeg er ikke nær"
+  },
+  {
+    "prompt": "qanippusi",
+    "lyd": "78.mp3",
+    "prompt_betydning": "I er nær",
+    "svar": "qaninngilasi",
+    "svar_betydning": "I er ikke nær"
+  },
+  {
+    "prompt": "qanipput",
+    "lyd": "79.mp3",
+    "prompt_betydning": "de er nær",
+    "svar": "qaninngillat",
+    "svar_betydning": "de er ikke nær"
+  },
+  {
+    "prompt": "qanipputit",
+    "lyd": "80.mp3",
+    "prompt_betydning": "du er nær",
+    "svar": "qaninngilatit",
+    "svar_betydning": "du er ikke nær"
+  },
+  {
+    "prompt": "qasua?",
+    "lyd": "81.mp3",
+    "prompt_betydning": "er han/hun træt?",
+    "svar": "qasunngila?",
+    "svar_betydning": "er han/hun ikke træt?"
+  },
+  {
+    "prompt": "qasuisi?",
+    "lyd": "82.mp3",
+    "prompt_betydning": "er I trætte?",
+    "svar": "qasunngilasi?",
+    "svar_betydning": "er I ikke trætte?"
+  },
+  {
+    "prompt": "qasuit?",
+    "lyd": "83.mp3",
+    "prompt_betydning": "er du træt?",
+    "svar": "qasunngilatit?",
+    "svar_betydning": "er du ikke træt?"
+  },
+  {
+    "prompt": "qasuppat?",
+    "lyd": "84.mp3",
+    "prompt_betydning": "er de trætte?",
+    "svar": "qasunngillat?",
+    "svar_betydning": "er de ikke trætte?"
+  },
+  {
+    "prompt": "qasupput",
+    "lyd": "85.mp3",
+    "prompt_betydning": "de er trætte",
+    "svar": "qasunngillat",
+    "svar_betydning": "de er ikke trætte"
+  },
+  {
+    "prompt": "qasuvoq",
+    "lyd": "86.mp3",
+    "prompt_betydning": "han/hun er træt",
+    "svar": "qasunngilaq",
+    "svar_betydning": "han/hun er ikke træt"
+  },
+  {
+    "prompt": "qasuvugut",
+    "lyd": "87.mp3",
+    "prompt_betydning": "vi er trætte",
+    "svar": "qasunngilagut",
+    "svar_betydning": "vi er ikke trætte"
+  },
+  {
+    "prompt": "qasuvunga",
+    "lyd": "88.mp3",
+    "prompt_betydning": "jeg er træt",
+    "svar": "qasunngilanga",
+    "svar_betydning": "jeg er ikke træt"
+  },
+  {
+    "prompt": "qasuvusi",
+    "lyd": "89.mp3",
+    "prompt_betydning": "I er trætte",
+    "svar": "qasunngilasi",
+    "svar_betydning": "I er ikke trætte"
+  },
+  {
+    "prompt": "qasuvutit",
+    "lyd": "90.mp3",
+    "prompt_betydning": "du er træt",
+    "svar": "qasunngilatit",
+    "svar_betydning": "du er ikke træt"
+  },
+  {
+    "prompt": "tikippa?",
+    "lyd": "91.mp3",
+    "prompt_betydning": "ankommer han/hun?",
+    "svar": "tikinngila?",
+    "svar_betydning": "ankommer han/hun ikke?"
+  },
+  {
+    "prompt": "tikippat?",
+    "lyd": "92.mp3",
+    "prompt_betydning": "ankommer de?",
+    "svar": "tikinngillat?",
+    "svar_betydning": "ankommer de ikke?"
+  },
+  {
+    "prompt": "tikippisi?",
+    "lyd": "93.mp3",
+    "prompt_betydning": "ankommer I?",
+    "svar": "tikinngilasi?",
+    "svar_betydning": "ankommer I ikke?"
+  },
+  {
+    "prompt": "tikippit?",
+    "lyd": "94.mp3",
+    "prompt_betydning": "ankommer du?",
+    "svar": "tikinngilatit?",
+    "svar_betydning": "ankommer du ikke?"
+  },
+  {
+    "prompt": "tikippoq",
+    "lyd": "95.mp3",
+    "prompt_betydning": "han/hun ankommer",
+    "svar": "tikinngilaq",
+    "svar_betydning": "han/hun ankommer ikke"
+  },
+  {
+    "prompt": "tikippugut",
+    "lyd": "96.mp3",
+    "prompt_betydning": "vi ankommer",
+    "svar": "tikinngilagut",
+    "svar_betydning": "vi ankommer ikke"
+  },
+  {
+    "prompt": "tikippunga",
+    "lyd": "97.mp3",
+    "prompt_betydning": "jeg ankommer",
+    "svar": "tikinngilanga",
+    "svar_betydning": "jeg ankommer ikke"
+  },
+  {
+    "prompt": "tikippusi",
+    "lyd": "98.mp3",
+    "prompt_betydning": "I ankommer",
+    "svar": "tikinngilasi",
+    "svar_betydning": "I ankommer ikke"
+  },
+  {
+    "prompt": "tikipput",
+    "lyd": "99.mp3",
+    "prompt_betydning": "de ankommer",
+    "svar": "tikinngillat",
+    "svar_betydning": "de ankommer ikke"
+  },
+  {
+    "prompt": "tikipputit",
+    "lyd": "100.mp3",
+    "prompt_betydning": "du ankommer",
+    "svar": "tikinngilatit",
+    "svar_betydning": "du ankommer ikke"
+  },
+  {
+    "prompt": "ukioqarpa?",
+    "lyd": "101.mp3",
+    "prompt_betydning": "er han/hun x år?",
+    "svar": "ukioqanngila?",
+    "svar_betydning": "er han/hun ikke x år?"
+  },
+  {
+    "prompt": "ukioqarpat?",
+    "lyd": "102.mp3",
+    "prompt_betydning": "er de x år?",
+    "svar": "ukioqanngillat?",
+    "svar_betydning": "er de ikke x år?"
+  },
+  {
+    "prompt": "ukioqarpisi?",
+    "lyd": "103.mp3",
+    "prompt_betydning": "er I x år?",
+    "svar": "ukioqanngilasi?",
+    "svar_betydning": "er I ikke x år?"
+  },
+  {
+    "prompt": "ukioqarpit?",
+    "lyd": "104.mp3",
+    "prompt_betydning": "er du x år?",
+    "svar": "ukioqanngilatit?",
+    "svar_betydning": "er du ikke x år?"
+  },
+  {
+    "prompt": "ukioqarpoq",
+    "lyd": "105.mp3",
+    "prompt_betydning": "han/hun er x år",
+    "svar": "ukioqanngilaq",
+    "svar_betydning": "han/hun er ikke x år"
+  },
+  {
+    "prompt": "ukioqarpugut",
+    "lyd": "106.mp3",
+    "prompt_betydning": "vi er x år",
+    "svar": "ukioqanngilagut",
+    "svar_betydning": "vi er ikke x år"
+  },
+  {
+    "prompt": "ukioqarpunga",
+    "lyd": "107.mp3",
+    "prompt_betydning": "jeg er x år",
+    "svar": "ukioqanngilanga",
+    "svar_betydning": "jeg er ikke x år"
+  },
+  {
+    "prompt": "ukioqarpusi",
+    "lyd": "108.mp3",
+    "prompt_betydning": "I er x år",
+    "svar": "ukioqanngilasi",
+    "svar_betydning": "I er ikke x år"
+  },
+  {
+    "prompt": "ukioqarput",
+    "lyd": "109.mp3",
+    "prompt_betydning": "de er x år",
+    "svar": "ukioqanngillat",
+    "svar_betydning": "de er ikke x år"
+  },
+  {
+    "prompt": "ukioqarputit",
+    "lyd": "110.mp3",
+    "prompt_betydning": "du er x år",
+    "svar": "ukioqanngilatit",
+    "svar_betydning": "du er ikke x år"
+  },
+  {
+    "prompt": "ungasippa?",
+    "lyd": "111.mp3",
+    "prompt_betydning": "er han/hun langt væk?",
+    "svar": "ungasinngila?",
+    "svar_betydning": "er han/hun ikke langt væk?"
+  },
+  {
+    "prompt": "ungasippat?",
+    "lyd": "112.mp3",
+    "prompt_betydning": "er de langt væk?",
+    "svar": "ungasinngillat?",
+    "svar_betydning": "er de ikke langt væk?"
+  },
+  {
+    "prompt": "ungasippisi?",
+    "lyd": "113.mp3",
+    "prompt_betydning": "er I langt væk?",
+    "svar": "ungasinngilasi?",
+    "svar_betydning": "er I ikke langt væk?"
+  },
+  {
+    "prompt": "ungasippit?",
+    "lyd": "114.mp3",
+    "prompt_betydning": "er du langt væk?",
+    "svar": "ungasinngilatit?",
+    "svar_betydning": "er du ikke langt væk?"
+  },
+  {
+    "prompt": "ungasippoq",
+    "lyd": "115.mp3",
+    "prompt_betydning": "han/hun er langt væk",
+    "svar": "ungasinngilaq",
+    "svar_betydning": "han/hun er ikke langt væk"
+  },
+  {
+    "prompt": "ungasippugut",
+    "lyd": "116.mp3",
+    "prompt_betydning": "vi er langt væk",
+    "svar": "ungasinngilagut",
+    "svar_betydning": "vi er ikke langt væk"
+  },
+  {
+    "prompt": "ungasippunga",
+    "lyd": "117.mp3",
+    "prompt_betydning": "jeg er langt væk",
+    "svar": "ungasinngilanga",
+    "svar_betydning": "jeg er ikke langt væk"
+  },
+  {
+    "prompt": "ungasippusi",
+    "lyd": "118.mp3",
+    "prompt_betydning": "I er langt væk",
+    "svar": "ungasinngilasi",
+    "svar_betydning": "I er ikke langt væk"
+  },
+  {
+    "prompt": "ungasipput",
+    "lyd": "119.mp3",
+    "prompt_betydning": "de er langt væk",
+    "svar": "ungasinngillat",
+    "svar_betydning": "de er ikke langt væk"
+  },
+  {
+    "prompt": "ungasipputit",
+    "lyd": "120.mp3",
+    "prompt_betydning": "du er langt væk",
+    "svar": "ungasinngilatit",
+    "svar_betydning": "du er ikke langt væk"
+  },
+  {
+    "prompt": "aallarpa?",
+    "lyd": "121.mp3",
+    "prompt_betydning": "rejser han/hun?",
+    "svar": "aallanngila?",
+    "svar_betydning": "rejser han/hun ikke?"
+  },
+  {
+    "prompt": "aallarpat?",
+    "lyd": "122.mp3",
+    "prompt_betydning": "rejser de?",
+    "svar": "aallanngillat?",
+    "svar_betydning": "rejser de ikke?"
+  },
+  {
+    "prompt": "aallarpisi?",
+    "lyd": "123.mp3",
+    "prompt_betydning": "rejser I?",
+    "svar": "aallanngilasi?",
+    "svar_betydning": "rejser I ikke?"
+  },
+  {
+    "prompt": "aallarpit?",
+    "lyd": "124.mp3",
+    "prompt_betydning": "rejser du?",
+    "svar": "aallanngilatit?",
+    "svar_betydning": "rejser du ikke?"
+  },
+  {
+    "prompt": "aallarpoq",
+    "lyd": "125.mp3",
+    "prompt_betydning": "han/hun rejser",
+    "svar": "aallanngilaq",
+    "svar_betydning": "han/hun rejser ikke"
+  },
+  {
+    "prompt": "aallarpugut",
+    "lyd": "126.mp3",
+    "prompt_betydning": "vi rejser",
+    "svar": "aallanngilagut",
+    "svar_betydning": "vi rejser ikke"
+  },
+  {
+    "prompt": "aallarpunga",
+    "lyd": "127.mp3",
+    "prompt_betydning": "jeg rejser",
+    "svar": "aallanngilanga",
+    "svar_betydning": "jeg rejser ikke"
+  },
+  {
+    "prompt": "aallarpusi",
+    "lyd": "128.mp3",
+    "prompt_betydning": "I rejser",
+    "svar": "aallanngilasi",
+    "svar_betydning": "I rejser ikke"
+  },
+  {
+    "prompt": "aallarput",
+    "lyd": "129.mp3",
+    "prompt_betydning": "de rejser",
+    "svar": "aallanngillat",
+    "svar_betydning": "de rejser ikke"
+  },
+  {
+    "prompt": "aallarputit",
+    "lyd": "130.mp3",
+    "prompt_betydning": "du rejser",
+    "svar": "aallanngilatit",
+    "svar_betydning": "du rejser ikke"
+  }
+]
