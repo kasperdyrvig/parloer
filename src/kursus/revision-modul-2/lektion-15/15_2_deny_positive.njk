@@ -1,24 +1,24 @@
 ---
 tags: homework
 layout: taskflow
-partOfLesson: 140
-sortNumber: 5
-previewText: Mangler lyd - 14.5 - ippassaq-spørgsmål
-onPageTitle: Øvelse 14.5 - ippassaq-spørgsmål
-onPageDescription: Du bliver stillet nogle spørgsmål om hvad der er sket i går. Benægt dem og sig at det skete i dag.
+partOfLesson: 150
+sortNumber: 2
+previewText: Mangler lyd - 15.2 - benægt positive spørgsmål
+onPageTitle: Øvelse 15.2 - benægt positive spørgsmål
+onPageDescription: Øv dig på at bruge -nngit- ved at svare nej på spørgsmålene.
 linkText: Start øvelsen
 mode: correct
 loop: true
 randomize: true
 ---
 
-{% for prompt in 14_5_6_ippassaq_questions %}
+{% for prompt in 15_2_deny_positive %}
 {% taskStep %}
     <task-instruction data-number="1">Læs/lyt og forstå spørgsmålet</task-instruction>
     <task-prompt>{{prompt.prompt}}</task-prompt>
-    <task-audio data-file="course/lesson-14/14_5/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-audio data-file="course/lesson-15/15_2/{{prompt.lyd}}" enable-slow></task-audio>
     <task-instruction data-number="2">Gentag spørgsmålet højt</task-instruction>
-    <task-instruction data-number="3">Benægt og forklar at det foregår i dag (ullumi). Start med "Naamik ..."</task-instruction>
+    <task-instruction data-number="3">Benægt spørgsmålet ved at bruge -nngit-. Start med "Naamik ..."</task-instruction>
     <spellcheck-input data-validation="{{prompt.svar}}"></spellcheck-input>
     <task-instruction data-number="4">Forstå dit svar og sig det højt</task-instruction>
     <task-info>Spørgsmålet "{{prompt.prompt}}" betyder "{{prompt.prompt_betydning}}". Det rigtige svar er "{{prompt.svar}}" som betyder "{{prompt.svar_betydning}}"</b>.</task-info>

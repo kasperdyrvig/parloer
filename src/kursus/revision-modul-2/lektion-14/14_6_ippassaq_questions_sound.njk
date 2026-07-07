@@ -18,9 +18,10 @@ randomize: true
     <task-audio data-file="course/lesson-14/14_5_6/{{prompt.lyd}}" enable-slow></task-audio>
     <task-instruction data-number="2">Skriv spørgsmålet ned</task-instruction>
     <spellcheck-input data-validation="{{prompt.prompt}}"></spellcheck-input>
-    <task-instruction data-number="3">Benægt og forklar at det foregår i dag. Start med "Naamik ..."</task-instruction>
+    <task-instruction data-number="3">Gentag spørgsmålet højt</task-instruction>
+    <task-instruction data-number="4">Benægt og forklar at det foregår i dag. Start med "Naamik ..."</task-instruction>
     <spellcheck-input data-validation="{{prompt.svar}}"></spellcheck-input>
-    <task-instruction data-number="4">Forstå dit svar og sig det højt</task-instruction>
-    <task-info>Spørgsmålet "{{prompt.prompt}}" betyder "{{prompt.prompt_betydning}}".<br>Det rigtige svar er "{{prompt.svar}}" som betyder "{{prompt.svar_betydning}}"</b>.</task-info>
+    <task-instruction data-number="5">Forstå dit svar og sig det højt</task-instruction>
+    <task-info>Spørgsmålet "{{prompt.prompt}}" betyder "{{prompt.prompt_betydning}}". Det rigtige svar er "{{prompt.svar}}" som betyder "{{prompt.svar_betydning}}"</b>.</task-info>
 {% endtaskStep %}
 {% endfor %}
