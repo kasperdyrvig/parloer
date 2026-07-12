@@ -1,0 +1,3502 @@
+[
+  {
+    "prompt": "Paamiut Qaanaamiit ungasippoq",
+    "prompt_betydning": "Paamiut er langt fra Qaanaaq",
+    "lyd": "1.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut asaasartunut arpapput",
+    "prompt_betydning": "Vidnerne løber hen til rengøringsassistenterne",
+    "lyd": "2.mp3"
+  },
+  {
+    "prompt": "Aviaaja anaanamiit arpanngilaq",
+    "prompt_betydning": "Aviaaja løber ikke fra mødrene",
+    "lyd": "3.mp3"
+  },
+  {
+    "prompt": "Anaanat Uummannami atuarput",
+    "prompt_betydning": "Mødrene læser i Uummannaq",
+    "lyd": "4.mp3"
+  },
+  {
+    "prompt": "Tuttut Pituffimmi nerinngillat",
+    "prompt_betydning": "Rensdyrene spiser ikke i Pituffik",
+    "lyd": "5.mp3"
+  },
+  {
+    "prompt": "Anaanat asaasartumiit ungasinngillat",
+    "prompt_betydning": "Mødrene er ikke langt fra rengøringsassistenten",
+    "lyd": "6.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ernernut arpappoq",
+    "prompt_betydning": "Rengøringsassistenten løber hen til sønnerne",
+    "lyd": "7.mp3"
+  },
+  {
+    "prompt": "Erneq Aasianniit aallanngilaq",
+    "prompt_betydning": "Sønnen rejser ikke fra Aasiaat",
+    "lyd": "8.mp3"
+  },
+  {
+    "prompt": "Malik Pituffimmut aallarpoq",
+    "prompt_betydning": "Malik rejser til Pituffik",
+    "lyd": "9.mp3"
+  },
+  {
+    "prompt": "Angut Qaqortumi ajorpoq",
+    "prompt_betydning": "Manden har det dårligt i Qaqortoq",
+    "lyd": "10.mp3"
+  },
+  {
+    "prompt": "Malik sanasumut oqaluussinngilaq",
+    "prompt_betydning": "Malik forkynder ikke for håndværkeren",
+    "lyd": "11.mp3"
+  },
+  {
+    "prompt": "Aputsiaq Narsarsuarmiit aallanngilaq",
+    "prompt_betydning": "Aputsiaq rejser ikke fra Narsarsuaq",
+    "lyd": "12.mp3"
+  },
+  {
+    "prompt": "Asaasartoq anaananiit ungasippoq",
+    "prompt_betydning": "Rengøringsassistenten er langt fra mødrene",
+    "lyd": "13.mp3"
+  },
+  {
+    "prompt": "Asaasartut Nanortalimmut aallarput",
+    "prompt_betydning": "Rengøringsassistenterne rejser til Nanortalik",
+    "lyd": "14.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Narsami najugaqanngilaq",
+    "prompt_betydning": "Vidnet bor ikke i Narsaq",
+    "lyd": "15.mp3"
+  },
+  {
+    "prompt": "Ataata Sisimiuni najugaqanngilaq",
+    "prompt_betydning": "Faren bor ikke i Sisimiut",
+    "lyd": "16.mp3"
+  },
+  {
+    "prompt": "Ataatat Tasiilamut arpanngillat",
+    "prompt_betydning": "Fædrene løber ikke til Tasiilaq",
+    "lyd": "17.mp3"
+  },
+  {
+    "prompt": "Arnaq Nanortalimmi atuarpoq",
+    "prompt_betydning": "Kvinden læser i Nanortalik",
+    "lyd": "18.mp3"
+  },
+  {
+    "prompt": "Anaana Paamiuni ajorpoq",
+    "prompt_betydning": "Moren har det dårligt i Paamiut",
+    "lyd": "19.mp3"
+  },
+  {
+    "prompt": "Erneq Qaqortumut tikippoq",
+    "prompt_betydning": "Sønnen ankommer til Qaqortoq",
+    "lyd": "20.mp3"
+  },
+  {
+    "prompt": "Aputsiaq Qaanaamiit arpanngilaq",
+    "prompt_betydning": "Aputsiaq løber ikke fra Qaanaaq",
+    "lyd": "21.mp3"
+  },
+  {
+    "prompt": "Asaasartoq Aviaajamiit arpappoq",
+    "prompt_betydning": "Rengøringsassistenten løber fra Aviaaja",
+    "lyd": "22.mp3"
+  },
+  {
+    "prompt": "Asaasartoq sanasunut arpappoq",
+    "prompt_betydning": "Rengøringsassistenten løber hen til håndværkerne",
+    "lyd": "23.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq asaasartunut oqaluussinngilaq",
+    "prompt_betydning": "Vidnet forkynder ikke for rengøringsassistenterne",
+    "lyd": "24.mp3"
+  },
+  {
+    "prompt": "Sanasoq Nuummi najugaqanngilaq",
+    "prompt_betydning": "Håndværkeren bor ikke i Nuuk",
+    "lyd": "25.mp3"
+  },
+  {
+    "prompt": "Asaasartut Maniitsumut tikinngillat",
+    "prompt_betydning": "Rengøringsassistenterne ankommer ikke til Maniitsoq",
+    "lyd": "26.mp3"
+  },
+  {
+    "prompt": "Uummannaq Pituffimmiit ungasippoq",
+    "prompt_betydning": "Uummannaq er langt fra Pituffik",
+    "lyd": "27.mp3"
+  },
+  {
+    "prompt": "Arnat Maniitsumiit arpapput",
+    "prompt_betydning": "Kvinderne løber fra Maniitsoq",
+    "lyd": "28.mp3"
+  },
+  {
+    "prompt": "Sanasut Arnannguamut arpanngillat",
+    "prompt_betydning": "Håndværkerne løber ikke til kvinden",
+    "lyd": "29.mp3"
+  },
+  {
+    "prompt": "Asaasartut Qaanaami neripput",
+    "prompt_betydning": "Rengøringsassistenterne spiser i Qaanaaq",
+    "lyd": "30.mp3"
+  },
+  {
+    "prompt": "Erneq Qaanaami arpanngilaq",
+    "prompt_betydning": "Sønnen løber ikke i Qaanaaq",
+    "lyd": "31.mp3"
+  },
+  {
+    "prompt": "Qaanaaq Qaqortumut qaninngilaq",
+    "prompt_betydning": "Qaanaaq er ikke tæt på Qaqortoq",
+    "lyd": "32.mp3"
+  },
+  {
+    "prompt": "Sanasoq arnanut arpanngilaq",
+    "prompt_betydning": "Håndværkeren løber ikke hen til kvinderne",
+    "lyd": "33.mp3"
+  },
+  {
+    "prompt": "Angut Narsarsuarmiit tikippoq",
+    "prompt_betydning": "Manden ankommer fra Narsarsuaq",
+    "lyd": "34.mp3"
+  },
+  {
+    "prompt": "Nuka Aasiannut aallanngilaq",
+    "prompt_betydning": "Nuka rejser ikke til Aasiaat",
+    "lyd": "35.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Narsami qasunngilaq",
+    "prompt_betydning": "Vidnet er ikke træt i Narsaq",
+    "lyd": "36.mp3"
+  },
+  {
+    "prompt": "Sanasut panimmiit ungasinngillat",
+    "prompt_betydning": "Håndværkerne er ikke langt fra datteren",
+    "lyd": "37.mp3"
+  },
+  {
+    "prompt": "Nerrivik Narsami ajunngilaq",
+    "prompt_betydning": "Bordet er godt i Narsaq",
+    "lyd": "38.mp3"
+  },
+  {
+    "prompt": "Aviaaja anaanamut oqaluussinngilaq",
+    "prompt_betydning": "Aviaaja forkynder ikke for mødrene",
+    "lyd": "39.mp3"
+  },
+  {
+    "prompt": "Ataatat Maniitsumiit tikipput",
+    "prompt_betydning": "Fædrene ankommer fra Maniitsoq",
+    "lyd": "40.mp3"
+  },
+  {
+    "prompt": "Nuka Aputsiamiit arpappoq",
+    "prompt_betydning": "Nuka løber fra Aputsiaq",
+    "lyd": "41.mp3"
+  },
+  {
+    "prompt": "Sanasoq Sisimiuni ajorpoq",
+    "prompt_betydning": "Håndværkeren har det dårligt i Sisimiut",
+    "lyd": "42.mp3"
+  },
+  {
+    "prompt": "Igaffik Nanortalimmi ajunngilaq",
+    "prompt_betydning": "Køkkenet er godt i Nanortalik",
+    "lyd": "43.mp3"
+  },
+  {
+    "prompt": "Arnannguaq Kangerlussuarmi arpanngilaq",
+    "prompt_betydning": "Arnannguaq løber ikke i Kangerlussuaq",
+    "lyd": "44.mp3"
+  },
+  {
+    "prompt": "Siku issiavinniit ungasinngilaq",
+    "prompt_betydning": "Isen er ikke langt fra stolene",
+    "lyd": "45.mp3"
+  },
+  {
+    "prompt": "Angutit Kangerlussuarmiit arpapput",
+    "prompt_betydning": "Mændene løber fra Kangerlussuaq",
+    "lyd": "46.mp3"
+  },
+  {
+    "prompt": "Arnannguaq Paamiuni nerinngilaq",
+    "prompt_betydning": "Arnannguaq spiser ikke i Paamiut",
+    "lyd": "47.mp3"
+  },
+  {
+    "prompt": "Asaasartoq ernermiit arpanngilaq",
+    "prompt_betydning": "Rengøringsassistenten løber ikke fra sønnen",
+    "lyd": "48.mp3"
+  },
+  {
+    "prompt": "Asaasartut Aasiannut aallarput",
+    "prompt_betydning": "Rengøringsassistenterne rejser til Aasiaat",
+    "lyd": "49.mp3"
+  },
+  {
+    "prompt": "Paniit Kangerlussuarmiit arpapput",
+    "prompt_betydning": "Døtrene løber fra Kangerlussuaq",
+    "lyd": "50.mp3"
+  },
+  {
+    "prompt": "Tasiilaq Sisimiuniit ungasippoq",
+    "prompt_betydning": "Tasiilaq er langt fra Sisimiut",
+    "lyd": "51.mp3"
+  },
+  {
+    "prompt": "Erneq panimmut oqaluussivoq",
+    "prompt_betydning": "Sønnen forkynder for datteren",
+    "lyd": "52.mp3"
+  },
+  {
+    "prompt": "Anaana Aasianni qasuvoq",
+    "prompt_betydning": "Moren er træt i Aasiaat",
+    "lyd": "53.mp3"
+  },
+  {
+    "prompt": "Erneq Narsami qasunngilaq",
+    "prompt_betydning": "Sønnen er ikke træt i Narsaq",
+    "lyd": "54.mp3"
+  },
+  {
+    "prompt": "Qatanngutit Sisimiuni arpanngillat",
+    "prompt_betydning": "Brødrene/søstrene løber ikke i Sisimiut",
+    "lyd": "55.mp3"
+  },
+  {
+    "prompt": "Sanasut asaasartumiit ungasinngillat",
+    "prompt_betydning": "Håndværkerne er ikke langt fra rengøringsassistenten",
+    "lyd": "56.mp3"
+  },
+  {
+    "prompt": "Malik Pituffimmi najugaqanngilaq",
+    "prompt_betydning": "Malik bor ikke i Pituffik",
+    "lyd": "57.mp3"
+  },
+  {
+    "prompt": "Arnaq Nanortalimmiit aallanngilaq",
+    "prompt_betydning": "Kvinden rejser ikke fra Nanortalik",
+    "lyd": "58.mp3"
+  },
+  {
+    "prompt": "Angut Qaanaamut aallarpoq",
+    "prompt_betydning": "Manden rejser til Qaanaaq",
+    "lyd": "59.mp3"
+  },
+  {
+    "prompt": "Panik ernermiit ungasippoq",
+    "prompt_betydning": "Datteren er langt fra sønnen",
+    "lyd": "60.mp3"
+  },
+  {
+    "prompt": "Arnannguaq Narsarsuarmiit tikinngilaq",
+    "prompt_betydning": "Arnannguaq ankommer ikke fra Narsarsuaq",
+    "lyd": "61.mp3"
+  },
+  {
+    "prompt": "Malik Nukamut arpanngilaq",
+    "prompt_betydning": "Malik løber ikke til Nuka",
+    "lyd": "62.mp3"
+  },
+  {
+    "prompt": "Sanasoq anaananut arpanngilaq",
+    "prompt_betydning": "Håndværkeren løber ikke til mødrene",
+    "lyd": "63.mp3"
+  },
+  {
+    "prompt": "Angutit anaanamut qanipput",
+    "prompt_betydning": "Mændene er tæt på moren",
+    "lyd": "64.mp3"
+  },
+  {
+    "prompt": "Aviaaja asaasartumut oqaluussivoq",
+    "prompt_betydning": "Aviaaja forkynder for rengøringsassistenten",
+    "lyd": "65.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq angummut arpappoq",
+    "prompt_betydning": "Vidnet løber hen til manden",
+    "lyd": "66.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Paamiunut tikinngilaq",
+    "prompt_betydning": "Vidnet ankommer ikke til Paamiut",
+    "lyd": "67.mp3"
+  },
+  {
+    "prompt": "Umimmak Kangerlussuarmi qasunngilaq",
+    "prompt_betydning": "Moskusoksen er ikke træt i Kangerlussuaq",
+    "lyd": "68.mp3"
+  },
+  {
+    "prompt": "Aviaaja paninnut oqaluussinngilaq",
+    "prompt_betydning": "Aviaaja forkynder ikke for døtrene",
+    "lyd": "69.mp3"
+  },
+  {
+    "prompt": "Sanasut Paamiuni atuanngillat",
+    "prompt_betydning": "Håndværkerne læser ikke i Paamiut",
+    "lyd": "70.mp3"
+  },
+  {
+    "prompt": "Arnaq ernermiit arpappoq",
+    "prompt_betydning": "Kvinden løber fra sønnen",
+    "lyd": "71.mp3"
+  },
+  {
+    "prompt": "Anaana Arnannguamiit arpanngilaq",
+    "prompt_betydning": "Moren løber ikke fra Arnannguaq",
+    "lyd": "72.mp3"
+  },
+  {
+    "prompt": "Qatanngutit asaasartumiit ungasipput",
+    "prompt_betydning": "Brødrene/søstrene er langt fra rengøringsassistenten",
+    "lyd": "73.mp3"
+  },
+  {
+    "prompt": "Anaanat Tasiilami ajorput",
+    "prompt_betydning": "Mødrene har det dårligt i Tasiilaq",
+    "lyd": "74.mp3"
+  },
+  {
+    "prompt": "Aviaaja ataatanut oqaluussivoq",
+    "prompt_betydning": "Aviaaja forkynder for fædrene",
+    "lyd": "75.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut Sisimiuniit aallanngillat",
+    "prompt_betydning": "Vidnerne rejser ikke fra Sisimiut",
+    "lyd": "76.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut panimmiit ungasipput",
+    "prompt_betydning": "Vidnerne er langt fra datteren",
+    "lyd": "77.mp3"
+  },
+  {
+    "prompt": "Qatanngut Kangerlussuarmi arpanngilaq",
+    "prompt_betydning": "Brødrene/søstrene løber ikke i Kangerlussuaq",
+    "lyd": "78.mp3"
+  },
+  {
+    "prompt": "Kangerlussuaq Tasiilamut qaninngilaq",
+    "prompt_betydning": "Kangerlussuaq er ikke tæt på Tasiilaq",
+    "lyd": "79.mp3"
+  },
+  {
+    "prompt": "Arnat Sisimiuniit aallanngillat",
+    "prompt_betydning": "Kvinderne rejser ikke fra Sisimiut",
+    "lyd": "80.mp3"
+  },
+  {
+    "prompt": "Nuka Qaanaamiit aallarpoq",
+    "prompt_betydning": "Nuka rejser fra Qaanaaq",
+    "lyd": "81.mp3"
+  },
+  {
+    "prompt": "Ataatat Nanortalimmiit tikipput",
+    "prompt_betydning": "Fædrene ankommer fra Nanortalik",
+    "lyd": "82.mp3"
+  },
+  {
+    "prompt": "Paniit Pituffimmut arpanngillat",
+    "prompt_betydning": "Døtrene løber ikke til Pituffik",
+    "lyd": "83.mp3"
+  },
+  {
+    "prompt": "Erneq anaananut arpanngilaq",
+    "prompt_betydning": "Sønnen løber ikke til mødrene",
+    "lyd": "84.mp3"
+  },
+  {
+    "prompt": "Aviaaja arnamut oqaluussivoq",
+    "prompt_betydning": "Aviaaja forkynder for kvinden",
+    "lyd": "85.mp3"
+  },
+  {
+    "prompt": "Qatanngut Paamiuni atuarpoq",
+    "prompt_betydning": "Broren/søsteren læser i Paamiut",
+    "lyd": "86.mp3"
+  },
+  {
+    "prompt": "Qatanngut Sisimiuniit arpappoq",
+    "prompt_betydning": "Broren/søsteren løber fra Sisimiut",
+    "lyd": "87.mp3"
+  },
+  {
+    "prompt": "Ernerit Maniitsumi ajorput",
+    "prompt_betydning": "Sønnerne har det dårligt i Maniitsoq",
+    "lyd": "88.mp3"
+  },
+  {
+    "prompt": "Qatanngut Arnannguamut arpappoq",
+    "prompt_betydning": "Broren/søsteren løber til Arnannguaq",
+    "lyd": "89.mp3"
+  },
+  {
+    "prompt": "Umimmaat Uummannami qasupput",
+    "prompt_betydning": "Moskusokserne er trætte i Uummannaq",
+    "lyd": "90.mp3"
+  },
+  {
+    "prompt": "Sanasut asaasartunut arpanngillat",
+    "prompt_betydning": "Håndværkerne løber ikke til rengøringsassistenterne",
+    "lyd": "91.mp3"
+  },
+  {
+    "prompt": "Malik Aviaajamiit ungasinngilaq",
+    "prompt_betydning": "Malik er ikke langt fra Aviaaja",
+    "lyd": "92.mp3"
+  },
+  {
+    "prompt": "Ernerit Paamiuni atuanngillat",
+    "prompt_betydning": "Sønnerne læser ikke i Paamiut",
+    "lyd": "93.mp3"
+  },
+  {
+    "prompt": "Anaana angummut qanippoq",
+    "prompt_betydning": "Moren er tæt på manden",
+    "lyd": "94.mp3"
+  },
+  {
+    "prompt": "Ataata Kangerlussuarmi najugaqarpoq",
+    "prompt_betydning": "Faren bor i Kangerlussuaq",
+    "lyd": "95.mp3"
+  },
+  {
+    "prompt": "Asaasartut Uummannami arpanngillat",
+    "prompt_betydning": "Rengøringsassistenterne løber ikke i Uummannaq",
+    "lyd": "96.mp3"
+  },
+  {
+    "prompt": "Asaasartut Nanortalimmut tikipput",
+    "prompt_betydning": "Rengøringsassistenterne ankommer til Nanortalik",
+    "lyd": "97.mp3"
+  },
+  {
+    "prompt": "Aputsiaq Sisimiuniit aallanngilaq",
+    "prompt_betydning": "Aputsiaq rejser ikke fra Sisimiut",
+    "lyd": "98.mp3"
+  },
+  {
+    "prompt": "Angut Narsarsuarmiit arpappoq",
+    "prompt_betydning": "Manden løber fra Narsarsuaq",
+    "lyd": "99.mp3"
+  },
+  {
+    "prompt": "Malik Uummannami najugaqanngilaq",
+    "prompt_betydning": "Malik bor ikke i Uummannaq",
+    "lyd": "100.mp3"
+  },
+  {
+    "prompt": "Angut Narsarsuarmi atuarpoq",
+    "prompt_betydning": "Manden læser i Narsarsuaq",
+    "lyd": "101.mp3"
+  },
+  {
+    "prompt": "Nuka Narsarsuarmi ajunngilaq",
+    "prompt_betydning": "Nuka har det godt i Narsarsuaq",
+    "lyd": "102.mp3"
+  },
+  {
+    "prompt": "Sanasut Nanortalimmi oqaluussinngillat",
+    "prompt_betydning": "Håndværkerne forkynder ikke i Nanortalik",
+    "lyd": "103.mp3"
+  },
+  {
+    "prompt": "Angutit Qaqortumi arpapput",
+    "prompt_betydning": "Mændene løber i Qaqortoq",
+    "lyd": "104.mp3"
+  },
+  {
+    "prompt": "Aputsiaq Narsarsuarmiit arpanngilaq",
+    "prompt_betydning": "Aputsiaq løber ikke fra Narsarsuaq",
+    "lyd": "105.mp3"
+  },
+  {
+    "prompt": "Asaasartut arnamut oqaluussipput",
+    "prompt_betydning": "Rengøringsassistenterne forkynder for kvinden",
+    "lyd": "106.mp3"
+  },
+  {
+    "prompt": "Sanasut Maniitsumi neripput",
+    "prompt_betydning": "Håndværkerne spiser i Maniitsoq",
+    "lyd": "107.mp3"
+  },
+  {
+    "prompt": "Aviaaja Tasiilami najugaqarpoq",
+    "prompt_betydning": "Aviaaja bor i Tasiilaq",
+    "lyd": "108.mp3"
+  },
+  {
+    "prompt": "Asaasartut sanasunut arpanngillat",
+    "prompt_betydning": "Rengøringsassistenterne løber ikke til håndværkerne",
+    "lyd": "109.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Maniitsumi arpanngilaq",
+    "prompt_betydning": "Vidnet løber ikke i Maniitsoq",
+    "lyd": "110.mp3"
+  },
+  {
+    "prompt": "Arnannguaq Qaanaami nerinngilaq",
+    "prompt_betydning": "Arnannguaq spiser ikke i Qaanaaq",
+    "lyd": "111.mp3"
+  },
+  {
+    "prompt": "Qatanngut Narsarsuarmi arpanngilaq",
+    "prompt_betydning": "Broren/søsteren løber ikke i Narsarsuaq",
+    "lyd": "112.mp3"
+  },
+  {
+    "prompt": "Aviaaja Narsami oqaluussivoq",
+    "prompt_betydning": "Aviaaja forkynder i Narsaq",
+    "lyd": "113.mp3"
+  },
+  {
+    "prompt": "Aputsiaq Malimmut qaninngilaq",
+    "prompt_betydning": "Aputsiaq er ikke tæt på Malik",
+    "lyd": "114.mp3"
+  },
+  {
+    "prompt": "Umimmaat Nuummi nerinngillat",
+    "prompt_betydning": "Moskusokserne spiser ikke i Nuuk",
+    "lyd": "115.mp3"
+  },
+  {
+    "prompt": "Ernerit Qaqortumut aallarput",
+    "prompt_betydning": "Sønnerne rejser til Qaqortoq",
+    "lyd": "116.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq asaasartumiit ungasippoq",
+    "prompt_betydning": "Vidnet er langt fra rengøringsassistenten",
+    "lyd": "117.mp3"
+  },
+  {
+    "prompt": "Tuttut Upernavimmi ajunngillat",
+    "prompt_betydning": "Rensdyrene har det godt i Upernavik",
+    "lyd": "118.mp3"
+  },
+  {
+    "prompt": "Arnannguaq Paamiuniit tikippoq",
+    "prompt_betydning": "Arnannguaq ankommer fra Paamiut",
+    "lyd": "119.mp3"
+  },
+  {
+    "prompt": "Asaasartoq Qaqortumut tikippoq",
+    "prompt_betydning": "Rengøringsassistenten ankommer til Qaqortoq",
+    "lyd": "120.mp3"
+  },
+  {
+    "prompt": "Tuttu sumut qaninngila?",
+    "prompt_betydning": "Rensdyret er ikke tæt på hvad?",
+    "lyd": "121.mp3"
+  },
+  {
+    "prompt": "Paniit kimut oqaluussippat?",
+    "prompt_betydning": "Døtrene forkynder for hvem?",
+    "lyd": "122.mp3"
+  },
+  {
+    "prompt": "Ernerit sumit tikippat?",
+    "prompt_betydning": "Sønnerne ankommer fra hvor?",
+    "lyd": "123.mp3"
+  },
+  {
+    "prompt": "Sanasut sumit aallarpat?",
+    "prompt_betydning": "Håndværkerne rejser fra hvor?",
+    "lyd": "124.mp3"
+  },
+  {
+    "prompt": "Qatanngutit kikkunnut arpanngillat?",
+    "prompt_betydning": "Brødrene/søstrene løber ikke til hvem?",
+    "lyd": "125.mp3"
+  },
+  {
+    "prompt": "Malik sumi ajorpa?",
+    "prompt_betydning": "Hvor har Malik det dårligt?",
+    "lyd": "126.mp3"
+  },
+  {
+    "prompt": "Aasiaat sumut qaninngila?",
+    "prompt_betydning": "Aasiaat er ikke tæt på hvad?",
+    "lyd": "127.mp3"
+  },
+  {
+    "prompt": "Asaasartut sumut arpappat?",
+    "prompt_betydning": "Rengøringsassistenterne løber til hvad?",
+    "lyd": "128.mp3"
+  },
+  {
+    "prompt": "Sanasut kikkunniit ungasinngillat?",
+    "prompt_betydning": "Håndværkerne er ikke langt fra hvem?",
+    "lyd": "129.mp3"
+  },
+  {
+    "prompt": "Anaanat sumi qasuppat?",
+    "prompt_betydning": "Hvor er mødrene trætte?",
+    "lyd": "130.mp3"
+  },
+  {
+    "prompt": "Sanasoq kimut qaninngila?",
+    "prompt_betydning": "Håndværkeren er ikke tæt på hvem?",
+    "lyd": "131.mp3"
+  },
+  {
+    "prompt": "Arnaq sumi najugaqanngila?",
+    "prompt_betydning": "Hvor bor kvinden ikke?",
+    "lyd": "132.mp3"
+  },
+  {
+    "prompt": "Igaffik sumi ajorpa?",
+    "prompt_betydning": "Hvor har køkkenet det dårligt?",
+    "lyd": "133.mp3"
+  },
+  {
+    "prompt": "Nuka sumi neriva?",
+    "prompt_betydning": "Hvor spiser Nuka?",
+    "lyd": "134.mp3"
+  },
+  {
+    "prompt": "Arnaq sumit arpanngila?",
+    "prompt_betydning": "Kvinden løber ikke fra hvor?",
+    "lyd": "135.mp3"
+  },
+  {
+    "prompt": "Sanasoq kimit ungasippa?",
+    "prompt_betydning": "Håndværkeren er langt fra hvem?",
+    "lyd": "136.mp3"
+  },
+  {
+    "prompt": "Anaanat kimut qaninngillat?",
+    "prompt_betydning": "Mødrene er ikke tæt på hvem?",
+    "lyd": "137.mp3"
+  },
+  {
+    "prompt": "Igaffik sumi ajunngila?",
+    "prompt_betydning": "Hvor er køkkenet godt?",
+    "lyd": "138.mp3"
+  },
+  {
+    "prompt": "Aputsiaq kikkunniit arpanngila?",
+    "prompt_betydning": "Aputsiaq løber ikke fra hvem?",
+    "lyd": "139.mp3"
+  },
+  {
+    "prompt": "Sanasut sumi oqaluussippat?",
+    "prompt_betydning": "Hvor forkynder håndværkerne?",
+    "lyd": "140.mp3"
+  },
+  {
+    "prompt": "Angut kimut arpappa?",
+    "prompt_betydning": "Manden løber til hvem?",
+    "lyd": "141.mp3"
+  },
+  {
+    "prompt": "Umimmaat sumi ajunngillat?",
+    "prompt_betydning": "Hvor har moskusokserne det godt?",
+    "lyd": "142.mp3"
+  },
+  {
+    "prompt": "Asaasartut kikkunnut qaninngillat?",
+    "prompt_betydning": "Rengøringsassistenterne er ikke tæt på hvem?",
+    "lyd": "143.mp3"
+  },
+  {
+    "prompt": "Qaqortoq sumit ungasippa?",
+    "prompt_betydning": "Qaqortoq er langt fra hvad?",
+    "lyd": "144.mp3"
+  },
+  {
+    "prompt": "Arnannguaq sumut arpappa?",
+    "prompt_betydning": "Arnannguaq løber til hvad?",
+    "lyd": "145.mp3"
+  },
+  {
+    "prompt": "Nerrivik sumi ajorpa?",
+    "prompt_betydning": "Hvor har spisebordet det dårligt?",
+    "lyd": "146.mp3"
+  },
+  {
+    "prompt": "Ataata kimut arpanngila?",
+    "prompt_betydning": "Faren løber ikke til hvem?",
+    "lyd": "147.mp3"
+  },
+  {
+    "prompt": "Ataata sumut aallarpa?",
+    "prompt_betydning": "Hvor rejser faren til?",
+    "lyd": "148.mp3"
+  },
+  {
+    "prompt": "Paniit kikkunnut qanippat?",
+    "prompt_betydning": "Døtrene er tæt på hvem?",
+    "lyd": "149.mp3"
+  },
+  {
+    "prompt": "Arnannguaq kikkunnut oqaluussinngila?",
+    "prompt_betydning": "Arnannguaq forkynder ikke for hvem?",
+    "lyd": "150.mp3"
+  },
+  {
+    "prompt": "Asaasartut kikkunnut oqaluussippat?",
+    "prompt_betydning": "Rengøringsassistenterne forkynder for hvem?",
+    "lyd": "151.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut sumi nerippat?",
+    "prompt_betydning": "Hvor spiser vidnerne?",
+    "lyd": "152.mp3"
+  },
+  {
+    "prompt": "Ernerit kimut oqaluussinngillat?",
+    "prompt_betydning": "Sønnerne forkynder ikke for hvem?",
+    "lyd": "153.mp3"
+  },
+  {
+    "prompt": "Arnaq sumi arpappa?",
+    "prompt_betydning": "Hvor løber kvinden?",
+    "lyd": "154.mp3"
+  },
+  {
+    "prompt": "Angut sumit aallanngila?",
+    "prompt_betydning": "Manden rejser ikke fra hvor?",
+    "lyd": "155.mp3"
+  },
+  {
+    "prompt": "Asaasartut kikkunnut qanippat?",
+    "prompt_betydning": "Rengøringsassistenterne er tæt på hvem?",
+    "lyd": "156.mp3"
+  },
+  {
+    "prompt": "Aputsiaq sumut aallanngila?",
+    "prompt_betydning": "Aputsiaq rejser ikke til hvad?",
+    "lyd": "157.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut sumi qasuppat?",
+    "prompt_betydning": "Hvor er vidnerne trætte?",
+    "lyd": "158.mp3"
+  },
+  {
+    "prompt": "Aviaaja sumit tikinngila?",
+    "prompt_betydning": "Aviaaja ankommer ikke fra hvor?",
+    "lyd": "159.mp3"
+  },
+  {
+    "prompt": "Ataata sumi najugaqanngila?",
+    "prompt_betydning": "Hvor bor faren ikke?",
+    "lyd": "160.mp3"
+  },
+  {
+    "prompt": "Paniit sumi ajunngillat?",
+    "prompt_betydning": "Hvor har døtrene det godt?",
+    "lyd": "161.mp3"
+  },
+  {
+    "prompt": "Paniit sumi qasuppat?",
+    "prompt_betydning": "Hvor er døtrene trætte?",
+    "lyd": "162.mp3"
+  },
+  {
+    "prompt": "Ataata sumut arpanngila?",
+    "prompt_betydning": "Hvor løber faren ikke hen?",
+    "lyd": "163.mp3"
+  },
+  {
+    "prompt": "Paniit sumi atuanngillat?",
+    "prompt_betydning": "Hvor læser døtrene ikke?",
+    "lyd": "164.mp3"
+  },
+  {
+    "prompt": "Angut kimit arpanngila?",
+    "prompt_betydning": "Hvem løber manden ikke fra?",
+    "lyd": "165.mp3"
+  },
+  {
+    "prompt": "Asaasartut sumit tikippat?",
+    "prompt_betydning": "Hvorfra ankommer rengøringsassistenterne?",
+    "lyd": "166.mp3"
+  },
+  {
+    "prompt": "Aviaaja sumut tikippa?",
+    "prompt_betydning": "Hvorhen ankommer Aviaaja?",
+    "lyd": "167.mp3"
+  },
+  {
+    "prompt": "Arnaq kimit arpappa?",
+    "prompt_betydning": "Hvem løber kvinden fra?",
+    "lyd": "168.mp3"
+  },
+  {
+    "prompt": "Arnat sumi ajorpat?",
+    "prompt_betydning": "Hvor har kvinderne det dårligt?",
+    "lyd": "169.mp3"
+  },
+  {
+    "prompt": "Asaasartut kimut qaninngillat?",
+    "prompt_betydning": "Rengøringsassistenterne er ikke tæt på hvem?",
+    "lyd": "170.mp3"
+  },
+  {
+    "prompt": "Arnaq sumut arpanngila?",
+    "prompt_betydning": "Hvorhen løber kvinden ikke?",
+    "lyd": "171.mp3"
+  },
+  {
+    "prompt": "Nuka sumi nerinngila?",
+    "prompt_betydning": "Hvor spiser Nuka ikke?",
+    "lyd": "172.mp3"
+  },
+  {
+    "prompt": "Sikut sumi nerinngillat?",
+    "prompt_betydning": "Hvor spiser isene ikke?",
+    "lyd": "173.mp3"
+  },
+  {
+    "prompt": "Angut kimut arpanngila?",
+    "prompt_betydning": "Hvem løber manden ikke hen til?",
+    "lyd": "174.mp3"
+  },
+  {
+    "prompt": "Paniit sumit aallarpat?",
+    "prompt_betydning": "Hvorfra rejser døtrene?",
+    "lyd": "175.mp3"
+  },
+  {
+    "prompt": "Arnannguaq sumi neriva?",
+    "prompt_betydning": "Hvor spiser Arnannguaq?",
+    "lyd": "176.mp3"
+  },
+  {
+    "prompt": "Arnaq sumi oqaluussinngila?",
+    "prompt_betydning": "Hvor forkynder kvinden ikke?",
+    "lyd": "177.mp3"
+  },
+  {
+    "prompt": "Asaasartut sumi nerippat?",
+    "prompt_betydning": "Hvor spiser rengøringsassistenterne?",
+    "lyd": "178.mp3"
+  },
+  {
+    "prompt": "Tuttut sumi ajorpat?",
+    "prompt_betydning": "Hvor har rensdyrene det dårligt?",
+    "lyd": "179.mp3"
+  },
+  {
+    "prompt": "Paniit sumi najugaqanngillat?",
+    "prompt_betydning": "Hvor bor døtrene ikke?",
+    "lyd": "180.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut sumit aallanngillat?",
+    "prompt_betydning": "Hvorfra rejser vidnerne ikke?",
+    "lyd": "181.mp3"
+  },
+  {
+    "prompt": "Anaana sumit tikippa?",
+    "prompt_betydning": "Hvorfra ankommer moren?",
+    "lyd": "182.mp3"
+  },
+  {
+    "prompt": "Ataatat sumi najugaqanngillat?",
+    "prompt_betydning": "Hvor bor fædrene ikke?",
+    "lyd": "183.mp3"
+  },
+  {
+    "prompt": "Arnat kikkunniit arpappat?",
+    "prompt_betydning": "Hvem løber kvinderne fra?",
+    "lyd": "184.mp3"
+  },
+  {
+    "prompt": "Aputsiaq kimut arpanngila?",
+    "prompt_betydning": "Hvem løber Aputsiaq ikke hen til?",
+    "lyd": "185.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq sumut tikippa?",
+    "prompt_betydning": "Hvorhen ankommer vidnet?",
+    "lyd": "186.mp3"
+  },
+  {
+    "prompt": "Anaanat kimut arpanngillat?",
+    "prompt_betydning": "Hvem løber mødrene ikke hen til?",
+    "lyd": "187.mp3"
+  },
+  {
+    "prompt": "Arnaq kimit arpanngila?",
+    "prompt_betydning": "Hvem løber kvinden ikke fra?",
+    "lyd": "188.mp3"
+  },
+  {
+    "prompt": "Issiavik sumut qaninngila?",
+    "prompt_betydning": "Hvad er stolen ikke tæt på?",
+    "lyd": "189.mp3"
+  },
+  {
+    "prompt": "Ataata sumi arpanngila?",
+    "prompt_betydning": "Hvor løber faren ikke?",
+    "lyd": "190.mp3"
+  },
+  {
+    "prompt": "Angut sumi oqaluussiva?",
+    "prompt_betydning": "Hvor forkynder manden?",
+    "lyd": "191.mp3"
+  },
+  {
+    "prompt": "Upernavik sumut qaninngila?",
+    "prompt_betydning": "Upernavik er ikke tæt på hvad?",
+    "lyd": "192.mp3"
+  },
+  {
+    "prompt": "Arnat sumut tikippat?",
+    "prompt_betydning": "Hvorhen ankommer kvinderne?",
+    "lyd": "193.mp3"
+  },
+  {
+    "prompt": "Anaana kikkunnut qanippa?",
+    "prompt_betydning": "Hvem er moren tæt på?",
+    "lyd": "194.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq sumit tikippa?",
+    "prompt_betydning": "Hvorfra ankommer vidnet?",
+    "lyd": "195.mp3"
+  },
+  {
+    "prompt": "Arnaq kikkunnut qaninngila?",
+    "prompt_betydning": "Hvem er kvinden ikke tæt på?",
+    "lyd": "196.mp3"
+  },
+  {
+    "prompt": "Panik sumi arpanngila?",
+    "prompt_betydning": "Hvor løber datteren ikke?",
+    "lyd": "197.mp3"
+  },
+  {
+    "prompt": "Nanortalik sumit ungasippa?",
+    "prompt_betydning": "Nanortalik er langt fra hvad?",
+    "lyd": "198.mp3"
+  },
+  {
+    "prompt": "Angut sumit tikippa?",
+    "prompt_betydning": "Hvorfra ankommer manden?",
+    "lyd": "199.mp3"
+  },
+  {
+    "prompt": "Aputsiaq sumi ajunngila?",
+    "prompt_betydning": "Hvor har Aputsiaq det godt?",
+    "lyd": "200.mp3"
+  },
+  {
+    "prompt": "Paniit sumi arpanngillat?",
+    "prompt_betydning": "Hvor løber døtrene ikke?",
+    "lyd": "201.mp3"
+  },
+  {
+    "prompt": "Malik sumi atuanngila?",
+    "prompt_betydning": "Hvor læser Malik ikke?",
+    "lyd": "202.mp3"
+  },
+  {
+    "prompt": "Ernerit kikkunnut oqaluussinngillat?",
+    "prompt_betydning": "Hvem forkynder sønnerne ikke for?",
+    "lyd": "203.mp3"
+  },
+  {
+    "prompt": "Anaanat sumi ajorpat?",
+    "prompt_betydning": "Hvor har mødrene det dårligt?",
+    "lyd": "204.mp3"
+  },
+  {
+    "prompt": "Arnat sumit aallarpat?",
+    "prompt_betydning": "Hvorfra rejser kvinderne?",
+    "lyd": "205.mp3"
+  },
+  {
+    "prompt": "Paniit sumut arpappat?",
+    "prompt_betydning": "Hvorhen løber døtrene?",
+    "lyd": "206.mp3"
+  },
+  {
+    "prompt": "Malik sumi arpanngila?",
+    "prompt_betydning": "Hvor løber Malik ikke?",
+    "lyd": "207.mp3"
+  },
+  {
+    "prompt": "Anaana sumi ajorpa?",
+    "prompt_betydning": "Hvor har moren det dårligt?",
+    "lyd": "208.mp3"
+  },
+  {
+    "prompt": "Ernerit kikkunnut qanippat?",
+    "prompt_betydning": "Hvem er sønnerne tæt på?",
+    "lyd": "209.mp3"
+  },
+  {
+    "prompt": "Panik sumi ajunngila?",
+    "prompt_betydning": "Hvor har datteren det godt?",
+    "lyd": "210.mp3"
+  },
+  {
+    "prompt": "Nuka sumit arpappa?",
+    "prompt_betydning": "Hvorfra løber Nuka?",
+    "lyd": "211.mp3"
+  },
+  {
+    "prompt": "Qatanngut kimit arpanngila?",
+    "prompt_betydning": "Hvem løber broren/søsteren ikke fra?",
+    "lyd": "212.mp3"
+  },
+  {
+    "prompt": "Anaana kimut qanippa?",
+    "prompt_betydning": "Hvem er moren tæt på?",
+    "lyd": "213.mp3"
+  },
+  {
+    "prompt": "Ataatat kikkunnut qaninngillat?",
+    "prompt_betydning": "Hvem er fædrene ikke tæt på?",
+    "lyd": "214.mp3"
+  },
+  {
+    "prompt": "Arnaq sumut aallarpa?",
+    "prompt_betydning": "Hvorhen rejser kvinden?",
+    "lyd": "215.mp3"
+  },
+  {
+    "prompt": "Angut kikkunnut qanippa?",
+    "prompt_betydning": "Hvem er manden tæt på?",
+    "lyd": "216.mp3"
+  },
+  {
+    "prompt": "Ernerit kimit ungasippat?",
+    "prompt_betydning": "Hvem er sønnerne langt fra?",
+    "lyd": "217.mp3"
+  },
+  {
+    "prompt": "Paniit kimut arpappat?",
+    "prompt_betydning": "Hvem løber døtrene til?",
+    "lyd": "218.mp3"
+  },
+  {
+    "prompt": "Arnaq sumi najugaqarpa?",
+    "prompt_betydning": "Hvor bor kvinden?",
+    "lyd": "219.mp3"
+  },
+  {
+    "prompt": "Ataatat sumit tikippat?",
+    "prompt_betydning": "Hvorfra ankommer fædrene?",
+    "lyd": "220.mp3"
+  },
+  {
+    "prompt": "Arnannguaq kimut arpappa?",
+    "prompt_betydning": "Hvem løber Arnannguaq til?",
+    "lyd": "221.mp3"
+  },
+  {
+    "prompt": "Angutit kimut qanippat?",
+    "prompt_betydning": "Hvem er mændene tæt på?",
+    "lyd": "222.mp3"
+  },
+  {
+    "prompt": "Nuka sumut aallanngila?",
+    "prompt_betydning": "Hvorhen rejser Nuka ikke?",
+    "lyd": "223.mp3"
+  },
+  {
+    "prompt": "Aputsiaq sumit arpappa?",
+    "prompt_betydning": "Hvorfra løber Aputsiaq?",
+    "lyd": "224.mp3"
+  },
+  {
+    "prompt": "Anaana sumut tikinngila?",
+    "prompt_betydning": "Hvorhen ankommer moren ikke?",
+    "lyd": "225.mp3"
+  },
+  {
+    "prompt": "Anaana sumi najugaqanngila?",
+    "prompt_betydning": "Hvor bor moren ikke?",
+    "lyd": "226.mp3"
+  },
+  {
+    "prompt": "Paniit sumit arpappat?",
+    "prompt_betydning": "Hvorfra løber døtrene?",
+    "lyd": "227.mp3"
+  },
+  {
+    "prompt": "Panik sumi neriva?",
+    "prompt_betydning": "Hvor spiser datteren?",
+    "lyd": "228.mp3"
+  },
+  {
+    "prompt": "Asaasartoq kimit arpappa?",
+    "prompt_betydning": "Hvem løber rengøringsassistenten fra?",
+    "lyd": "229.mp3"
+  },
+  {
+    "prompt": "Nanortalik sumut qanippa?",
+    "prompt_betydning": "Nanortalik er tæt på hvad?",
+    "lyd": "230.mp3"
+  },
+  {
+    "prompt": "Issiavik sumut qanippa?",
+    "prompt_betydning": "Stolen er tæt på hvad?",
+    "lyd": "231.mp3"
+  },
+  {
+    "prompt": "Arnannguaq sumi qasua?",
+    "prompt_betydning": "Hvor er Arnannguaq træt?",
+    "lyd": "232.mp3"
+  },
+  {
+    "prompt": "Nanortalik sumit ungasinngila?",
+    "prompt_betydning": "Nanortalik er ikke langt fra hvad?",
+    "lyd": "233.mp3"
+  },
+  {
+    "prompt": "Asaasartut kimut qanippat?",
+    "prompt_betydning": "Hvem er rengøringsassistenterne tæt på?",
+    "lyd": "234.mp3"
+  },
+  {
+    "prompt": "Ataata sumit aallarpa?",
+    "prompt_betydning": "Hvorfra rejser faren?",
+    "lyd": "235.mp3"
+  },
+  {
+    "prompt": "Qatanngut sumit tikinngila?",
+    "prompt_betydning": "Hvorfra ankommer broren/søsteren ikke?",
+    "lyd": "236.mp3"
+  },
+  {
+    "prompt": "Anaanat kikkunnut arpappat?",
+    "prompt_betydning": "Hvem løber mødrene til?",
+    "lyd": "237.mp3"
+  },
+  {
+    "prompt": "Asaasartut sumi nerinngillat?",
+    "prompt_betydning": "Hvor spiser rengøringsassistenterne ikke?",
+    "lyd": "238.mp3"
+  },
+  {
+    "prompt": "Sanasoq sumi atuanngila?",
+    "prompt_betydning": "Hvor læser håndværkeren ikke?",
+    "lyd": "239.mp3"
+  },
+  {
+    "prompt": "Sanasoq sumi neriva?",
+    "prompt_betydning": "Hvor spiser håndværkeren?",
+    "lyd": "240.mp3"
+  },
+  {
+    "prompt": "Kina Maniitsumi oqaluussinngila?",
+    "prompt_betydning": "Hvem forkynder ikke i Maniitsoq?",
+    "lyd": "241.mp3"
+  },
+  {
+    "prompt": "Suna Kangerlussuarmut qanippa?",
+    "prompt_betydning": "Hvad er tæt på Kangerlussuaq?",
+    "lyd": "242.mp3"
+  },
+  {
+    "prompt": "Kina Qaanaami oqaluussinngila?",
+    "prompt_betydning": "Hvem forkynder ikke i Qaanaaq?",
+    "lyd": "243.mp3"
+  },
+  {
+    "prompt": "Suna issiavinnut qanippa?",
+    "prompt_betydning": "Hvad er tæt på stolene?",
+    "lyd": "244.mp3"
+  },
+  {
+    "prompt": "Kina Qaanaamiit arpanngila?",
+    "prompt_betydning": "Hvem løber ikke fra Qaanaaq?",
+    "lyd": "245.mp3"
+  },
+  {
+    "prompt": "Kikkut nalunaajaasumut qanippat?",
+    "prompt_betydning": "Hvem er tæt på vidnet?",
+    "lyd": "246.mp3"
+  },
+  {
+    "prompt": "Kikkut Upernavimmiit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra Upernavik?",
+    "lyd": "247.mp3"
+  },
+  {
+    "prompt": "Kina Paamiuni ajorpa?",
+    "prompt_betydning": "Hvem har det dårligt i Paamiut?",
+    "lyd": "248.mp3"
+  },
+  {
+    "prompt": "Kikkut Paamiunut arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke til Paamiut?",
+    "lyd": "249.mp3"
+  },
+  {
+    "prompt": "Kina nalunaajaasunut oqaluussinngila?",
+    "prompt_betydning": "Hvem forkynder ikke for vidnerne?",
+    "lyd": "250.mp3"
+  },
+  {
+    "prompt": "Suut Upernavimmi qasuppat?",
+    "prompt_betydning": "Hvad er trætte i Upernavik?",
+    "lyd": "251.mp3"
+  },
+  {
+    "prompt": "Kina Maniitsumiit arpanngila?",
+    "prompt_betydning": "Hvem løber ikke fra Maniitsoq?",
+    "lyd": "252.mp3"
+  },
+  {
+    "prompt": "Kikkut Pituffimmiit tikinngillat?",
+    "prompt_betydning": "Hvem ankommer ikke fra Pituffik?",
+    "lyd": "253.mp3"
+  },
+  {
+    "prompt": "Suna Sisimiuni nerinngila?",
+    "prompt_betydning": "Hvad spiser ikke i Sisimiut?",
+    "lyd": "254.mp3"
+  },
+  {
+    "prompt": "Kina Qaanaami ajunngila?",
+    "prompt_betydning": "Hvem har det godt i Qaanaaq?",
+    "lyd": "255.mp3"
+  },
+  {
+    "prompt": "Kina Nuummut arpappa?",
+    "prompt_betydning": "Hvem løber til Nuuk?",
+    "lyd": "256.mp3"
+  },
+  {
+    "prompt": "Kikkut Nanortalimmi najugaqarpat?",
+    "prompt_betydning": "Hvem bor i Nanortalik?",
+    "lyd": "257.mp3"
+  },
+  {
+    "prompt": "Kikkut Kangerlussuarmi atuarpat?",
+    "prompt_betydning": "Hvem læser i Kangerlussuaq?",
+    "lyd": "258.mp3"
+  },
+  {
+    "prompt": "Suut Maniitsumiit ungasippat?",
+    "prompt_betydning": "Hvad er langt fra Maniitsoq?",
+    "lyd": "259.mp3"
+  },
+  {
+    "prompt": "Kikkut panimmiit ungasinngillat?",
+    "prompt_betydning": "Hvem er ikke langt fra datteren?",
+    "lyd": "260.mp3"
+  },
+  {
+    "prompt": "Kina Upernavimmut aallanngila?",
+    "prompt_betydning": "Hvem rejser ikke til Upernavik?",
+    "lyd": "261.mp3"
+  },
+  {
+    "prompt": "Kina Kangerlussuarmiit arpappa?",
+    "prompt_betydning": "Hvem løber fra Kangerlussuaq?",
+    "lyd": "262.mp3"
+  },
+  {
+    "prompt": "Kina Arnannguamiit arpappa?",
+    "prompt_betydning": "Hvem løber fra Arnannguaq?",
+    "lyd": "263.mp3"
+  },
+  {
+    "prompt": "Kina asaasartunut oqaluussinngila?",
+    "prompt_betydning": "Hvem forkynder ikke for rengøringsassistenterne?",
+    "lyd": "264.mp3"
+  },
+  {
+    "prompt": "Suna Upernavimmi qasunngila?",
+    "prompt_betydning": "Hvad er ikke træt i Upernavik?",
+    "lyd": "265.mp3"
+  },
+  {
+    "prompt": "Kikkut Sisimiuni qasunngillat?",
+    "prompt_betydning": "Hvem er ikke trætte i Sisimiut?",
+    "lyd": "266.mp3"
+  },
+  {
+    "prompt": "Kina Sisimiuni qasunngila?",
+    "prompt_betydning": "Hvem er ikke træt i Sisimiut?",
+    "lyd": "267.mp3"
+  },
+  {
+    "prompt": "Kikkut Paamiuniit aallarpat?",
+    "prompt_betydning": "Hvem rejser fra Paamiut?",
+    "lyd": "268.mp3"
+  },
+  {
+    "prompt": "Suut Qaanaami qasunngillat?",
+    "prompt_betydning": "Hvad er ikke trætte i Qaanaaq?",
+    "lyd": "269.mp3"
+  },
+  {
+    "prompt": "Suna issiavinnut qaninngila?",
+    "prompt_betydning": "Hvad er ikke tæt på stolene?",
+    "lyd": "270.mp3"
+  },
+  {
+    "prompt": "Suna tuttumut qaninngila?",
+    "prompt_betydning": "Hvad er ikke tæt på rensdyret?",
+    "lyd": "271.mp3"
+  },
+  {
+    "prompt": "Kikkut Kangerlussuarmiit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra Kangerlussuaq?",
+    "lyd": "272.mp3"
+  },
+  {
+    "prompt": "Suut Aasiannut qanippat?",
+    "prompt_betydning": "Hvad er tæt på Aasiaat?",
+    "lyd": "273.mp3"
+  },
+  {
+    "prompt": "Kikkut Qaqortumut aallarpat?",
+    "prompt_betydning": "Hvem rejser til Qaqortoq?",
+    "lyd": "274.mp3"
+  },
+  {
+    "prompt": "Suna Sisimiuniit ungasinngila?",
+    "prompt_betydning": "Hvad er ikke langt fra Sisimiut?",
+    "lyd": "275.mp3"
+  },
+  {
+    "prompt": "Kikkut ataatamut oqaluussinngillat?",
+    "prompt_betydning": "Hvem forkynder ikke for faren?",
+    "lyd": "276.mp3"
+  },
+  {
+    "prompt": "Kikkut Narsamut aallarpat?",
+    "prompt_betydning": "Hvem rejser til Narsaq?",
+    "lyd": "277.mp3"
+  },
+  {
+    "prompt": "Suut issiavimmiit ungasinngillat?",
+    "prompt_betydning": "Hvad er ikke langt fra stolene?",
+    "lyd": "278.mp3"
+  },
+  {
+    "prompt": "Kina anaanamut qanippa?",
+    "prompt_betydning": "Hvem er tæt på moren?",
+    "lyd": "279.mp3"
+  },
+  {
+    "prompt": "Kikkut Uummannamut arpappat?",
+    "prompt_betydning": "Hvem løber til Uummannaq?",
+    "lyd": "280.mp3"
+  },
+  {
+    "prompt": "Kikkut Aputsiamut arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke til Aputsiaq?",
+    "lyd": "281.mp3"
+  },
+  {
+    "prompt": "Kina qatanngummut arpappa?",
+    "prompt_betydning": "Hvem løber til broren/søsteren?",
+    "lyd": "282.mp3"
+  },
+  {
+    "prompt": "Kina Uummannami arpappa?",
+    "prompt_betydning": "Hvem løber i Uummannaq?",
+    "lyd": "283.mp3"
+  },
+  {
+    "prompt": "Kikkut Uummannami ajorpat?",
+    "prompt_betydning": "Hvem har det dårligt i Uummannaq?",
+    "lyd": "284.mp3"
+  },
+  {
+    "prompt": "Suna Nuummi nerinngila?",
+    "prompt_betydning": "Hvad spiser ikke i Nuuk?",
+    "lyd": "285.mp3"
+  },
+  {
+    "prompt": "Suna Nanortalimmut qaninngila?",
+    "prompt_betydning": "Hvad er ikke tæt på Nanortalik?",
+    "lyd": "286.mp3"
+  },
+  {
+    "prompt": "Kina ataatanut oqaluussiva?",
+    "prompt_betydning": "Hvem forkynder for faren?",
+    "lyd": "287.mp3"
+  },
+  {
+    "prompt": "Kikkut Narsamiit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra Narsaq?",
+    "lyd": "288.mp3"
+  },
+  {
+    "prompt": "Kina nalunaajaasunut qanippa?",
+    "prompt_betydning": "Hvem er tæt på vidnerne?",
+    "lyd": "289.mp3"
+  },
+  {
+    "prompt": "Kikkut sanasumut oqaluussinngillat?",
+    "prompt_betydning": "Hvem forkynder ikke for håndværkeren?",
+    "lyd": "290.mp3"
+  },
+  {
+    "prompt": "Kikkut Pituffimmiit tikippat?",
+    "prompt_betydning": "Hvem ankommer fra Pituffik?",
+    "lyd": "291.mp3"
+  },
+  {
+    "prompt": "Kikkut paninniit arpappat?",
+    "prompt_betydning": "Hvem løber fra datteren?",
+    "lyd": "292.mp3"
+  },
+  {
+    "prompt": "Kina Maniitsumiit tikippa?",
+    "prompt_betydning": "Hvem ankommer fra Maniitsoq?",
+    "lyd": "293.mp3"
+  },
+  {
+    "prompt": "Kina Maniitsumi oqaluussiva?",
+    "prompt_betydning": "Hvem forkynder i Maniitsoq?",
+    "lyd": "294.mp3"
+  },
+  {
+    "prompt": "Kikkut anaanamiit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra moren?",
+    "lyd": "295.mp3"
+  },
+  {
+    "prompt": "Kikkut Aasianniit aallanngillat?",
+    "prompt_betydning": "Hvem rejser ikke fra Aasiaat?",
+    "lyd": "296.mp3"
+  },
+  {
+    "prompt": "Suna Maniitsumi ajorpa?",
+    "prompt_betydning": "Hvad har det dårligt i Maniitsoq?",
+    "lyd": "297.mp3"
+  },
+  {
+    "prompt": "Kikkut Aasianniit arpappat?",
+    "prompt_betydning": "Hvem løber fra Aasiaat?",
+    "lyd": "298.mp3"
+  },
+  {
+    "prompt": "Kina panimmut arpappa?",
+    "prompt_betydning": "Hvem løber til datteren?",
+    "lyd": "299.mp3"
+  },
+  {
+    "prompt": "Kina Qaqortumi oqaluussiva?",
+    "prompt_betydning": "Hvem forkynder i Qaqortoq?",
+    "lyd": "300.mp3"
+  },
+  {
+    "prompt": "Kikkut Qaanaamut tikinngillat?",
+    "prompt_betydning": "Hvem ankommer ikke til Qaanaaq?",
+    "lyd": "301.mp3"
+  },
+  {
+    "prompt": "Suna Qaanaamiit ungasinngila?",
+    "prompt_betydning": "Hvad er ikke langt fra Qaanaaq?",
+    "lyd": "302.mp3"
+  },
+  {
+    "prompt": "Kikkut arnamut qanippat?",
+    "prompt_betydning": "Hvem er tæt på kvinden?",
+    "lyd": "303.mp3"
+  },
+  {
+    "prompt": "Kikkut ernernut qaninngillat?",
+    "prompt_betydning": "Hvem er ikke tæt på sønnerne?",
+    "lyd": "304.mp3"
+  },
+  {
+    "prompt": "Kina Aasianni ajunngila?",
+    "prompt_betydning": "Hvem har det godt i Aasiaat?",
+    "lyd": "305.mp3"
+  },
+  {
+    "prompt": "Kikkut ataataniit ungasinngillat?",
+    "prompt_betydning": "Hvem er ikke langt fra faren?",
+    "lyd": "306.mp3"
+  },
+  {
+    "prompt": "Kikkut Maniitsumi ajunngillat?",
+    "prompt_betydning": "Hvem har det godt i Maniitsoq?",
+    "lyd": "307.mp3"
+  },
+  {
+    "prompt": "Kikkut Maniitsumi oqaluussinngillat?",
+    "prompt_betydning": "Hvem forkynder ikke i Maniitsoq?",
+    "lyd": "308.mp3"
+  },
+  {
+    "prompt": "Kikkut Paamiuniit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra Paamiut?",
+    "lyd": "309.mp3"
+  },
+  {
+    "prompt": "Kina Sisimiunut arpappa?",
+    "prompt_betydning": "Hvem løber til Sisimiut?",
+    "lyd": "310.mp3"
+  },
+  {
+    "prompt": "Suna nerrivimmut qanippa?",
+    "prompt_betydning": "Hvad er tæt på bordet?",
+    "lyd": "311.mp3"
+  },
+  {
+    "prompt": "Kikkut asaasartunut oqaluussippat?",
+    "prompt_betydning": "Hvem forkynder for rengøringsassistenterne?",
+    "lyd": "312.mp3"
+  },
+  {
+    "prompt": "Kikkut asaasartumut oqaluussippat?",
+    "prompt_betydning": "Hvem forkynder for rengøringsassistenten?",
+    "lyd": "313.mp3"
+  },
+  {
+    "prompt": "Kina Qaanaami arpappa?",
+    "prompt_betydning": "Hvem løber i Qaanaaq?",
+    "lyd": "314.mp3"
+  },
+  {
+    "prompt": "Kikkut Qaqortumiit tikippat?",
+    "prompt_betydning": "Hvem ankommer fra Qaqortoq?",
+    "lyd": "315.mp3"
+  },
+  {
+    "prompt": "Suna Sisimiuni ajunngila?",
+    "prompt_betydning": "Hvad har det godt i Sisimiut?",
+    "lyd": "316.mp3"
+  },
+  {
+    "prompt": "Kina Sisimiuni najugaqanngila?",
+    "prompt_betydning": "Hvem bor ikke i Sisimiut?",
+    "lyd": "317.mp3"
+  },
+  {
+    "prompt": "Kikkut Aviaajamiit arpappat?",
+    "prompt_betydning": "Hvem løber fra Aviaaja?",
+    "lyd": "318.mp3"
+  },
+  {
+    "prompt": "Kikkut Tasiilami atuarpat?",
+    "prompt_betydning": "Hvem læser i Tasiilaq?",
+    "lyd": "319.mp3"
+  },
+  {
+    "prompt": "Kina Narsamiit tikinngila?",
+    "prompt_betydning": "Hvem ankommer ikke fra Narsaq?",
+    "lyd": "320.mp3"
+  },
+  {
+    "prompt": "Kikkut Kangerlussuarmiit aallarpat?",
+    "prompt_betydning": "Hvem rejser fra Kangerlussuaq?",
+    "lyd": "321.mp3"
+  },
+  {
+    "prompt": "Kina Narsami ajunngila?",
+    "prompt_betydning": "Hvem har det godt i Narsaq?",
+    "lyd": "322.mp3"
+  },
+  {
+    "prompt": "Suna Nuummi ajunngila?",
+    "prompt_betydning": "Hvad har det godt i Nuuk?",
+    "lyd": "323.mp3"
+  },
+  {
+    "prompt": "Kina Pituffimmiit arpanngila?",
+    "prompt_betydning": "Hvem løber ikke fra Pituffik?",
+    "lyd": "324.mp3"
+  },
+  {
+    "prompt": "Kina Uummannamut tikippa?",
+    "prompt_betydning": "Hvem ankommer til Uummannaq?",
+    "lyd": "325.mp3"
+  },
+  {
+    "prompt": "Suut sikumiit ungasippat?",
+    "prompt_betydning": "Hvad er langt fra isen?",
+    "lyd": "326.mp3"
+  },
+  {
+    "prompt": "Kina Qaanaami oqaluussiva?",
+    "prompt_betydning": "Hvem forkynder i Qaanaaq?",
+    "lyd": "327.mp3"
+  },
+  {
+    "prompt": "Kikkut Narsami nerippat?",
+    "prompt_betydning": "Hvem spiser i Narsaq?",
+    "lyd": "328.mp3"
+  },
+  {
+    "prompt": "Suna Sisimiunut qanippa?",
+    "prompt_betydning": "Hvad er tæt på Sisimiut?",
+    "lyd": "329.mp3"
+  },
+  {
+    "prompt": "Kina Nuummiit aallarpa?",
+    "prompt_betydning": "Hvem rejser fra Nuuk?",
+    "lyd": "330.mp3"
+  },
+  {
+    "prompt": "Suut Narsarsuarmi qasuppat?",
+    "prompt_betydning": "Hvad er trætte i Narsarsuaq?",
+    "lyd": "331.mp3"
+  },
+  {
+    "prompt": "Kikkut arnanut arpappat?",
+    "prompt_betydning": "Hvem løber til kvinderne?",
+    "lyd": "332.mp3"
+  },
+  {
+    "prompt": "Kikkut ataatanut arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke til fædrene?",
+    "lyd": "333.mp3"
+  },
+  {
+    "prompt": "Kina angutinut qanippa?",
+    "prompt_betydning": "Hvem er tæt på mændene?",
+    "lyd": "334.mp3"
+  },
+  {
+    "prompt": "Kina Pituffimmi qasunngila?",
+    "prompt_betydning": "Hvem er ikke træt i Pituffik?",
+    "lyd": "335.mp3"
+  },
+  {
+    "prompt": "Kina Kangerlussuarmut arpappa?",
+    "prompt_betydning": "Hvem løber til Kangerlussuaq?",
+    "lyd": "336.mp3"
+  },
+  {
+    "prompt": "Suut Tasiilami nerippat?",
+    "prompt_betydning": "Hvad spiser i Tasiilaq?",
+    "lyd": "337.mp3"
+  },
+  {
+    "prompt": "Kikkut Qaanaami atuanngillat?",
+    "prompt_betydning": "Hvem læser ikke i Qaanaaq?",
+    "lyd": "338.mp3"
+  },
+  {
+    "prompt": "Suut Qaanaamiit ungasippat?",
+    "prompt_betydning": "Hvad er langt fra Qaanaaq?",
+    "lyd": "339.mp3"
+  },
+  {
+    "prompt": "Kina Nanortalimmut tikippa?",
+    "prompt_betydning": "Hvem ankommer til Nanortalik?",
+    "lyd": "340.mp3"
+  },
+  {
+    "prompt": "Kikkut Pituffimmut arpappat?",
+    "prompt_betydning": "Hvem løber til Pituffik?",
+    "lyd": "341.mp3"
+  },
+  {
+    "prompt": "Suna Narsamut qanippa?",
+    "prompt_betydning": "Hvad er tæt på Narsaq?",
+    "lyd": "342.mp3"
+  },
+  {
+    "prompt": "Kina Uummannamiit aallarpa?",
+    "prompt_betydning": "Hvem rejser fra Uummannaq?",
+    "lyd": "343.mp3"
+  },
+  {
+    "prompt": "Suut Tasiilamiit ungasippat?",
+    "prompt_betydning": "Hvad er langt fra Tasiilaq?",
+    "lyd": "344.mp3"
+  },
+  {
+    "prompt": "Kikkut Kangerlussuarmi qasunngillat?",
+    "prompt_betydning": "Hvem er ikke trætte i Kangerlussuaq?",
+    "lyd": "345.mp3"
+  },
+  {
+    "prompt": "Kikkut Kangerlussuarmut aallanngillat?",
+    "prompt_betydning": "Hvem rejser ikke til Kangerlussuaq?",
+    "lyd": "346.mp3"
+  },
+  {
+    "prompt": "Kina ernermut qanippa?",
+    "prompt_betydning": "Hvem er tæt på sønnen?",
+    "lyd": "347.mp3"
+  },
+  {
+    "prompt": "Kikkut Nuummiit aallarpat?",
+    "prompt_betydning": "Hvem rejser fra Nuuk?",
+    "lyd": "348.mp3"
+  },
+  {
+    "prompt": "Kina Aasianniit arpanngila?",
+    "prompt_betydning": "Hvem løber ikke fra Aasiaat?",
+    "lyd": "349.mp3"
+  },
+  {
+    "prompt": "Kikkut qatanngutiniit ungasippat?",
+    "prompt_betydning": "Hvem er langt fra brødrene/søstrene?",
+    "lyd": "350.mp3"
+  },
+  {
+    "prompt": "Kina Paamiunut arpappa?",
+    "prompt_betydning": "Hvem løber til Paamiut?",
+    "lyd": "351.mp3"
+  },
+  {
+    "prompt": "Kina Qaqortumut arpanngila?",
+    "prompt_betydning": "Hvem løber ikke til Qaqortoq?",
+    "lyd": "352.mp3"
+  },
+  {
+    "prompt": "Kikkut Narsamiit arpappat?",
+    "prompt_betydning": "Hvem løber fra Narsaq?",
+    "lyd": "353.mp3"
+  },
+  {
+    "prompt": "Kina Nuummut aallarpa?",
+    "prompt_betydning": "Hvem rejser til Nuuk?",
+    "lyd": "354.mp3"
+  },
+  {
+    "prompt": "Kikkut Nukamiit arpanngillat?",
+    "prompt_betydning": "Hvem løber ikke fra Nuka?",
+    "lyd": "355.mp3"
+  },
+  {
+    "prompt": "Kina Nuummiit aallanngila?",
+    "prompt_betydning": "Hvem rejser ikke fra Nuuk?",
+    "lyd": "356.mp3"
+  },
+  {
+    "prompt": "Kina Upernavimmut tikippa?",
+    "prompt_betydning": "Hvem ankommer til Upernavik?",
+    "lyd": "357.mp3"
+  },
+  {
+    "prompt": "Kina Sisimiuni qasua?",
+    "prompt_betydning": "Hvem er træt i Sisimiut?",
+    "lyd": "358.mp3"
+  },
+  {
+    "prompt": "Kikkut Nanortalimmi atuarpat?",
+    "prompt_betydning": "Hvem læser i Nanortalik?",
+    "lyd": "359.mp3"
+  },
+  {
+    "prompt": "Suna Maniitsumi qasunngila?",
+    "prompt_betydning": "Hvad er ikke træt i Maniitsoq?",
+    "lyd": "360.mp3"
+  },
+  {
+    "prompt": "Pituffimmi ajorpusi",
+    "prompt_betydning": "I har det dårligt i Pituffik",
+    "lyd": "361.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi najugaqarpit?",
+    "prompt_betydning": "Bor du i Nanortalik?",
+    "lyd": "362.mp3"
+  },
+  {
+    "prompt": "Aviaajamut arpapputit",
+    "prompt_betydning": "Du løber til Aviaaja",
+    "lyd": "363.mp3"
+  },
+  {
+    "prompt": "Angummut qaninngilatit",
+    "prompt_betydning": "Du er ikke tæt på manden",
+    "lyd": "364.mp3"
+  },
+  {
+    "prompt": "Sanasumut arpanngilasi?",
+    "prompt_betydning": "Løber I ikke til håndværkeren?",
+    "lyd": "365.mp3"
+  },
+  {
+    "prompt": "Malimmiit arpappusi",
+    "prompt_betydning": "I løber fra Malik",
+    "lyd": "366.mp3"
+  },
+  {
+    "prompt": "Sikunut qanipputit",
+    "prompt_betydning": "I er tæt på isene",
+    "lyd": "367.mp3"
+  },
+  {
+    "prompt": "Upernavimmi oqaluussivisi?",
+    "prompt_betydning": "Forkynder I i Upernavik?",
+    "lyd": "368.mp3"
+  },
+  {
+    "prompt": "Sikuniit ungasippit?",
+    "prompt_betydning": "Er du langt fra isene?",
+    "lyd": "369.mp3"
+  },
+  {
+    "prompt": "Uummannami najugaqanngilagut",
+    "prompt_betydning": "Vi bor ikke i Uummannaq",
+    "lyd": "370.mp3"
+  },
+  {
+    "prompt": "Nuummi qasuvusi",
+    "prompt_betydning": "I er trætte i Nuuk",
+    "lyd": "371.mp3"
+  },
+  {
+    "prompt": "Nuummi ajunngilasi",
+    "prompt_betydning": "I har det godt i Nuuk",
+    "lyd": "372.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasunut arpapputit",
+    "prompt_betydning": "Du løber til vidnerne",
+    "lyd": "373.mp3"
+  },
+  {
+    "prompt": "Uummannami atuanngilasi",
+    "prompt_betydning": "I læser ikke i Uummannaq",
+    "lyd": "374.mp3"
+  },
+  {
+    "prompt": "Sanasunut qanipputit",
+    "prompt_betydning": "Du er tæt på håndværkerne",
+    "lyd": "375.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmut arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke til Narsarsuaq",
+    "lyd": "376.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Sisimiut",
+    "lyd": "377.mp3"
+  },
+  {
+    "prompt": "Ataatamiit arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra faren?",
+    "lyd": "378.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit ungasippit?",
+    "prompt_betydning": "Er du langt fra Tasiilaq?",
+    "lyd": "379.mp3"
+  },
+  {
+    "prompt": "Maniitsumiit aallanngilasi?",
+    "prompt_betydning": "Rejser I ikke fra Maniitsoq?",
+    "lyd": "380.mp3"
+  },
+  {
+    "prompt": "Uummannamut tikinngilasi?",
+    "prompt_betydning": "Ankommer I ikke til Uummannaq?",
+    "lyd": "381.mp3"
+  },
+  {
+    "prompt": "Aputsiamut oqaluussivugut",
+    "prompt_betydning": "Vi forkynder for Aputsiaq",
+    "lyd": "382.mp3"
+  },
+  {
+    "prompt": "Narsami atuanngilanga",
+    "prompt_betydning": "Jeg læser ikke i Narsaq",
+    "lyd": "383.mp3"
+  },
+  {
+    "prompt": "Narsami ajunngilatit?",
+    "prompt_betydning": "Har du det godt i Narsaq?",
+    "lyd": "384.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit aallanngilatit?",
+    "prompt_betydning": "Rejser du ikke fra Tasiilaq?",
+    "lyd": "385.mp3"
+  },
+  {
+    "prompt": "Malimmiit ungasinngilatit",
+    "prompt_betydning": "Du er ikke langt fra Malik",
+    "lyd": "386.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit ungasippisi?",
+    "prompt_betydning": "Er I langt fra Sisimiut?",
+    "lyd": "387.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasumiit ungasinngilatit",
+    "prompt_betydning": "Du er ikke langt fra vidnet",
+    "lyd": "388.mp3"
+  },
+  {
+    "prompt": "Arnamut oqaluussinngilatit?",
+    "prompt_betydning": "Forkynder du ikke for kvinden?",
+    "lyd": "389.mp3"
+  },
+  {
+    "prompt": "Qaanaamut aallarpugut",
+    "prompt_betydning": "Vi rejser til Qaanaaq",
+    "lyd": "390.mp3"
+  },
+  {
+    "prompt": "Paamiunut arpappugut",
+    "prompt_betydning": "Vi løber til Paamiut",
+    "lyd": "391.mp3"
+  },
+  {
+    "prompt": "Sikuniit ungasippusi",
+    "prompt_betydning": "I er langt fra isene",
+    "lyd": "392.mp3"
+  },
+  {
+    "prompt": "Uummannami arpapputit",
+    "prompt_betydning": "Du løber i Uummannaq",
+    "lyd": "393.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit arpappit?",
+    "prompt_betydning": "Løber du fra Arnannguaq?",
+    "lyd": "394.mp3"
+  },
+  {
+    "prompt": "Issiavimmiit ungasinngilatit?",
+    "prompt_betydning": "Du er ikke langt fra stolen",
+    "lyd": "395.mp3"
+  },
+  {
+    "prompt": "Upernavimmi arpapputit",
+    "prompt_betydning": "Du løber i Upernavik",
+    "lyd": "396.mp3"
+  },
+  {
+    "prompt": "Qaanaamut arpanngilasi",
+    "prompt_betydning": "I løber ikke til Qaanaaq",
+    "lyd": "397.mp3"
+  },
+  {
+    "prompt": "Qaqortumi oqaluussinngilasi",
+    "prompt_betydning": "I forkynder ikke i Qaqortoq",
+    "lyd": "398.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi qasuvutit",
+    "prompt_betydning": "Du er træt i Kangerlussuaq",
+    "lyd": "399.mp3"
+  },
+  {
+    "prompt": "Ernermut qanippugut",
+    "prompt_betydning": "Vi er tæt på sønnen",
+    "lyd": "400.mp3"
+  },
+  {
+    "prompt": "Sanasumut arpappisi?",
+    "prompt_betydning": "Løber I til håndværkeren?",
+    "lyd": "401.mp3"
+  },
+  {
+    "prompt": "Qaqortumi ajorpugut",
+    "prompt_betydning": "Vi har det dårligt i Qaqortoq",
+    "lyd": "402.mp3"
+  },
+  {
+    "prompt": "Angummiit ungasinngilasi",
+    "prompt_betydning": "I er ikke langt fra manden",
+    "lyd": "403.mp3"
+  },
+  {
+    "prompt": "Anaananut oqaluussivugut",
+    "prompt_betydning": "Vi forkynder for mødrene",
+    "lyd": "404.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit tikippusi",
+    "prompt_betydning": "I ankommer fra Tasiilaq",
+    "lyd": "405.mp3"
+  },
+  {
+    "prompt": "Qaqortumi oqaluussivit?",
+    "prompt_betydning": "Forkynder du i Qaqortoq?",
+    "lyd": "406.mp3"
+  },
+  {
+    "prompt": "Anaanamiit arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra moren",
+    "lyd": "407.mp3"
+  },
+  {
+    "prompt": "Paamiuni qasunngilatit?",
+    "prompt_betydning": "Er du ikke træt i Paamiut?",
+    "lyd": "408.mp3"
+  },
+  {
+    "prompt": "Panimmut qanippugut",
+    "prompt_betydning": "Vi er tæt på datteren",
+    "lyd": "409.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit arpappusi",
+    "prompt_betydning": "I løber fra Tasiilaq",
+    "lyd": "410.mp3"
+  },
+  {
+    "prompt": "Ernermut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke til sønnen",
+    "lyd": "411.mp3"
+  },
+  {
+    "prompt": "Maniitsumi oqaluussinngilanga",
+    "prompt_betydning": "Jeg forkynder ikke i Maniitsoq",
+    "lyd": "412.mp3"
+  },
+  {
+    "prompt": "Upernavimmi ajorpunga",
+    "prompt_betydning": "Jeg har det dårligt i Upernavik",
+    "lyd": "413.mp3"
+  },
+  {
+    "prompt": "Narsamiit ungasinngilatit",
+    "prompt_betydning": "Du er ikke langt fra Narsaq",
+    "lyd": "414.mp3"
+  },
+  {
+    "prompt": "Maniitsumi nerinngilanga",
+    "prompt_betydning": "Jeg spiser ikke i Maniitsoq",
+    "lyd": "415.mp3"
+  },
+  {
+    "prompt": "Sisimiuni nerinngilanga",
+    "prompt_betydning": "Jeg spiser ikke i Sisimiut",
+    "lyd": "416.mp3"
+  },
+  {
+    "prompt": "Qaqortumi qasunngilatit?",
+    "prompt_betydning": "Er du ikke træt i Qaqortoq?",
+    "lyd": "417.mp3"
+  },
+  {
+    "prompt": "Paamiuniit arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke fra Paamiut",
+    "lyd": "418.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit aallarpit?",
+    "prompt_betydning": "Rejser du fra Narsarsuaq?",
+    "lyd": "419.mp3"
+  },
+  {
+    "prompt": "Tuttuniit ungasippisi?",
+    "prompt_betydning": "Er I langt fra rensdyrene?",
+    "lyd": "420.mp3"
+  },
+  {
+    "prompt": "Upernavimmut arpapputit",
+    "prompt_betydning": "Du løber til Upernavik",
+    "lyd": "421.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit aallarpisi?",
+    "prompt_betydning": "Rejser I fra Pituffik?",
+    "lyd": "422.mp3"
+  },
+  {
+    "prompt": "Pituffimmut qaninngilatit?",
+    "prompt_betydning": "Du er ikke tæt på Pituffik",
+    "lyd": "423.mp3"
+  },
+  {
+    "prompt": "Tuttunut qaninngilasi",
+    "prompt_betydning": "I er ikke tæt på rensdyrene",
+    "lyd": "424.mp3"
+  },
+  {
+    "prompt": "Tasiilami qasuvugut",
+    "prompt_betydning": "Vi er trætte i Tasiilaq",
+    "lyd": "425.mp3"
+  },
+  {
+    "prompt": "Arnamut oqaluussinngilasi?",
+    "prompt_betydning": "Forkynder I ikke for kvinden?",
+    "lyd": "426.mp3"
+  },
+  {
+    "prompt": "Nuummut qaninngilanga",
+    "prompt_betydning": "Jeg er ikke tæt på Nuuk",
+    "lyd": "427.mp3"
+  },
+  {
+    "prompt": "Paninnut arpanngilasi",
+    "prompt_betydning": "I løber ikke til døtrene",
+    "lyd": "428.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit tikinngilasi",
+    "prompt_betydning": "I ankommer ikke fra Sisimiut",
+    "lyd": "429.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi oqaluussivugut",
+    "prompt_betydning": "Vi forkynder i Kangerlussuaq",
+    "lyd": "430.mp3"
+  },
+  {
+    "prompt": "Sisimiuni najugaqarpusi",
+    "prompt_betydning": "I bor i Sisimiut",
+    "lyd": "431.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit tikinngilatit?",
+    "prompt_betydning": "Ankommer du ikke fra Narsarsuaq?",
+    "lyd": "432.mp3"
+  },
+  {
+    "prompt": "Ataatamiit ungasinngilasi",
+    "prompt_betydning": "I er ikke langt fra faren",
+    "lyd": "433.mp3"
+  },
+  {
+    "prompt": "Aviaajamut oqaluussinngilasi",
+    "prompt_betydning": "I forkynder ikke for Aviaaja",
+    "lyd": "434.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi qasunngilanga",
+    "prompt_betydning": "Jeg er ikke træt i Kangerlussuaq",
+    "lyd": "435.mp3"
+  },
+  {
+    "prompt": "Maniitsumut arpanngilatit",
+    "prompt_betydning": "Du løber ikke til Maniitsoq",
+    "lyd": "436.mp3"
+  },
+  {
+    "prompt": "Tuttuniit ungasippugut",
+    "prompt_betydning": "Vi er langt fra rensdyrene",
+    "lyd": "437.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit aallarpusi",
+    "prompt_betydning": "I rejser fra Narsarsuaq",
+    "lyd": "438.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit ungasipputit",
+    "prompt_betydning": "Du er langt fra Arnannguaq",
+    "lyd": "439.mp3"
+  },
+  {
+    "prompt": "Sisimiuni ajorpunga",
+    "prompt_betydning": "Jeg har det dårligt i Sisimiut",
+    "lyd": "440.mp3"
+  },
+  {
+    "prompt": "Qatanngutinut arpapputit",
+    "prompt_betydning": "Du løber til sønnerne",
+    "lyd": "441.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit aallanngilatit?",
+    "prompt_betydning": "Rejser du ikke fra Kangerlussuaq?",
+    "lyd": "442.mp3"
+  },
+  {
+    "prompt": "Qatanngummiit arpappit?",
+    "prompt_betydning": "Løber du fra broren/søsteren?",
+    "lyd": "443.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasumut qanippunga",
+    "prompt_betydning": "Jeg er tæt på vidnet",
+    "lyd": "444.mp3"
+  },
+  {
+    "prompt": "Aputsiamut oqaluussivisi?",
+    "prompt_betydning": "Forkynder I for Aputsiaq?",
+    "lyd": "445.mp3"
+  },
+  {
+    "prompt": "Tuttumut qaninngilasi?",
+    "prompt_betydning": "I er ikke tæt på rensdyret",
+    "lyd": "446.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasunut arpanngilasi?",
+    "prompt_betydning": "Løber I ikke til vidnerne?",
+    "lyd": "447.mp3"
+  },
+  {
+    "prompt": "Upernavimmut qaninngilasi",
+    "prompt_betydning": "I er ikke tæt på Upernavik",
+    "lyd": "448.mp3"
+  },
+  {
+    "prompt": "Qaqortumi atuanngilatit?",
+    "prompt_betydning": "Læser du ikke i Qaqortoq?",
+    "lyd": "449.mp3"
+  },
+  {
+    "prompt": "Upernavimmi najugaqanngilatit",
+    "prompt_betydning": "Du bor ikke i Upernavik",
+    "lyd": "450.mp3"
+  },
+  {
+    "prompt": "Arnamiit ungasippugut",
+    "prompt_betydning": "Vi er langt fra kvinden",
+    "lyd": "451.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasunut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke til vidnerne",
+    "lyd": "452.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit ungasippunga",
+    "prompt_betydning": "Jeg er langt fra Arnannguaq",
+    "lyd": "453.mp3"
+  },
+  {
+    "prompt": "Paninnut oqaluussinngilatit",
+    "prompt_betydning": "Du forkynder ikke for døtrene",
+    "lyd": "454.mp3"
+  },
+  {
+    "prompt": "Pituffimmut tikinngilasi?",
+    "prompt_betydning": "Ankommer I ikke til Pituffik?",
+    "lyd": "455.mp3"
+  },
+  {
+    "prompt": "Narsamiit tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Narsaq",
+    "lyd": "456.mp3"
+  },
+  {
+    "prompt": "Ataatamiit arpapputit",
+    "prompt_betydning": "Du løber fra faren",
+    "lyd": "457.mp3"
+  },
+  {
+    "prompt": "Angutinut qaninngilagut",
+    "prompt_betydning": "Vi er ikke tæt på mændene",
+    "lyd": "458.mp3"
+  },
+  {
+    "prompt": "Sisimiuni ajunngilasi",
+    "prompt_betydning": "I har det godt i Sisimiut",
+    "lyd": "459.mp3"
+  },
+  {
+    "prompt": "Aasianniit ungasippunga",
+    "prompt_betydning": "Jeg er langt fra Aasiaat",
+    "lyd": "460.mp3"
+  },
+  {
+    "prompt": "Nuummi qasuvunga",
+    "prompt_betydning": "Jeg er træt i Nuuk",
+    "lyd": "461.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi arpanngilasi",
+    "prompt_betydning": "I løber ikke i Kangerlussuaq",
+    "lyd": "462.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit aallarpusi",
+    "prompt_betydning": "I rejser fra Kangerlussuaq",
+    "lyd": "463.mp3"
+  },
+  {
+    "prompt": "Pituffimmi oqaluussivit?",
+    "prompt_betydning": "Forkynder du i Pituffik?",
+    "lyd": "464.mp3"
+  },
+  {
+    "prompt": "Upernavimmi ajunngilasi",
+    "prompt_betydning": "I har det godt i Upernavik",
+    "lyd": "465.mp3"
+  },
+  {
+    "prompt": "Anaananiit ungasippusi",
+    "prompt_betydning": "I er langt fra mødrene",
+    "lyd": "466.mp3"
+  },
+  {
+    "prompt": "Sanasumut oqaluussivunga",
+    "prompt_betydning": "Jeg forkynder for håndværkeren",
+    "lyd": "467.mp3"
+  },
+  {
+    "prompt": "Arnanut oqaluussinngilasi",
+    "prompt_betydning": "I forkynder ikke for kvinderne",
+    "lyd": "468.mp3"
+  },
+  {
+    "prompt": "Ataatamiit arpanngilasi",
+    "prompt_betydning": "I løber ikke fra faren",
+    "lyd": "469.mp3"
+  },
+  {
+    "prompt": "Nerrivinniit ungasinngilasi?",
+    "prompt_betydning": "Er I ikke tæt på bordet?",
+    "lyd": "470.mp3"
+  },
+  {
+    "prompt": "Pituffimmi arpanngilasi",
+    "prompt_betydning": "I løber ikke i Pituffik",
+    "lyd": "471.mp3"
+  },
+  {
+    "prompt": "Tasiilamut tikippisi?",
+    "prompt_betydning": "Ankommer I til Tasiilaq?",
+    "lyd": "472.mp3"
+  },
+  {
+    "prompt": "Maniitsumut aallarpunga",
+    "prompt_betydning": "Jeg rejser til Maniitsoq",
+    "lyd": "473.mp3"
+  },
+  {
+    "prompt": "Sisimiuni nerivisi?",
+    "prompt_betydning": "Spiser I i Sisimiut?",
+    "lyd": "474.mp3"
+  },
+  {
+    "prompt": "Pituffimmi qasunngilatit?",
+    "prompt_betydning": "Er du ikke træt i Pituffik?",
+    "lyd": "475.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit tikinngilasi?",
+    "prompt_betydning": "Ankommer I ikke fra Pituffik?",
+    "lyd": "476.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi oqaluussinngilatit",
+    "prompt_betydning": "Du forkynder ikke i Nanortalik",
+    "lyd": "477.mp3"
+  },
+  {
+    "prompt": "Panimmiit ungasippit?",
+    "prompt_betydning": "Er du langt fra datteren?",
+    "lyd": "478.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi arpanngilasi",
+    "prompt_betydning": "I løber ikke i Narsarsuaq",
+    "lyd": "479.mp3"
+  },
+  {
+    "prompt": "Aasiannut qaninngilasi",
+    "prompt_betydning": "I er ikke tæt på Aasiaat",
+    "lyd": "480.mp3"
+  },
+  {
+    "prompt": "Narsamiit Upernavimmut aallanngilatit",
+    "prompt_betydning": "Du rejser ikke fra Narsaq til Upernavik",
+    "lyd": "481.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Pituffimmut aallarputit",
+    "prompt_betydning": "Du rejser fra Qaanaaq til Pituffik",
+    "lyd": "482.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Maniitsumut tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Uummannaq til Maniitsoq",
+    "lyd": "483.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit Qaqortumut aallanngilatit",
+    "prompt_betydning": "Du rejser ikke fra Sisimiut til Qaqortoq",
+    "lyd": "484.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Aasiannut tikippisi?",
+    "prompt_betydning": "Ankommer I fra Tasiilaq til Aasiaat?",
+    "lyd": "485.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Kangerlussuarmut tikinngilatit",
+    "prompt_betydning": "Du ankommer ikke fra Tasiilaq til Kangerlussuaq",
+    "lyd": "486.mp3"
+  },
+  {
+    "prompt": "Narsamiit Narsarsuarmut tikinngilasi?",
+    "prompt_betydning": "Ankommer I ikke fra Narsaq til Narsarsuaq?",
+    "lyd": "487.mp3"
+  },
+  {
+    "prompt": "Aasianniit Narsamut tikinngilagut",
+    "prompt_betydning": "Vi ankommer ikke fra Aasiaat til Narsaq",
+    "lyd": "488.mp3"
+  },
+  {
+    "prompt": "Paninniit ataatamut arpappunga",
+    "prompt_betydning": "Jeg løber fra sønnerne til faren",
+    "lyd": "489.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Kangerlussuarmut arpanngilasi?",
+    "prompt_betydning": "Løber I ikke fra Tasiilaq til Kangerlussuaq?",
+    "lyd": "490.mp3"
+  },
+  {
+    "prompt": "Paninniit ataatamut arpappugut",
+    "prompt_betydning": "Vi løber fra sønnerne til faren",
+    "lyd": "491.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Kangerlussuarmut aallarpunga",
+    "prompt_betydning": "Jeg rejser fra Uummannaq til Kangerlussuaq",
+    "lyd": "492.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit Qaqortumut arpapputit",
+    "prompt_betydning": "Du løber fra Sisimiut til Qaqortoq",
+    "lyd": "493.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit Aasiannut arpappit?",
+    "prompt_betydning": "Løber du fra Pituffik til Aasiaat?",
+    "lyd": "494.mp3"
+  },
+  {
+    "prompt": "Aputsiamiit Malimmut arpappit?",
+    "prompt_betydning": "Løber du fra Aputsiaq til Malik?",
+    "lyd": "495.mp3"
+  },
+  {
+    "prompt": "Ataataniit ernernut arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra faren til sønnerne?",
+    "lyd": "496.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit Nukamut arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke fra Arnannguaq til Nuka",
+    "lyd": "497.mp3"
+  },
+  {
+    "prompt": "Narsamiit Nuummut tikippugut",
+    "prompt_betydning": "Vi ankommer fra Narsaq til Nuuk",
+    "lyd": "498.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit Paamiunut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Upernavik til Paamiut",
+    "lyd": "499.mp3"
+  },
+  {
+    "prompt": "Panimmiit ataatamut arpappit?",
+    "prompt_betydning": "Løber du fra datteren til faren?",
+    "lyd": "500.mp3"
+  },
+  {
+    "prompt": "Nuummiit Upernavimmut arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra Nuuk til Upernavik?",
+    "lyd": "501.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Nanortalimmut tikinngilasi",
+    "prompt_betydning": "I ankommer ikke fra Narsarsuaq til Nanortalik",
+    "lyd": "502.mp3"
+  },
+  {
+    "prompt": "Aasianniit Tasiilamut arpappugut",
+    "prompt_betydning": "Vi løber fra Aasiaat til Tasiilaq",
+    "lyd": "503.mp3"
+  },
+  {
+    "prompt": "Aasianniit Kangerlussuarmut arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra Aasiaat til Kangerlussuaq?",
+    "lyd": "504.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit Kangerlussuarmut arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke fra Sisimiut til Kangerlussuaq",
+    "lyd": "505.mp3"
+  },
+  {
+    "prompt": "Aputsiamiit Malimmut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra Aputsiaq til Malik",
+    "lyd": "506.mp3"
+  },
+  {
+    "prompt": "Maniitsumiit Paamiunut arpappisi?",
+    "prompt_betydning": "Løber I fra Maniitsoq til Paamiut?",
+    "lyd": "507.mp3"
+  },
+  {
+    "prompt": "Nuummiit Qaqortumut arpappusi",
+    "prompt_betydning": "I løber fra Nuuk til Qaqortoq",
+    "lyd": "508.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Nanortalimmut aallarputit",
+    "prompt_betydning": "Du rejser fra Uummannaq til Nanortalik",
+    "lyd": "509.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit Maniitsumut aallanngilatit?",
+    "prompt_betydning": "Rejser du ikke fra Sisimiut til Maniitsoq?",
+    "lyd": "510.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Nanortalimmut tikippugut",
+    "prompt_betydning": "Vi ankommer fra Narsarsuaq til Nanortalik",
+    "lyd": "511.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Maniitsumut arpappugut",
+    "prompt_betydning": "Vi løber fra Kangerlussuaq til Maniitsoq",
+    "lyd": "512.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Paamiunut arpanngilasi?",
+    "prompt_betydning": "Løber I ikke fra Uummannaq til Paamiut?",
+    "lyd": "513.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Qaqortumut arpappunga",
+    "prompt_betydning": "Jeg løber fra Nanortalik til Qaqortoq",
+    "lyd": "514.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Tasiilamut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Qaqortoq til Tasiilaq",
+    "lyd": "515.mp3"
+  },
+  {
+    "prompt": "Paninniit ernernut arpappugut",
+    "prompt_betydning": "Vi løber fra sønnerne til sønnerne",
+    "lyd": "516.mp3"
+  },
+  {
+    "prompt": "Narsamiit Paamiunut aallanngilasi?",
+    "prompt_betydning": "Rejser I ikke fra Narsaq til Paamiut?",
+    "lyd": "517.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Uummannamut arpappunga",
+    "prompt_betydning": "Jeg løber fra Nanortalik til Uummannaq",
+    "lyd": "518.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit Nuummut aallanngilagut",
+    "prompt_betydning": "Vi rejser ikke fra Pituffik til Nuuk",
+    "lyd": "519.mp3"
+  },
+  {
+    "prompt": "Nuummiit Tasiilamut aallarputit",
+    "prompt_betydning": "Du rejser fra Nuuk til Tasiilaq",
+    "lyd": "520.mp3"
+  },
+  {
+    "prompt": "Ernermiit ataatanut arpappit?",
+    "prompt_betydning": "Løber du fra sønnen til faren?",
+    "lyd": "521.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Aasiannut arpanngilasi",
+    "prompt_betydning": "I løber ikke fra Uummannaq til Aasiaat",
+    "lyd": "522.mp3"
+  },
+  {
+    "prompt": "Ataataniit qatanngutinut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra faren til brødrene/søstrene",
+    "lyd": "523.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Upernavimmut arpapputit",
+    "prompt_betydning": "Du løber fra Kangerlussuaq til Upernavik",
+    "lyd": "524.mp3"
+  },
+  {
+    "prompt": "Anaananiit ernernut arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke fra moren til sønnerne",
+    "lyd": "525.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit Tasiilamut tikinngilatit?",
+    "prompt_betydning": "Ankommer du ikke fra Upernavik til Tasiilaq?",
+    "lyd": "526.mp3"
+  },
+  {
+    "prompt": "Aviaajamiit Nukamut arpapputit",
+    "prompt_betydning": "Du løber fra Aviaaja til Nuka",
+    "lyd": "527.mp3"
+  },
+  {
+    "prompt": "Aasianniit Tasiilamut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra Aasiaat til Tasiilaq",
+    "lyd": "528.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Qaanaamut aallarpunga",
+    "prompt_betydning": "Jeg rejser fra Narsarsuaq til Qaanaaq",
+    "lyd": "529.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Paamiunut arpappugut",
+    "prompt_betydning": "Vi løber fra Qaanaaq til Paamiut",
+    "lyd": "530.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Maniitsumut tikipputit",
+    "prompt_betydning": "Du ankommer fra Qaanaaq til Maniitsoq",
+    "lyd": "531.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Qaanaamut aallanngilasi",
+    "prompt_betydning": "I rejser ikke fra Narsarsuaq til Qaanaaq",
+    "lyd": "532.mp3"
+  },
+  {
+    "prompt": "Qatanngutiniit ataatanut arpanngilanga",
+    "prompt_betydning": "Jeg løber ikke fra brødrene/søstrene til faren",
+    "lyd": "533.mp3"
+  },
+  {
+    "prompt": "Narsamiit Maniitsumut tikinngilagut",
+    "prompt_betydning": "Vi ankommer ikke fra Narsaq til Maniitsoq",
+    "lyd": "534.mp3"
+  },
+  {
+    "prompt": "Malimmiit Nukamut arpappusi",
+    "prompt_betydning": "I løber fra Malik til Nuka",
+    "lyd": "535.mp3"
+  },
+  {
+    "prompt": "Anaananiit ernernut arpapputit",
+    "prompt_betydning": "Du løber fra moren til sønnerne",
+    "lyd": "536.mp3"
+  },
+  {
+    "prompt": "Nuummiit Qaqortumut arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra Nuuk til Qaqortoq?",
+    "lyd": "537.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Upernavimmut tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Tasiilaq til Upernavik",
+    "lyd": "538.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Aasiannut tikinngilasi",
+    "prompt_betydning": "I ankommer ikke fra Qaanaaq til Aasiaat",
+    "lyd": "539.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit Narsarsuarmut aallarpugut",
+    "prompt_betydning": "Vi rejser fra Upernavik til Narsarsuaq",
+    "lyd": "540.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit Narsamut arpappusi",
+    "prompt_betydning": "I løber fra Upernavik til Narsaq",
+    "lyd": "541.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Nuummut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Qaqortoq til Nuuk",
+    "lyd": "542.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Qaqortumut aallarpugut",
+    "prompt_betydning": "Vi rejser fra Kangerlussuaq til Qaqortoq",
+    "lyd": "543.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Narsarsuarmut arpappisi?",
+    "prompt_betydning": "Løber I fra Qaanaaq til Narsarsuaq?",
+    "lyd": "544.mp3"
+  },
+  {
+    "prompt": "Aasianniit Qaanaamut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke fra Aasiaat til Qaanaaq",
+    "lyd": "545.mp3"
+  },
+  {
+    "prompt": "Aasianniit Maniitsumut tikippugut",
+    "prompt_betydning": "Vi ankommer fra Aasiaat til Maniitsoq",
+    "lyd": "546.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Sisimiunut arpappit?",
+    "prompt_betydning": "Løber du fra Qaqortoq til Sisimiut?",
+    "lyd": "547.mp3"
+  },
+  {
+    "prompt": "Maniitsumiit Narsarsuarmut aallanngilasi?",
+    "prompt_betydning": "Rejser I ikke fra Maniitsoq til Narsarsuaq?",
+    "lyd": "548.mp3"
+  },
+  {
+    "prompt": "Aasianniit Sisimiunut tikippugut",
+    "prompt_betydning": "Vi ankommer fra Aasiaat til Sisimiut",
+    "lyd": "549.mp3"
+  },
+  {
+    "prompt": "Paamiuniit Narsamut arpanngilatit?",
+    "prompt_betydning": "Løber du ikke fra Paamiut til Narsaq?",
+    "lyd": "550.mp3"
+  },
+  {
+    "prompt": "Qatanngummiit ernermut arpappugut",
+    "prompt_betydning": "Vi løber fra broren/søsteren til sønnen",
+    "lyd": "551.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Narsarsuarmut aallarpugut",
+    "prompt_betydning": "Vi rejser fra Qaanaaq til Narsarsuaq",
+    "lyd": "552.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Narsamut tikipputit",
+    "prompt_betydning": "Du ankommer fra Kangerlussuaq til Narsaq",
+    "lyd": "553.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit Aputsiamut arpappugut",
+    "prompt_betydning": "Vi løber fra Arnannguaq til Aputsiaq",
+    "lyd": "554.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Tasiilamut arpappugut",
+    "prompt_betydning": "Vi løber fra Kangerlussuaq til Tasiilaq",
+    "lyd": "555.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Upernavimmut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke fra Qaqortoq til Upernavik",
+    "lyd": "556.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Kangerlussuarmut tikippisi?",
+    "prompt_betydning": "Ankommer I fra Tasiilaq til Kangerlussuaq?",
+    "lyd": "557.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Sisimiunut tikipputit",
+    "prompt_betydning": "Du ankommer fra Qaanaaq til Sisimiut",
+    "lyd": "558.mp3"
+  },
+  {
+    "prompt": "Narsamiit Upernavimmut arpappunga",
+    "prompt_betydning": "Jeg løber fra Narsaq til Upernavik",
+    "lyd": "559.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Nuummut aallarputit",
+    "prompt_betydning": "Du rejser fra Qaanaaq til Nuuk",
+    "lyd": "560.mp3"
+  },
+  {
+    "prompt": "Aasianniit Kangerlussuarmut aallanngilatit",
+    "prompt_betydning": "Du rejser ikke fra Aasiaat til Kangerlussuaq",
+    "lyd": "561.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Qaanaamut arpapputit",
+    "prompt_betydning": "Du løber fra Uummannaq til Qaanaaq",
+    "lyd": "562.mp3"
+  },
+  {
+    "prompt": "Malimmiit Arnannguamut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra Malik til Arnannguaq",
+    "lyd": "563.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Tasiilamut arpapputit",
+    "prompt_betydning": "Du løber fra Uummannaq til Tasiilaq",
+    "lyd": "564.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Tasiilamut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke fra Qaqortoq til Tasiilaq",
+    "lyd": "565.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Maniitsumut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Uummannaq til Maniitsoq",
+    "lyd": "566.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Nanortalimmut tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Narsarsuaq til Nanortalik",
+    "lyd": "567.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit Upernavimmut tikinngilatit?",
+    "prompt_betydning": "Ankommer du ikke fra Qaanaaq til Upernavik?",
+    "lyd": "568.mp3"
+  },
+  {
+    "prompt": "Nuummiit Tasiilamut aallanngilasi?",
+    "prompt_betydning": "Rejser I ikke fra Nuuk til Tasiilaq?",
+    "lyd": "569.mp3"
+  },
+  {
+    "prompt": "Uummannamiit Paamiunut arpappit?",
+    "prompt_betydning": "Løber du fra Uummannaq til Paamiut?",
+    "lyd": "570.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit Maniitsumut aallanngilagut",
+    "prompt_betydning": "Vi rejser ikke fra Sisimiut til Maniitsoq",
+    "lyd": "571.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Qaqortumut tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Nanortalik til Qaqortoq",
+    "lyd": "572.mp3"
+  },
+  {
+    "prompt": "Nuummiit Kangerlussuarmut tikippisi?",
+    "prompt_betydning": "Ankommer I fra Nuuk til Kangerlussuaq?",
+    "lyd": "573.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit Maniitsumut aallanngilatit?",
+    "prompt_betydning": "Rejser du ikke fra Pituffik til Maniitsoq?",
+    "lyd": "574.mp3"
+  },
+  {
+    "prompt": "Ernermiit ataatamut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra sønnen til faren",
+    "lyd": "575.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Tasiilamut arpanngilasi?",
+    "prompt_betydning": "Løber I ikke fra Nanortalik til Tasiilaq?",
+    "lyd": "576.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit Nanortalimmut arpappunga",
+    "prompt_betydning": "Jeg løber fra Upernavik til Nanortalik",
+    "lyd": "577.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Narsarsuarmut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Qaqortoq til Narsarsuaq",
+    "lyd": "578.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Narsarsuarmut aallarpisi?",
+    "prompt_betydning": "Rejser I fra Kangerlussuaq til Narsarsuaq?",
+    "lyd": "579.mp3"
+  },
+  {
+    "prompt": "Ataataniit paninnut arpappugut",
+    "prompt_betydning": "Vi løber fra faren til døtrene",
+    "lyd": "580.mp3"
+  },
+  {
+    "prompt": "Ataatamiit ernermut arpapputit",
+    "prompt_betydning": "Du løber fra faren til sønnen",
+    "lyd": "581.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit Pituffimmut tikippusi",
+    "prompt_betydning": "I ankommer fra Qaqortoq til Pituffik",
+    "lyd": "582.mp3"
+  },
+  {
+    "prompt": "Arnannguamiit Nukamut arpanngilasi",
+    "prompt_betydning": "I løber ikke fra Arnannguaq til Nuka",
+    "lyd": "583.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Qaqortumut tikinngilasi?",
+    "prompt_betydning": "Ankommer I ikke fra Tasiilaq til Qaqortoq?",
+    "lyd": "584.mp3"
+  },
+  {
+    "prompt": "Qatanngutiniit panimmut arpappusi",
+    "prompt_betydning": "I løber fra brødrene/søstrene til datteren",
+    "lyd": "585.mp3"
+  },
+  {
+    "prompt": "Nuummiit Narsamut tikippunga",
+    "prompt_betydning": "Jeg ankommer fra Nuuk til Narsaq",
+    "lyd": "586.mp3"
+  },
+  {
+    "prompt": "Qatanngummiit ataatanut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke fra broren/søsteren til faren",
+    "lyd": "587.mp3"
+  },
+  {
+    "prompt": "Aputsiamiit Nukamut arpappit?",
+    "prompt_betydning": "Løber du fra Aputsiaq til Nuka?",
+    "lyd": "588.mp3"
+  },
+  {
+    "prompt": "Ernerniit qatanngummut arpappisi?",
+    "prompt_betydning": "Løber I fra sønnerne til broren/søsteren?",
+    "lyd": "589.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Narsarsuarmut tikinngilatit?",
+    "prompt_betydning": "Ankommer du ikke fra Nanortalik til Narsarsuaq?",
+    "lyd": "590.mp3"
+  },
+  {
+    "prompt": "Aasianniit Pituffimmut tikinngilanga",
+    "prompt_betydning": "Jeg ankommer ikke fra Aasiaat til Pituffik",
+    "lyd": "591.mp3"
+  },
+  {
+    "prompt": "Ataataniit qatanngummut arpappit?",
+    "prompt_betydning": "Løber du fra faren til broren/søsteren?",
+    "lyd": "592.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit Paamiunut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra Tasiilaq til Paamiut",
+    "lyd": "593.mp3"
+  },
+  {
+    "prompt": "Ernerniit anaananut arpappugut",
+    "prompt_betydning": "Vi løber fra sønnerne til mødrene",
+    "lyd": "594.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit Paamiunut tikippusi",
+    "prompt_betydning": "I ankommer fra Nanortalik til Paamiut",
+    "lyd": "595.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmiit Sisimiunut arpanngilagut",
+    "prompt_betydning": "Vi løber ikke fra Narsarsuaq til Sisimiut",
+    "lyd": "596.mp3"
+  },
+  {
+    "prompt": "Nuummiit Pituffimmut arpappugut",
+    "prompt_betydning": "Vi løber fra Nuuk til Pituffik",
+    "lyd": "597.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit Narsamut aallanngilagut",
+    "prompt_betydning": "Vi rejser ikke fra Kangerlussuaq til Narsaq",
+    "lyd": "598.mp3"
+  },
+  {
+    "prompt": "Anaanamiit qatanngutinut arpanngilatit",
+    "prompt_betydning": "Du løber ikke fra moren til brødrene/søstrene",
+    "lyd": "599.mp3"
+  },
+  {
+    "prompt": "Narsamiit Aasiannut aallanngilanga",
+    "prompt_betydning": "Jeg rejser ikke fra Narsaq til Aasiaat",
+    "lyd": "600.mp3"
+  },
+  {
+    "prompt": "Nuummiit tikittoq tikinngila?",
+    "prompt_betydning": "Er han der er ankommet til Nuuk, ikke ankommet?",
+    "lyd": "601.mp3"
+  },
+  {
+    "prompt": "Upernavimmut aallartut ajunngillat",
+    "prompt_betydning": "Dem der rejser til Upernavik, har det godt",
+    "lyd": "602.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit arpattut atuarput",
+    "prompt_betydning": "Dem der løber fra Upernavik, læser",
+    "lyd": "603.mp3"
+  },
+  {
+    "prompt": "Narsami nerisoq oqaluussinngilaq",
+    "prompt_betydning": "Han der spiser i Narsaq, forkynder ikke",
+    "lyd": "604.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit ungasittut atuanngillat?",
+    "prompt_betydning": "Er dem der er langt fra Nanortalik, ikke studerende?",
+    "lyd": "605.mp3"
+  },
+  {
+    "prompt": "Nerrivimmut qanittoq qasunngilaq",
+    "prompt_betydning": "Han der er tæt på bordet, er ikke træt",
+    "lyd": "606.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit arpattut ajorput",
+    "prompt_betydning": "Dem der løber fra Pituffik, har det dårligt",
+    "lyd": "607.mp3"
+  },
+  {
+    "prompt": "Ernermut qanittoq ajorpoq",
+    "prompt_betydning": "Han der er tæt på sønnen, har det dårligt",
+    "lyd": "608.mp3"
+  },
+  {
+    "prompt": "Tasiilamut arpattoq arpappoq",
+    "prompt_betydning": "Han der løber til Tasiilaq, løber",
+    "lyd": "609.mp3"
+  },
+  {
+    "prompt": "Aasianni nerisut oqaluussinngillat",
+    "prompt_betydning": "Dem der spiser i Aasiaat, forkynder ikke",
+    "lyd": "610.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasunut oqaluussisut tikippat?",
+    "prompt_betydning": "Er de, der taler til vidnerne, ankommet?",
+    "lyd": "611.mp3"
+  },
+  {
+    "prompt": "Paamiuni nerisut arpappat?",
+    "prompt_betydning": "Løber de, der spiser i Paamiut?",
+    "lyd": "612.mp3"
+  },
+  {
+    "prompt": "Uummannami oqaluussisoq arpanngilaq",
+    "prompt_betydning": "Han der forkynder i Uummannaq, løber ikke",
+    "lyd": "613.mp3"
+  },
+  {
+    "prompt": "Aasianni atuartut qasunngillat?",
+    "prompt_betydning": "Er de, der læser i Aasiaat, ikke trætte?",
+    "lyd": "614.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi oqaluussisoq arpappa?",
+    "prompt_betydning": "Løber han der forkynder i Narsarsuaq?",
+    "lyd": "615.mp3"
+  },
+  {
+    "prompt": "Sisimiunut aallartoq nerivoq",
+    "prompt_betydning": "Han der rejser til Sisimiut, spiser",
+    "lyd": "616.mp3"
+  },
+  {
+    "prompt": "Sisimiuni qasusoq arpanngila?",
+    "prompt_betydning": "Er han der er træt i Sisimiut, ikke løbet?",
+    "lyd": "617.mp3"
+  },
+  {
+    "prompt": "Nuummi nerisut atuanngillat?",
+    "prompt_betydning": "Spiser de, der er i Nuuk, ikke?",
+    "lyd": "618.mp3"
+  },
+  {
+    "prompt": "Narsamiit ungasittoq tikinngila?",
+    "prompt_betydning": "Er han der er langt fra Narsaq, ikke ankommet?",
+    "lyd": "619.mp3"
+  },
+  {
+    "prompt": "Nuummiit ungasittoq ajunngila?",
+    "prompt_betydning": "Er han der er langt fra Nuuk, ikke okay?",
+    "lyd": "620.mp3"
+  },
+  {
+    "prompt": "Sanasunut oqaluussisut nerippat?",
+    "prompt_betydning": "Spiser de, der taler til håndværkerne?",
+    "lyd": "621.mp3"
+  },
+  {
+    "prompt": "Anaanamut qanittoq nerivoq",
+    "prompt_betydning": "Han der er tæt på moren, spiser",
+    "lyd": "622.mp3"
+  },
+  {
+    "prompt": "Nuummi ajortoq ajorpa?",
+    "prompt_betydning": "Er han der er i Nuuk dårlig?",
+    "lyd": "623.mp3"
+  },
+  {
+    "prompt": "Paninnut oqaluussisut ajunngillat?",
+    "prompt_betydning": "Har de, der taler til døtrene, det godt?",
+    "lyd": "624.mp3"
+  },
+  {
+    "prompt": "Tasiilamut arpattut aallanngillat",
+    "prompt_betydning": "Dem der løber til Tasiilaq, rejser ikke",
+    "lyd": "625.mp3"
+  },
+  {
+    "prompt": "Nuummi atuartut arpanngillat",
+    "prompt_betydning": "Dem der læser i Nuuk, løber ikke",
+    "lyd": "626.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit tikittut qasunngillat?",
+    "prompt_betydning": "Er de, der ankommer fra Sisimiut, ikke trætte?",
+    "lyd": "627.mp3"
+  },
+  {
+    "prompt": "Uummannami najugaqartoq arpappoq",
+    "prompt_betydning": "Han der bor i Uummannaq, løber",
+    "lyd": "628.mp3"
+  },
+  {
+    "prompt": "Uummannamiit tikittut atuanngillat?",
+    "prompt_betydning": "Læser de, der ankommer fra Uummannaq, ikke?",
+    "lyd": "629.mp3"
+  },
+  {
+    "prompt": "Sanasumut oqaluussisoq arpappa?",
+    "prompt_betydning": "Løber han der taler til håndværkeren?",
+    "lyd": "630.mp3"
+  },
+  {
+    "prompt": "Panimmiit ungasittut qasunngillat?",
+    "prompt_betydning": "Er de, der er langt fra datteren, ikke trætte?",
+    "lyd": "631.mp3"
+  },
+  {
+    "prompt": "Sanasumiit ungasittoq oqaluussivoq",
+    "prompt_betydning": "Han der er langt fra håndværkeren, forkynder",
+    "lyd": "632.mp3"
+  },
+  {
+    "prompt": "Aasianniit aallartoq nerinngilaq",
+    "prompt_betydning": "Han der rejser fra Aasiaat, spiser ikke",
+    "lyd": "633.mp3"
+  },
+  {
+    "prompt": "Umimmammut qanittut ajunngillat",
+    "prompt_betydning": "Dem der er tæt på moskusoksen, har det godt",
+    "lyd": "634.mp3"
+  },
+  {
+    "prompt": "Angummiit ungasittoq oqaluussiva?",
+    "prompt_betydning": "Forkynder han der er langt fra manHan?",
+    "lyd": "635.mp3"
+  },
+  {
+    "prompt": "Nuummi arpattoq aallarpoq",
+    "prompt_betydning": "Han der løber i Nuuk, rejser",
+    "lyd": "636.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit tikittut ajorput",
+    "prompt_betydning": "Dem der ankommer fra Kangerlussuaq, har det dårligt",
+    "lyd": "637.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit tikittoq oqaluussivoq",
+    "prompt_betydning": "Han der ankommer fra Sisimiut, forkynder",
+    "lyd": "638.mp3"
+  },
+  {
+    "prompt": "Sisimiuniit aallartoq atuarpoq",
+    "prompt_betydning": "Han der rejser fra Sisimiut, læser",
+    "lyd": "639.mp3"
+  },
+  {
+    "prompt": "Paamiuni atuartut tikippat?",
+    "prompt_betydning": "Ankommer de, der læser i Paamiut?",
+    "lyd": "640.mp3"
+  },
+  {
+    "prompt": "Umimmannut qanittut arpanngillat?",
+    "prompt_betydning": "Løber de, der er tæt på moskusoksen, ikke?",
+    "lyd": "641.mp3"
+  },
+  {
+    "prompt": "Qaqortumut arpattut aallanngillat?",
+    "prompt_betydning": "Rejser de, der løber til Qaqortoq, ikke?",
+    "lyd": "642.mp3"
+  },
+  {
+    "prompt": "Qaanaami arpattoq qasunngilaq",
+    "prompt_betydning": "Han der løber i Qaanaaq, er ikke træt",
+    "lyd": "643.mp3"
+  },
+  {
+    "prompt": "Nerrivinnut qanittoq qasuvoq",
+    "prompt_betydning": "Han der er tæt på bordene, er træt",
+    "lyd": "644.mp3"
+  },
+  {
+    "prompt": "Aasianni najugaqartoq qasua?",
+    "prompt_betydning": "Er han der bor i Aasiaat, træt?",
+    "lyd": "645.mp3"
+  },
+  {
+    "prompt": "Arnamut qanittut oqaluussippat?",
+    "prompt_betydning": "Forkynder de, der er tæt på kvinHan?",
+    "lyd": "646.mp3"
+  },
+  {
+    "prompt": "Aasianniit arpattut oqaluussippat?",
+    "prompt_betydning": "Forkynder de, der løber fra Aasiaat?",
+    "lyd": "647.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi atuartut nerippat?",
+    "prompt_betydning": "Spiser de, der læser i Nanortalik?",
+    "lyd": "648.mp3"
+  },
+  {
+    "prompt": "Aasiannut aallartoq ajorpa?",
+    "prompt_betydning": "Er han der rejser til Aasiaat dårlig?",
+    "lyd": "649.mp3"
+  },
+  {
+    "prompt": "Sisimiunut tikittut ajorpat?",
+    "prompt_betydning": "Er de, der ankommer til Sisimiut, dårlige?",
+    "lyd": "650.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasumut oqaluussisut oqaluussippat?",
+    "prompt_betydning": "Forkynder de, der forkynder for vidnerne?",
+    "lyd": "651.mp3"
+  },
+  {
+    "prompt": "Aviaajamut oqaluussisoq aallarpa?",
+    "prompt_betydning": "Rejser han, der forkynder for Aviaaja?",
+    "lyd": "652.mp3"
+  },
+  {
+    "prompt": "Asaasartunut oqaluussisut oqaluussinngillat?",
+    "prompt_betydning": "Forkynder de, der forkynder for håndværkerne, ikke?",
+    "lyd": "653.mp3"
+  },
+  {
+    "prompt": "Paninnut oqaluussisut arpanngillat",
+    "prompt_betydning": "De, der forkynder for døtrene, løber ikke",
+    "lyd": "654.mp3"
+  },
+  {
+    "prompt": "Paninnut arpattoq nerivoq",
+    "prompt_betydning": "Han, der løber til døtrene, spiser",
+    "lyd": "655.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmiit tikittut ajorpat?",
+    "prompt_betydning": "Er de, der ankommer fra Kangerlussuaq, dårlige?",
+    "lyd": "656.mp3"
+  },
+  {
+    "prompt": "Ernermut qanittut neripput",
+    "prompt_betydning": "De, der er tæt på sønnen, spiser",
+    "lyd": "657.mp3"
+  },
+  {
+    "prompt": "Sisimiunut qanittoq ajorpa?",
+    "prompt_betydning": "Er han, der er tæt på Sisimiut, dårlig?",
+    "lyd": "658.mp3"
+  },
+  {
+    "prompt": "Aviaajamiit arpattut qasuppat?",
+    "prompt_betydning": "Er de, der løber fra Aviaaja, trætte?",
+    "lyd": "659.mp3"
+  },
+  {
+    "prompt": "Malimmut arpattut nerippat?",
+    "prompt_betydning": "Spiser de, der løber til Malik?",
+    "lyd": "660.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmut tikittoq atuanngila?",
+    "prompt_betydning": "Læser han, der ankommer til Kangerlussuaq, ikke?",
+    "lyd": "661.mp3"
+  },
+  {
+    "prompt": "Nanortalimmiit ungasittut tikinngillat?",
+    "prompt_betydning": "Ankommer de, der er langt fra Nanortalik, ikke?",
+    "lyd": "662.mp3"
+  },
+  {
+    "prompt": "Ataatamut oqaluussisoq oqaluussiva?",
+    "prompt_betydning": "Forkynder han, der forkynder for faren?",
+    "lyd": "663.mp3"
+  },
+  {
+    "prompt": "Nukamiit ungasittoq aallarpa?",
+    "prompt_betydning": "Rejser han, der er langt fra Nuka?",
+    "lyd": "664.mp3"
+  },
+  {
+    "prompt": "Pituffimmiit ungasittoq qasua?",
+    "prompt_betydning": "Er han, der er langt fra Pituffik, træt?",
+    "lyd": "665.mp3"
+  },
+  {
+    "prompt": "Nuummut aallartoq atuanngilaq",
+    "prompt_betydning": "Han, der rejser til Nuuk, læser ikke",
+    "lyd": "666.mp3"
+  },
+  {
+    "prompt": "Nuummut aallartut atuanngillat?",
+    "prompt_betydning": "Læser de, der rejser til Nuuk, ikke?",
+    "lyd": "667.mp3"
+  },
+  {
+    "prompt": "Angutiniit ungasittut nerinngillat?",
+    "prompt_betydning": "Spiser de, der er langt fra mænHane, ikke?",
+    "lyd": "668.mp3"
+  },
+  {
+    "prompt": "Qaqortumiit arpattut oqaluussinngillat?",
+    "prompt_betydning": "De, der løber fra Qaqortoq, forkynder ikke",
+    "lyd": "669.mp3"
+  },
+  {
+    "prompt": "Angutinut oqaluussisut qasunngillat",
+    "prompt_betydning": "De, der forkynder for mænHane, er ikke trætte",
+    "lyd": "670.mp3"
+  },
+  {
+    "prompt": "Nukamut qanittut oqaluussinngillat",
+    "prompt_betydning": "De, der er tæt på Nuka, forkynder ikke",
+    "lyd": "671.mp3"
+  },
+  {
+    "prompt": "Aasianni najugaqartoq ajorpoq",
+    "prompt_betydning": "Han, der bor i Aasiaat, er dårlig",
+    "lyd": "672.mp3"
+  },
+  {
+    "prompt": "Nukamut qanittoq aallarpa?",
+    "prompt_betydning": "Rejser han, der er tæt på Nuka?",
+    "lyd": "673.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi arpattoq aallarpoq",
+    "prompt_betydning": "Han, der løber i Narsarsuaq, rejser",
+    "lyd": "674.mp3"
+  },
+  {
+    "prompt": "Narsami atuartut tikinngillat",
+    "prompt_betydning": "De, der studerer i Narsaq, ankommer ikke",
+    "lyd": "675.mp3"
+  },
+  {
+    "prompt": "Sisimiuni najugaqartut tikipput",
+    "prompt_betydning": "De, der bor i Sisimiut, er ankommet",
+    "lyd": "676.mp3"
+  },
+  {
+    "prompt": "Narsami arpattut qasunngillat?",
+    "prompt_betydning": "Er de, der løber i Narsaq, ikke trætte?",
+    "lyd": "677.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi nerisut aallanngillat?",
+    "prompt_betydning": "Rejser de, der spiser i Nanortalik, ikke?",
+    "lyd": "678.mp3"
+  },
+  {
+    "prompt": "Nuummi atuartoq qasua?",
+    "prompt_betydning": "Er han, der studerer i Nuuk, træt?",
+    "lyd": "679.mp3"
+  },
+  {
+    "prompt": "Tasiilami ajortut nerippat?",
+    "prompt_betydning": "Spiser de dårlige i Tasiilaq?",
+    "lyd": "680.mp3"
+  },
+  {
+    "prompt": "Issiavimmut qanittut tikippat?",
+    "prompt_betydning": "Ankommer de, der er tæt på stolen?",
+    "lyd": "681.mp3"
+  },
+  {
+    "prompt": "Paamiuni arpattoq arpappoq",
+    "prompt_betydning": "Han, der løber i Paamiut, løber",
+    "lyd": "682.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi ajortoq oqaluussivoq",
+    "prompt_betydning": "Han dårlige i Nanortalik forkynder",
+    "lyd": "683.mp3"
+  },
+  {
+    "prompt": "Qaanaamiit ungasittut ajorput",
+    "prompt_betydning": "De, der er langt fra Qaanaaq, er dårlige",
+    "lyd": "684.mp3"
+  },
+  {
+    "prompt": "Paamiunut arpattoq aallanngila?",
+    "prompt_betydning": "Rejser han, der løber til Paamiut, ikke?",
+    "lyd": "685.mp3"
+  },
+  {
+    "prompt": "Upernavimmi ajortut atuanngillat",
+    "prompt_betydning": "De dårlige i Upernavik læser ikke",
+    "lyd": "686.mp3"
+  },
+  {
+    "prompt": "Upernavimmiit aallartut neripput",
+    "prompt_betydning": "De, der rejser fra Upernavik, spiser",
+    "lyd": "687.mp3"
+  },
+  {
+    "prompt": "Qaanaamut arpattoq nerinngila?",
+    "prompt_betydning": "Spiser han, der løber til Qaanaaq, ikke?",
+    "lyd": "688.mp3"
+  },
+  {
+    "prompt": "Nerrivinnut qanittoq atuanngilaq",
+    "prompt_betydning": "Han, der er tæt på bordene, læser ikke",
+    "lyd": "689.mp3"
+  },
+  {
+    "prompt": "Anaanamut qanittoq tikinngilaq",
+    "prompt_betydning": "Han, der er tæt på moren, ankommer ikke",
+    "lyd": "690.mp3"
+  },
+  {
+    "prompt": "Angutinut oqaluussisut arpappat?",
+    "prompt_betydning": "Løber de, der forkynder for mænHane?",
+    "lyd": "691.mp3"
+  },
+  {
+    "prompt": "Angutinut qanittoq tikinngila?",
+    "prompt_betydning": "Ankommer han, der er tæt på mænHane, ikke?",
+    "lyd": "692.mp3"
+  },
+  {
+    "prompt": "Upernavimmi qasusoq qasunngilaq",
+    "prompt_betydning": "Han, der er træt i Upernavik, er ikke træt",
+    "lyd": "693.mp3"
+  },
+  {
+    "prompt": "Ataatanut arpattut aallarput",
+    "prompt_betydning": "De, der løber til faren, rejser",
+    "lyd": "694.mp3"
+  },
+  {
+    "prompt": "Tasiilami oqaluussisut ajorput",
+    "prompt_betydning": "De, der forkynder i Tasiilaq, er dårlige",
+    "lyd": "695.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi nerisut arpappat?",
+    "prompt_betydning": "Løber de, der spiser i Narsarsuaq?",
+    "lyd": "696.mp3"
+  },
+  {
+    "prompt": "Nanortalimmi ajortut nerinngillat?",
+    "prompt_betydning": "Spiser de dårlige i Nanortalik ikke?",
+    "lyd": "697.mp3"
+  },
+  {
+    "prompt": "Tasiilamiit arpattut arpappat?",
+    "prompt_betydning": "Løber de, der løber fra Tasiilaq?",
+    "lyd": "698.mp3"
+  },
+  {
+    "prompt": "Narsarsuarmi oqaluussisoq arpappoq",
+    "prompt_betydning": "Han, der forkynder i Narsarsuaq, løber",
+    "lyd": "699.mp3"
+  },
+  {
+    "prompt": "Nerrivinniit ungasittoq qasuvoq",
+    "prompt_betydning": "Han, der er langt fra bordene, er træt",
+    "lyd": "700.mp3"
+  }
+]

@@ -1,0 +1,24 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 150
+sortNumber: 5
+previewText: Mangler lyd - 15.5 - lyt, forstå og diktér
+onPageTitle: Øvelse 15.5 - lyt, forstå og diktér
+onPageDescription: Forstå det du hører og skriv det ned.
+linkText: Start øvelsen
+mode: filled
+loop: true
+randomize: true
+---
+
+{% for prompt in 15_5_diktat %}
+{% taskStep %}
+    <task-instruction data-number="1">Lyt og forstå sætningen</task-instruction>
+    <task-audio data-file="course/lesson-15/15_5/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Skriv den ned</task-instruction>
+    <spellcheck-input data-validation="{{prompt.prompt}}"></spellcheck-input>
+    <task-instruction data-number="3">Sig det højt</task-instruction>
+    <task-info>Det staves "{{prompt.prompt}}" og betyder "{{prompt.prompt_betydning}}".</b></task-info>
+{% endtaskStep %}
+{% endfor %}

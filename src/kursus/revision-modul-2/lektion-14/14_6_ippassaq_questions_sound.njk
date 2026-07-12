@@ -3,7 +3,7 @@ tags: homework
 layout: taskflow
 partOfLesson: 140
 sortNumber: 6
-previewText: Mangler lyd - 14.6 - ippassaq-spørgsmål (kun lyd)
+previewText: 14.6 - ippassaq-spørgsmål (kun lyd)
 onPageTitle: Øvelse 14.6 - ippassaq-spørgsmål (kun lyd)
 onPageDescription: Du bliver stillet nogle spørgsmål om hvad der er sket i går. Benægt dem og sig at det skete i dag.
 linkText: Start øvelsen
@@ -12,10 +12,10 @@ loop: true
 randomize: true
 ---
 
-{% for prompt in 14_4_5_ippassaq_questions %}
+{% for prompt in 14_5_6_ippassaq_questions %}
 {% taskStep %}
     <task-instruction data-number="1">Lyt og forstå spørgsmålet</task-instruction>
-    <task-audio data-file="course/lesson-14/14_5_6/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-audio data-file="course/lesson-14/14_5/{{prompt.lyd}}" enable-slow></task-audio>
     <task-instruction data-number="2">Skriv spørgsmålet ned</task-instruction>
     <spellcheck-input data-validation="{{prompt.prompt}}"></spellcheck-input>
     <task-instruction data-number="3">Gentag spørgsmålet højt</task-instruction>

@@ -1,0 +1,29 @@
+---
+tags: homework
+layout: taskflow
+partOfLesson: 150
+sortNumber: 4
+previewText: 15.4 - forstå negative spørgsmål
+onPageTitle: Øvelse 15.4 - forstå negative spørgsmål
+onPageDescription: Øv dig på at forstå den grønlandske tankegang ved at besvare spørgsmålene korrekt.
+linkText: Start øvelsen
+mode: correct
+loop: true
+randomize: true
+---
+
+{% for prompt in 15_4_understand_questions %}
+{% taskStep %}
+    <task-instruction data-number="1">Læs/lyt og forstå spørgsmålet</task-instruction>
+    <task-prompt>{{prompt.prompt}}</task-prompt>
+    <task-audio data-file="course/lesson-15/15_4/{{prompt.lyd}}" enable-slow></task-audio>
+    <task-instruction data-number="2">Gentag spørgsmålet højt</task-instruction>
+    <task-instruction data-number="3">Forestil dig at du har stillet det her spørgsmål. Svaret på det lyder:</task-instruction>
+    <task-prompt>Naamik.</task-prompt>
+    <task-instruction data-number="4">Du vil gerne sikre dig at du har forstået det korrekt, så du stiller et ekstra spørgsmål, hvor du bruger -nngit-. Start med "Tassa ...?" (= "Så ...?)</task-instruction>
+    <spellcheck-input data-validation="{{prompt.svar}}"></spellcheck-input>
+    <task-instruction data-number="5">Forstå spørgsmålet og sig det højt</task-instruction>
+    <task-instruction data-number="6">Hvad tror du er det rigtige svar på det spørgsmål? Aap, eller naamik?</task-instruction>
+    <task-info>Spørgsmålet "{{prompt.prompt}}" betyder "{{prompt.prompt_betydning}}". Det ekstra spørgsmål skal være "{{prompt.svar}}" som betyder "{{prompt.svar_betydning}}". Det korrekte svar på det sidste spørgsmål er "Aap." - selvom vi på dansk naturligt ville svare "Nej." Husk at på grønlandsk bekræfter eller benægter du en udtalelse. Du siger aap, hvis du er enig, og naamik hvis du er uenig.</b></task-info>
+{% endtaskStep %}
+{% endfor %}

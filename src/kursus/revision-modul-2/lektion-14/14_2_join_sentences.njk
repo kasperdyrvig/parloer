@@ -3,17 +3,19 @@ tags: homework
 layout: taskflow
 partOfLesson: 140
 sortNumber: 2
-previewText: Mangler lyd - 14.2 - sæt sætninger sammen
+previewText: 14.2 - sæt sætninger sammen
 onPageTitle: Øvelse 14.2 - sæt sætninger sammen
 onPageDescription: Sæt sætningerne sammen til én ved at bruge +Toq.
 linkText: Start øvelsen
 mode: filled
+loop: true
 randomize: true
 ---
 {% for prompt in 14_2_join_sentences %}
 {% taskStep %}
-    <task-instruction data-number="1">Læs og forstå sætningerne</task-instruction>
+    <task-instruction data-number="1">Læs/lyt og forstå sætningerne</task-instruction>
     <task-prompt>{{prompt.Prompt}}</task-prompt>
+    <task-audio data-file="course/lesson-14/14_2/{{prompt.Lyd}}" enable-slow></task-audio>
     <task-instruction data-number="2">Gentag sætningerne højt</task-instruction>
     <task-instruction data-number="3">Sæt sætningerne sammen ved at sætte +Toq på det første udsagnsord</task-instruction>
     <text-input data-validation="{{prompt.Svar}}"></text-input>

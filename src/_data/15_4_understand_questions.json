@@ -1,0 +1,642 @@
+[
+  {
+    "prompt": "Malik ajorpa?",
+    "prompt_betydning": "Har Malik det dårligt?",
+    "svar": "Tassa Malik ajunngila?",
+    "svar_betydning": "Så Malik er ikke okay?",
+    "verbum": "ajorpa?",
+    "lyd": "1.mp3"
+  },
+  {
+    "prompt": "Aviaaja ajorpa?",
+    "prompt_betydning": "Har Aviaaja det dårligt?",
+    "svar": "Tassa Aviaaja ajunngila?",
+    "svar_betydning": "Så Aviaaja er ikke okay?",
+    "verbum": "ajorpa?",
+    "lyd": "2.mp3"
+  },
+  {
+    "prompt": "Arnannguaq ajorpa?",
+    "prompt_betydning": "Har Arnannguaq det dårligt?",
+    "svar": "Tassa Arnannguaq ajunngila?",
+    "svar_betydning": "Så Arnannguaq er ikke okay?",
+    "verbum": "ajorpa?",
+    "lyd": "3.mp3"
+  },
+  {
+    "prompt": "Nuka ajorpa?",
+    "prompt_betydning": "Har Nuka det dårligt?",
+    "svar": "Tassa Nuka ajunngila?",
+    "svar_betydning": "Så Nuka er ikke okay?",
+    "verbum": "ajorpa?",
+    "lyd": "4.mp3"
+  },
+  {
+    "prompt": "Aputsiaq ajorpa?",
+    "prompt_betydning": "Har Aputsiaq det dårligt?",
+    "svar": "Tassa Aputsiaq ajunngila?",
+    "svar_betydning": "Så Aputsiaq er ikke okay?",
+    "verbum": "ajorpa?",
+    "lyd": "5.mp3"
+  },
+  {
+    "prompt": "Ajorpat?",
+    "prompt_betydning": "Har de det dårligt?",
+    "svar": "Tassa ajunngillat?",
+    "svar_betydning": "Så de er ikke okay?",
+    "verbum": "ajorpat?",
+    "lyd": "6.mp3"
+  },
+  {
+    "prompt": "Ajorpisi?",
+    "prompt_betydning": "Har I det dårligt?",
+    "svar": "Tassa ajunngilasi?",
+    "svar_betydning": "Så I er ikke okay?",
+    "verbum": "ajorpisi?",
+    "lyd": "7.mp3"
+  },
+  {
+    "prompt": "Ajorpit?",
+    "prompt_betydning": "Har du det dårligt?",
+    "svar": "Tassa ajunngilatit?",
+    "svar_betydning": "Så du er ikke okay?",
+    "verbum": "ajorpit?",
+    "lyd": "8.mp3"
+  },
+  {
+    "prompt": "Malik arpappa?",
+    "prompt_betydning": "Løber Malik?",
+    "svar": "Tassa Malik arpanngila?",
+    "svar_betydning": "Så Malik løber ikke?",
+    "verbum": "arpappa?",
+    "lyd": "9.mp3"
+  },
+  {
+    "prompt": "Arnannguaq arpappa?",
+    "prompt_betydning": "Løber Arnannguaq?",
+    "svar": "Tassa Arnannguaq arpanngila?",
+    "svar_betydning": "Så Arnannguaq løber ikke?",
+    "verbum": "arpappa?",
+    "lyd": "10.mp3"
+  },
+  {
+    "prompt": "Aputsiaq arpappa?",
+    "prompt_betydning": "Løber Aputsiaq?",
+    "svar": "Tassa Aputsiaq arpanngila?",
+    "svar_betydning": "Så Aputsiaq løber ikke?",
+    "verbum": "arpappa?",
+    "lyd": "11.mp3"
+  },
+  {
+    "prompt": "Aviaaja arpappa?",
+    "prompt_betydning": "Løber Aviaaja?",
+    "svar": "Tassa Aviaaja arpanngila?",
+    "svar_betydning": "Så Aviaaja løber ikke?",
+    "verbum": "arpappa?",
+    "lyd": "12.mp3"
+  },
+  {
+    "prompt": "Nuka arpappa?",
+    "prompt_betydning": "Løber Nuka?",
+    "svar": "Tassa Nuka arpanngila?",
+    "svar_betydning": "Så Nuka løber ikke?",
+    "verbum": "arpappa?",
+    "lyd": "13.mp3"
+  },
+  {
+    "prompt": "Arpappat?",
+    "prompt_betydning": "Løber de?",
+    "svar": "Tassa arpanngillat?",
+    "svar_betydning": "Så de løber ikke?",
+    "verbum": "arpappat?",
+    "lyd": "14.mp3"
+  },
+  {
+    "prompt": "Arpappisi?",
+    "prompt_betydning": "Løber I?",
+    "svar": "Tassa arpanngilasi?",
+    "svar_betydning": "Så I løber ikke?",
+    "verbum": "arpappisi?",
+    "lyd": "15.mp3"
+  },
+  {
+    "prompt": "Arpappit?",
+    "prompt_betydning": "Løber du?",
+    "svar": "Tassa arpanngilatit?",
+    "svar_betydning": "Så du løber ikke?",
+    "verbum": "arpappit?",
+    "lyd": "16.mp3"
+  },
+  {
+    "prompt": "Malik atuarpa?",
+    "prompt_betydning": "Læser Malik?",
+    "svar": "Tassa Malik atuanngila?",
+    "svar_betydning": "Så Malik læser ikke?",
+    "verbum": "atuarpa?",
+    "lyd": "17.mp3"
+  },
+  {
+    "prompt": "Aputsiaq atuarpa?",
+    "prompt_betydning": "Læser Aputsiaq?",
+    "svar": "Tassa Aputsiaq atuanngila?",
+    "svar_betydning": "Så Aputsiaq læser ikke?",
+    "verbum": "atuarpa?",
+    "lyd": "18.mp3"
+  },
+  {
+    "prompt": "Nuka atuarpa?",
+    "prompt_betydning": "Læser Nuka?",
+    "svar": "Tassa Nuka atuanngila?",
+    "svar_betydning": "Så Nuka læser ikke?",
+    "verbum": "atuarpa?",
+    "lyd": "19.mp3"
+  },
+  {
+    "prompt": "Aviaaja atuarpa?",
+    "prompt_betydning": "Læser Aviaaja?",
+    "svar": "Tassa Aviaaja atuanngila?",
+    "svar_betydning": "Så Aviaaja læser ikke?",
+    "verbum": "atuarpa?",
+    "lyd": "20.mp3"
+  },
+  {
+    "prompt": "Arnannguaq atuarpa?",
+    "prompt_betydning": "Læser Arnannguaq?",
+    "svar": "Tassa Arnannguaq atuanngila?",
+    "svar_betydning": "Så Arnannguaq læser ikke?",
+    "verbum": "atuarpa?",
+    "lyd": "21.mp3"
+  },
+  {
+    "prompt": "Atuarpat?",
+    "prompt_betydning": "Læser de?",
+    "svar": "Tassa atuanngillat?",
+    "svar_betydning": "Så de læser ikke?",
+    "verbum": "atuarpat?",
+    "lyd": "22.mp3"
+  },
+  {
+    "prompt": "Atuarpisi?",
+    "prompt_betydning": "Læser I?",
+    "svar": "Tassa atuanngilasi?",
+    "svar_betydning": "Så I læser ikke?",
+    "verbum": "atuarpisi?",
+    "lyd": "23.mp3"
+  },
+  {
+    "prompt": "Atuarpit?",
+    "prompt_betydning": "Læser du?",
+    "svar": "Tassa atuanngilatit?",
+    "svar_betydning": "Så du læser ikke?",
+    "verbum": "atuarpit?",
+    "lyd": "24.mp3"
+  },
+  {
+    "prompt": "Nerippat?",
+    "prompt_betydning": "Spiser de?",
+    "svar": "Tassa nerinngillat?",
+    "svar_betydning": "Så de spiser ikke?",
+    "verbum": "nerippat?",
+    "lyd": "25.mp3"
+  },
+  {
+    "prompt": "Malik neriva?",
+    "prompt_betydning": "Spiser Malik?",
+    "svar": "Tassa Malik nerinngila?",
+    "svar_betydning": "Så Malik spiser ikke?",
+    "verbum": "neriva?",
+    "lyd": "26.mp3"
+  },
+  {
+    "prompt": "Aviaaja neriva?",
+    "prompt_betydning": "Spiser Aviaaja?",
+    "svar": "Tassa Aviaaja nerinngila?",
+    "svar_betydning": "Så Aviaaja spiser ikke?",
+    "verbum": "neriva?",
+    "lyd": "27.mp3"
+  },
+  {
+    "prompt": "Aputsiaq neriva?",
+    "prompt_betydning": "Spiser Aputsiaq?",
+    "svar": "Tassa Aputsiaq nerinngila?",
+    "svar_betydning": "Så Aputsiaq spiser ikke?",
+    "verbum": "neriva?",
+    "lyd": "28.mp3"
+  },
+  {
+    "prompt": "Nuka neriva?",
+    "prompt_betydning": "Spiser Nuka?",
+    "svar": "Tassa Nuka nerinngila?",
+    "svar_betydning": "Så Nuka spiser ikke?",
+    "verbum": "neriva?",
+    "lyd": "29.mp3"
+  },
+  {
+    "prompt": "Arnannguaq neriva?",
+    "prompt_betydning": "Spiser Arnannguaq?",
+    "svar": "Tassa Arnannguaq nerinngila?",
+    "svar_betydning": "Så Arnannguaq spiser ikke?",
+    "verbum": "neriva?",
+    "lyd": "30.mp3"
+  },
+  {
+    "prompt": "Nerivisi?",
+    "prompt_betydning": "Spiser I?",
+    "svar": "Tassa nerinngilasi?",
+    "svar_betydning": "Så I spiser ikke?",
+    "verbum": "nerivisi?",
+    "lyd": "31.mp3"
+  },
+  {
+    "prompt": "Nerivit?",
+    "prompt_betydning": "Spiser du?",
+    "svar": "Tassa nerinngilatit?",
+    "svar_betydning": "Så du spiser ikke?",
+    "verbum": "nerivit?",
+    "lyd": "32.mp3"
+  },
+  {
+    "prompt": "Oqaluussippat?",
+    "prompt_betydning": "Forkynder de?",
+    "svar": "Tassa oqaluussinngillat?",
+    "svar_betydning": "Så de forkynder ikke?",
+    "verbum": "oqaluussippat?",
+    "lyd": "33.mp3"
+  },
+  {
+    "prompt": "Nuka oqaluussiva?",
+    "prompt_betydning": "Forkynder Nuka?",
+    "svar": "Tassa Nuka oqaluussinngila?",
+    "svar_betydning": "Så Nuka forkynder ikke?",
+    "verbum": "oqaluussiva?",
+    "lyd": "34.mp3"
+  },
+  {
+    "prompt": "Aviaaja oqaluussiva?",
+    "prompt_betydning": "Forkynder Aviaaja?",
+    "svar": "Tassa Aviaaja oqaluussinngila?",
+    "svar_betydning": "Så Aviaaja forkynder ikke?",
+    "verbum": "oqaluussiva?",
+    "lyd": "35.mp3"
+  },
+  {
+    "prompt": "Malik oqaluussiva?",
+    "prompt_betydning": "Forkynder Malik?",
+    "svar": "Tassa Malik oqaluussinngila?",
+    "svar_betydning": "Så Malik forkynder ikke?",
+    "verbum": "oqaluussiva?",
+    "lyd": "36.mp3"
+  },
+  {
+    "prompt": "Aputsiaq oqaluussiva?",
+    "prompt_betydning": "Forkynder Aputsiaq?",
+    "svar": "Tassa Aputsiaq oqaluussinngila?",
+    "svar_betydning": "Så Aputsiaq forkynder ikke?",
+    "verbum": "oqaluussiva?",
+    "lyd": "37.mp3"
+  },
+  {
+    "prompt": "Arnannguaq oqaluussiva?",
+    "prompt_betydning": "Forkynder Arnannguaq?",
+    "svar": "Tassa Arnannguaq oqaluussinngila?",
+    "svar_betydning": "Så Arnannguaq forkynder ikke?",
+    "verbum": "oqaluussiva?",
+    "lyd": "38.mp3"
+  },
+  {
+    "prompt": "Oqaluussivisi?",
+    "prompt_betydning": "Forkynder I?",
+    "svar": "Tassa oqaluussinngilasi?",
+    "svar_betydning": "Så I forkynder ikke?",
+    "verbum": "oqaluussivisi?",
+    "lyd": "39.mp3"
+  },
+  {
+    "prompt": "Oqaluussivit?",
+    "prompt_betydning": "Forkynder du?",
+    "svar": "Tassa oqaluussinngilatit?",
+    "svar_betydning": "Så du forkynder ikke?",
+    "verbum": "oqaluussivit?",
+    "lyd": "40.mp3"
+  },
+  {
+    "prompt": "Aviaaja qanippa?",
+    "prompt_betydning": "Er Aviaaja tæt på?",
+    "svar": "Tassa Aviaaja qaninngila?",
+    "svar_betydning": "Så Aviaaja er ikke tæt på?",
+    "verbum": "qanippa?",
+    "lyd": "41.mp3"
+  },
+  {
+    "prompt": "Nuka qanippa?",
+    "prompt_betydning": "Er Nuka tæt på?",
+    "svar": "Tassa Nuka qaninngila?",
+    "svar_betydning": "Så Nuka er ikke tæt på?",
+    "verbum": "qanippa?",
+    "lyd": "42.mp3"
+  },
+  {
+    "prompt": "Aputsiaq qanippa?",
+    "prompt_betydning": "Er Aputsiaq tæt på?",
+    "svar": "Tassa Aputsiaq qaninngila?",
+    "svar_betydning": "Så Aputsiaq er ikke tæt på?",
+    "verbum": "qanippa?",
+    "lyd": "43.mp3"
+  },
+  {
+    "prompt": "Malik qanippa?",
+    "prompt_betydning": "Er Malik tæt på?",
+    "svar": "Tassa Malik qaninngila?",
+    "svar_betydning": "Så Malik er ikke tæt på?",
+    "verbum": "qanippa?",
+    "lyd": "44.mp3"
+  },
+  {
+    "prompt": "Arnannguaq qanippa?",
+    "prompt_betydning": "Er Arnannguaq tæt på?",
+    "svar": "Tassa Arnannguaq qaninngila?",
+    "svar_betydning": "Så Arnannguaq er ikke tæt på?",
+    "verbum": "qanippa?",
+    "lyd": "45.mp3"
+  },
+  {
+    "prompt": "Qanippat?",
+    "prompt_betydning": "Er de tæt på?",
+    "svar": "Tassa qaninngillat?",
+    "svar_betydning": "Så de er ikke tæt på?",
+    "verbum": "qanippat?",
+    "lyd": "46.mp3"
+  },
+  {
+    "prompt": "Qanippisi?",
+    "prompt_betydning": "Er I tæt på?",
+    "svar": "Tassa qaninngilasi?",
+    "svar_betydning": "Så I er ikke tæt på?",
+    "verbum": "qanippisi?",
+    "lyd": "47.mp3"
+  },
+  {
+    "prompt": "Qanippit?",
+    "prompt_betydning": "Er du tæt på?",
+    "svar": "Tassa qaninngilatit?",
+    "svar_betydning": "Så du er ikke tæt på?",
+    "verbum": "qanippit?",
+    "lyd": "48.mp3"
+  },
+  {
+    "prompt": "Aviaaja qasua?",
+    "prompt_betydning": "Er Aviaaja træt?",
+    "svar": "Tassa Aviaaja qasunngila?",
+    "svar_betydning": "Så Aviaaja er ikke træt?",
+    "verbum": "qasua?",
+    "lyd": "49.mp3"
+  },
+  {
+    "prompt": "Aputsiaq qasua?",
+    "prompt_betydning": "Er Aputsiaq træt?",
+    "svar": "Tassa Aputsiaq qasunngila?",
+    "svar_betydning": "Så Aputsiaq er ikke træt?",
+    "verbum": "qasua?",
+    "lyd": "50.mp3"
+  },
+  {
+    "prompt": "Malik qasua?",
+    "prompt_betydning": "Er Malik træt?",
+    "svar": "Tassa Malik qasunngila?",
+    "svar_betydning": "Så Malik er ikke træt?",
+    "verbum": "qasua?",
+    "lyd": "51.mp3"
+  },
+  {
+    "prompt": "Nuka qasua?",
+    "prompt_betydning": "Er Nuka træt?",
+    "svar": "Tassa Nuka qasunngila?",
+    "svar_betydning": "Så Nuka er ikke træt?",
+    "verbum": "qasua?",
+    "lyd": "52.mp3"
+  },
+  {
+    "prompt": "Arnannguaq qasua?",
+    "prompt_betydning": "Er Arnannguaq træt?",
+    "svar": "Tassa Arnannguaq qasunngila?",
+    "svar_betydning": "Så Arnannguaq er ikke træt?",
+    "verbum": "qasua?",
+    "lyd": "53.mp3"
+  },
+  {
+    "prompt": "Qasuisi?",
+    "prompt_betydning": "Er I trætte?",
+    "svar": "Tassa qasunngilasi?",
+    "svar_betydning": "Så I er ikke trætte?",
+    "verbum": "qasuisi?",
+    "lyd": "54.mp3"
+  },
+  {
+    "prompt": "Qasuit?",
+    "prompt_betydning": "Er du træt?",
+    "svar": "Tassa qasunngilatit?",
+    "svar_betydning": "Så du er ikke træt?",
+    "verbum": "qasuit?",
+    "lyd": "55.mp3"
+  },
+  {
+    "prompt": "Qasuppat?",
+    "prompt_betydning": "Er de trætte?",
+    "svar": "Tassa qasunngillat?",
+    "svar_betydning": "Så de er ikke trætte?",
+    "verbum": "qasuppat?",
+    "lyd": "56.mp3"
+  },
+  {
+    "prompt": "Arnannguaq tikippa?",
+    "prompt_betydning": "Er Arnannguaq kommet?",
+    "svar": "Tassa Arnannguaq tikinngila?",
+    "svar_betydning": "Så Arnannguaq er ikke kommet?",
+    "verbum": "tikippa?",
+    "lyd": "57.mp3"
+  },
+  {
+    "prompt": "Aputsiaq tikippa?",
+    "prompt_betydning": "Er Aputsiaq kommet?",
+    "svar": "Tassa Aputsiaq tikinngila?",
+    "svar_betydning": "Så Aputsiaq er ikke kommet?",
+    "verbum": "tikippa?",
+    "lyd": "58.mp3"
+  },
+  {
+    "prompt": "Nuka tikippa?",
+    "prompt_betydning": "Er Nuka kommet?",
+    "svar": "Tassa Nuka tikinngila?",
+    "svar_betydning": "Så Nuka er ikke kommet?",
+    "verbum": "tikippa?",
+    "lyd": "59.mp3"
+  },
+  {
+    "prompt": "Aviaaja tikippa?",
+    "prompt_betydning": "Er Aviaaja kommet?",
+    "svar": "Tassa Aviaaja tikinngila?",
+    "svar_betydning": "Så Aviaaja er ikke kommet?",
+    "verbum": "tikippa?",
+    "lyd": "60.mp3"
+  },
+  {
+    "prompt": "Malik tikippa?",
+    "prompt_betydning": "Er Malik kommet?",
+    "svar": "Tassa Malik tikinngila?",
+    "svar_betydning": "Så Malik er ikke kommet?",
+    "verbum": "tikippa?",
+    "lyd": "61.mp3"
+  },
+  {
+    "prompt": "Tikippat?",
+    "prompt_betydning": "Er de kommet?",
+    "svar": "Tassa tikinngillat?",
+    "svar_betydning": "Så de er ikke kommet?",
+    "verbum": "tikippat?",
+    "lyd": "62.mp3"
+  },
+  {
+    "prompt": "Tikippisi?",
+    "prompt_betydning": "Er I kommet?",
+    "svar": "Tassa tikinngilasi?",
+    "svar_betydning": "Så I er ikke kommet?",
+    "verbum": "tikippisi?",
+    "lyd": "63.mp3"
+  },
+  {
+    "prompt": "Tikippit?",
+    "prompt_betydning": "Er du kommet?",
+    "svar": "Tassa tikinngilatit?",
+    "svar_betydning": "Så du er ikke kommet?",
+    "verbum": "tikippit?",
+    "lyd": "64.mp3"
+  },
+  {
+    "prompt": "Malik ungasippa?",
+    "prompt_betydning": "Er Malik langt væk?",
+    "svar": "Tassa Malik ungasinngila?",
+    "svar_betydning": "Så Malik er ikke langt væk?",
+    "verbum": "ungasippa?",
+    "lyd": "65.mp3"
+  },
+  {
+    "prompt": "Nuka ungasippa?",
+    "prompt_betydning": "Er Nuka langt væk?",
+    "svar": "Tassa Nuka ungasinngila?",
+    "svar_betydning": "Så Nuka er ikke langt væk?",
+    "verbum": "ungasippa?",
+    "lyd": "66.mp3"
+  },
+  {
+    "prompt": "Aviaaja ungasippa?",
+    "prompt_betydning": "Er Aviaaja langt væk?",
+    "svar": "Tassa Aviaaja ungasinngila?",
+    "svar_betydning": "Så Aviaaja er ikke langt væk?",
+    "verbum": "ungasippa?",
+    "lyd": "67.mp3"
+  },
+  {
+    "prompt": "Arnannguaq ungasippa?",
+    "prompt_betydning": "Er Arnannguaq langt væk?",
+    "svar": "Tassa Arnannguaq ungasinngila?",
+    "svar_betydning": "Så Arnannguaq er ikke langt væk?",
+    "verbum": "ungasippa?",
+    "lyd": "68.mp3"
+  },
+  {
+    "prompt": "Aputsiaq ungasippa?",
+    "prompt_betydning": "Er Aputsiaq langt væk?",
+    "svar": "Tassa Aputsiaq ungasinngila?",
+    "svar_betydning": "Så Aputsiaq er ikke langt væk?",
+    "verbum": "ungasippa?",
+    "lyd": "69.mp3"
+  },
+  {
+    "prompt": "Ungasippat?",
+    "prompt_betydning": "Er de langt væk?",
+    "svar": "Tassa ungasinngillat?",
+    "svar_betydning": "Så de er ikke langt væk?",
+    "verbum": "ungasippat?",
+    "lyd": "70.mp3"
+  },
+  {
+    "prompt": "Ungasippisi?",
+    "prompt_betydning": "Er I langt væk?",
+    "svar": "Tassa ungasinngilasi?",
+    "svar_betydning": "Så I er ikke langt væk?",
+    "verbum": "ungasippisi?",
+    "lyd": "71.mp3"
+  },
+  {
+    "prompt": "Ungasippit?",
+    "prompt_betydning": "Er du langt væk?",
+    "svar": "Tassa ungasinngilatit?",
+    "svar_betydning": "Så du er ikke langt væk?",
+    "verbum": "ungasippit?",
+    "lyd": "72.mp3"
+  },
+  {
+    "prompt": "Nuka aallarpa?",
+    "prompt_betydning": "Tager Nuka af sted?",
+    "svar": "Tassa Nuka aallanngila?",
+    "svar_betydning": "Så Nuka tager ikke af sted?",
+    "verbum": "aallarpa?",
+    "lyd": "73.mp3"
+  },
+  {
+    "prompt": "Aviaaja aallarpa?",
+    "prompt_betydning": "Tager Aviaaja af sted?",
+    "svar": "Tassa Aviaaja aallanngila?",
+    "svar_betydning": "Så Aviaaja tager ikke af sted?",
+    "verbum": "aallarpa?",
+    "lyd": "74.mp3"
+  },
+  {
+    "prompt": "Arnannguaq aallarpa?",
+    "prompt_betydning": "Tager Arnannguaq af sted?",
+    "svar": "Tassa Arnannguaq aallanngila?",
+    "svar_betydning": "Så Arnannguaq tager ikke af sted?",
+    "verbum": "aallarpa?",
+    "lyd": "75.mp3"
+  },
+  {
+    "prompt": "Aputsiaq aallarpa?",
+    "prompt_betydning": "Tager Aputsiaq af sted?",
+    "svar": "Tassa Aputsiaq aallanngila?",
+    "svar_betydning": "Så Aputsiaq tager ikke af sted?",
+    "verbum": "aallarpa?",
+    "lyd": "76.mp3"
+  },
+  {
+    "prompt": "Malik aallarpa?",
+    "prompt_betydning": "Tager Malik af sted?",
+    "svar": "Tassa Malik aallanngila?",
+    "svar_betydning": "Så Malik tager ikke af sted?",
+    "verbum": "aallarpa?",
+    "lyd": "77.mp3"
+  },
+  {
+    "prompt": "Aallarpat?",
+    "prompt_betydning": "Tager de af sted?",
+    "svar": "Tassa aallanngillat?",
+    "svar_betydning": "Så de tager ikke af sted?",
+    "verbum": "aallarpat?",
+    "lyd": "78.mp3"
+  },
+  {
+    "prompt": "Aallarpisi?",
+    "prompt_betydning": "Tager I af sted?",
+    "svar": "Tassa aallanngilasi?",
+    "svar_betydning": "Så I tager ikke af sted?",
+    "verbum": "aallarpisi?",
+    "lyd": "79.mp3"
+  },
+  {
+    "prompt": "Aallarpit?",
+    "prompt_betydning": "Tager du af sted?",
+    "svar": "Tassa aallanngilatit?",
+    "svar_betydning": "Så du tager ikke af sted?",
+    "verbum": "aallarpit?",
+    "lyd": "80.mp3"
+  }
+]
