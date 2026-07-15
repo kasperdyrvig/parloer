@@ -638,5 +638,69 @@
     "svar_betydning": "Så du tager ikke af sted?",
     "verbum": "aallarpit?",
     "lyd": "80.mp3"
+  },
+  {
+    "prompt": "Arnannguaq nuannaarpa?",
+    "prompt_betydning": "Er Arnannguaq glad?",
+    "svar": "Tassa Arnannguaq nuannaanngila?",
+    "svar_betydning": "Så Arnannguaq er ikke glad?",
+    "verbum": "nuannaarpa?",
+    "lyd": "81.mp3"
+  },
+  {
+    "prompt": "Malik nuannaarpa?",
+    "prompt_betydning": "Er Malik glad?",
+    "svar": "Tassa Malik nuannaanngila?",
+    "svar_betydning": "Så Malik er ikke glad?",
+    "verbum": "nuannaarpa?",
+    "lyd": "82.mp3"
+  },
+  {
+    "prompt": "Aputsiaq nuannaarpa?",
+    "prompt_betydning": "Er Aputsiaq glad?",
+    "svar": "Tassa Aputsiaq nuannaanngila?",
+    "svar_betydning": "Så Aputsiaq er ikke glad?",
+    "verbum": "nuannaarpa?",
+    "lyd": "83.mp3"
+  },
+  {
+    "prompt": "Aviaaja nuannaarpa?",
+    "prompt_betydning": "Er Aviaaja glad?",
+    "svar": "Tassa Aviaaja nuannaanngila?",
+    "svar_betydning": "Så Aviaaja er ikke glad?",
+    "verbum": "nuannaarpa?",
+    "lyd": "84.mp3"
+  },
+  {
+    "prompt": "Nuka nuannaarpa?",
+    "prompt_betydning": "Er Nuka glad?",
+    "svar": "Tassa Nuka nuannaanngila?",
+    "svar_betydning": "Så Nuka er ikke glad?",
+    "verbum": "nuannaarpa?",
+    "lyd": "85.mp3"
+  },
+  {
+    "prompt": "Nuannaarpat?",
+    "prompt_betydning": "Er de glade?",
+    "svar": "Tassa nuannaanngillat?",
+    "svar_betydning": "Så de er ikke glade?",
+    "verbum": "nuannaarpat?",
+    "lyd": "86.mp3"
+  },
+  {
+    "prompt": "Nuannaarpisi?",
+    "prompt_betydning": "Er I glade?",
+    "svar": "Tassa nuannaanngilasi?",
+    "svar_betydning": "Så I er ikke glade?",
+    "verbum": "nuannaarpisi?",
+    "lyd": "87.mp3"
+  },
+  {
+    "prompt": "Nuannaarpit?",
+    "prompt_betydning": "Er du glad?",
+    "svar": "Tassa nuannaanngilatit?",
+    "svar_betydning": "Så du er ikke glad?",
+    "verbum": "nuannaarpit?",
+    "lyd": "88.mp3"
   }
 ]

@@ -1907,7 +1907,7 @@
     "prompt": "Asaasartumut qaninngilasi?",
     "prompt_betydning": "Er I ikke tæt på rengøringsassistenten?",
     "svar": "Naamik, asaasartumut qanippugut",
-    "svar_betydning": "Nej, vi er tæt på rengøringspersonen.",
+    "svar_betydning": "Nej, vi er tæt på rengøringsassistenten.",
     "lyd": "273.mp3"
   },
   {
@@ -3456,5 +3456,404 @@
     "svar": "Naamik, asaasartut Nanortalimmut aallartut ungasipput",
     "svar_betydning": "Nej, rengøringsassistenterne, som rejser til Nanortalik, er langt væk.",
     "lyd": "494.mp3"
+  },
+  {
+    "prompt": "Arnaq sanasumut oqaluussisoq nuannaanngila?",
+    "prompt_betydning": "Er kvinden, der forkynder til håndværkeren, ikke glad?",
+    "svar": "Naamik, arnaq sanasumut oqaluussisoq nuannaarpoq",
+    "svar_betydning": "Nej, kvinden, der forkynder til håndværkeren, er glad.",
+    "lyd": "495.mp3"
+  },
+  {
+    "prompt": "Sanasoq qatanngummut oqaluussisoq nuannaanngila?",
+    "prompt_betydning": "Er håndværkeren, der forkynder til en bror/søster, ikke glad?",
+    "svar": "Naamik, sanasoq qatanngummut oqaluussisoq nuannaarpoq",
+    "svar_betydning": "Nej, håndværkeren, der forkynder til en bror/søster, er glad.",
+    "lyd": "496.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Narsami atuartoq nuannaanngila?",
+    "prompt_betydning": "Er vidnet, der læser i Narsaq, ikke glad?",
+    "svar": "Naamik, nalunaajaasoq Narsami atuartoq nuannaarpoq",
+    "svar_betydning": "Nej, vidnet, der læser i Narsaq, er glad.",
+    "lyd": "497.mp3"
+  },
+  {
+    "prompt": "Arnaq Maniitsumut tikittoq nuannaanngila?",
+    "prompt_betydning": "Er kvinden, der ankommer til Maniitsoq, ikke glad?",
+    "svar": "Naamik, arnaq Maniitsumut tikittoq nuannaarpoq",
+    "svar_betydning": "Nej, kvinden, der ankommer til Maniitsoq, er glad.",
+    "lyd": "498.mp3"
+  },
+  {
+    "prompt": "Arnaq arnamut qanittoq nuannaanngila?",
+    "prompt_betydning": "Er kvinden, der er tæt på en kvinde, ikke glad?",
+    "svar": "Naamik, arnaq arnamut qanittoq nuannaarpoq",
+    "svar_betydning": "Nej, kvinden, der er tæt på en kvinde, er glad.",
+    "lyd": "499.mp3"
+  },
+  {
+    "prompt": "Asaasartoq Nanortalimmiit aallartoq nuannaanngila?",
+    "prompt_betydning": "Er rengøringsassistenten, der rejser fra Nanortalik, ikke glad?",
+    "svar": "Naamik, asaasartoq Nanortalimmiit aallartoq nuannaarpoq",
+    "svar_betydning": "Nej, rengøringsassistenten, der rejser fra Nanortalik, er glad.",
+    "lyd": "500.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq pisiniarfinnut arpattoq nuannaanngila?",
+    "prompt_betydning": "Er vidnet, der løber til butikkerne, ikke glad?",
+    "svar": "Naamik, nalunaajaasoq pisiniarfinnut arpattoq nuannaarpoq",
+    "svar_betydning": "Nej, vidnet, der løber til butikkerne, er glad.",
+    "lyd": "501.mp3"
+  },
+  {
+    "prompt": "Asaasartut Qaqortumut tikittut nuannaanngillat?",
+    "prompt_betydning": "Er rengøringspersonerne, der ankommer til Qaqortoq, ikke glade?",
+    "svar": "Naamik, asaasartut Qaqortumut tikittut nuannaarput",
+    "svar_betydning": "Nej, rengøringspersonerne, der ankommer til Qaqortoq, er glade.",
+    "lyd": "502.mp3"
+  },
+  {
+    "prompt": "Paniit Qaqortumiit tikittut nuannaanngillat?",
+    "prompt_betydning": "Er døtrene, der ankommer fra Qaqortoq, ikke glade?",
+    "svar": "Naamik, paniit Qaqortumiit tikittut nuannaarput",
+    "svar_betydning": "Nej, døtrene, der ankommer fra Qaqortoq, er glade.",
+    "lyd": "503.mp3"
+  },
+  {
+    "prompt": "Ataatat ernermut qanittut nuannaanngillat?",
+    "prompt_betydning": "Er fædrene, der er tæt på sønnen, ikke glade?",
+    "svar": "Naamik, ataatat ernermut qanittut nuannaarput",
+    "svar_betydning": "Nej, fædrene, der er tæt på sønnen, er glade.",
+    "lyd": "504.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut Qaanaami najugaqartut nuannaanngillat?",
+    "prompt_betydning": "Er vidnerne, der bor i Qaanaaq, ikke glade?",
+    "svar": "Naamik, nalunaajaasut Qaanaami najugaqartut nuannaarput",
+    "svar_betydning": "Nej, vidnerne, der bor i Qaanaaq, er glade.",
+    "lyd": "505.mp3"
+  },
+  {
+    "prompt": "Paniit ataatamut oqaluussisut nuannaanngillat?",
+    "prompt_betydning": "Er døtrene, der forkynder for faderen, ikke glade?",
+    "svar": "Naamik, paniit ataatamut oqaluussisut nuannaarput",
+    "svar_betydning": "Nej, døtrene, der forkynder for faderen, er glade.",
+    "lyd": "506.mp3"
+  },
+  {
+    "prompt": "Sanasut Upernavimmi qasusut nuannaanngillat?",
+    "prompt_betydning": "Er håndværkerne, der er trætte i Upernavik, ikke glade?",
+    "svar": "Naamik, sanasut Upernavimmi qasusut nuannaarput",
+    "svar_betydning": "Nej, håndværkerne, der er trætte i Upernavik, er glade.",
+    "lyd": "507.mp3"
+  },
+  {
+    "prompt": "Ataatat illuniit arpattut nuannaanngillat?",
+    "prompt_betydning": "Er fædrene, der løber fra husene, ikke glade?",
+    "svar": "Naamik, ataatat illuniit arpattut nuannaarput",
+    "svar_betydning": "Nej, fædrene, der løber fra husene, er glade.",
+    "lyd": "508.mp3"
+  },
+  {
+    "prompt": "Sanasut Sisimiuni qasusut nuannaanngillat?",
+    "prompt_betydning": "Er håndværkerne, der er trætte i Sisimiut, ikke glade?",
+    "svar": "Naamik, sanasut Sisimiuni qasusut nuannaarput",
+    "svar_betydning": "Nej, håndværkerne, der er trætte i Sisimiut, er glade.",
+    "lyd": "509.mp3"
+  },
+  {
+    "prompt": "Paniit nalunaajaasuniit ungasittut nuannaanngillat?",
+    "prompt_betydning": "Er døtrene, der er langt fra vidnerne, ikke glade?",
+    "svar": "Naamik, paniit nalunaajaasuniit ungasittut nuannaarput",
+    "svar_betydning": "Nej, døtrene, der er langt fra vidnerne, er glade.",
+    "lyd": "510.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut ataatamiit arpattut nuannaanngillat?",
+    "prompt_betydning": "Er vidnerne, der løber fra faderen, ikke glade?",
+    "svar": "Naamik, nalunaajaasut ataatamiit arpattut nuannaarput",
+    "svar_betydning": "Nej, vidnerne, der løber fra faderen, er glade.",
+    "lyd": "511.mp3"
+  },
+  {
+    "prompt": "Ataatat Nuummi najugaqartut nuannaanngillat?",
+    "prompt_betydning": "Er fædrene, der bor i Nuuk, ikke glade?",
+    "svar": "Naamik, ataatat Nuummi najugaqartut nuannaarput",
+    "svar_betydning": "Nej, fædrene, der bor i Nuuk, er glade.",
+    "lyd": "512.mp3"
+  },
+  {
+    "prompt": "Sanasut angutinut qanittut nuannaanngillat?",
+    "prompt_betydning": "Er håndværkerne, der er tæt på mændene, ikke glade?",
+    "svar": "Naamik, sanasut angutinut qanittut nuannaarput",
+    "svar_betydning": "Nej, håndværkerne, der er tæt på mændene, er glade.",
+    "lyd": "513.mp3"
+  },
+  {
+    "prompt": "Paniit Tasiilamiit aallartut nuannaanngillat?",
+    "prompt_betydning": "Er døtrene, der rejser fra Tasiilaq, ikke glade?",
+    "svar": "Naamik, paniit Tasiilamiit aallartut nuannaarput",
+    "svar_betydning": "Nej, døtrene, der rejser fra Tasiilaq, er glade.",
+    "lyd": "514.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Narsarsuarmi nuannaartoq ajunngila?",
+    "prompt_betydning": "Er vidnet, der er glad i Narsarsuaq, god?",
+    "svar": "Naamik, nalunaajaasoq Narsarsuarmi nuannaartoq ajorpoq",
+    "svar_betydning": "Nej, vidnet, der er glad i Narsarsuaq, er dårlig.",
+    "lyd": "515.mp3"
+  },
+  {
+    "prompt": "Sanasoq Tasiilami nuannaartoq arpanngila?",
+    "prompt_betydning": "Er håndværkeren, der er glad i Tasiilaq, ikke løbende?",
+    "svar": "Naamik, sanasoq Tasiilami nuannaartoq arpappoq",
+    "svar_betydning": "Nej, håndværkeren, der er glad i Tasiilaq, løber.",
+    "lyd": "516.mp3"
+  },
+  {
+    "prompt": "Sanasoq illuni nuannaartoq atuanngila?",
+    "prompt_betydning": "Er håndværkeren, der er glad i husene, ikke læsende?",
+    "svar": "Naamik, sanasoq illuni nuannaartoq atuarpoq",
+    "svar_betydning": "Nej, håndværkeren, der er glad i husene, læser.",
+    "lyd": "517.mp3"
+  },
+  {
+    "prompt": "Asaasartoq Kangerlussuarmi nuannaartoq atuanngila?",
+    "prompt_betydning": "Er rengøringsassistenten, der er glad i Kangerlussuaq, ikke læsende?",
+    "svar": "Naamik, asaasartoq Kangerlussuarmi nuannaartoq atuarpoq",
+    "svar_betydning": "Nej, rengøringsassistenten, der er glad i Kangerlussuaq, læser.",
+    "lyd": "518.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Pituffimmi nuannaartoq najugaqanngila?",
+    "prompt_betydning": "Er vidnet, der er glad i Pituffik, ikke boende?",
+    "svar": "Naamik, nalunaajaasoq Pituffimmi nuannaartoq najugaqarpoq",
+    "svar_betydning": "Nej, vidnet, der er glad i Pituffik, bor.",
+    "lyd": "519.mp3"
+  },
+  {
+    "prompt": "Sanasoq Maniitsumi nuannaartoq najugaqanngila?",
+    "prompt_betydning": "Er håndværkeren, der er glad i Maniitsoq, ikke boende?",
+    "svar": "Naamik, sanasoq Maniitsumi nuannaartoq najugaqarpoq",
+    "svar_betydning": "Nej, håndværkeren, der er glad i Maniitsoq, bor.",
+    "lyd": "520.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasoq Maniitsumi nuannaartoq oqaluussinngila?",
+    "prompt_betydning": "Er vidnet, der er glad i Maniitsoq, ikke forkyndende?",
+    "svar": "Naamik, nalunaajaasoq Maniitsumi nuannaartoq oqaluussivoq",
+    "svar_betydning": "Nej, vidnet, der er glad i Maniitsoq, forkynder.",
+    "lyd": "521.mp3"
+  },
+  {
+    "prompt": "Asaasartoq pisiniarfimmi nuannaartoq oqaluussinngila?",
+    "prompt_betydning": "Er rengøringsassistenten, der er glad i butikken, ikke forkyndende?",
+    "svar": "Naamik, asaasartoq pisiniarfimmi nuannaartoq oqaluussivoq",
+    "svar_betydning": "Nej, rengøringsassistenten, der er glad i butikken, forkynder.",
+    "lyd": "522.mp3"
+  },
+  {
+    "prompt": "Sanasoq pisiniarfinni nuannaartoq ungasinngila?",
+    "prompt_betydning": "Er håndværkeren, der er glad i butikkerne, ikke langt væk?",
+    "svar": "Naamik, sanasoq pisiniarfinni nuannaartoq ungasippoq",
+    "svar_betydning": "Nej, håndværkeren, der er glad i butikkerne, er langt væk.",
+    "lyd": "523.mp3"
+  },
+  {
+    "prompt": "Sanasut Narsarsuarmi nuannaartut arpanngillat?",
+    "prompt_betydning": "Er håndværkerne, der er glade i Narsarsuaq, ikke løbende?",
+    "svar": "Naamik, sanasut Narsarsuarmi nuannaartut arpapput",
+    "svar_betydning": "Nej, håndværkerne, der er glade i Narsarsuaq, løber.",
+    "lyd": "524.mp3"
+  },
+  {
+    "prompt": "Nalunaajaasut illumi nuannaartut tikinngillat?",
+    "prompt_betydning": "Er vidnerne, der er glade i huset, ikke ankomne?",
+    "svar": "Naamik, nalunaajaasut illumi nuannaartut tikipput",
+    "svar_betydning": "Nej, vidnerne, der er glade i huset, ankommer.",
+    "lyd": "525.mp3"
+  },
+  {
+    "prompt": "Asaasartut Tasiilami nuannaartut aallanngillat?",
+    "prompt_betydning": "Er rengøringspersonerne, der er glade i Tasiilaq, ikke rejst?",
+    "svar": "Naamik, asaasartut Tasiilami nuannaartut aallarput",
+    "svar_betydning": "Nej, rengøringspersonerne, der er glade i Tasiilaq, rejser.",
+    "lyd": "526.mp3"
+  },
+  {
+    "prompt": "Kangerlussuarmi nuannaanngila?",
+    "prompt_betydning": "Er han/hun ikke glad i Kangerlussuaq?",
+    "svar": "Naamik, Kangerlussuarmi nuannaarpoq",
+    "svar_betydning": "Nej, han/hun er glad i Kangerlussuaq.",
+    "lyd": "527.mp3"
+  },
+  {
+    "prompt": "Upernavimmi nuannaanngila?",
+    "prompt_betydning": "Er han/hun ikke glad i Upernavik?",
+    "svar": "Naamik, Upernavimmi nuannaarpoq",
+    "svar_betydning": "Nej, han/hun er glad i Upernavik.",
+    "lyd": "528.mp3"
+  },
+  {
+    "prompt": "Illuni nuannaanngilasi?",
+    "prompt_betydning": "Er I ikke glade i husene?",
+    "svar": "Naamik, illuni nuannaarpugut",
+    "svar_betydning": "Nej, vi er glade i husene.",
+    "lyd": "529.mp3"
+  },
+  {
+    "prompt": "Pisiniarfimmi nuannaanngilatit?",
+    "prompt_betydning": "Er du ikke glad i butikken?",
+    "svar": "Naamik, pisiniarfimmi nuannaarpunga",
+    "svar_betydning": "Nej, jeg er glad i butikken.",
+    "lyd": "530.mp3"
+  },
+  {
+    "prompt": "Qaqortumi nuannaanngilatit?",
+    "prompt_betydning": "Er du ikke glad i Qaqortoq?",
+    "svar": "Naamik, Qaqortumi nuannaarpunga",
+    "svar_betydning": "Nej, jeg er glad i Qaqortoq.",
+    "lyd": "531.mp3"
+  },
+  {
+    "prompt": "Qaanaami nuannaanngilatit?",
+    "prompt_betydning": "Er du ikke glad i Qaanaaq?",
+    "svar": "Naamik, Qaanaami nuannaarpunga",
+    "svar_betydning": "Nej, jeg er glad i Qaanaaq.",
+    "lyd": "532.mp3"
+  },
+  {
+    "prompt": "Nuummi nuannaanngillat?",
+    "prompt_betydning": "Er de ikke glade i Nuuk?",
+    "svar": "Naamik, Nuummi nuannaarput",
+    "svar_betydning": "Nej, de er glade i Nuuk.",
+    "lyd": "533.mp3"
+  },
+  {
+    "prompt": "Tasiilami nuannaanngillat?",
+    "prompt_betydning": "Er de ikke glade i Tasiilaq?",
+    "svar": "Naamik, Tasiilami nuannaarput",
+    "svar_betydning": "Nej, de er glade i Tasiilaq.",
+    "lyd": "534.mp3"
+  },
+  {
+    "prompt": "Biibilimi allassimanngila?",
+    "prompt_betydning": "Er det ikke skrevet i Bibelen?",
+    "svar": "Naamik, Biibilimi allassimavoq",
+    "svar_betydning": "Nej, det er skrevet i Bibelen.",
+    "lyd": "535.mp3"
+  },
+  {
+    "prompt": "Guutimut qaninngilasi?",
+    "prompt_betydning": "Er I ikke tæt på Gud?",
+    "svar": "Naamik, Guutimut qanippugut",
+    "svar_betydning": "Nej, vi er tæt på Gud.",
+    "lyd": "536.mp3"
+  },
+  {
+    "prompt": "Guutimut qaninngillat?",
+    "prompt_betydning": "Er de ikke tæt på Gud?",
+    "svar": "Naamik, Guutimut qanipput",
+    "svar_betydning": "Nej, de er tæt på Gud.",
+    "lyd": "537.mp3"
+  },
+  {
+    "prompt": "Jehovamut qaninngila?",
+    "prompt_betydning": "Er han/hun ikke tæt på Jehova?",
+    "svar": "Naamik, Jehovamut qanippoq",
+    "svar_betydning": "Nej, han/hun er tæt på Jehova.",
+    "lyd": "538.mp3"
+  },
+  {
+    "prompt": "Jehovamut qaninngilatit?",
+    "prompt_betydning": "Er du ikke tæt på Jehova?",
+    "svar": "Naamik, Jehovamut qanippunga",
+    "svar_betydning": "Nej, jeg er tæt på Jehova.",
+    "lyd": "539.mp3"
+  },
+  {
+    "prompt": "Jiisusimut qaninngila?",
+    "prompt_betydning": "Er han/hun ikke tæt på Jesus?",
+    "svar": "Naamik, Jiisusimut qanippoq",
+    "svar_betydning": "Nej, han/hun er tæt på Jesus.",
+    "lyd": "540.mp3"
+  },
+  {
+    "prompt": "Jiisusimut qaninngilasi?",
+    "prompt_betydning": "Er I ikke tæt på Jesus?",
+    "svar": "Naamik, Jiisusimut qanippugut",
+    "svar_betydning": "Nej, vi er tæt på Jesus.",
+    "lyd": "541.mp3"
+  },
+  {
+    "prompt": "Jiisusimut qaninngillat?",
+    "prompt_betydning": "Er de ikke tæt på Jesus?",
+    "svar": "Naamik, Jiisusimut qanipput",
+    "svar_betydning": "Nej, de er tæt på Jesus.",
+    "lyd": "542.mp3"
+  },
+  {
+    "prompt": "Asaasartoq Sisimiuni nuannaanngila?",
+    "prompt_betydning": "Er rengøringsassistenten ikke glad i Sisimiut?",
+    "svar": "Naamik, asaasartoq Sisimiuni nuannaarpoq",
+    "svar_betydning": "Nej, rengøringsassistenten er glad i Sisimiut.",
+    "lyd": "543.mp3"
+  },
+  {
+    "prompt": "Sanasoq Maniitsumi nuannaanngila?",
+    "prompt_betydning": "Er håndværkeren ikke glad i Maniitsoq?",
+    "svar": "Naamik, sanasoq Maniitsumi nuannaarpoq",
+    "svar_betydning": "Nej, håndværkeren er glad i Maniitsoq.",
+    "lyd": "544.mp3"
+  },
+  {
+    "prompt": "Anaana Nuummi nuannaanngila?",
+    "prompt_betydning": "Er mor ikke glad i Nuuk?",
+    "svar": "Naamik, anaana Nuummi nuannaarpoq",
+    "svar_betydning": "Nej, mor er glad i Nuuk.",
+    "lyd": "545.mp3"
+  },
+  {
+    "prompt": "Tuttu Uummannami nuannaanngila?",
+    "prompt_betydning": "Er rensdyret ikke glad i Uummannaq?",
+    "svar": "Naamik, tuttu Uummannami nuannaarpoq",
+    "svar_betydning": "Nej, rensdyret er glad i Uummannaq.",
+    "lyd": "546.mp3"
+  },
+  {
+    "prompt": "Aputsiaq illumi nuannaanngila?",
+    "prompt_betydning": "Er Aputsiaq ikke glad i huset?",
+    "svar": "Naamik, Aputsiaq illumi nuannaarpoq",
+    "svar_betydning": "Nej, Aputsiaq er glad i huset.",
+    "lyd": "547.mp3"
+  },
+  {
+    "prompt": "Arnaq illuni nuannaanngila?",
+    "prompt_betydning": "Er kvinden ikke glad i husene?",
+    "svar": "Naamik, arnaq illuni nuannaarpoq",
+    "svar_betydning": "Nej, kvinden er glad i husene.",
+    "lyd": "548.mp3"
+  },
+  {
+    "prompt": "Erneq pisiniarfimmi nuannaanngila?",
+    "prompt_betydning": "Er sønnen ikke glad i butikken?",
+    "svar": "Naamik, erneq pisiniarfimmi nuannaarpoq",
+    "svar_betydning": "Nej, sønnen er glad i butikken.",
+    "lyd": "549.mp3"
+  },
+  {
+    "prompt": "Arnat Pituffimmi nuannaanngillat?",
+    "prompt_betydning": "Er kvinderne ikke glade i Pituffik?",
+    "svar": "Naamik, arnat Pituffimmi nuannaarput",
+    "svar_betydning": "Nej, kvinderne er glade i Pituffik.",
+    "lyd": "550.mp3"
+  },
+  {
+    "prompt": "Ataatat pisiniarfimmi nuannaanngillat?",
+    "prompt_betydning": "Er fædrene ikke glade i butikken?",
+    "svar": "Naamik, ataatat pisiniarfimmi nuannaarput",
+    "svar_betydning": "Nej, fædrene er glade i butikken.",
+    "lyd": "551.mp3"
   }
 ]
